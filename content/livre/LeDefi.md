@@ -27,7 +27,11 @@ Au contraire :
 
 > **faire apparaître les incompatibilités entre quatre vérités subjectives qui peuvent pourtant être sincères.**
 
-Le défi littéraire serait donc de conserver les mêmes événements tout en changeant radicalement leur signification.
+Sur le fond, il s'agit de raconter les mêmes événements.
+Sur la forme, on peut raconter de nouveau l'histoire avec une cartographie, une grille d'analyse ou un diagnostic. 
+Mais on peut aussi raconter les événements à travers un objet concret, un lieu physique ou un protocole quotidien (ex. un outil, un dossier physique, un coin de jardin, une recette), sans théorie ni abstraction pure.
+Ou raconter avec un guide pas-à-pas, une feuille de route collective qui aurait fait advenir un nouvel état ou surmonter une limite.
+Quel que soit le substrat choisi, le fond du message vise les mêmes événements, mais vus avec une façon naturelle de modéliser le monde.
 
 ---
 
