@@ -1,0 +1,17 @@
+.chapter-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.chapter-prev {
+  text-align: left;
+}
+
+.chapter-next {
+  text-align: right;
+  margin-left: auto;
+}

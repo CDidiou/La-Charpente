@@ -1,0 +1,84 @@
+---
+title: "Papa raconte"
+date: 2026-08-17
+version: 1.0
+weight: 3
+---
+
+# Dialogue imaginaire avec Maman
+
+---
+
+**Ma mère:**
+Alors, mon petit. Raconte-moi. Qu'est-ce que tu es devenu ?
+
+**Moi:**
+Je suis toujours le même, au fond, maman. J'aime la fête, la table pleine, les verres qui trinquent et les rires qui montent. Mais tu me connaissais assez pour savoir qu'en dessous, il y a toujours eu chez moi une mélancolie tranquille, une part de moi qui se retire même au milieu du bruit. Je suis resté un homme de mes mains : j'aime ce qui est concret, ce que je peux réparer, façonner, faire tenir debout. Et je n'ai jamais supporté de voir l'harmonie se fissurer, de voir des gens ne penser qu'à eux. Ça me touche encore comme une blessure, exactement comme quand j'étais petit.
+
+**Ma mère:**
+Je me souviens de toi, petit garçon, qui regardait tout, qui sentait tout, qui voulait que tout le monde soit bien à table. Et la famille, après moi ? Qu'est-ce qu'elle est devenue ?
+
+**Moi:**
+Elle a continué à vivre, maman. Autrement, mais elle a continué. Longtemps, je crois que j'ai porté quelque chose sans le savoir. Toi, tu étais une femme de caractère, tu prenais toute la place dans une pièce, tu décidais, tu commandais un peu, et papa, lui, cherchait toujours à adoucir, à arrondir les angles, à faire en sorte que tout le monde reste en paix. Je l'ai regardé faire pendant des années, et sans m'en rendre compte, j'ai pris ses habits.
+
+**Ma mère:**
+Tu veux dire que tu as fait comme lui.
+
+**Moi:**
+Oui. J'ai épousé une femme de caractère, maman. Une femme de tête, qui aime organiser, décider, avancer. Et pendant longtemps, je me suis surpris à faire exactement ce que papa faisait avec toi : essayer de l'apaiser, céder du terrain pour que la maison reste calme, m'oublier un peu pour que la paix tienne. Il m'a fallu du temps pour comprendre que je rejouais une scène très ancienne, une scène que j'avais vue enfant sans jamais me douter qu'elle s'était installée en moi.
+
+**Ma mère:**
+Et tu lui en as voulu, à ton père, d'avoir été comme ça ?
+
+**Moi:**
+Non, jamais. Sa joie et ses liens avec les autres étaient magnifiques. Il portait une tristesse discrète, je le sentais, et longtemps j'ai voulu réparer pour lui, réparer entre vous deux quelque chose que je n'avais pas à réparer. J'ai mis des années à comprendre que je n'étais pas responsable de votre couple, maman, que je n'avais pas à finir ce combat-là à sa place. Le jour où j'ai compris ça, j'ai enfin pu poser des limites plus nettes dans ma propre vie, sans avoir besoin de me justifier pendant des heures.
+
+**Ma mère:**
+Et ton mariage, alors ? Comment ça se passe ta vie avec ta femme ?
+
+**Moi:**
+Ça a mûri, maman. Elle avait un père autoritaire, et je crois qu'elle s'était endurcie très jeune pour ne jamais se laisser écraser, un peu pour se défendre, un peu pour venger sa mère. Elle est une femme qui ne recule devant rien. Et moi, je suis arrivé avec mes mains tendues, mon envie d'apaiser, ma douceur. Je crois qu'elle a eu besoin de ça : prouver qu'on peut être forte et aimée sans avoir à écraser personne. Et moi, j'ai eu besoin d'elle pour comprendre que je n'avais plus à amadouer qui que ce soit pour avoir le droit d'exister à ses côtés. On a trouvé notre équilibre, j'ai impulsé beaucoup de joie. Elle a tenu la barque. On a vite trouvé un équilibre, chacun avec son territoire, chacun respecté, et tous les deux ensemble!
+
+**Ma mère:**
+Et les enfants, mes petits-enfants ? Parle-moi d'eux.
+
+**Moi:**
+Tu le sais, on a eu deux fils, maman. L'aîné tient beaucoup de sa mère : un tempérament de commandant, quelqu'un qui prend sa place, qui construit, qui n'a jamais peur d'avancer en terrain difficile. L'autre est tout l'inverse, tout en retrait, un esprit qui prend de la hauteur, qui observe le monde depuis très loin comme un aigle sur son rocher, qui préfère comprendre avant d'agir. Longtemps je me suis dit que je n'avais rien transmis, parce qu'aucun des deux ne me ressemble : ni la fête, ni la chaleur spontanée, ni le besoin de rassembler tout le monde autour d'une table. Et pas très manuels! Si papa les voyait!
+
+**Ma mère:**
+Et maintenant, qu'est-ce que tu en penses ?
+
+**Moi:**
+Je pense que je me trompais. Je ne leur ai peut-être pas donné mon goût pour la fête, mais je leur ai donné le sol sous leurs pieds, maman. La sécurité, la chaleur du foyer, la certitude qu'on serait toujours là pour eux, moi et ma femme. C'est peut-être grâce à ça qu'ils ont pu devenir des bâtisseurs, des stratèges, des gens qui n'ont plus besoin de plier devant personne. Je les regarde et je me dis que je n'ai pas raté ma transmission, je l'ai juste donnée autrement que je ne l'imaginais.
+
+**Ma mère:**
+Et leurs femmes, à eux ? Qui sont-elles ces belles-filles ?
+
+**Moi:**
+L'aînée est à l'image de son mari : rigoureuse, exigeante, méthodique. Ensemble ils forment un vrai duo de bâtisseurs, avec parfois des étincelles entre eux, parce que deux caractères aussi forts se frottent forcément un peu. Mais il y a une belle énergie qui circule. La cadette, elle, est faite du même bois discret que mon second fils : posée, précise, presque indéchiffrable. Ils forment un couple tranquille en apparence, mais qui voit tout, comprend tout, sans jamais avoir besoin de le montrer. Parfois je me sens presque nu devant eux, tellement ils perçoivent les choses avant même que je les dise.
+
+**Ma mère:**
+Est-ce que tu trouves ta place, au milieu de tout ce monde-là ?
+
+**Moi:**
+Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préferre les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
+
+**Ma mère:**
+Et les petits-enfants ? Est-ce qu'il y en a un qui te ressemble, dans tout ça ? Qui vient te chercher pour faire les quatre cents coups, un comme toi ?
+
+**Moi:**
+Pas encore, maman. Pour l'instant, aucun d'eux ne ressemble à ce petit garnement que j'étais. Mais j'y crois. Je me dis que rien ne se perd vraiment. Que les enfants de mes stratèges, élevés dans des maisons si sérieuses, si organisées, auront peut-être besoin, un jour, de légèreté, de fête, de quelqu'un qui les emmène faire des bêtises avec les mains dans les copeaux de bois. J'espère être encore là pour ça. J'espère qu'un jour l'un d'eux viendra me chercher en disant : « Papi, on fait quoi aujourd'hui ? » Et ce jour-là, je crois que je te penserai très fort, maman, parce que j'aurai l'impression de te voir revivre, mais en plus doux, en plus léger.
+
+**Ma mère:**
+Et les arrière-petits-enfants ?
+
+**Moi:**
+Ceux-là, je ne les connais pas encore, maman. Mais je sais qu'ils viendront, un jour, s'asseoir à cette maison qu'on a habité ensemble, toi, papa, moi. C'est mon symbole de transmission. Je ne sais pas quels visages ils auront ni quels caractères, mais je sais qu'ils hériteront de quelque chose que personne ne pourra leur enlever : une famille qui, malgré ses tempêtes, a toujours fini par se retrouver autour d'une même table, à trinquer, à rire, à s'aimer.
+
+**Ma mère:**
+Tu as fait du beau travail, mon fils.
+
+**Moi:**
+J'ai fait ce que j'ai pu, maman, avec ce que tu m'as donné, toi et papa.
+
+---

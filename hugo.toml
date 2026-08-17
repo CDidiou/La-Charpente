@@ -1,0 +1,6 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'fr-fr'
+title = 'La charpente'
+theme = 'PaperMod'
+[params.assets]
+  customCSS = ["css/extended/custom.css"]
