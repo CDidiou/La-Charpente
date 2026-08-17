@@ -1,4 +1,4 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy Hugo site to Pages
 
 on:
   push:
@@ -11,13 +11,17 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
@@ -50,4 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
