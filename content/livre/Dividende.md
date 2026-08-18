@@ -21,7 +21,7 @@ Lequel.
 L'aîné. Il t'a pris les chaises des mains. Littéralement.
 
 **Le père :**
-Ouais. Ça m'a fait drôle. Et toi, avec la haie ?
+Oui. Ça m'a fait drôle. Et toi, avec la haie ?
 
 **La mère :**
 Pareil. Il m'a empêchée de surveiller la maison pendant qu'on taillait. J'ai réussi dix minutes à faire un truc juste pour le faire.
@@ -49,7 +49,7 @@ L'aîné a pris ton truc du lien et il en a fait de l'action. Il fait, il répar
 Donc ce qu'on leur a donné, ils l'ont transformé.
 
 **La mère :**
-Ouais. Et aujourd'hui, ils nous l'ont rendu transformé. Toi t'as eu de l'action, moi j'ai eu de l'analyse. On n'a pas récupéré ce qu'on avait donné. On a récupéré ce que ça devient, une fois que ça a traversé quelqu'un d'autre.
+Oui. Et aujourd'hui, ils nous l'ont rendu transformé. Toi t'as eu de l'action, moi j'ai eu de l'analyse. On n'a pas récupéré ce qu'on avait donné. On a récupéré ce que ça devient, une fois que ça a traversé quelqu'un d'autre.
 
 *Un silence. Le père se lève, va chercher deux verres, en sert un peu, en pose un devant elle.*
 
@@ -77,7 +77,7 @@ Ce qui est étrange, c'est que ça a fait des allers-retours qu'on n'a même pas
 Comme un écho qui aurait rebondi plusieurs fois avant de nous arriver.
 
 **La mère :**
-Ouais. Sauf qu'un écho, normalement, ça s'affaiblit à chaque rebond. Là c'est l'inverse. Ça s'épaissit.
+Oui. Sauf qu'un écho, normalement, ça s'affaiblit à chaque rebond. Là c'est l'inverse. Ça s'épaissit.
 
 *Le père regarde autour de lui — la cuisine, la maison, encore chaude du monde qui vient de la quitter.*
 
@@ -88,7 +88,7 @@ Tu sais ce que je me dis, en fait ? On a jamais construit cette maison tout seul
 Une charpente.
 
 **Le père :**
-Ouais. Une charpente. On voit pas les poutres, une fois que la maison est faite. On voit juste qu'elle tient debout, et qu'on peut s'asseoir dedans sans qu'elle nous tombe dessus.
+Oui. Une charpente. On voit pas les poutres, une fois que la maison est faite. On voit juste qu'elle tient debout, et qu'on peut s'asseoir dedans sans qu'elle nous tombe dessus.
 
 *La mère pose sa main sur la sienne, sur la table, un geste simple, sans rien à prouver.*
 
@@ -98,10 +98,35 @@ On a bien fait, alors.
 **Le père :**
 On a fait ce qu'on a pu, avec ce qu'on avait. Le reste, c'est eux qui l'ont construit. Nous, on n'a fait qu'investir sans savoir dans quoi.
 
+*Un silence. Le père tourne son verre, pensif.*
+
+**Le père :**
+Tu sais ce qui m'a travaillé, tout à l'heure, avec les chaises. J'ai eu l'impression, deux minutes, qu'il fallait que j'arrête d'être celui qui tient tout, pour avoir le droit de m'asseoir un peu.
+
 **La mère :**
-Et la voilà, notre retraite ! À nous !
+Et ce soir, tu penses encore ça ?
+
+**Le père :**
+Non. Je crois que je me suis trompé de calcul. J'ai pas eu besoin de cesser d'être qui je suis.
+
+**La mère :**
+Pareil pour moi, avec la haie. J'ai cru qu'il fallait que j'arrête de veiller pour avoir le droit de faire un truc pour moi. Mais j'ai pas arrêté de veiller. Ça reste ce que je suis. On m'a juste laissée veiller sur un buisson, une fois, plutôt que sur du monde.
+
+**Le père :**
+Le sol a pas besoin de bouger pour sentir la pluie, en fait.
+
+**La mère :**
+Joliment dit.
+
+**Le père :**
+J'ai bien le droit, moi aussi, d'avoir une phrase de temps en temps.
+
+*Elle rit, garde sa main sur la sienne.*
+
+**La mère :**
+À notre retraite, mon chéri ! À nous ! Fini les soucis, les tracas !
 
 *Ils restent là, un moment, dans la cuisine vide, la maison silencieuse autour d'eux, tenant debout sans qu'ils aient besoin d'y penser.*
 
 **Le père :**
-Attends... Et ma maison ! Vite, ma tablette, je contacte le menuisier. Et je lui commande la charpente. Les petits s'occuperont du reste...
+Attends... Et ma maison ! Va vite me chercher ma tablette, que je contacte le menuisier. Je lui commande la charpente. Les petits s'occuperont du reste...

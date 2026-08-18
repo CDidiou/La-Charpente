@@ -37,18 +37,31 @@ Je m'occupe de rien, justement, papa. Je m'occupe des chaises. C'est tout ce qu'
 *Il commence à déplacer les chaises lui-même, sans attendre de réponse. Le père le regarde faire, presque désœuvré, ne sachant plus quoi surveiller.*
 
 **Le père :**
-Tu les mets pas comme je voulais !
+Tu les mets pas comme je voulais. Regarde, celle-là, elle est pas alignée avec la table.
 
 **Le fils aîné :**
 Elles sont là. Les gens vont s'asseoir dessus, papa, pas les mesurer.
 
-*Un petit rire, malgré lui, du père.*
+**Le père :**
+Ça prend deux secondes de plus de bien faire.
+
+**Le fils aîné :**
+ Et alors ? Il n'y a pas de concours d'alignement de chaises, à ce que je sache.
+
+*Le père s'approche quand même, redresse la chaise d'un geste précis, presque sans y penser — un réflexe ancien. L'aîné le regarde faire, un peu pris de court.*
+
+**Le père :**
+T'as jamais aimé le geste pour le geste. T'aimes le résultat, la ligne d'arrivée. Moi j'aime le moment où je le fais.
+
+**Le fils aîné :**
+C'est vrai. Toi tu redresses une chaise comme si c'était important qu'elle soit droite. Moi je la pose juste pour qu'on passe à autre chose.
+T'es meilleur que moi avec tes mains. Meilleur que moi, et meilleur que mon frère. Enfin s'il essayait d'utiliser ses mains, bien sûr !
 
 **Le père :**
 C'est facile pour toi. T'as jamais eu peur qu'un repas de famille tombe à plat.
 
 **Le fils aîné :**
-Ça tombe jamais à plat parce que t'es là. Pas parce que t'as tout réglé au millimètre avant que les gens arrivent.
+Ça tombe jamais à plat. Parce que t'es là. Pas parce que t'as tout réglé au millimètre avant que les gens arrivent.
 
 **Le père :**
 Tu dis ça, mais si personne relance la conversation, si personne va chercher ton oncle qui reste toujours dans son coin...

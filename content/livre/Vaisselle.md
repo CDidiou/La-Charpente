@@ -85,7 +85,19 @@ Beaucoup pareil.
 *L'aîné se remet à laver, plus détendu, presque amusé.*
 
 **Le fils aîné :**
-Tu vois, moi je répare les trucs des autres parce que ça me rassure de voir un résultat. Toi tu répares personne, tu commentes juste, mais au fond t'espères pareil : que ça change quelque chose. Juste avec des mots plutôt que des mains.
+Remarque, moi je répare pas les trucs des autres parce que j'aime le geste. Papa, lui, il aime le geste. Moi je n'aime juste pas laisser un truc pas fini derrière moi. Un mur pas droit, une carrière pas lancée, ça me regarde comme une partie pas terminée. Faut que je la gagne.
+
+**Le fils cadet :**
+Une partie.
+
+**Le fils aîné :**
+Ouais. Je crois que j'ai jamais réparé un mur pour le plaisir du mur. Je l'ai réparé pour pouvoir dire que c'était fait, et bien fait, plus vite que n'importe qui d'autre l'aurait fait.
+
+**Le fils cadet :**
+Et moi, dans cette histoire, je suis quoi ? Un mur pas droit ?
+
+**Le fils aîné :**
+Un peu, ouais. Mais un mur qui, en plus, refuse de dire s'il veut être redressé. Ça me rend dingue.
 
 **Le fils cadet :**
 ...Ça, c'est la première fois que tu m'expliques un truc sur moi qui tient debout.
@@ -94,7 +106,7 @@ Tu vois, moi je répare les trucs des autres parce que ça me rassure de voir un
 J'ai mes jours.
 
 **Le fils cadet :**
-Alors dis-moi. Le poste, je le prends ou pas ?
+Alors dis-moi. Ma vie professionnelle, je fais quoi ?
 
 **Le fils aîné :**
 Aucune idée.
@@ -104,6 +116,10 @@ Tu viens de me faire un discours et tu sais pas répondre à la question ?
 
 **Le fils aîné :**
 C'est ta vie. Débrouille-toi.
+Mais je vais te dire un truc que Monsieur ne voit même pas.
+Toi aussi tu veux que ce soit fini et droit avant même de commencer.
+Sauf que toi c'est pas pour gagner.
+C'est pour pas perdre.
 
 *Il lui tend une assiette mal lavée sans un mot de plus. Le cadet la prend, la garde un instant dans les mains, sans l'essuyer.*
 

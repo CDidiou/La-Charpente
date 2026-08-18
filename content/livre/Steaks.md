@@ -63,7 +63,7 @@ Non, c'est pas faux, c'est juste que t'as jamais demandé si c'était vrai. T'as
 Tu vas pas me dire que t'aimes pas qu'on te regarde faire.
 
 **Le fils aîné :**
-Si. J'adore. Mais c'est pas pour ça que je fais un steak au poivre depuis trente ans, c'est pas une histoire de public. C'est juste que j'aime bien faire un truc bien, avec mes mains, sans que ça devienne un sujet.
+Si. J'adore qu'on me regarde, même si je dis le contraire. Mais c'est pas l'amour du geste, chez moi. Papa, lui, il pourrait faire ce steak tout seul dans une cuisine vide, juste pour le plaisir que ce soit bien fait. Moi j'ai besoin de savoir que j'ai gagné quelque chose à la fin. Trente ans sans en rater un, c'est un score. C'est pas une caresse.
 
 *Il pousse la viande sur le côté, plus sec qu'il ne le voudrait.*
 
