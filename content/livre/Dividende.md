@@ -1,0 +1,107 @@
+---
+title: "Enfin la retraite"
+date: 2026-08-17
+version: 1.0
+weight: 26
+---
+
+# Ce qui revient
+
+---
+
+*Le soir, tout le monde est parti. La mère et le père rangent la cuisine, lentement, sans se presser — la maison encore pleine du bruit de la journée, même vide.*
+
+**La mère :**
+T'as vu comme ton fils t'a laissé assis, cet après-midi ?
+
+**Le père :**
+Lequel.
+
+**La mère :**
+L'aîné. Il t'a pris les chaises des mains. Littéralement.
+
+**Le père :**
+Ouais. Ça m'a fait drôle. Et toi, avec la haie ?
+
+**La mère :**
+Pareil. Il m'a empêchée de surveiller la maison pendant qu'on taillait. J'ai réussi dix minutes à faire un truc juste pour le faire.
+
+*Elle s'arrête d'essuyer un verre, le repose.*
+
+**La mère :**
+Tu te rends compte que ce qu'ils nous ont donné aujourd'hui, l'action pour toi, autre chose pour moi — c'est nous qui leur avons appris ça, à eux, à la base.
+
+**Le père :**
+Comment ça.
+
+**La mère :**
+Toi tu leur as donné le lien. Cette manie de vouloir que tout le monde soit bien ensemble. Et moi je leur ai donné le soin. Regarder si quelqu'un va mal avant qu'il le dise.
+
+**Le père :**
+Et ils en ont fait quoi.
+
+**La mère :**
+L'aîné a pris ton truc du lien et il en a fait de l'action. Il fait, il répare, il rassemble avec ses mains plutôt qu'avec des mots. Et le cadet a pris mon truc du soin et il en a fait de l'analyse. Il comprend les gens avant de les toucher, plutôt qu'en s'inquiétant pour eux.
+
+*Le père s'assoit, la regarde, en train de suivre le fil.*
+
+**Le père :**
+Donc ce qu'on leur a donné, ils l'ont transformé.
+
+**La mère :**
+Ouais. Et aujourd'hui, ils nous l'ont rendu transformé. Toi t'as eu de l'action, moi j'ai eu de l'analyse. On n'a pas récupéré ce qu'on avait donné. On a récupéré ce que ça devient, une fois que ça a traversé quelqu'un d'autre.
+
+*Un silence. Le père se lève, va chercher deux verres, en sert un peu, en pose un devant elle.*
+
+**Le père :**
+C'est un drôle de calcul, ça, quand j'y pense.
+
+**La mère :**
+Quel calcul.
+
+**Le père :**
+On a donné un truc à chacun, y a trente ans, quarante ans, sans rien attendre en retour, juste parce que c'est ce qu'on avait à donner à ce moment-là. Et ça nous revient aujourd'hui, mais pas pareil. Ça nous revient plus riche.
+
+**La mère :**
+On n'a jamais investi pour ça, remarque.
+
+**Le père :**
+Non. Mais ça rapporte quand même. Ça rapporte toujours, d'investir, même quand c'était pas le but.
+
+*Elle sourit, prend le verre, le fait tourner un instant sans boire.*
+
+**La mère :**
+Ce qui est étrange, c'est que ça a fait des allers-retours qu'on n'a même pas vus. Le lien qui devient action chez l'un, le soin qui devient analyse chez l'autre, et puis les deux frères qui se sont mis à se répondre entre eux, sans nous, pendant des années — et maintenant ça nous revient encore, transformé une deuxième fois.
+
+**Le père :**
+Comme un écho qui aurait rebondi plusieurs fois avant de nous arriver.
+
+**La mère :**
+Ouais. Sauf qu'un écho, normalement, ça s'affaiblit à chaque rebond. Là c'est l'inverse. Ça s'épaissit.
+
+*Le père regarde autour de lui — la cuisine, la maison, encore chaude du monde qui vient de la quitter.*
+
+**Le père :**
+Tu sais ce que je me dis, en fait ? On a jamais construit cette maison tout seuls. On a juste posé les fondations. Le socle. Et c'est eux qui ont fait tenir le reste, sans qu'on regarde vraiment comment.
+
+**La mère :**
+Une charpente.
+
+**Le père :**
+Ouais. Une charpente. On voit pas les poutres, une fois que la maison est faite. On voit juste qu'elle tient debout, et qu'on peut s'asseoir dedans sans qu'elle nous tombe dessus.
+
+*La mère pose sa main sur la sienne, sur la table, un geste simple, sans rien à prouver.*
+
+**La mère :**
+On a bien fait, alors.
+
+**Le père :**
+On a fait ce qu'on a pu, avec ce qu'on avait. Le reste, c'est eux qui l'ont construit. Nous, on n'a fait qu'investir sans savoir dans quoi.
+
+**La mère :**
+Et la voilà, notre retraite ! À nous !
+
+*Ils restent là, un moment, dans la cuisine vide, la maison silencieuse autour d'eux, tenant debout sans qu'ils aient besoin d'y penser.*
+
+**Le père :**
+Attends... Et ma maison ! Vite, ma tablette, je contacte le menuisier. Et je lui commande la charpente. Les petits s'occuperont du reste...
