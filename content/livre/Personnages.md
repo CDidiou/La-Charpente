@@ -5,9 +5,16 @@ version: 1.0
 weight: 2
 ---
 
+---
+title: "Portraits de famille"
+date: 2026-08-17
+version: 1.0
+weight: 2
+---
+
 ## Le père
 
-**Ce qu'il porte bien.** Il sait faire qu'une pièce se sente accueillie sans avoir rien demandé. C'est un don rare et presque invisible : personne ne remarque le travail que ça demande, tant ça a l'air naturel chez lui. Il tient la table, littéralement et symboliquement — celle de la maison, celle du dimanche, celle qui reste dressée même après une dispute. Sous une apparence d'homme facile à vivre, c'est en réalité un organisateur redoutable : il relance les artisans, change les plans d'escalier sans prévenir, garde des liens vivants pendant trente ans sans qu'on le lui demande. Ce n'est pas de la passivité déguisée en gentillesse — c'est une forme de puissance qui ne cherche jamais à se faire remarquer.
+**Ce qu'il porte bien.** Il sait faire qu'une pièce se sente accueillie sans avoir rien demandé. C'est un don rare et presque invisible : personne ne remarque le travail que ça demande, tant ça a l'air naturel chez lui. Il tient la table, littéralement et symboliquement — celle de la maison, celle du dimanche, celle qui reste dressée même après une dispute. Sous une apparence d'homme facile à vivre, c'est en réalité un organisateur redoutable : il relance les artisans, change les plans d'escalier sans prévenir. Ce n'est pas de la passivité déguisée en gentillesse — c'est une forme de puissance qui ne cherche jamais à se faire remarquer. Ses mains savent aussi ce qu'elles font : une chaise mal alignée, un mur pas droit, il les corrige en une seconde, presque sans y penser, avec un plaisir tranquille pour le geste lui-même — plus habile, en réalité, qu'aucun de ses deux fils, qui ont hérité de tout sauf de ça.
 
 **Ce qui le fragilise.** Il a grandi en essayant de réparer, tout petit déjà, un couple qui n'était pas le sien à réparer — son propre père conciliateur, sa propre mère qui commandait. Cette habitude de lisser, d'adoucir, de faire en sorte que personne ne se sente de trop, il ne sait pas toujours où s'arrête le service rendu et où commence l'oubli de lui-même. Il a fallu qu'un fils le regarde retaper une maison pour qu'il ose dire, pour la première fois, qu'il a eu peur, lui aussi, de ne rien avoir de solide à transmettre.
 
@@ -39,7 +46,7 @@ weight: 2
 
 ## Le fils aîné
 
-**Ce qu'il porte bien.** L'élan. Il ne connaît pas la peur de commencer : un chantier, une équipe, une relation, il fonce, et les gens le suivent. Il a hérité de sa mère cette capacité à faire naître du mouvement autour de lui, et il l'a transformée en un vrai métier de bâtisseur. Il sait aussi, ce qui est plus rare chez un tempérament pareil, reconnaître qu'il a tort — devant son père, devant sa mère, devant son frère — sans que ça l'abîme.
+**Ce qu'il porte bien.** L'élan. Il ne connaît pas la peur de commencer : un chantier, une équipe, une relation, il fonce, et les gens le suivent. Il a hérité de sa mère cette capacité à faire naître du mouvement autour de lui, et il l'a transformée en un vrai métier de bâtisseur — mais contrairement à son père, ce n'est pas le geste qui le nourrit, c'est la victoire qu'il représente. Un mur redressé, un steak jamais raté depuis trente ans : c'est un score qu'il refuse de voir baisser, plus qu'un plaisir renouvelé à chaque fois. Il sait aussi, ce qui est plus rare chez un tempérament pareil, reconnaître qu'il a tort — devant son père, devant sa mère, devant son frère — sans que ça l'abîme.
 
 **Ce qui le fragilise.** Il a construit toute sa vie en réaction contre l'image d'un père trop conciliant, et découvre, une fois devenu père à son tour, que ses propres fils ne le suivent pas tous avec le même allant — ce qu'il appelle, avec une pointe d'ironie triste, "le syndrome de papa". Il transmet, sans le vouloir, une colère née d'un vieux sentiment de trahison, sur des broutilles qui n'en sont pas vraiment.
 
