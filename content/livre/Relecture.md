@@ -131,4 +131,10 @@ Je m'en doutais.
 **Le père :**
 Bon. Au boulot, alors.
 
-*Mais avant que quiconque ait choisi son premier mot, l'aîné a déjà la tête baissée sur son carnet, stylo en main, en train d'écrire — sans attendre, sans réfléchir à sa première phrase, exactement comme il a toujours fait. Les trois autres le regardent une seconde, puis, un par un, se mettent à écrire aussi. Le livre reste au milieu de la table, refermé, mais pas loin — prêt à être rouvert, contredit, complété, à quatre voix cette fois plutôt qu'une seule.*
+*Mais avant que quiconque ait choisi son premier mot, l'aîné a déjà la tête baissée sur son carnet, stylo en main, en train d'écrire — sans attendre, sans réfléchir à sa première phrase, exactement comme il a toujours fait. Les trois autres le regardent une seconde, surpris de le voir déjà lancé.*
+
+**Le fils aîné :**
+*sans lever les yeux de son carnet*
+*Et bien quoi ? Finissez-moi ces travaux préliminaires inutiles avec le stylo. Il faut qu'on passe à la rénovation, maintenant !
+
+*Il continue d'écrire, presque en riant tout seul. Un par un, les trois autres se mettent à écrire aussi. Le livre reste au milieu de la table, refermé, mais pas loin — prêt à être rouvert, contredit, complété, à quatre voix cette fois plutôt qu'une seule.*
