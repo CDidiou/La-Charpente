@@ -9,7 +9,7 @@ weight: 27
 
 ---
 
-*Une chambre d'hôtes en Espagne, la terrasse donnant sur des collines sèches. Le cadet les a invités là, tous les trois, une semaine avant que le chantier ne commence — la maison d'enfance du père attend sa restauration. Ils avaient été surpris par l'invitation, un peu perplexes même, mais ils étaient venus quand même. Sur la table basse, un exemplaire relié de* La Charpente. *Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Tous les trois se tournent, en même temps, vers le cadet, assis dans le fauteuil d'en face.*
+*Une chambre d'hôtes dans un mas, la terrasse donnant sur des collines sèches. Le cadet les a invités là, tous les trois, avant que le chantier ne commence — à quelques kilomètres de là la maison d'enfance du père attend sa restauration. Ils avaient été surpris par l'invitation, un peu perplexes même, mais ils étaient venus quand même. Sur la table basse, un exemplaire relié de* La Charpente. *Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Tous les trois se tournent, en même temps, vers le cadet, assis dans le fauteuil d'en face.*
 
 **Le père :**
 Bon.
@@ -68,7 +68,7 @@ Je sais. On va essayer de faire mieux, maintenant qu'on le sait.
 *Elle laisse la phrase flotter un instant, puis reprend, plus légère, comme pour laisser respirer ce qu'elle vient de dire.*
 
 **La mère :**
-Bon. Cela dit, je referme pas TOUS mes liens, hein. J'ai gardé deux ou trois personnes de ma promo de fac.
+Bon. Cela dit, je referme pas TOUS mes liens, hein. J'ai gardé deux ou trois personnes de ma promo.
 
 **Le père :**
 Et moi je suis pas QUE la table.
@@ -94,12 +94,12 @@ Ouais.
 Ben voilà. Alors cette fois, c'est moi qui l'écris, ma version. Toi t'as fait la tienne. File-moi juste un stylo.
 
 **La mère :**
-Moi aussi, tiens. Je veux ma version. Je vais leur montrer, à tous, que je suis pas qu'une lionne qui referme des portes.
+Moi aussi, tiens. Je veux ma version. Je vais vous montrer que je suis pas qu'une lionne qui referme des portes.
 
 **Le père :**
-Et moi je veux juste écrire un chapitre où je dis "je tiens pas la table, je suis juste bien assis dedans."
+Et moi je veux juste écrire un chapitre où je dis "je ne tiens pas la table, je suis juste bien assis devant !"
 
-*Il se lève, va fouiller dans le tiroir du buffet, revient avec trois carnets et une poignée de stylos, en pose un devant chacun sans même demander. La mère et l'aîné les prennent, presque sans y penser, comme si c'était déjà décidé.*
+*Il se lève, va fouiller dans le tiroir du buffet, revient avec trois carnets et une poignée de stylos, en pose un devant chacun sans même demander. La mère et l'aîné les prennent, presque sans y penser, comme si c'était déjà décidé. Le père rouvre le livre pour relire un passage*
 
 *Le fils cadet les regarde faire, un par un, presque incrédule.*
 
