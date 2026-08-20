@@ -9,7 +9,7 @@ weight: 27
 
 ---
 
-*Un salon, un soir ordinaire. Sur la table basse, un exemplaire relié de* La Charpente. *Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Tous les trois se tournent, en même temps, vers le cadet, assis dans le fauteuil d'en face.*
+*Une chambre d'hôtes en Espagne, la terrasse donnant sur des collines sèches. Le cadet les a invités là, tous les trois, une semaine avant que le chantier ne commence — la maison d'enfance du père attend sa restauration. Ils avaient été surpris par l'invitation, un peu perplexes même, mais ils étaient venus quand même. Sur la table basse, un exemplaire relié de* La Charpente. *Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Tous les trois se tournent, en même temps, vers le cadet, assis dans le fauteuil d'en face.*
 
 **Le père :**
 Bon.
@@ -68,7 +68,7 @@ Je sais. On va essayer de faire mieux, maintenant qu'on le sait.
 *Elle laisse la phrase flotter un instant, puis reprend, plus légère, comme pour laisser respirer ce qu'elle vient de dire.*
 
 **La mère :**
-Bon. Cela dit, je referme pas TOUS mes liens, hein. J'ai gardé deux ou trois personnes de ma promo.
+Bon. Cela dit, je referme pas TOUS mes liens, hein. J'ai gardé deux ou trois personnes de ma promo de fac.
 
 **Le père :**
 Et moi je suis pas QUE la table.
@@ -94,38 +94,33 @@ Ouais.
 Ben voilà. Alors cette fois, c'est moi qui l'écris, ma version. Toi t'as fait la tienne. File-moi juste un stylo.
 
 **La mère :**
-Moi aussi, tiens. Je veux écrire ma version. Je vais vous montrer que je suis pas qu'une lionne qui referme des portes.
+Moi aussi, tiens. Je veux ma version. Je vais leur montrer, à tous, que je suis pas qu'une lionne qui referme des portes.
 
 **Le père :**
-Et moi je veux juste écrire un chapitre où je dis "je ne tiens pas la table, je suis juste bien assis devant."
+Et moi je veux juste écrire un chapitre où je dis "je tiens pas la table, je suis juste bien assis dedans."
 
-*Le fils cadet les regarde, un par un, presque incrédule.*
+*Il se lève, va fouiller dans le tiroir du buffet, revient avec trois carnets et une poignée de stylos, en pose un devant chacun sans même demander. La mère et l'aîné les prennent, presque sans y penser, comme si c'était déjà décidé.*
+
+*Le fils cadet les regarde faire, un par un, presque incrédule.*
 
 **Le fils cadet :**
 Vous êtes sérieux, là ?
 
-**Le père :**
-Pas vraiment sérieux. Mais on va le faire quand même.
+*Il s'arrête. Il ne cherche pas de contre-argument, cette fois. Il réfléchit vraiment, puis reprend, plus posé, presque solennel.*
 
-**La mère :**
-C'est ça qui est marrant. On n'a même pas besoin d'y croire à fond pour avoir envie de le faire. C'est juste... amusant. Comme un jeu de rôle où on jouerait chacun notre propre rôle, pour changer.
+**Le fils cadet :**
+Merci d'avoir pris ces stylos. Je vais vous dire un truc. Oui, j'ai fait une caricature. Oui, j'ai tiré les traits, chacun le vôtre. Une caricature, ça sert à ça : amuser, déformer, et parfois faire passer un message qu'on n'oserait pas dire autrement. Il y a beaucoup de faux là-dedans, et un peu de vrai. Chacun de vous verra, au fond de lui, ce qui résonne — sans forcément l'avouer, et c'est pas grave. Nos récits intérieurs restent impénétrables, mais ils sont sensibles quand même. Des fois, le personnage qu'on a fait de vous dit ou fait des choses que vous auriez aimé dire ou faire vous-mêmes. Si ça vous a fait rire, tant mieux. Si, une fois ou deux, ça vous a inspirés, c'est ça, le vrai miracle de la caricature. Moi, maintenant, j'ai qu'une envie : lire vos œuvres.
+
+*Un silence, différent de tous les précédents.*
 
 **Le fils aîné :**
-Ouais. Et puis ça te fera les pieds, de lire ce qu'on écrit sans pouvoir corriger.
+Tu vas vouloir corriger, pourtant. Je te connais.
 
 **Le fils cadet :**
-Je ne corrigerai pas.
-
-**Le père, en riant :**
-On verra.
-
-*Le cadet se lève, va chercher un carnet et trois stylos dans le tiroir du buffet, les distribue autour de la table basse, un pour chacun.*
-
-**Le fils cadet :**
-Bon. Alors allez-y. Défoncez-moi si vous voulez. Juste... soyez sincères. C'est tout ce que je demande.
+Non. Je lirai. Je corrigerai rien.
 
 **La mère :**
-On sera sincères. Et probablement un peu méchants sur certains passages.
+Alors on sera sincères. Et probablement un peu méchants sur certains passages.
 
 **Le fils aîné :**
 Surtout sur le passage du steak.
