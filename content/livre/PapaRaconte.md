@@ -2,7 +2,7 @@
 title: "Papa raconte"
 date: 2026-08-17
 version: 1.0
-weight: 3
+weight: 4
 ---
 
 # Dialogue imaginaire avec Maman
@@ -43,7 +43,7 @@ Et ton mariage, alors ? Comment ça se passe ta vie avec ta femme ?
 Et les enfants, mes petits-enfants ? Parle-moi d'eux.
 
 **Moi:**
-Tu le sais, on a eu deux fils, maman. L'aîné tient beaucoup de sa mère : un tempérament de commandant, quelqu'un qui prend sa place, qui construit des entreprises plutôt que des murs, qui n'a jamais peur d'avancer en terrain difficile — la tech, la finance, des territoires que je ne comprends qu'à moitié. L'autre est tout l'inverse, tout en retrait, un esprit qui prend de la hauteur, qui observe le monde depuis très loin comme un aigle sur son rocher, qui préfère comprendre avant d'agir. Et pas très manuels, mes fils, comparé à moi ! Si papa nous voyait, avec leurs écrans et leurs vocabulaires, il ne reconnaîtrait plus grand-chose. Mais je crois que c'est moins eux qui ont changé que le monde autour d'eux — l'exode rural, les usines qui ont fermé, l'artisanat qu'on a fini par trouver ringard, cette société tellement connectée et pourtant plus seule que jamais. Longtemps je me suis dit que je n'avais rien transmis, parce qu'aucun des deux ne me ressemble : ni la fête, ni la chaleur spontanée, ni le besoin de rassembler tout le monde autour d'une table.
+Tu le sais, on a eu deux fils, maman. L'aîné tient beaucoup de sa mère : un tempérament de commandant, quelqu'un qui prend sa place, qui construit des entreprises plutôt que des murs, qui n'a jamais peur d'avancer en terrain difficile — la tech, la finance, des territoires que je ne comprends qu'à moitié. L'autre est tout l'inverse, tout en retrait, un esprit qui prend de la hauteur, qui observe le monde depuis très loin comme un aigle sur son rocher, qui préfère comprendre avant d'agir. Et pas très manuels, mes fils, comparé à moi ! Si papa les voyait, avec leurs écrans et leurs vocabulaires, il ne reconnaîtrait plus grand-chose. Mais je crois que c'est moins eux qui ont changé que le monde autour d'eux — l'exode rural, les usines qui ont fermé, l'artisanat qu'on a fini par trouver ringard, cette société tellement connectée et pourtant plus seule que jamais. Longtemps je me suis dit que je n'avais rien transmis, parce qu'aucun des deux ne me ressemble : ni la fête, ni la chaleur spontanée, ni le besoin de rassembler tout le monde autour d'une table.
 
 **Ma mère:**
 Et maintenant, qu'est-ce que tu en penses ?
@@ -52,28 +52,22 @@ Et maintenant, qu'est-ce que tu en penses ?
 Je pense que je me trompais. Je ne leur ai peut-être pas donné mon goût pour la fête, mais je leur ai donné le sol sous leurs pieds, maman. La sécurité, la chaleur du foyer, la certitude qu'on serait toujours là pour eux, moi et ma femme. C'est peut-être grâce à ça qu'ils ont pu devenir des bâtisseurs, des stratèges, des gens qui n'ont plus besoin de plier devant personne. Je les regarde et je me dis que je n'ai pas raté ma transmission, je l'ai juste donnée autrement que je ne l'imaginais.
 
 **Ma mère:**
-Et leurs femmes, à eux ? Qui sont-elles ces belles-filles ?
-
-**Moi:**
-L'aînée est à l'image de son mari : rigoureuse, exigeante, méthodique. Ensemble ils forment un vrai duo de bâtisseurs, avec parfois des étincelles entre eux, parce que deux caractères aussi forts se frottent forcément un peu. Mais il y a une belle énergie qui circule. La cadette, elle, est faite du même bois discret que mon second fils : posée, précise, presque indéchiffrable. Ils forment un couple tranquille en apparence, mais qui voit tout, comprend tout, sans jamais avoir besoin de le montrer. Parfois je me sens presque nu devant eux, tellement ils perçoivent les choses avant même que je les dise.
-
-**Ma mère:**
 Est-ce que tu trouves ta place, au milieu de tout ce monde-là ?
 
 **Moi:**
 Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préferre les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
 
 **Ma mère:**
-Et les petits-enfants ? Est-ce qu'il y en a un qui te ressemble, dans tout ça ? Qui vient te chercher pour faire les quatre cents coups, un comme toi ?
+Et les petits-enfants ? Est-ce qu'il y en a un qui te ressemble, dans tout ça ? Un qui vient te chercher pour faire les quatre cents coups, un comme toi ?
 
 **Moi:**
-Pas encore, maman. Pour l'instant, aucun d'eux ne ressemble à ce petit garnement que j'étais. Mais j'y crois. Je me dis que rien ne se perd vraiment. Que les enfants de mes stratèges, élevés dans des maisons si sérieuses, si organisées, auront peut-être besoin, un jour, de légèreté, de fête, de quelqu'un qui les emmène faire des bêtises avec les mains dans les copeaux de bois. J'espère être encore là pour ça. J'espère qu'un jour l'un d'eux viendra me chercher en disant : « Papi, on fait quoi aujourd'hui ? » Et ce jour-là, je crois que je te penserai très fort, maman, parce que j'aurai l'impression de te voir revivre, mais en plus doux, en plus léger.
+Pas encore, maman. Pour l'instant, aucun d'eux ne ressemble à ce petit garnement que j'étais. Mais j'y crois. Je me dis que rien ne se perd vraiment. Que les enfants de mes stratèges, élevés dans des maisons si sérieuses, si organisées, auront peut-être besoin, un jour, de légèreté, de fête, de quelqu'un qui les emmène faire des bêtises avec les mains dans les copeaux de bois. J'espère être encore là pour ça. J'espère qu'un jour l'un d'eux viendra me chercher en disant : « Papi, on fait quoi aujourd'hui ? » Et ce jour-là, je crois que je penserai très fort à vous deux, maman, parce que j'aurai l'impression de vous voir revivre, dans un monde plus doux, plus léger.
 
 **Ma mère:**
 Et les arrière-petits-enfants ?
 
 **Moi:**
-Ceux-là, je ne les connais pas encore, maman. Mais je sais qu'ils viendront, un jour, s'asseoir à cette maison qu'on a habité ensemble, toi, papa, moi. C'est mon symbole de transmission. Je ne sais pas quels visages ils auront ni quels caractères, mais je sais qu'ils hériteront de quelque chose que personne ne pourra leur enlever : une famille qui, malgré ses tempêtes, a toujours fini par se retrouver autour d'une même table, à trinquer, à rire, à s'aimer.
+Ceux-là, je ne les connais pas encore, maman. Mais je sais qu'ils viendront, un jour, s'asseoir à cette maison qu'on a habité ensemble. C'est mon symbole de transmission. Je ne sais pas quels visages ils auront ni quels caractères, mais je sais qu'ils hériteront de quelque chose que personne ne pourra leur enlever : une famille qui aime se retrouver autour d'une même table, à trinquer, à rire, à s'aimer.
 
 **Ma mère:**
 Tu as fait du beau travail, mon fils.

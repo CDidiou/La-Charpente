@@ -29,7 +29,7 @@ Pareil. Il m'a empêchée de surveiller la maison pendant qu'on taillait. J'ai r
 *Elle s'arrête d'essuyer un verre, le repose.*
 
 **La mère :**
-Tu te rends compte que ce qu'ils nous ont donné aujourd'hui, l'action pour toi, autre chose pour moi — c'est nous qui leur avons appris ça, à eux, à la base.
+Tu te rends compte que ce qu'ils nous ont donné aujourd'hui, le droit d'être paisibles ! On a un sacré retour.
 
 **Le père :**
 Comment ça.
@@ -96,7 +96,7 @@ Oui. Une charpente. On voit pas les poutres, une fois que la maison est faite. O
 On a bien fait, alors.
 
 **Le père :**
-On a fait ce qu'on a pu, avec ce qu'on avait. Le reste, c'est eux qui l'ont construit. Nous, on n'a fait qu'investir sans savoir dans quoi.
+On a fait ce qu'on a pu, avec ce qu'on avait. On a pédalé, et puis un jour on a vieilli !
 
 *Un silence. Le père tourne son verre, pensif.*
 

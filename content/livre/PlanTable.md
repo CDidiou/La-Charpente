@@ -15,7 +15,7 @@ weight: 22
 Ça va ?
 
 **La mère :**
-Je sais plus où mettre ta tante. Si je la mets à côté du voisin, elle va parler fort et le voisin ne va pas entendre la moitié. Si je la mets à côté de ton père, ils vont recommencer sur la politique. Et ta cousine, elle mange plus de viande maintenant, faut que je vérifie qui est à côté d'elle pour pas que ça la gêne.
+Je sais plus où mettre ton cousin. Si je la mets à côté du voisin, il va parler fort et le voisin ne va pas entendre la moitié. Si je le mets à côté de ton père, ils vont recommencer sur la politique. Et ma copine, elle mange plus de viande maintenant, faut que je vérifie qui est à côté d'elle pour pas que ça la gêne.
 
 **Le fils cadet :**
 Tu penses à tout le monde en même temps, là.
@@ -24,7 +24,7 @@ Tu penses à tout le monde en même temps, là.
 Il faut bien.
 
 **Le fils cadet :**
-Non. Il faut pas. Enfin, il faut, mais pas comme ça, pas les douze en même temps.
+Non. Il ne faut pas faire compliqué. Que des étapes simples
 
 *Il s'assoit en face d'elle, attrape un papier, un stylo.*
 
@@ -40,7 +40,7 @@ Genre : "ces deux-là, jamais côte à côte." "Celle-là, doit entendre." "Cell
 *Elle le regarde, hésite, puis commence à énumérer, un peu plus lentement.*
 
 **La mère :**
-Ta tante et ton père, pas côte à côte. Le voisin a besoin d'être à côté de quelqu'un qui parle pas trop fort, ou alors en face. Ta cousine, éviter d'être juste devant le plat principal si c'est de la viande.
+Ton cousin et ton père, pas côte à côte. Le voisin a besoin d'être à côté de quelqu'un qui parle pas trop fort, ou alors en face. Ma copine, éviter d'être juste devant le plat principal si c'est de la viande.
 
 **Le fils cadet :**
 Voilà. Trois règles. C'est gérable, trois règles.
@@ -62,10 +62,10 @@ C'est étrangement reposant, ça.
 Parce que là, pour une fois, t'as pas besoin de deviner ce que chacun va ressentir. T'as juste besoin de vérifier trois trucs.
 
 **La mère :**
-D'habitude je passe par tout le monde pour arriver à une solution. Un peu chacun leur tour, dans ma tête.
+D'habitude je vérifie que pour tout le monde tout soit bien disposé.
 
 **Le fils cadet :**
-Je sais. C'est là que je le tiens, moi, ce truc de découper un problème en petits bouts avant de le regarder en entier. C'est toi qui fais ça avec les gens, en fait, depuis toujours — sauf que toi tu le fais avec de l'inquiétude, et moi je l'ai récupéré sans l'inquiétude. Juste la méthode.
+Je sais. Tu as raison de vérifier pour chacun à tour de rôle. J'ai hérité de ta méthode d'ailleurs. Sauf que toi tu le fais avec de l'inquiétude. Moi j'applique juste ta méthode.
 
 *La mère repose son stylo, le regarde, presque surprise qu'il puisse dire ça d'elle sans en faire une explication compliquée.*
 

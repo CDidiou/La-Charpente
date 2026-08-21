@@ -2,7 +2,7 @@
 title: "Le classeur"
 date: 2026-08-17
 version: 1.0
-weight: 7
+weight: 8
 ---
 
 # Le Grenier qu'on Trie
@@ -68,13 +68,13 @@ Alors tu m'as envoyé démonter des machines plutôt que des âmes.
 Dit comme ça, ça sonne dur. Mais oui, à peu près.
 
 **Le fils cadet:**
-Je ne t'ai jamais désobéi. Tu as été pour moi douce et intraitable. Je n'ai même pas songé à te contrarier. J'ai pris le chemin scientifique. Et je suis devenu exactement ce que tu voulais : un ingénieur brillant.
+Je ne t'ai jamais désobéi. Tu as été pour moi douce et intraitable. Je n'ai même pas songé à te contrarier. J'ai pris le chemin scientifique. Et je suis devenu exactement ce que tu voulais : ingénieur.
 
 **La mère:**
 Tu ne le dis pas avec beaucoup de joie dans la voix.
 
 **Le fils cadet:**
-Non, parce que ce qui est étrange, c'est que je n'ai jamais réussi à séparer les deux. J'ai fait des études froides, techniques, pleines de calculs. Mais je passe mon temps, même au travail, à décortiquer les gens autour de moi exactement comme tu m'as appris à le faire. Mes collègues me disent que je vois des choses que personne d'autre ne voit dans une réunion. Et à la maison, je démonte tout ce qui me tombe sous la main. Les radios, les vieilles pendules, les jouets de mes fils. Je ne supporte pas de ne pas savoir ce qu'il y a dedans.
+Non, parce que ce qui est étrange, c'est que je n'ai jamais réussi à séparer les deux. J'ai fait des études froides, techniques, pleines de calculs. Mais je passe mon temps à construire des concepts, à mettre du sens aux événments, à les relier, à décortiquer les gens autour de moi exactement comme tu m'as appris à le faire. Mes collègues me disent que je vois des choses que personne d'autre ne voit dans une réunion. Et à la maison, je démonte tout ce qui me tombe sous la main. Les radios, les vieilles pendules, les jouets de mes fils. Je ne supporte pas de ne pas savoir comment ça marche. Et encore après je cherche pourquoi ça marche.
 
 **La mère:**
 Tu démontes les objets comme tu décodes les gens.
@@ -99,7 +99,7 @@ C'est une belle image, et un peu cruelle pour moi.
 Pour être juste, je pense que tu as pris le savoir, mais pas le courage qui va avec.
 
 **Le fils cadet:**
-c'est vrai, ça aussi. Je ne t'en veux pas, maman. Je suis un bon ingénieur, j'aime mon métier, à sa façon. Mais je voulais que tu saches que le décodage, l'intuition, l'analyse fine, tout ça, je l'ai gardé de toi, intact. Je l'utilise juste sur des moteurs et des circuits plutôt que sur des enfants en difficulté. Et c'est un atout de passer par ce chemin en fait ! Je me sens puissant.
+C'est vrai, ça aussi. Je ne t'en veux pas, maman. Je suis un bon ingénieur, j'aime mon métier, à sa façon. Mais je voulais que tu saches que le décodage, l'intuition, l'analyse fine, tout ça, je l'ai gardé de toi, intact. Je l'utilise juste sur des moteurs et des circuits plutôt que sur des enfants en difficulté. Et c'est un atout de passer par ce chemin en fait ! Je me sens puissant.
 
 **La mère:**
 Il n'est pas trop tard, tu sais.

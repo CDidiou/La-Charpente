@@ -2,7 +2,7 @@
 title: "Les ToTons"
 date: 2026-08-17
 version: 1.0
-weight: 5
+weight: 6
 ---
 
 # Dialogue imaginaire entre Frères
@@ -112,7 +112,7 @@ Je ne suis pas certain que ce soit aussi net que tu le dis, pour toi. Une inséc
 Peut-être. Ou peut-être que le tempérament, c'est justement ce qu'on construit par-dessus la blessure pour ne plus avoir à la regarder. Je ne sais pas trancher, là, tout de suite.
 
 **Le fils aîné:**
-Moi je vois autre chose, en tout cas, chez moi. Cette sensation ancienne qu'on peut être lâché juste au moment où on s'y attend le moins. Je ne l'ai jamais dite comme ça à personne, mais je la vois ressortir chez mes fils sous forme de colère. Une colère qui monte vite, pour peu de chose, dès qu'ils sentent qu'on ne tient pas parole, ou qu'on les laisse tomber.
+Moi je vois autre chose, en tout cas, chez moi. Cette sensation ancienne qu'on peut être lâché juste au moment où on s'y attend le moins. Je ne l'ai jamais dit comme ça à personne, mais je la vois ressortir chez mes fils sous forme de colère. Une colère qui monte vite, pour peu de chose, dès qu'ils sentent qu'on ne tient pas parole, ou qu'on les laisse tomber.
 
 **Le fils cadet:**
 Toi la trahison, moi l'insécurité, alors. On a transmis nos qualités, oui, mais aussi la blessure qui les a fait naître en premier lieu.
@@ -143,18 +143,6 @@ Papa et maman ont vraiment été de bons parents. Imagine la violence de la vie,
 Après deux générations de sérieux, de structure, de rigueur, il faudrait presque qu'un des nôtres devienne le grain de folie de la famille.
 
 **Le fils aîné:**
-Le retour de papa, en somme. Sa légèreté, sa chaleur, sa fête, qui sautent une génération pour resurgir chez nos enfants.
-
-**Le fils cadet:**
-Ce serait amusant.
-
-**Le fils aîné:**
-Mieux qu'amusant, même. Un équilibre. La trahison, l'abandon, l'humiliation, ça fait naître la colère, la peur, la tristesse. Alors ce petit dernier qui ne pense qu'à rire, ce ne serait pas juste "joli à avoir dans la famille". Ce serait presque nécessaire. Pas un décor, un vrai contrepoids.
-
-**Le fils cadet:**
-Pour désamorcer nos racines de colère et de peur !
-
-**Le fils aîné:**
 Dis-moi, toi qui aimes penser à long terme : est-ce qu'on pourrait, un jour, faire quelque chose ensemble, toi et moi ? Nos deux branches, la mienne qui fonce et la tienne qui pense ?
 
 **Le fils cadet:**
@@ -177,7 +165,7 @@ Tu penses qu'on devrait faire des vacances où on échange quelques semaines nos
 C'est marrant, tiens. Ce serait un double mélange savoureux, où chaque culture infuse, chaque enfant capture une dynamique de vie différente.
 
 **Le fils cadet:**
-Et surtout, ça les mettrait chacun devant une place qui n'existe pas dans leur propre fratrie. Chez moi, l'un ou l'autre se retrouverait sans personne à bousculer, obligé d'aller chercher autre chose en lui. Chez toi, il n'aurait plus le luxe de rester en retrait, il faudrait bien qu'il prenne un peu de terrain.
+Et surtout, ça les mettrait chacun devant une place qui n'existe pas dans leur propre fratrie. Chez moi, ils se retrouveraient à décrypter doucement la grande carte du monde. Chez toi, il n'aurait plus le luxe de rester en retrait du monde.
 
 **Le fils aîné:**
 Ils iraient essayer la place que leur propre frère leur a toujours laissée vide chez nous.

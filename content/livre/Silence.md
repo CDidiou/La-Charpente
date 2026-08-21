@@ -24,7 +24,7 @@ Il se passe du silence. C'est pas la même chose que rien.
 Comment ça.
 
 **Le fils cadet :**
-Regarde-les. Personne a l'air mal. Ton copain somnole, ta soeur et son mari se tiennent la main sans se parler, les enfants jouent tout seuls par terre. Personne attend que tu fasses quelque chose.
+Regarde-les. Personne a l'air mal. Ton copain somnole, le petit couple de voisins, ils se tiennent la main sans se parler, les enfants jouent tout seuls par terre. Personne attend que tu fasses quelque chose.
 
 *Le père se rassoit, pas totalement convaincu, les yeux quand même en train de vérifier.*
 
@@ -56,7 +56,7 @@ C'est étrange de juste regarder.
 **Le fils cadet :**
 Ecoutons le bruit des liens. Tu sais si bien faire. Mais écoutons tout. Pas ce qui semble manquer. Juste ce qu'il y a.
 
-*Le père reste silencieux, regarde vraiment, cette fois : son copain qui dort, sa soeur et son beau-frère, les enfants au sol, le cadet à côté de lui.*
+*Le père reste silencieux, regarde vraiment, cette fois : son copain qui dort, le couple regarde les enfants au sol, le cadet à côté de lui.*
 
 **Le père :**
 Y a rien qui manque, en fait.
@@ -72,4 +72,4 @@ Alors à quoi je sers ?
 **Le fils cadet :**
 Tu sers pas à faire tenir. Tu sers à être là pendant que ça tient. C'est pas rien, ça, papa. C'est même plus rare que l'autre truc.
 
-*Le père ne dit rien, mais quelque chose dans ses épaules se relâche, un peu. Le cadet, ce même geste hérité de son frère sans y penser, lui pose la main sur la nuque une seconde, la retire, et se tait aussi — pour de vrai, cette fois, sans rien préparer à dire ensuite.*
+*Le père ne dit rien, mais quelque chose dans ses épaules se relâche, un peu. Le cadet lui masse cette épaule douloureuse une seconde, et se tait — pour de vrai, cette fois, sans rien préparer à dire ensuite.*

@@ -2,7 +2,7 @@
 title: "Le vrai défi"
 date: 2026-08-17
 version: 1.0
-weight: 16
+weight: 17
 ---
 
 # Le véritable défi des quatre personnages : sortir de sa fonction

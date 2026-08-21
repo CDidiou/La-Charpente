@@ -12,7 +12,7 @@ weight: 25
 *Un après-midi de printemps, au jardin. La mère taille une haie, s'arrête tous les trois gestes pour regarder vers la maison — vérifier une fenêtre, tendre l'oreille. L'aîné arrive avec une deuxième paire de gants.*
 
 **Le fils aîné :**
-Tiens. Tu fais quoi, là, deux mètres à la fois ?
+Tiens. Tu fais quoi, là, à te retourner tout le temps ?
 
 **La mère :**
 Je taille, et je surveille que ton père range pas le barbecue n'importe comment.

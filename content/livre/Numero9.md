@@ -1,8 +1,8 @@
 ---
-title: "Le numéro 8"
+title: "Le numéro 9"
 date: 2026-08-17
 version: 1.0
-weight: 8
+weight: 9
 ---
 
 # Le Match du Village
@@ -17,7 +17,7 @@ Deux bières, s'il te plaît, et vas-y large sur la mousse pour mon fils, il n'e
 Tu dis ça à chaque fois.
 
 **Le père:**
-Et à chaque fois c'est vrai. Assieds-toi, ils vont taper le coup d'envoi. Regarde le petit numéro 8, il vient d'à côté de chez nous, il a un pied gauche qui va nous faire pleurer de joie un jour.
+Et à chaque fois c'est vrai. Assieds-toi, ils vont taper le coup d'envoi. Regarde le petit numéro 9, il vient d'à côté de chez nous, il a un pied gauche qui va nous faire pleurer de joie un jour.
 
 **Le fils cadet:**
 Tu connais tout le monde ici.
@@ -89,7 +89,7 @@ Deux stratégies différentes pour le même problème, en fait. Moi je cédais p
 L'évitement et l'effacement. Les deux faces d'une même pièce.
 
 **Le père:**
-Regarde ce numéro 8, tiens, celui dont je te parlais. Il ne fait pas partie des deux lions de son équipe non plus. Il n'est pas le capitaine, il ne gueule pas, il ne commande rien. Mais quand il touche le ballon, il change tout.
+Regarde ce numéro 9, tiens, celui dont je te parlais. Il ne fait pas partie des deux lions de son équipe non plus. Il n'est pas le capitaine, il ne gueule pas, il ne commande rien. Mais quand il touche le ballon, il change tout.
 
 **Le fils cadet:**
 Tu veux en venir où ?
@@ -143,7 +143,7 @@ Tu as raison. Il faut marquer le début d'un projet familial par du plaisir. Tu 
 A nous tous.
 
 **Le père:**
-Tiens, justement, regarde. But du petit numéro 8.
+Tiens, justement, regarde. But du petit numéro 9.
 
 **Le fils cadet:**
 Il n'a même pas eu le temps de réfléchir, on dirait.
@@ -155,6 +155,6 @@ C'est bien pour ça qu'il a marqué.
 On trinque au voyage, alors ? Pour de vrai, cette fois.
 
 **Le père:**
-On trinque à ça. Et à ce petit numéro 8, qui vient de nous donner une belle leçon sans le savoir.
+On trinque à ça. Et à ce petit numéro 9, qui vient de nous donner une belle leçon sans le savoir.
 
 ---

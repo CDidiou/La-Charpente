@@ -2,7 +2,7 @@
 title: "Steaks au poivre"
 date: 2026-08-17
 version: 1.0
-weight: 18
+weight: 19
 ---
 
 # Tu vois ma projection
@@ -163,4 +163,4 @@ Ok.
 **Le fils aîné :**
 Et tu ne m'en fais pas un roman analytique sur les steaks au poivre dans deux ans!
 
-*Le cadet attrape les assiettes. En passant derrière lui pour sortir de la cuisine, l'aîné lui met une grande claque dans le dos — un peu trop forte, comme toujours — sans rien ajouter. Pas un mot. Juste la main qui reste une seconde de trop sur l'épaule avant de partir devant.*
+*Le cadet attrape les assiettes. En passant derrière lui pour sortir de la cuisine, l'aîné lui met une grande claque dans le dos — un peu trop forte, comme toujours — sans rien ajouter. Pas un mot. Juste la main un peu lourde.*

@@ -2,7 +2,7 @@
 title: "La cloison"
 date: 2026-08-17
 version: 1.0
-weight: 6
+weight: 7
 ---
 
 # La Maison qu'on Retape
@@ -29,7 +29,7 @@ Il fuyait.
 Ici, oui. Mais il n'était pas que ça, tu sais. Dehors, au village, c'était un autre homme. Il allait boire un coup avec les autres, il chantait faux et fort, il organisait les fêtes de quartier, tout le monde l'aimait, tout le monde le cherchait pour animer une soirée. Deux hommes sous le même chapeau, en fait : celui qui se taisait ici, dans cet établi, et celui qui rayonnait dehors, dans la rue.
 
 **Le fils aîné:**
-t toi, tu as pris lequel des deux ?
+Et toi, tu as pris lequel des deux ?
 
 **Le père:**
 Les deux, sans le vouloir. J'ai voulu devenir l'homme du village. Consciemment, activement. La fête, la chaleur, le rassemblement, c'est ce que je voyais de lui à l'extérieur, et c'est ce que j'ai eu envie de devenir. Mais à l'intérieur, sans que je m'en rende compte, j'ai gardé l'autre. Celui qui se tait, qui absorbe, qui laisse passer l'orage plutôt que d'y répondre. J'ai pris l'image publique de mon père comme modèle, et son caractère privé comme réflexe.
@@ -59,13 +59,13 @@ Oui. Et maintenant que je porte le pied-de-biche à ta place, je me rends compte
 Explique-moi.
 
 **Le fils aîné:**
-J'ai voulu être l'inverse de toi. Structuré, dur en négociation, jamais démonté. Et j'ai réussi, en un sens : j'ai bâti, j'ai avancé, je n'ai jamais eu besoin qu'on m'apaise. Mais mes fils, eux, ils ne foncent pas. L'un des deux, en tout cas, me regarde comme si j'étais quelqu'un de fatigant à vivre. Comme moi je te regardais, avant, en pensant que tu cédais trop.
+J'ai voulu être l'inverse de toi. Structuré, dur en négociation, jamais démonté. Et j'ai réussi, en un sens : j'ai bâti, j'ai avancé, je n'ai jamais eu besoin qu'on m'apaise. Mais mes fils, j'ai l'impression qu'ils me regardent parfois comme si j'étais quelqu'un de fatigant à vivre. Comme moi je te regardais, avant, en pensant que tu cédais trop.
 
 **Le père:**
-Sauf que lui pense l'inverse de ce que toi tu pensais.
+En somme, ils penseraient l'exact inverse de ce que toi tu pensais de moi !
 
 **Le fils aîné:**
-Voilà. Toi j'ai voulu être ton contraire parce que tu cédais trop, à mes yeux. Lui veut être mon contraire parce que je commande trop, aux siens. On a fait chacun le même geste, mais dans des directions opposées.
+Voilà. Toi j'ai voulu être ton contraire parce que tu cédais trop, à mes yeux. Et peut-être que eux, ils vont vouloir être mon contraire parce que je commande trop. Papa, maintenant que j'y pense, je me dit qu'on a fait chacun le même geste, mais dans des directions opposées.
 
 **Le père:**
 C'est ça, devenir un homme, je crois. On commence par se définir contre son père. On prend le chemin inverse du sien, on est sûr d'avoir raison, on avance. Et puis un jour, sans prévenir, on comprend enfin ce que le père essayait de faire. On se dit : ah, c'était donc ça. On voudrait le lui dire, parfois il n'est plus là pour l'entendre. Et au moment exact où on comprend ça, notre propre fils, lui, vient nous dire qu'on a tort.
@@ -77,10 +77,10 @@ Le temps qu'un homme comprenne que son père avait raison, il a déjà un fils q
 C'est exactement ça.
 
 **Le fils aîné:**
-C'est vertigineux, dit comme ça.
+Je ne peux pas le croire.
 
 **Le père:**
-Ça l'est. Mais ça veut aussi dire que ton fils, un jour, comprendra à son tour ce que tu essayais de faire pour lui. Ce n'est pas un échec, cette histoire, c'est juste le tempo. On ne peut pas être compris tout de suite par celui qu'on élève. On ne l'a pas été non plus.
+Mais ça veut aussi dire que ton fils, un jour, comprendra à son tour ce que tu essayais de faire pour lui. Ce n'est pas un échec, cette histoire, c'est juste le tempo. On ne peut pas être compris tout de suite par celui qu'on élève. On ne l'a pas compris non plus.
 
 **Le fils aîné:**
 Est-ce que tu as eu peur, toi, de mal transmettre ?
@@ -92,7 +92,7 @@ Tout le temps. Je n'avais pas ton énergie de bâtisseur, je n'avais pas non plu
 Tu m'as donné plus que tu ne crois.
 
 **Le père:**
-Être père, je crois, ce n'est pas transmettre ce qu'on a de solide. C'est transmettre l'endroit où revenir quand ça tremble. Ton grand-père avait cet établi. Moi j'ai eu cette table, où tout le monde finissait toujours par se rasseoir, même après une dispute. Toi, qu'est-ce que tu leur donnes, à tes fils, comme endroit où revenir ?
+Être père, je crois, ce n'est pas transmettre ce qu'on a de solide. C'est transmettre l'endroit où revenir quand ça tremble. Ton grand-père avait cet établi. Moi j'ai eu cette table, où tout le monde se réunissait. Toi, qu'est-ce que tu leur donnes, à tes fils, comme endroit où revenir ?
 
 **Le fils aîné:**
 Je ne sais pas encore. Je crois que je leur ai surtout donné un cap, une direction à suivre. Pas forcément un endroit où se poser.
@@ -104,7 +104,7 @@ Ce n'est pas trop tard pour ajouter l'endroit.
 Tu penses à quoi ?
 
 **Le père:**
-À ça, justement. Ma maison. Si on la retape ensemble, toi et moi, peut-être qu'elle redevient un lieu où tes fils peuvent venir, sans avoir besoin de foncer ni de comprendre quoi que ce soit avant d'y entrer. Juste un endroit qui les attend.
+À ça, justement. Ma maison. Si on la retape ensemble, toi et moi, peut-être qu'elle deviendra un lieu où tes fils pourront venir, sans avoir besoin de foncer ni de comprendre quoi que ce soit avant d'y entrer. Juste un endroit qui les attend.
 
 **Le fils aîné:**
 Un établi sous une fenêtre. Le refuge de l'artisan.

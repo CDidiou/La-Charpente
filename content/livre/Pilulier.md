@@ -2,7 +2,7 @@
 title: "Le pilulier"
 date: 2026-08-17
 version: 1.0
-weight: 9
+weight: 10
 ---
 
 # Par Bande Interposée

@@ -44,7 +44,7 @@ Justement. C'est ça le problème.
 Comment ça.
 
 **Le fils aîné :**
-T'as décidé qui on était. Toi, tout seul, dans ta tête. Et là, à la fin du bouquin, tu nous expliques même comment on doit se détacher du rôle que TOI tu nous as collé. Défini le problème, prescrit le remède. Même geste, deux fois.
+T'as décidé qui on était. Toi, tout seul, dans ta tête. Et là, à la fin du bouquin, tu nous expliques même comment on doit se détacher du rôle que TOI tu nous as collé. Tu définis le problème, et tu prescris le remède. Même geste, deux fois.
 
 *La mère pose son verre. Elle ne rit pas.*
 
@@ -54,7 +54,7 @@ Tu sais ce qui m'a le plus travaillée, en le lisant ? C'est pas le portrait. C'
 *Un silence, plus long cette fois. Le cadet ne trouve rien à répondre.*
 
 **Le fils cadet :**
-...Je savais pas que ça se voyait, en fait.
+Je ne savais pas que ça se voyait autant.
 
 **La mère :**
 Ça se voyait pas. C'est bien le problème.
@@ -63,12 +63,12 @@ Tu sais ce qui m'a le plus travaillée, en le lisant ? C'est pas le portrait. C'
 Je crois que j'ai jamais su comment demander qu'on me regarde, alors j'ai appris à regarder les autres à la place.
 
 **La mère :**
-Je sais. On va essayer de faire mieux, maintenant qu'on le sait.
+On va essayer de faire mieux, maintenant qu'on le sait.
 
 *Elle laisse la phrase flotter un instant, puis reprend, plus légère, comme pour laisser respirer ce qu'elle vient de dire.*
 
 **La mère :**
-Bon. Cela dit, je referme jamais un lien, hein. Je le laisse juste s'éteindre. Regarde mes copines de ma promo — j'ai rien gardé pendant quarante ans, on s'était toutes perdues de vue. Et puis un jour nous avons repris contact, plus tard, quand certaines commençaient à s'affaiblir. Là, ça m'a intéressée à nouveau.
+Bon. Cela dit, je referme jamais un lien, hein. Regarde mes copines de promo — j'ai rien gardé pendant quarante ans, on s'était toutes perdues de vue. Et puis un jour nous avons repris contact, plus tard, quand certaines commençaient à s'affaiblir. Là, ça m'a intéressée à nouveau.
 
 **Le père :**
 Et moi je suis pas QUE la table.
@@ -91,50 +91,38 @@ Tu te souviens de ce que je t'ai dit, y a un moment. Tu n'es pas dans ma tête.
 Ouais.
 
 **Le fils aîné :**
-Ben voilà. Alors cette fois, c'est moi qui l'écris, ma version. Toi t'as fait la tienne. File-moi juste un stylo.
+Ben voilà. Alors file-moi un stylo. Je vais te le proouver, j'ai quelques ratures à faire, il y a des trucs qui ne tiennent pas du tout.
 
 **La mère :**
-Moi aussi, tiens. Je veux ma version. Je vais vous montrer, à tous, que je suis pas qu'une lionne qui referme des portes. J'en ouvre, moi, des portes. Beaucoup, même. Je choisis juste de quel côté je me tiens.
+Moi aussi, tiens. Je veux bien écrire quelques commentairs dans la marge. Je suis pas qu'une soi-disante lionne. J'ai déjà repéré quelques erreurs.
 
 **Le père :**
-Et moi je veux juste écrire un chapitre où je dis "je ne tiens pas la table, je suis juste bien assis devant !"
+Et moi je veux juste écrire en bas de la page que je ne tiens pas la table, mais je suis juste bien assis devant ! Ca c'est d'accord !
 
-*Le fils cadet se lève, va fouiller dans le tiroir du buffet, revient avec trois carnets et une poignée de stylos, en pose un devant chacun sans même demander. La mère et l'aîné les prennent, presque sans y penser, comme si c'était déjà décidé. Le père rouvre le livre pour relire un passage*
+*Le fils cadet se lève, va fouiller dans le tiroir du buffet, revient avec trois carnets et une poignée de stylos, en pose un devant chacun sans même demander. La mère et l'aîné les prennent comme si c'était déjà décidé. Le père rouvre le livre pour relire un passage*
 
 *Le fils cadet les regarde faire, un par un, presque incrédule.*
 
 **Le fils cadet :**
-Vous êtes sérieux, là ?
+Alors c'est parti ?
 
 *Il s'arrête. Il ne cherche pas de contre-argument, cette fois. Il réfléchit vraiment, puis reprend, plus posé, presque solennel.*
 
 **Le fils cadet :**
-Merci d'avoir pris ces stylos. Je vais vous dire un truc. Oui, j'ai fait une caricature. Oui, j'ai tiré les traits, chacun le vôtre. Une caricature, ça sert à ça : amuser, déformer, et parfois faire passer un message qu'on n'oserait pas dire autrement. Il y a beaucoup de faux là-dedans, et un peu de vrai. Chacun de vous verra, au fond de lui, ce qui résonne — sans forcément l'avouer, et c'est pas grave. Nos récits intérieurs restent impénétrables, mais ils sont sensibles quand même. Des fois, le personnage qu'on a fait de vous dit ou fait des choses que vous auriez aimé dire ou faire vous-mêmes. Si ça vous a fait rire, tant mieux. Si, une fois ou deux, ça vous a inspirés, c'est ça, le vrai miracle de la caricature. Moi, maintenant, j'ai qu'une envie : lire vos œuvres.
+Merci. Je veux vous remercier. Et je veux vous dire un truc. Oui, c'est vrai, j'ai fait des caricatures. J'ai tiré les traits, pour amuser, et parce que pour faire passer quelques messages, je n'ai pas trouvé mieux. Alors il y a beaucoup de faux dans tout ça, mais un peu de vrai. Chacun de vous verra, au fond de lui, ce qui résonne vraiment. Nos récits intérieurs restent impénétrables. Et si ça vous fait rire, tant mieux. Si, une fois ou deux, ça vous inspire, alors il est là, le vrai miracle de la caricature. Moi, maintenant, je n'ai qu'une envie : lire vos œuvres.
 
 *Un silence, différent de tous les précédents.*
 
 **Le fils aîné :**
-Tu vas vouloir corriger, pourtant. Je te connais.
+C'est quelle page déjà la scène du steak ?
 
 **Le fils cadet :**
-Non. Je lirai. Je corrigerai rien.
-
-**La mère :**
-Alors on sera sincères. Et probablement un peu méchants sur certains passages.
-
-**Le fils aîné :**
-Surtout sur le passage du steak.
-
-**Le fils cadet :**
-Je m'en doutais.
-
-**Le père :**
-Bon. Au boulot, alors.
+Je m'en doutais, tiens !
 
 *Mais avant que quiconque ait choisi son premier mot, l'aîné a déjà la tête baissée sur son carnet, stylo en main, en train d'écrire — sans attendre, sans réfléchir à sa première phrase, exactement comme il a toujours fait. Les trois autres le regardent une seconde, surpris de le voir déjà lancé.*
 
 **Le fils aîné :**
 *sans lever les yeux de son carnet*
-*Et bien quoi ? Finissez-moi ces travaux préliminaires inutiles avec le stylo. Il faut qu'on passe à la rénovation, maintenant !
+Et bien quoi ? Finissez-moi ces inutiles travaux d'auto analyse. Il faut qu'on passe à la vraie rénovation de la maison, au plus vite !
 
-*Il continue d'écrire, presque en riant tout seul. Un par un, les trois autres se mettent à écrire aussi. Le livre reste au milieu de la table, refermé, mais pas loin — prêt à être rouvert, contredit, complété, à quatre voix cette fois plutôt qu'une seule.*
+*Il continue d'écrire, presque en riant tout seul. Un par un, les autres se mettent à écrire aussi. Le livre reste au milieu de la table, refermé, mais pas loin — prêt à être rouvert, contredit, complété, à quatre voix cette fois plutôt qu'une seule.*

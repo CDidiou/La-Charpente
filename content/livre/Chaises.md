@@ -9,7 +9,7 @@ weight: 23
 
 ---
 
-*Un dimanche, avant l'arrivée de toute la famille pour un repas. Le père va et vient dans le salon, déplace une chaise, la repose, compte les couverts une troisième fois, jette un œil à la playlist, revient sur les chaises.*
+*Un dimanche, avant l'arrivée de toute la famille pour un repas. Le père va et vient dans le salon, déplace une chaise, la repose, compte les couverts une troisième fois, jette un œil à la liste musicale, vérifie que le melon est bien découpé en cubes, revient sur les chaises.*
 
 **Le fils aîné :**
 Papa. Assieds-toi deux minutes.
@@ -32,7 +32,7 @@ Alors dis-moi où, et moi je les mets. Toi tu t'assois.
 Si personne s'occupe de rien, ça va être n'importe quoi.
 
 **Le fils aîné :**
-Je m'occupe de rien, justement, papa. Je m'occupe des chaises. C'est tout ce qu'il y a à faire, là, maintenant.
+Je ne m'occupe pas de rien, justement, papa. Je m'occupe des chaises. C'est tout ce qu'il y a à faire, là, maintenant.
 
 *Il commence à déplacer les chaises lui-même, sans attendre de réponse. Le père le regarde faire, presque désœuvré, ne sachant plus quoi surveiller.*
 
@@ -62,12 +62,6 @@ C'est facile pour toi. T'as jamais eu peur qu'un repas de famille tombe à plat.
 
 **Le fils aîné :**
 Ça tombe jamais à plat. Parce que t'es là. Pas parce que t'as tout réglé au millimètre avant que les gens arrivent.
-
-**Le père :**
-Tu dis ça, mais si personne relance la conversation, si personne va chercher ton oncle qui reste toujours dans son coin...
-
-**Le fils aîné :**
-Et si, et si ! Assieds-toi. Regarde juste ce qui se passe, pas besoin d'imposer l'ambiance.
 
 *Le père s'assoit, à contrecœur, les mains encore agitées, cherchant quoi faire d'elles.*
 

@@ -1,8 +1,8 @@
 ---
-title: "Introduction"
+title: "L'après-guerre"
 date: 2026-08-17
 version: 1.0
-weight: 1
+weight: 2
 ---
 
 *Dialogues imaginaires sur ce qui se transmet, et sur ce qui, malgré tout, se choisit*

@@ -2,7 +2,7 @@
 title: "Maman raconte"
 date: 2026-08-17
 version: 1.0
-weight: 4
+weight: 5
 ---
 
 # Dialogue imaginaire avec Papa
@@ -13,7 +13,7 @@ weight: 4
 Toi qui parle bien, explique-moi notre famille. Commence par toi. Comment tu as grandi, finalement?
 
 **Moi:**
-Je suis devenue une femme de tête, papa. Celle qui décide, qui organise, qui n'a jamais eu peur de prendre sa place dans une pièce. Je n'ai jamais supporté qu'on me marche dessus, qu'on décide à ma place, qu'on m'efface. Je crois que c'est toi qui m'as appris ça, sans le vouloir vraiment. En te regardant commander, en te voyant occuper tout l'espace, j'ai compris très tôt qu'il n'y avait que deux façons d'exister dans une maison comme la nôtre : plier, ou tenir tête. J'ai choisi de tenir tête.
+Je suis devenue une femme de tête, papa. Celle qui décide, qui organise, qui n'a jamais eu peur de prendre sa place dans une pièce. Je n'ai jamais supporté qu'on me marche dessus, qu'on décide à ma place, qu'on m'efface. Je crois que c'est toi qui m'as appris ça, sans le vouloir vraiment. En te regardant commander, en te voyant occuper tout l'espace, j'ai compris très tôt qu'il n'y avait que deux façons d'exister : plier, ou tenir tête. J'ai choisi de tenir tête.
 
 **Papa:**
 Tu me le reproches ?
@@ -44,12 +44,6 @@ Parle-moi des deux petits. Ils sont vite partis loin, ce n'était pas ça qu'il 
 
 **Moi:**
 L'aîné te ressemble beaucoup : un tempérament de commandant, quelqu'un qui prend sa place naturellement, qui n'a jamais peur d'avancer, de décider, de construire à grande échelle — la tech, la finance, des mondes qui bougent vite et où il faut toujours être un coup devant. En le regardant grandir, j'ai souvent pensé à toi. L'autre est très différent : plus discret, plus intérieur, un esprit qui observe tout depuis les hauteurs avant d'agir, qui a toujours préféré comprendre le monde plutôt que le conquérir. Il a pris beaucoup de son père, cette manière de se retirer pour ne pas entrer dans les rapports de force.
-
-**Papa:**
-Et leurs femmes, à eux ? Comment tu me les décrirais ?
-
-**Moi:**
-Tu le sais. L'aînée est à l'image de son mari : rigoureuse, exigeante, aussi forte que lui. Ils forment un vrai duo de bâtisseurs, deux caractères qui se frottent parfois, mais qui avancent ensemble avec une énergie impressionnante. La cadette est plus discrète, plus posée, du même bois tranquille que mon second fils. Ils forment un couple silencieux, presque indéchiffrable, mais qui voit tout, comprend tout, sans jamais rien montrer.
 
 **Papa:**
 Est-ce que tu regrettes d'être devenue cette femme de tête, avec du caractère comme le mien ?

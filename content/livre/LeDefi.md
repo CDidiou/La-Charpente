@@ -1,8 +1,8 @@
 ---
-title: "Le défi ?"
+title: "Jeu d'écriture"
 date: 2026-08-17
 version: 1.0
-weight: 15
+weight: 16
 ---
 
 # La Charpente — écrire les trois autres versions
