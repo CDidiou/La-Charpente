@@ -2,7 +2,7 @@
 title: "Le silence"
 date: 2026-08-17
 version: 1.0
-weight: 24
+weight: 23
 ---
 
 # Ce que la tête voit à sa place

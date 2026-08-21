@@ -2,7 +2,7 @@
 title: "Enfin la retraite"
 date: 2026-08-17
 version: 1.0
-weight: 26
+weight: 25
 ---
 
 # Ce qui revient

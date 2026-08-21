@@ -2,7 +2,7 @@
 title: "La visite"
 date: 2026-08-17
 version: 1.0
-weight: 28
+weight: 27
 ---
 
 # La maison qu'on ne reconnaît plus

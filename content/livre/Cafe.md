@@ -2,7 +2,7 @@
 title: "Le café"
 date: 2026-08-17
 version: 1.0
-weight: 20
+weight: 19
 ---
 
 # Ce qu'on ne répare pas avec les mains

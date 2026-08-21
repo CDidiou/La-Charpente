@@ -2,7 +2,7 @@
 title: "L'assiette sale"
 date: 2026-08-17
 version: 1.0
-weight: 21
+weight: 20
 ---
 
 # Ce qu'on ne répare pas comme un mur

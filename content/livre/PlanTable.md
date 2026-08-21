@@ -2,7 +2,7 @@
 title: "Le plan de table"
 date: 2026-08-17
 version: 1.0
-weight: 22
+weight: 21
 ---
 
 # Ce que la tête ne surveille pas non plus
