@@ -9,10 +9,12 @@ weight: 1
 
 ## Note sur l'auteur
 Joseph de Bernadi-Lilaz
+![Photo de l'auteur](/images/JosephWw1.jfif)
+
 
 Né en 1896 dans un hameau qu'aucune carte ne prenait la peine de nommer en entier, cadet d'une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans avec, pour tout bagage, la certitude qu'il n'y avait rien à y attendre. Le Québec l'accueille sans le retenir vraiment — quelques hivers à bûcheronner dans des forêts plus grandes que tout ce qu'il avait connu, des lettres qu'il n'envoie presque jamais.
 
-Il rentre en 1917, pour des raisons qu'il n'explique à personne, et se retrouve dans la Somme quelques mois plus tard. Il y laisse une jambe et, dit-on, une partie de sa capacité à espérer que les choses s'arrangent d'elles-mêmes. À son retour au pays, sa famille ne l'attend pas vraiment : elle est occupée à se déchirer pour des raisons de bornage, d'héritage, de vieilles rancunes que personne ne sait plus raconter dans l'ordre. Il regarde ses cousins se faire la guerre, à leur tour, sans comprendre — lui qui revient d'une vraie guerre — ce qui peut bien valoir qu'on se batte encore, entre soi, pour un mur ou un chemin.
+Il rentre en 1916, pour des raisons qu'il n'explique à personne, et se retrouve dans la Somme quelques mois plus tard. Il y laisse une jambe et, dit-on, une partie de sa capacité à espérer que les choses s'arrangent d'elles-mêmes. À son retour au pays, sa famille ne l'attend pas vraiment : elle est occupée à se déchirer pour des raisons de bornage, d'héritage, de vieilles rancunes que personne ne sait plus raconter dans l'ordre. Il regarde ses cousins se faire la guerre, à leur tour, sans comprendre — lui qui revient d'une vraie guerre — ce qui peut bien valoir qu'on se batte encore, entre soi, pour un mur ou un chemin.
 
 Il ne trouve pas sa place, alors il s'en fabrique une ailleurs : il achète des parcelles de forêt que personne ne veut, revend le bois qu'il coupe lui-même, clopin-clopant, avec une jambe de moins et une obstination que personne ne lui connaissait avant. Il aime une femme du village, une seule, qui l'aime aussi, mais dont le tempérament — trop de feu pour son silence à lui — finit par les séparer sans qu'aucun des deux ne le décide vraiment. Il ne se remariera pas. Il ne réclamera jamais rien à personne.
 

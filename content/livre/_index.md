@@ -2,4 +2,4 @@
 title: "La charpente"
 ---
 
-![Couverture du livre](/images/HalleAuriac.PNG)
+![Couverture du livre](/images/HalleAuriac.png)

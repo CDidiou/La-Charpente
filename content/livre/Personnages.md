@@ -5,13 +5,6 @@ version: 1.0
 weight: 3
 ---
 
----
-title: "Portraits de famille"
-date: 2026-08-17
-version: 1.0
-weight: 2
----
-
 ## Le père
 
 **Ce qu'il porte bien.** Il sait faire sentir à chacun qu’il a sa place, sans même qu’il ait eu à la demander. C'est un don rare et presque invisible : personne ne remarque le travail que ça demande, tant ça a l'air naturel chez lui. Il tient la table, littéralement et symboliquement — celle de la maison, celle du dimanche, celle qui reste dressée quoi qu’il se passe. Ce n'est pas de la passivité déguisée en gentillesse — c'est une forme de puissance qui ne cherche jamais à se faire remarquer. Il est bon vivant, expansif, du genre à remplir une pièce de sa voix et de son rire sans que ça pèse à personne. Ses mains savent ce qu'elles font : un parquet qui grince, un mur pas droit, il les corrige en une seconde, presque sans y penser, avec un plaisir tranquille pour le geste lui-même — plus habile, en réalité, qu'aucun de ses deux fils, qui ont hérité de tout sauf de ça. Le monde, pour lui, a des codes simples : une chose est bien faite ou elle ne l'est pas, une ligne est droite ou elle ne l'est pas. Il n'a jamais eu de goût pour les chemins tortueux de son cadet ni pour la ligne directe et parfois destructrice de son aîné — ce qu'il cherche, avant tout le reste, c'est l'harmonie.
