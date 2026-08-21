@@ -15,3 +15,7 @@
   text-align: right;
   margin-left: auto;
 }
+
+.post-content p {
+    margin-bottom: 1.2em;
+}
