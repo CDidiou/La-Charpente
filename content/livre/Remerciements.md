@@ -9,7 +9,7 @@ weight: 1
 
 ## Note sur l'auteur
 Joseph de Bernadi-Lilaz
-![Photo de l'auteur](/La-Charpente/images/JosephWw1.jfif)
+![Photo de l'auteur](/La-Charpente/images/JosephWw1.png)
 
 
 Né en 1896 dans un hameau qu'aucune carte ne prenait la peine de nommer en entier, cadet d'une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans avec, pour tout bagage, la certitude qu'il n'y avait rien à y attendre. Le Québec l'accueille sans le retenir vraiment — quelques hivers à bûcheronner dans des forêts plus grandes que tout ce qu'il avait connu, des lettres qu'il n'envoie presque jamais.
