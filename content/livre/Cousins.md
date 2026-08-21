@@ -73,6 +73,12 @@ C'est là que ça ne collait pas, pour moi, à l'époque. En plus, ton cousin n'
 Je sais. J'ai pesé ça différemment de toi, à l'époque. Pour moi, l'urgence, c'était de refermer complètement la porte sur cette histoire, tant que ma mère était vivante et vulnérable. Je n'ai pas eu la finesse de trier. J'ai fermé le bloc entier.
 
 **Le père:**
+Et pourtant, ça ne t'a jamais paru difficile, à toi, de le faire. Je t'ai jamais vue hésiter, ni douter, ni en souffrir vraiment.
+
+**La mère:**
+C'est vrai. Et je crois que je sais pourquoi, maintenant que tu le dis comme ça. C'était pas mon lien à moi que je coupais. C'était celui de ma mère, que je protégeais. Moi, mes propres liens, je les laisse jamais partir comme ça, d'un coup. Je les laisse juste s'éteindre, doucement, sans faire de mal à personne. Mais celui-là, c'était pas le mien. J'étais du côté de celle qui protège, pas de celle qui est exposée. C'est peut-être pour ça que j'ai pu trancher net, sans que ça me coûte.
+
+**Le père:**
 Et moi, je voyais un lien simple, chaleureux, avec des gens que j'aimais beaucoup, cassé pour une raison que je ne comprenais qu'à moitié. Je n'avais pas les mêmes poids sur la balance. Je ne vous ai pas compris, à aucune.
 
 **La mère:**

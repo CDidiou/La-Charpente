@@ -26,16 +26,28 @@ Ton grand-père travaillait juste là, sous la fenêtre. Il avait installé son 
 Il fuyait.
 
 **Le père:**
-Non. Enfin, si, un peu, mais pas seulement. Il tenait la maison debout autrement qu'elle, c'est tout. Elle commandait, il stabilisait. Longtemps j'ai cru que c'était de la faiblesse. Aujourd'hui je pense que c'était une autre forme de force, plus silencieuse.
+Ici, oui. Mais il n'était pas que ça, tu sais. Dehors, au village, c'était un autre homme. Il allait boire un coup avec les autres, il chantait faux et fort, il organisait les fêtes de quartier, tout le monde l'aimait, tout le monde le cherchait pour animer une soirée. Deux hommes sous le même chapeau, en fait : celui qui se taisait ici, dans cet établi, et celui qui rayonnait dehors, dans la rue.
 
 **Le fils aîné:**
-C'est marrant que tu dises ça. Parce que moi, gamin, je pensais la même chose de toi.
+t toi, tu as pris lequel des deux ?
 
 **Le père:**
-Que j'étais faible ?
+Les deux, sans le vouloir. J'ai voulu devenir l'homme du village. Consciemment, activement. La fête, la chaleur, le rassemblement, c'est ce que je voyais de lui à l'extérieur, et c'est ce que j'ai eu envie de devenir. Mais à l'intérieur, sans que je m'en rende compte, j'ai gardé l'autre. Celui qui se tait, qui absorbe, qui laisse passer l'orage plutôt que d'y répondre. J'ai pris l'image publique de mon père comme modèle, et son caractère privé comme réflexe.
 
 **Le fils aîné:**
-Que tu cédais tout le temps. Que maman décidait de tout et que toi, tu suivais en souriant. Je me disais que je ne voulais surtout pas devenir comme ça. Je voulais commander, moi, pas m'adapter.
+C'est étrange, comme partage.
+
+**Le père:**
+Longtemps j'ai cru que c'était de la faiblesse, ce repli qu'il avait ici, dans cette pièce. Aujourd'hui je pense que c'était une autre forme de force, plus silencieuse. Elle commandait, il stabilisait — dans la maison. Et dehors, il rassemblait. Moi j'ai juste fusionné les deux endroits en un seul homme, sans distinguer, sans même savoir que j'étais en train de le faire.
+
+**Le fils aîné:**
+C'est marrant que tu dises ça. Parce que moi, gamin, je pensais la même chose de toi — mais je n'avais que la version de toi à l'intérieur de la maison. Je ne voyais que l'homme qui cédait.
+
+**Le père:**
+C'est possible. Un enfant voit surtout ce qui se passe sous son propre toit. Le reste, il faut qu'on le lui raconte.
+
+**Le fils aîné:**
+Je voyais et je croyais que tu cédais tout le temps. Que maman décidait de tout et que toi, tu suivais en souriant. Je me disais que je ne voulais surtout pas devenir comme ça. Je voulais commander, moi, pas m'adapter.
 
 **Le père:**
 Et tu as fait exactement ce que tu voulais. Tu es devenu quelqu'un qui commande.

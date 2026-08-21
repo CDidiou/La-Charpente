@@ -43,7 +43,7 @@ Nous avons trouvé un joli équilibre. Avec mon armure, j'ai parfois pris toute 
 Parle-moi des deux petits. Ils sont vite partis loin, ce n'était pas ça qu'il fallait faire!
 
 **Moi:**
-L'aîné te ressemble beaucoup : un tempérament de commandant, quelqu'un qui prend sa place naturellement, qui n'a jamais peur d'avancer, de décider, de construire à grande échelle. En le regardant grandir, j'ai souvent pensé à toi. L'autre est très différent : plus discret, plus intérieur, un esprit qui observe tout depuis les hauteurs avant d'agir, qui a toujours préféré comprendre le monde plutôt que le conquérir. Il a pris beaucoup de son père, cette manière de se retirer pour ne pas entrer dans les rapports de force.
+L'aîné te ressemble beaucoup : un tempérament de commandant, quelqu'un qui prend sa place naturellement, qui n'a jamais peur d'avancer, de décider, de construire à grande échelle — la tech, la finance, des mondes qui bougent vite et où il faut toujours être un coup devant. En le regardant grandir, j'ai souvent pensé à toi. L'autre est très différent : plus discret, plus intérieur, un esprit qui observe tout depuis les hauteurs avant d'agir, qui a toujours préféré comprendre le monde plutôt que le conquérir. Il a pris beaucoup de son père, cette manière de se retirer pour ne pas entrer dans les rapports de force.
 
 **Papa:**
 Et leurs femmes, à eux ? Comment tu me les décrirais ?
