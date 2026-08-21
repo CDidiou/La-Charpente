@@ -7,15 +7,11 @@ weight: 3
 
 ## Le père
 
-**Ce qu'il porte bien.** Il sait faire sentir à chacun qu’il a sa place, sans même qu’il ait eu à la demander. C'est un don rare et presque invisible : personne ne remarque le travail que ça demande, tant ça a l'air naturel chez lui. Il tient la table, littéralement et symboliquement — celle de la maison, celle du dimanche, celle qui reste dressée quoi qu’il se passe. Ce n'est pas de la passivité déguisée en gentillesse — c'est une forme de puissance qui ne cherche jamais à se faire remarquer. Il est bon vivant, expansif, du genre à remplir une pièce de sa voix et de son rire sans que ça pèse à personne. Ses mains savent ce qu'elles font : un parquet qui grince, un mur pas droit, il les corrige en une seconde, presque sans y penser, avec un plaisir tranquille pour le geste lui-même — plus habile, en réalité, qu'aucun de ses deux fils, qui ont hérité de tout sauf de ça. Le monde, pour lui, a des codes simples : une chose est bien faite ou elle ne l'est pas, une ligne est droite ou elle ne l'est pas. Il n'a jamais eu de goût pour les chemins tortueux de son cadet ni pour la ligne directe et parfois destructrice de son aîné — ce qu'il cherche, avant tout le reste, c'est l'harmonie.
+**Ce qu'il porte bien.** Chaleureux, il sait faire sentir à chacun qu’il a sa place, sans même qu’il ait eu à la demander. C'est un don rare et presque invisible : personne ne remarque le travail que ça demande, tant ça a l'air naturel chez lui. Il tient la table, littéralement et symboliquement — celle de la maison, celle du dimanche, celle qui reste dressée quoi qu’il se passe. Ce n'est pas de la passivité déguisée en gentillesse — c'est une forme de puissance qui ne cherche jamais à se faire remarquer. Il ne construit jamais pour s'isoler, il construit pour que les autres aient un endroit où revenir. Il est bon vivant, expansif, du genre à remplir une pièce de sa voix et de son rire sans que ça pèse à personne. Ses mains savent ce qu'elles font : un parquet qui grince, un mur pas droit, il les corrige en une seconde, presque sans y penser, avec un plaisir tranquille pour le geste lui-même — plus habile, en réalité, qu'aucun de ses deux fils, qui ont hérité de tout sauf de ça. Le monde, pour lui, a des codes simples : une chose est bien faite ou elle ne l'est pas, une ligne est droite ou elle ne l'est pas. Il n'a jamais eu de goût pour les chemins tortueux de son cadet ni pour les voies rapides et parfois destructrices de son aîné — ce qu'il cherche, avant tout le reste, c'est l'harmonie.
 
 **Ce qui le fragilise.** Il a grandi en essayant de réparer, tout petit déjà, un couple qui n'était pas le sien à réparer — son propre père, conciliateur mais en retrait dans le foyer, expansif et festif dès qu’il était à l’extérieur ; sa propre mère, qui avait les rênes de la maison et faisait activement tourner le foyer. Cette habitude de lisser, d'adoucir, de faire en sorte que personne ne se sente de trop, il ne sait pas toujours où s'arrête le service rendu et où commence l'oubli de lui-même. Il a fallu qu'un fils le regarde retaper une maison pour qu'il ose dire, pour la première fois, qu'il a eu peur, lui aussi, de ne rien avoir de solide à transmettre.
 
 **Sa blessure.** Ne pas être celui qui construit de grandes choses, dans une famille qui ne parle que de ça. "Je tenais juste la table", dit-il de lui-même, avec une fausse modestie qui cache une vraie inquiétude : et si tenir la table ne suffisait pas ?
-
-**Sa particularité.** Il n'oublie jamais un lien. Il n'a rien fait, pendant trente ans, pour recontacter les cousins en douce — il a respecté le choix de sa femme, sans la juger, sans forcer la porte à sa place. Il a juste continué à en ressentir le manque, année après année, jusqu'à ce que ce soit enfin lui qui propose, un soir, de les rappeler.
-
-**Ce qui touche, chez lui.** La fidélité sans condition, sans date de péremption. Le fait qu'il puisse dire "ça me manque" trente ans après, sans amertume calculée, juste avec la tristesse simple de quelqu'un qui a continué d'aimer en silence, sans jamais reprocher à personne d'avoir choisi autrement que lui.
 
 **Ce qui peut agacer, chez lui.** Sa manière de minimiser ce qu'il fait ("je ne tiens rien, je fais les choses") au moment précis où on essaie de le remercier — comme s'il fallait toujours qu'il refuse le compliment avant même qu'on ait fini de le formuler. Et cette tendance ancienne à céder trop vite, à avaler une frustration plutôt que de la dire tout de suite, quitte à la ressortir intacte, trente ans plus tard, avec toute son amertume conservée. Sa recherche d'harmonie, aussi, peut virer à l'évitement : il se lasse vite des détours du cadet et se hérisse devant la brutalité de l'aîné, comme si toute complexité ou toute friction était, par principe, une chose mal faite.
 
@@ -29,10 +25,6 @@ weight: 3
 
 **Sa blessure.** Avoir été, petite, un enjeu plutôt qu'une personne aimée pour elle-même — utile à empêcher un couple de se déchirer, plutôt que choisie sans condition. Elle a passé sa vie à retourner cette blessure en force, sans toujours voir qu'elle continuait, parfois, à en payer le prix ailleurs, sur d'autres liens, d'autres générations.
 
-**Sa particularité.** Elle sait décoder les gens avec une précision presque clinique, et elle ne l'a jamais caché à ses fils — elle leur a tout raconté, sans filtre, dès leur plus jeune âge, ce qui a fait d'eux, chacun à sa façon, des lecteurs fins des autres.
-
-**Ce qui touche, chez elle.** Sa capacité à se laisser reprendre par ses propres enfants sans que son autorité en sorte diminuée. Elle peut dire "je ne savais pas que ça t'avait pesé à ce point" sans que ce soit un aveu de faiblesse — juste une vraie ouverture.
-
 **Ce qui peut agacer, chez elle.** Sa manière de trancher avant qu'on ait fini de poser la question, d'arriver sur un chantier et de redistribuer les rôles en trente secondes sans consulter personne. Et cette façon, encore aujourd'hui, de refermer un sujet un peu trop vite dès qu'elle sent qu'il est réglé pour elle — même si, pour l'autre en face, ce n'est pas encore tout à fait le cas.
 
 ---
@@ -45,10 +37,6 @@ weight: 3
 
 **Sa blessure.** La peur d'avoir eu raison contre son père pour de mauvaises raisons — d'avoir choisi la vitesse et la fermeté comme réponse à une enfance qu'il a peut-être mal lue, enfant.
 
-**Sa particularité.** Il sait dire "je ne sais pas si j'ai eu raison" à un moment où la plupart des hommes de son tempérament s'enfermeraient dans la certitude. C'est sa vraie grandeur, plus rare que son énergie.
-
-**Ce qui touche, chez lui.** La vulnérabilité qu'il laisse affleurer avec son père, sur ce chantier, cette cloison qu'ils enlèvent ensemble — un homme d'action qui accepte de ne pas tout contrôler, l'espace d'une conversation.
-
 **Ce qui peut agacer, chez lui.** Son impatience, sa manière de trancher pour les autres avant de leur demander leur avis — exactement le geste qu'il reproche parfois à sa mère, sans toujours le voir chez lui-même au même instant. Et cette propension à mépriser, même affectueusement, la lenteur de son frère, comme si prendre son temps était une faiblesse plutôt qu'une autre force.
 
 ---
@@ -60,10 +48,6 @@ weight: 3
 **Ce qui le fragilise.** Il a grandi surprotégé, choyé comme la fille que sa mère aurait aimé avoir, et n'a jamais eu, à cause de ça, l'occasion de développer les muscles qu'on gagne en se cognant. Il a surtout grandi comme l'objet du soin de sa mère, plutôt que comme son égal — aimé, protégé, mais rarement rencontré tel qu'il était vraiment. Il en a tiré, sans le vouloir, une leçon silencieuse : que la proximité s'accompagne toujours d'un contrôle, d'un côté ou de l'autre. Alors il préfère observer les liens avant de s'y risquer — garder la position de celui qui comprend, plutôt que celle de celui qui pourrait, à son tour, être géré comme un cas. Ce qui le rend brillant pour lire les gens, et prudent jusqu'à l'excès pour se lier à eux.
 
 **Sa blessure.** Ne jamais avoir eu le droit d'exercer, pour lui-même, le don qu'on lui a pourtant transmis en entier — le décodage, l'intuition, la psychologie. Il a pris le savoir sans le courage, et il le sait, et ça continue de le travailler.
-
-**Sa particularité.** Il démonte tout ce qui lui tombe sous la main — radios, pendules, jouets de ses fils — parce qu'il n'a jamais eu le droit de démonter les gens. C'est le même geste, appliqué à un axe froid plutôt qu'à un axe chaud.
-
-**Ce qui touche, chez lui.** Sa loyauté silencieuse, sa manière de tout observer sans jamais rien dire, jusqu'au jour où il finit par le dire, et c'est toujours d'une justesse qui laisse tout le monde sans voix.
 
 **Ce qui peut agacer, chez lui.** Sa tendance à tout intellectualiser, y compris ses propres émotions, y compris les moments où il faudrait juste ressentir sans commenter. Et cette lenteur à se décider qui, vue de l'extérieur, peut passer pour de l'indécision alors que c'est, chez lui, une vraie méthode — mais une méthode qui use la patience de ceux qui l'aiment et qui attendent, parfois trop longtemps, qu'il se lance.
 

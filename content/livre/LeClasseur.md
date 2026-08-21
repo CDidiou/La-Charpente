@@ -99,7 +99,7 @@ C'est une belle image, et un peu cruelle pour moi.
 Pour être juste, je pense que tu as pris le savoir, mais pas le courage qui va avec.
 
 **Le fils cadet:**
-C'est vrai, ça aussi. Je ne t'en veux pas, maman. Je suis un bon ingénieur, j'aime mon métier, à sa façon. Mais je voulais que tu saches que le décodage, l'intuition, l'analyse fine, tout ça, je l'ai gardé de toi, intact. Je l'utilise juste sur des moteurs et des circuits plutôt que sur des enfants en difficulté. Et c'est un atout de passer par ce chemin en fait ! Je me sens puissant.
+C'est vrai, ça aussi. Je ne t'en veux pas, maman. Je suis un bon ingénieur, j'aime mon métier, à ma façon. Mais je voulais que tu saches que le décodage, l'intuition, l'analyse fine, tout ça, je l'ai gardé de toi, intact. Je l'utilise juste sur des moteurs et des circuits plutôt que sur des enfants en difficulté. Et c'est un atout de passer par ce chemin en fait ! Je me sens puissant.
 
 **La mère:**
 Il n'est pas trop tard, tu sais.

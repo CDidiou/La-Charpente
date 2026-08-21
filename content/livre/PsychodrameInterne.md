@@ -9,7 +9,7 @@ weight: 15
 
 Il faut que je vous dise quelque chose, maintenant, avant d'aller plus loin.
 
-Cette famille que vous venez de lire — le père qui tient la table, la mère qui commande, mon frère qui fonce, moi qui observe — je l'ai écrite. Pas seulement racontée : construite. Les dialogues d'une lucidité presque trop parfaite que vous avez lus jusqu'ici, ce ne sont pas des conversations qui ont eu lieu telles quelles. Ce sont des conversations que j'étais devenu, avec le temps, capable d'imaginer. **Vous n'avez pas vu ma famille telle qu'elle était. Vous l'avez vue telle que j'étais capable de la penser.**
+Cette famille que vous venez de lire — mon père qui tient la table, ma mère qui commande, mon frère qui fonce, moi qui observe — je l'ai écrite. Pas seulement racontée : construite. Les dialogues d'une lucidité presque trop parfaite que vous avez lus jusqu'ici, ce ne sont pas des conversations qui ont eu lieu telles quelles. Ce sont des conversations que j'étais devenu, avec le temps, capable d'imaginer. **Vous n'avez pas vu ma famille telle qu'elle était. Vous l'avez vue telle que j'étais capable de la penser.**
 
 Je ne vous dis pas ça pour me faire pardonner. Je vous le dis parce que si je ne le dis pas maintenant, tout ce qui suit continuera de vous sembler être une vérité, alors que ce n'est que mon regard sur elle — un regard entraîné, ancien, et pas du tout innocent.
 
@@ -23,19 +23,19 @@ Cette capacité a un double effet. Elle me permet de comprendre les autres. Elle
 
 ## 2. Une intelligence qui refroidit
 
-Mon intelligence n'est pas qu'un talent, c'est un mécanisme de défense : je me protège de l'affect en le transformant en causalité, du conflit en l'observant, de la douleur en lui donnant une structure. Mon père fait la même chose par un autre chemin — « je ne veux pas de conflit, alors je me retire » contre « je comprends tellement bien le conflit que je peux rester en dehors » — deux stratégies pour un seul but : **ne pas entrer dans l'arène**. J'ai longtemps cru être l'antithèse de mon père. Je suis peut-être, sur un autre registre, son descendant le plus fidèle.
+Ma capacité d'analyse n'est pas qu'un talent, c'est un mécanisme de défense : je me protège de l'affect en le transformant en causalité, du conflit en l'observant, de la douleur en lui donnant une structure. Mon père fait la même chose par un autre chemin — « je ne veux pas de conflit, alors je me retire » contre « je comprends tellement bien le conflit que je peux rester en dehors » — deux stratégies pour un seul but : **ne pas entrer dans l'arène**. J'ai longtemps cru être l'antithèse de mon père. Je suis peut-être, sur un autre registre, son descendant le plus fidèle.
 
 Le temps long joue le même rôle chez moi. Étaler les événements sur trois générations fait passer de la colère à la généalogie, de la blessure à la structure, du reproche à la compréhension — cela **dilue ma responsabilité dans la continuité familiale**. Mon analyse est juste. Elle est aussi une manière élégante de ne plus avoir à éprouver directement la douleur. J'ai intellectualisé mon pardon avant même de l'avoir vraiment donné.
 
 ## 3. Un miroir qui n'est pas transparent
 
-Ce livre est produit par moi : j'ai sélectionné les événements, les causalités, les blessures, les intentions que je prête aux autres — et la place que je m'attribue dans cette architecture. Mon intelligence ne me donne pas accès à la réalité familiale ; elle produit **une interprétation extrêmement cohérente** de cette réalité, biaisée précisément par sa cohérence. J'ai construit la famille qui explique le mieux ma propre personnalité — la causalité fonctionne dans les deux sens : je suis devenu comme ça parce que ma famille était comme ça, mais tout autant je reconstruis ma famille ainsi parce que je suis devenu comme ça.
+Ce livre est produit par moi : j'ai sélectionné les événements, les causalités, les blessures, les intentions que je prête aux autres — et la place que je m'attribue dans cette architecture. Je n'ai pas accès à la réalité familiale ; mais je peux produire **une interprétation extrêmement cohérente** de cette réalité, biaisée précisément par sa cohérence. J'ai construit la famille qui explique le mieux ma propre personnalité — la causalité fonctionne dans les deux sens : je suis devenu comme ça parce que ma famille était comme ça, mais tout autant je reconstruis ma famille ainsi parce que je suis devenu comme ça.
 
 Voilà pourquoi les dialogues que vous venez de lire sont si étrangement lucides : ce sont des conversations que je suis devenu capable d'imaginer, pas des conversations qui ont eu lieu mot pour mot. Ce que vous tenez entre les mains, c'est mon **psychodrame intérieur**.
 
 ## 4. Trois réactions, trois limites à mon miroir
 
-Ma mère est la plus réceptive à ce que j'écris d'elle, parce qu'elle partage avec moi le goût de l'analyse — « enfin quelqu'un me voit vraiment », me dit-elle. Mais une question la traverse sans qu'elle la formule, et que je me pose aussi, dans mes pires moments : **je ne la vois pas — je la vois à travers les catégories qu'elle m'a elle-même transmises.** Je suis son meilleur élève. Je la reproduis au moment même où je crois l'avoir dépassée.
+Ma mère sera la plus réceptive à ce que j'écris d'elle, parce qu'elle partage avec moi le goût de l'analyse — « enfin quelqu'un me voit vraiment », me dira-t-elle. Mais une question la traverse sans qu'elle la formule, et que je me pose aussi, dans mes pires moments : **je ne la vois pas — je la vois à travers les catégories qu'elle m'a elle-même transmises.** Je suis son meilleur élève. Je la reproduis au moment même où je crois l'avoir dépassée.
 
 Mon frère aîné, lui, fonctionne par l'action, pas par l'analyse. Il répond à toute explication savante par une phrase qui suffit à tout arrêter : **« Tu n'es pas dans ma tête. »** C'est la limite fondamentale de tout ce que je fais quand j'analyse les gens que j'aime — je peux comprendre beaucoup sur quelqu'un sans jamais avoir accès à son expérience intérieure.
 
@@ -45,7 +45,7 @@ Mon père introduit une limite plus radicale : l'opacité. Il reconnaît « oui,
 
 J'intègre chaque réaction à mon propre modèle : l'accord de ma mère confirme mon analyse, la résistance de mon frère la confirme aussi, la minimisation de mon père n'est jamais que son mécanisme d'évitement. Personne ne peut me donner tort — **ma théorie s'auto-valide**, et mon extra-lucidité devient une forme sophistiquée d'aveuglement.
 
-Il y a une différence entre être compris et être interprété. Le premier laisse une part de mystère. Le second enferme dans une explication. Passer de « maman m'a fait mal » à « voici pourquoi maman m'a fait mal » est intellectuellement supérieur. C'est aussi une manière de ne plus avoir à prononcer la première phrase.
+Il y a une différence entre être compris et être interprété. Le premier laisse une part de mystère. Le second enferme dans une explication. Passer de « maman m'a fait mal » à « voici pourquoi maman m'a fait mal » est intellectuellement satisfaisant. Mais c'est aussi ma manière de ne plus avoir à prononcer la première phrase.
 
 Analyser quelqu'un, c'est exercer un pouvoir sur lui. Celui qui définit les causes définit le sens de l'histoire — « tu as fait cela parce que ton père... » n'explique pas seulement, cela **prend possession du récit de l'autre**. Une violence calme, bienveillante, argumentée, exacte le plus souvent — une prise malgré tout. Je l'ai fait à chacun d'eux, dans ce livre, avant même de m'en rendre compte.
 
@@ -67,7 +67,7 @@ C'est ce qui fait de mon père mon véritable contre-modèle. Je comprends l'amo
 
 ## Ce que ce livre est, en fin de compte
 
-Vous venez de lire une famille qui parvient à comprendre ses transmissions et à transformer ses blessures. Vous venez aussi de lire, en même temps, quelque chose de plus dérangeant : un homme — moi — qui utilise son intelligence pour construire une version cohérente de sa famille afin de pouvoir s'en rapprocher sans renoncer à la distance qui le protège.
+Vous venez de lire une famille qui parvient à comprendre ses transmissions et à transformer ses blessures. Vous venez aussi de lire, en même temps, quelque chose de plus dérangeant : un homme — moi — qui utilise sa logique pour construire une version cohérente de sa famille afin de pouvoir s'en rapprocher sans renoncer à la distance qui le protège.
 
 Mon récit est vrai. Il est aussi une défense. Ces dialogues ne sont pas des conversations qui ont eu lieu — ce sont les conversations dont j'avais besoin.
 

@@ -23,11 +23,11 @@ Mon frère aîné est le plus méfiant vis-à-vis de mes explications : « peut-
 
 L'intérêt n'est pas de mettre ces quatre versions côte à côte, sagement. C'est de les faire se cogner. Un même dimanche, raconté par chacun de nous, ne donne jamais la même histoire, même si personne ne ment. C'est cette collision qui produit quelque chose de neuf — et qui me retire, à moi, le privilège d'être le seul narrateur crédible de cette famille. Ma lucidité n'était qu'une lucidité parmi d'autres, pas un accès supérieur à la vérité.
 
-Et il y a un juste retour des choses là-dedans : j'ai longtemps occupé la position de celui qui observe. Le jour où les trois autres écrivent, c'est moi qu'on regarde à mon tour. Mon père interprète mon retrait. Ma mère reconnaît en moi son propre besoin d'analyse. Mon frère voit ma tendance à expliquer au lieu d'agir. Je cesse d'être celui qui sait, pour devenir un membre du système parmi les autres — ce que j'aurais dû être depuis le début.
+Le jour où les trois autres écrivent, c'est moi qu'on regarde à mon tour. Mon père interprète mon retrait. Ma mère reconnaît en moi son propre besoin d'analyse. Mon frère voit ma tendance à expliquer au lieu d'agir. Je cesse d'être celui qui sait, pour devenir un membre du système parmi les autres — ce que j'aurais dû être depuis le début.
 
 ## Tu n'es pas dans ma tête
 
-La phrase de mon frère revient, et elle prend ici tout son sens. Je connais l'histoire, les répétitions, les circonstances. Je ne possède pas son expérience intérieure. Je produis une hypothèse, parfois excellente — jamais la vérité de ce qu'il vit de l'intérieur. Cette phrase n'est pas une attaque contre mon intelligence. C'est une déclaration d'autonomie : son intériorité n'est pas réductible à mon modèle. Et cette limite-là, je crois, est la condition de toute relation adulte entre nous.
+La phrase de mon frère revient, et elle prend ici tout son sens. Je connais l'histoire, les répétitions, les circonstances. Je ne possède pas son expérience intérieure. Je produis une hypothèse, parfois excellente — jamais la vérité de ce qu'il vit de l'intérieur. Cette phrase n'est pas une attaque contre mon analyse. C'est une déclaration d'autonomie : son intériorité n'est pas réductible à mon modèle. Et cette limite-là, je crois, est la condition de toute relation adulte entre nous.
 
 ## Un geste qui change quelque chose, pas juste un exercice de style
 
@@ -39,6 +39,6 @@ Je ne veux pas que mon père apprenne à ne plus apaiser, que ma mère apprenne 
 
 ## Ce que je perds, ce que j'y gagne
 
-Le jour où je partage mon interprétation avec les trois autres, je perds quelque chose : le monopole. Ils la reprennent, la contestent, la déforment, l'enrichissent. Elle cesse de m'appartenir pour devenir une connaissance commune. Et c'est seulement en perdant ce monopole que mon interprétation devient enfin utile à quelqu'un d'autre qu'à moi.
+Le jour où je partage mon interprétation, je perds quelque chose : le monopole. Ils reprennent alors mon interprétation, la contestent, la déforment, l'enrichissent. Elle cesse de m'appartenir pour devenir une connaissance commune. Et c'est seulement en perdant ce monopole que mon interprétation devient enfin utile à quelqu'un d'autre qu'à moi.
 
 Le passé ne changera pas, quoi qu'on écrive. Le futur, lui, peut changer. Une mère qui n'a plus besoin de protéger son fils peut lui faire confiance. Un fils qui ne se voit plus comme celui qui doit réparer son père peut simplement être son fils. C'est peut-être ça, au fond, que je cherche en leur tendant ces trois carnets : pas plus de récits sur nous, mais plus de façons possibles d'être les uns avec les autres, une fois les récits posés sur la table.

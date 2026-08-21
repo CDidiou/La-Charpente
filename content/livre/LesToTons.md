@@ -22,7 +22,7 @@ Alors. Du côté de papa, il y a eu un grand-père en phase avec la ruche collec
 Et du côté de maman ?
 
 **Le fils aîné:**
-L'usine à caractères! Un grand-père autoritaire, un vrai chef, et une grand-mère de fer qui a contre attaqué toute sa vie. Maman a grandi dans cette maison-là, elle s'y est endurcie.
+L'usine à caractères! Papi ? Un vrai tempérament de chef ! Mamie ? Une structure en fer avec du velours autour, elle a contre attaqué toute sa vie. Maman a grandi dans cette maison-là, elle s'y est endurcie.
 
 **Le fils cadet:**
 Des histoires de lions et de conciliateurs. Remarque, on en parle facilement, nous, avec nos mots d'aujourd'hui. Eux, ils n'avaient pas ce luxe. C'était après guerre. Il fallait nourrir la maison, pas se demander d'où venait sa colère.
@@ -137,10 +137,10 @@ On a le droit de faire ça, toi et moi, uniquement parce qu'eux ne l'ont pas eu.
 Indécent, non. Mais un privilège, sûrement. Ils nous ont épargné assez de dureté pour qu'on ait le temps de regarder en arrière au lieu de juste survivre devant nous. Et ils ont préparé le terrain, ouvert l'analyse.
 
 **Le fils aîné:**
-Papa et maman ont vraiment été de bons parents. Imagine la violence de la vie, des situations, des précarités, et le cocon que l'on a eu! Chapeau!
+Papa et maman ont vraiment été de bons parents.
 
 **Le fils cadet:**
-Après deux générations de sérieux, de structure, de rigueur, il faudrait presque qu'un des nôtres devienne le grain de folie de la famille.
+Imagine la violence de la vie, des situations, des précarités, et le cocon que l'on a eu ! Chapeau !
 
 **Le fils aîné:**
 Dis-moi, toi qui aimes penser à long terme : est-ce qu'on pourrait, un jour, faire quelque chose ensemble, toi et moi ? Nos deux branches, la mienne qui fonce et la tienne qui pense ?
@@ -168,7 +168,7 @@ C'est marrant, tiens. Ce serait un double mélange savoureux, où chaque culture
 Et surtout, ça les mettrait chacun devant une place qui n'existe pas dans leur propre fratrie. Chez moi, ils se retrouveraient à décrypter doucement la grande carte du monde. Chez toi, il n'aurait plus le luxe de rester en retrait du monde.
 
 **Le fils aîné:**
-Ils iraient essayer la place que leur propre frère leur a toujours laissée vide chez nous.
+Ils iraient essayer d'occuper un autre espace.
 Mais bon, ils commencent à être un peu grands pour ce genre de jeu.
 
 **Le fils cadet:**
