@@ -184,7 +184,13 @@ Papa. Aucun de nous deux ne lui ressemble vraiment, ni dans le tempérament ni d
 Maman. Elle nous a donné cette force qu'on a tous les deux, chacun à sa façon. Sans elle, sa finesse pour sublimer l'autoritarisme, ni toi ni moi n'aurions eu ce courage d'avancer, l'un en fonçant, l'autre en creusant.
 
 **Le fils cadet:**
-Et leurs parents avant eux, imagine les boucliers qu'ils ont déployé... Toute cette longue chaîne qui nous a transmis des forces et des blessures sans le savoir.
+Et nous deux, avec tout ça. Je crois qu'on a fini par se forger un bouclier, chacun le nôtre, avec ce qu'on a reçu d'eux. Toi dans l'action, moi dans l'observation. Ça nous a protégés, j'en suis sûr. Ça nous a peut-être aussi un peu enfermés, sans qu'on s'en rende compte.
+
+**Le fils aîné:**
+Un bouclier. C'est un grand mot.
+
+**Le fils cadet:**
+Peut-être. Mais c'est celui qui me vient. On a dû se construire quelque chose de solide, tous les deux, pour tenir debout dans une maison où il y avait tant d'amour et tant de caractère en même temps.
 
 **Le fils aîné:**
 Oui, on leur doit beaucoup.

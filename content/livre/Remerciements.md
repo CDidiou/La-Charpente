@@ -27,7 +27,7 @@ La Charpente est un roman familial.
 
 Il y a ce qu'une famille se dit à table, à voix haute, entre deux plats. Et il y a tout le reste — ce qui circule sans jamais se nommer, ce qui se transmet sans qu'on l'ait choisi, ce qui se répète parce que personne, avant, n'a pris le temps de le dire tout haut.
 
-Un père qui tient la table sans qu'on lui demande. Une mère qui sait créer et fermer magiquement des liens. Un fils qui fonce pour ne jamais avoir à attendre. Un autre qui comprend tout, sauf comment se laisser toucher. Quatre manières d'aimer, quatre façons de se protéger d'aimer trop.
+Un père qui tient la table sans qu'on lui demande. Une mère qui ouvre les liens avec une facilité déconcertante. Un fils qui fonce pour ne jamais avoir à attendre. Un autre qui comprend tout, sauf comment se laisser toucher. Quatre manières d'aimer, quatre façons de se protéger d'aimer trop.
 
 *La Charpente* raconte ce qui tient une famille debout sans qu'on le voie — le soin et le lien, tressés l'un dans l'autre, invisibles comme des poutres sous un plancher. Et ce que ces deux forces peuvent faire naître, quand elles cessent de s'épuiser à tout porter seules : une confiance assez large pour qu'on ose, enfin, s'aventurer là où on ne savait pas qu'on pouvait aller.
 

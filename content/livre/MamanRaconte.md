@@ -19,7 +19,7 @@ Je suis devenue une femme de tête, papa. Celle qui décide, qui organise, qui n
 Tu me le reproches ?
 
 **Moi:**
-Non, papa. Pas de reproche. Longtemps, oui, ça m'a pesé. Mais aujourd'hui je regarde ça autrement. Je sais bien que ce n'était pas de la tyrannie, dans ta tête, quand tu commandais comme ça. La vie était dure, à l'époque, il fallait décider vite, organiser, tenir la barre sans trop tolérer qu'on la conteste, sinon tout partait en morceaux. Ta manière de commander, c'était ta manière à toi de nous protéger, moi et maman. Je vois aujourd'hui que de l'amour, qui n'avait pas d'autre langue pour se dire. Tu m'as forgée. Tu m'as appris, sans un mot, ce que c'était que le pouvoir, la structure, la volonté. Je m'en suis servie. Je m'en sers encore.
+Non, papa. Pas de reproche. Longtemps, oui, ça m'a pesé. Mais aujourd'hui je regarde ça autrement. Je sais bien que ce n'était pas de la tyrannie, dans ta tête, quand tu commandais comme ça. La vie était dure, à l'époque, il fallait décider vite, organiser, tenir la barre sans trop tolérer qu'on la conteste, sinon tout partait en morceaux. Ta manière de commander, c'était ta manière à toi de nous protéger, moi et maman. Je ne vois aujourd'hui que de l'amour, qui n'avait pas d'autre langue pour se dire. Tu m'as forgée. Tu m'as appris, sans un mot, ce que c'était que le pouvoir, la structure, la volonté. Je m'en suis servie. Je m'en sers encore.
 
 **Papa:**
 Et ta mère, tu l'avais dans ta poche ? 

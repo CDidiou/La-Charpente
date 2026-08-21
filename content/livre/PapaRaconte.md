@@ -55,7 +55,7 @@ Je pense que je me trompais. Je ne leur ai peut-être pas donné mon goût pour 
 Est-ce que tu trouves ta place, au milieu de tout ce monde-là ?
 
 **Moi:**
-Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préferre les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
+Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préfère les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
 
 **Ma mère:**
 Et les petits-enfants ? Est-ce qu'il y en a un qui te ressemble, dans tout ça ? Un qui vient te chercher pour faire les quatre cents coups, un comme toi ?
