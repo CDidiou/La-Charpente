@@ -1,0 +1,105 @@
+---
+title: "The visit"
+date: 2026-08-17
+version: 1.0
+weight: 25
+---
+
+# The house that we no longer recognize
+
+---
+
+*Childhood home, six months after the end of the project. The shutters are new, anthracite gray, the facade has regained its bare stone under the old plaster. A discreet, raw wooden sign announces “Guest rooms”. The father waits on the porch, almost impatient like a kid, when his sister's car finally parks in the street.*
+
+**The father:**
+So? What do you say?
+
+**The sister:**
+Wait, at least let me get out of the car.
+
+*She gets out, closes the door, looks at the facade for a long moment without saying anything. The father watches her watch, watching for her reaction as if he had laid each stone himself.*
+
+**The sister:**
+It's not the same house anymore.
+
+**The father:**
+Yes. It's the same. Just... woke up.
+
+*He drags her inside. The dark corridor of their childhood has become a clear passage, white wall, a single exposed beam, the original one, deliberately left raw in the middle of everything else well smoothed.*
+
+**The father:**
+It was my youngest son who insisted. “We keep a beam visible, to remember that it’s not a new house, it’s a repaired house.” I would have repainted everything straight away, but he was right.
+
+**The sister:**
+And the room upstairs, the one where we both slept as kids before they gave me mine?
+
+**The father:**
+Come see.
+
+*They go upstairs and enter a bright room, large bed, adjoining bathroom.*
+
+**The sister:**
+There was a wall there before. No window.
+
+**The father:**
+Yeah. The eldest blew up the load-bearing wall, with a proper permit, eh, I should point out. He wanted light. He always wanted things to move faster than they were.
+
+*They return to the kitchen, sit for a while, have a coffee between them. The sister looks into the distance, silent for a moment.*
+
+**The sister:**
+You remember Dad in the morning before leaving. He would stay there for hours, saying nothing, just happy that we were all there.
+
+**The father:**
+And mom who was busy making sure everything was ready, the coffee hot, the toast ready.
+
+**The sister:**
+It seems so far away.
+
+**The father:**
+And you and I remember. We were already different.
+
+*She laughs, a dry little laugh.*
+
+**The sister:**
+It's funny you say that. I was just thinking about something on my way here. Your two sons. The eldest who rushes, who breaks down walls. The cadet who observes, who thinks.
+
+**The father:**
+Yeah.
+
+**The sister:**
+I recognized myself in that. The two of us, before. You, the strong guy happy to live who has never been afraid of anything. Me, the intellectual who left quickly, a chance to seize. I took a step back, I was able to breathe.
+
+**The father:**
+I hadn't thought of it like that.
+
+**The sister:**
+I'm glad your sons redid our house. But, you know, I tell myself, we could have done this work ourselves. For our parents.
+
+*A longer silence. The father turns his cup in his hands.*
+
+**The father:**
+We didn't have time, I think. Mom and Dad both left too quickly. We never had the opportunity to sit like this, you and I, we had to run our houses. Like mom and dad, in short.
+
+**The sister:**
+And now we can finally sit down. At our place. In our childhood.
+
+*She places her hand on the table, between them, without placing it on his — just resting there, like a point of balance between two cups of coffee.*
+
+**The sister:**
+This house is beautiful. More beautiful than I remembered, in fact.
+
+**The father:**
+I think she's the same. It's just that we look at her with eyes that have had time to change.
+
+*She smiles, looks one last time at the new facade, the wooden sign, the gray shutters.*
+
+**The sister:**
+Your sons did a good job.
+Maybe we just had to wait one more generation.
+
+*She gets up, goes to the door, and suddenly turns around.*
+
+**The sister:**
+Wait! I have an idea!
+
+---
