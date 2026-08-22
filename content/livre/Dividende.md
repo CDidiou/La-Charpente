@@ -2,131 +2,97 @@
 title: "Enfin la retraite"
 date: 2026-08-17
 version: 1.0
-weight: 25
+weight: 23
 ---
 
-# Ce qui revient
+# Les casques de chantier
 
 ---
 
-*Le soir, tout le monde est parti. La mère et le père rangent la cuisine, lentement, sans se presser — la maison encore pleine du bruit de la journée, même vide.*
+*La maison d'enfance du père, en plein chantier. Les murs sont à nu, la poussière recouvre tout, un thermos de café posé sur un plan de travail qui n'existe plus. Les parents gardent les petits-enfants pour les vacances, et les ont laissés jouer dans la pièce d'à côté pendant qu'eux deux soufflent un instant, assis sur deux seaux retournés.*
 
 **La mère :**
-T'as vu comme ton fils t'a laissé assis, cet après-midi ?
+T'as vu comme ton fils t'a laissé assis, l'autre jour ? Il t'a pris les chaises des mains, en te disant texto : « t'as pas besoin d'être celui qui tient tout. »
 
 **Le père :**
-Lequel.
+Ouais. Et toi, avec la haie ? Il t'a empêchée de surveiller la maison en te tailladant deux branches de traviole.
 
 **La mère :**
-L'aîné. Il t'a pris les chaises des mains. Littéralement.
+« Regarde juste la haie, maman. » On se croirait dans un stage.
 
 **Le père :**
-Oui. Ça m'a fait drôle. Et toi, avec la haie ?
+Un stage de quoi, remarque ?
 
 **La mère :**
-Pareil. Il m'a empêchée de surveiller la maison pendant qu'on taillait. J'ai réussi dix minutes à faire un truc juste pour le faire.
+Je sais pas. Un truc genre « pleine présence et jardinage conscient ». Cent quatre-vingts euros la journée, avec tisane à midi.
 
-*Elle s'arrête d'essuyer un verre, le repose.*
+*Le père manque de s'étouffer de rire dans son gobelet de thermos.*
+
+**Le père :**
+Arrête, tu vas me faire recracher mon café. Et le silence, avec ton fils, alors ? Tu sais ce qu'il m'a dit ? « On n'a pas besoin de savoir pourquoi. » J'ai cru un instant qu'il allait me proposer un bâton de pluie.
 
 **La mère :**
-Tu te rends compte que ce qu'ils nous ont donné aujourd'hui, le droit d'être paisibles ! On a un sacré retour.
+Et le plan de table ! Il m'a sorti trois contraintes sur un bout de papier comme un consultant qui facture à l'heure. « Une chose à la fois, maman. »
 
 **Le père :**
-Comment ça.
+Nos fils sont devenus des coachs de vie sans qu'on nous prévienne.
+
+*Ils rient franchement, ce vrai fou rire qui reprend juste au moment où on croit qu'il s'arrête. Un fracas de pas précipités, des cris, une porte qui claque contre le mur. Les cinq petits débarquent dans la pièce, surexcités, l'un d'eux brandissant déjà un morceau de tuyau trouvé quelque part.*
+
+**Le petit-fils :**
+Papi, on peut aider ?? Il reste des murs à casser ??
+
+*Le père échange un regard avec la mère. Un grand sourire s'installe sur son visage.*
+
+**Le père :**
+Il en reste. Beaucoup, même.
+
+*Il se lève, va chercher dans un coin trois masses, deux marteaux de forgeron, et une massette, et les distribue sans la moindre hésitation, sans casque, sans lunettes, sans un mot de sécurité.*
+
+**Le père :**
+Celui-là, il tient plus rien de toute façon. Vous pouvez taper dessus tant que vous voulez.
+
+*C'est immédiatement la pagaille. Les enfants se ruent sur la cloison du couloir, frappent n'importe comment, en riant aux éclats, de la poussière plein les cheveux, un hurle de joie à chaque coup porté, un autre tape carrément à côté du mur et rate tout, sans que personne ne s'en formalise.*
+
+**La mère, hurlant par-dessus le vacarme :**
+Vise le bas du mur, pas le haut, il y a une gaine électrique !
+
+**Le père :**
+Coupée depuis ce matin, t'inquiète !
+
+*Un pan entier de cloison s'effondre dans un nuage de plâtre, suivi d'un cri de victoire collectif. La mère se rassoit sur son seau, hilare, en sirotant son café tandis que le chantier se transforme en franche kermesse.*
+
+*Il s'assoit à côté d'elle, la regarde un instant, l'attrape par la taille, et l'embrasse, sans se presser, pendant que les enfants continuent de démolir joyeusement derrière eux.*
 
 **La mère :**
-Toi tu leur as donné le lien. Cette manie de vouloir que tout le monde soit bien ensemble. Et moi je leur ai donné le soin. Regarder si quelqu'un va mal avant qu'il le dise.
+Tu te rends compte. Nos deux fils savants qui nous ont fait tout un discours sur le lâcher-prise, sur le fait de laisser circuler, de plus tout porter tout seuls.
 
 **Le père :**
-Et ils en ont fait quoi.
+Et au final, c'est qui qui retape la baraque ?
 
 **La mère :**
-L'aîné a pris ton truc du lien et il en a fait de l'action. Il fait, il répare, il rassemble avec ses mains plutôt qu'avec des mots. Et le cadet a pris mon truc du soin et il en a fait de l'analyse. Il comprend les gens avant de les toucher, plutôt qu'en s'inquiétant pour eux.
-
-*Le père s'assoit, la regarde, en train de suivre le fil.*
+Nous.
 
 **Le père :**
-Donc ce qu'on leur a donné, ils l'ont transformé.
+Et c'est qui qui garde les gosses pendant les vacances, pendant que môssieur négocie ses affaires et que môssieur analyse le marché ?
 
 **La mère :**
-Oui. Et aujourd'hui, ils nous l'ont rendu transformé. Toi t'as eu de l'action, moi j'ai eu de l'analyse. On n'a pas récupéré ce qu'on avait donné. On a récupéré ce que ça devient, une fois que ça a traversé quelqu'un d'autre.
+Nous, encore.
 
-*Un silence. Le père se lève, va chercher deux verres, en sert un peu, en pose un devant elle.*
+*Ils éclatent de rire tous les deux, un rire qui se mélange au vacarme des marteaux et aux cris des enfants.*
 
 **Le père :**
-C'est un drôle de calcul, ça, quand j'y pense.
+Ils ont de belles théories, nos fils. Mais la réalité, elle continue d'être pilotée par les mêmes petites mains depuis quarante ans.
 
 **La mère :**
-Quel calcul.
+Tant mieux. J'aurais pas su quoi faire d'une retraite tranquille, de toute façon.
+
+*Un des petits-enfants surgit devant eux, couvert de poussière blanche des pieds à la tête, un sourire immense sur le visage.*
+
+**Le petit-fils :**
+Papi, mamie, on peut casser encore un mur ?
 
 **Le père :**
-On a donné un truc à chacun, y a trente ans, quarante ans, sans rien attendre en retour, juste parce que c'est ce qu'on avait à donner à ce moment-là. Et ça nous revient aujourd'hui, mais pas pareil. Ça nous revient plus riche.
+Vas-y, mon grand. Tant qu'il en reste, cassez tout ce que vous voulez.
 
-**La mère :**
-On n'a jamais investi pour ça, remarque.
-
-**Le père :**
-Non. Mais ça rapporte quand même. Ça rapporte toujours, d'investir, même quand c'était pas le but.
-
-*Elle sourit, prend le verre, le fait tourner un instant sans boire.*
-
-**La mère :**
-Ce qui est étrange, c'est que ça a fait des allers-retours qu'on n'a même pas vus. Le lien qui devient action chez l'un, le soin qui devient analyse chez l'autre, et puis les deux frères qui se sont mis à se répondre entre eux, sans nous, pendant des années — et maintenant ça nous revient encore, transformé une deuxième fois.
-
-**Le père :**
-Comme un écho qui aurait rebondi plusieurs fois avant de nous arriver.
-
-**La mère :**
-Oui. Sauf qu'un écho, normalement, ça s'affaiblit à chaque rebond. Là c'est l'inverse. Ça s'épaissit.
-
-*Le père regarde autour de lui — la cuisine, la maison, encore chaude du monde qui vient de la quitter.*
-
-**Le père :**
-Tu sais ce que je me dis, en fait ? On a jamais construit cette maison tout seuls. On a juste posé les fondations. Le socle. Et c'est eux qui ont fait tenir le reste, sans qu'on regarde vraiment comment.
-
-**La mère :**
-Une charpente.
-
-**Le père :**
-Oui. Une charpente. On voit pas les poutres, une fois que la maison est faite. On voit juste qu'elle tient debout, et qu'on peut s'asseoir dedans sans qu'elle nous tombe dessus.
-
-*La mère pose sa main sur la sienne, sur la table, un geste simple, sans rien à prouver.*
-
-**La mère :**
-On a bien fait, alors.
-
-**Le père :**
-On a fait ce qu'on a pu, avec ce qu'on avait. On a pédalé, et puis un jour on a vieilli !
-
-*Un silence. Le père tourne son verre, pensif.*
-
-**Le père :**
-Tu sais ce qui m'a travaillé, tout à l'heure, avec les chaises. J'ai eu l'impression, deux minutes, qu'il fallait que j'arrête d'être celui qui tient tout, pour avoir le droit de m'asseoir un peu.
-
-**La mère :**
-Et ce soir, tu penses encore ça ?
-
-**Le père :**
-Non. Je crois que je me suis trompé de calcul. J'ai pas eu besoin de cesser d'être qui je suis.
-
-**La mère :**
-Pareil pour moi, avec la haie. J'ai cru qu'il fallait que j'arrête de veiller pour avoir le droit de faire un truc pour moi. Mais j'ai pas arrêté de veiller. Ça reste ce que je suis. On m'a juste laissée veiller sur un buisson, une fois, plutôt que sur du monde.
-
-**Le père :**
-Le sol a pas besoin de bouger pour sentir la pluie, en fait.
-
-**La mère :**
-Joliment dit.
-
-**Le père :**
-J'ai bien le droit, moi aussi, d'avoir une phrase de temps en temps.
-
-*Elle rit, garde sa main sur la sienne.*
-
-**La mère :**
-À notre retraite, mon chéri ! À nous ! Fini les soucis, les tracas !
-
-*Ils restent là, un moment, dans la cuisine vide, la maison silencieuse autour d'eux, tenant debout sans qu'ils aient besoin d'y penser.*
-
-**Le père :**
-Attends... Et ma maison ! Va vite me chercher ma tablette, que je contacte le menuisier. Je lui commande la charpente. Les petits s'occuperont du reste...
+*Il repose sa tête contre l'épaule de la mère, un instant, au milieu du bruit et de la poussière, visiblement plus heureux qu'il ne l'a été depuis longtemps.*

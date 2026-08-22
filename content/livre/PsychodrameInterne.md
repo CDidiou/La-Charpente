@@ -15,62 +15,18 @@ Je ne vous dis pas ça pour me faire pardonner. Je vous le dis parce que si je n
 
 ---
 
-## 1. Je transforme mes proches en objets intelligibles
+## Ce que j'en fais, maintenant que je le sais
 
-C'est un réflexe chez moi, depuis toujours. Mon père devient le produit d'une histoire familiale ; ma mère, une stratégie de défense héritée de son propre père ; mon frère, une réponse alternative à la même structure. Et moi, je deviens le psychologue de l'ensemble.
+Voilà. Je vous ai dit ce que je devais vous dire. Reste à savoir ce que j'en fais.
 
-Cette capacité a un double effet. Elle me permet de comprendre les autres. Elle me permet aussi de prendre mes distances avec ce que je ressens. Au lieu de me dire « ma mère m'a empêché de choisir ma vie et ça me fait mal », je me dis : « ma mère a reproduit sur moi une forme de contrôle protecteur issue de sa propre histoire. » La seconde phrase est juste. Elle est aussi beaucoup moins douloureuse à habiter. Je transforme une blessure en objet de connaissance : je **comprends ce qui m'arrive au lieu de le vivre pleinement**.
+Ce que j'ai écrit n'est pas la réalité. C'est une projection dont j'avais besoin — besoin de comprendre, besoin de ne pas sombrer, besoin qu'il y ait un sens quelque part. Ça ne la rend pas fausse. Ça la rend simplement mienne, avant d'être la leur.
 
-## 2. Une intelligence qui refroidit
+Et je sais maintenant ce que raconter quelqu'un veut dire. Ce n'est jamais un geste neutre. C'est une prise de pouvoir — douce, bien intentionnée, mais une prise quand même. Celui qui écrit l'histoire décide de ce qu'elle signifie. Je l'ai fait à mon père, à ma mère, à mon frère, avant même de m'en rendre compte.
 
-Ma capacité d'analyse n'est pas qu'un talent, c'est un mécanisme de défense : je me protège de l'affect en le transformant en causalité, du conflit en l'observant, de la douleur en lui donnant une structure. Mon père fait la même chose par un autre chemin — « je ne veux pas de conflit, alors je me retire » contre « je comprends tellement bien le conflit que je peux rester en dehors » — deux stratégies pour un seul but : **ne pas entrer dans l'arène**. J'ai longtemps cru être l'antithèse de mon père. Je suis peut-être, sur un autre registre, son descendant le plus fidèle.
+Alors je ne vois qu'une chose à faire du pouvoir qu'on a pris sans le vouloir : le déposer en l'offrant. Pas le garder pour moi, pas m'excuser en silence — le rendre, littéralement, à ceux à qui il appartenait. Leur donner la plume. Qu'ils écrivent, eux aussi, ce que j'ai cru pouvoir écrire seul.
 
-Le temps long joue le même rôle chez moi. Étaler les événements sur trois générations fait passer de la colère à la généalogie, de la blessure à la structure, du reproche à la compréhension — cela **dilue ma responsabilité dans la continuité familiale**. Mon analyse est juste. Elle est aussi une manière élégante de ne plus avoir à éprouver directement la douleur. J'ai intellectualisé mon pardon avant même de l'avoir vraiment donné.
+Il y a une image qui m'aide à voir ce qu'on a été, chacun, dans cette histoire. Une plante a besoin d'un socle pour tenir debout, d'un terreau pour se nourrir, d'un mouvement intérieur pour faire circuler ce qu'elle absorbe, et d'une lumière venue du dehors pour transformer tout ça en quelque chose de vivant. Mon père a été le socle. Ma mère, le terreau. Mon frère est allé chercher la lumière à l'extérieur, là où aucun de nous deux ne serait allé la chercher. Et moi, avec ce que je viens de faire, avec ces mots, j'ai peut-être fourni le mouvement — la chose qui fait circuler, qui empêche tout le reste de rester figé. Rien de tout ça n'aurait poussé dans le désordre. Il fallait le socle et le terreau d'abord, puis la lumière, et le mouvement en dernier. On a eu cette chance-là, je crois, sans l'avoir choisie.
 
-## 3. Un miroir qui n'est pas transparent
+Le vrai travail, maintenant, n'est pas d'écrire une meilleure version. C'est de cesser de me confondre avec la fonction que je me suis donnée — celle qui comprend, qui explique, qui range chacun dans une case pour ne plus avoir à ressentir directement ce qui s'y passe. Je peux comprendre. Je n'ai plus besoin d'être celui qui comprend.
 
-Ce livre est produit par moi : j'ai sélectionné les événements, les causalités, les blessures, les intentions que je prête aux autres — et la place que je m'attribue dans cette architecture. Je n'ai pas accès à la réalité familiale ; mais je peux produire **une interprétation extrêmement cohérente** de cette réalité, biaisée précisément par sa cohérence. J'ai construit la famille qui explique le mieux ma propre personnalité — la causalité fonctionne dans les deux sens : je suis devenu comme ça parce que ma famille était comme ça, mais tout autant je reconstruis ma famille ainsi parce que je suis devenu comme ça.
-
-Voilà pourquoi les dialogues que vous venez de lire sont si étrangement lucides : ce sont des conversations que je suis devenu capable d'imaginer, pas des conversations qui ont eu lieu mot pour mot. Ce que vous tenez entre les mains, c'est mon **psychodrame intérieur**.
-
-## 4. Trois réactions, trois limites à mon miroir
-
-Ma mère sera la plus réceptive à ce que j'écris d'elle, parce qu'elle partage avec moi le goût de l'analyse — « enfin quelqu'un me voit vraiment », me dira-t-elle. Mais une question la traverse sans qu'elle la formule, et que je me pose aussi, dans mes pires moments : **je ne la vois pas — je la vois à travers les catégories qu'elle m'a elle-même transmises.** Je suis son meilleur élève. Je la reproduis au moment même où je crois l'avoir dépassée.
-
-Mon frère aîné, lui, fonctionne par l'action, pas par l'analyse. Il répond à toute explication savante par une phrase qui suffit à tout arrêter : **« Tu n'es pas dans ma tête. »** C'est la limite fondamentale de tout ce que je fais quand j'analyse les gens que j'aime — je peux comprendre beaucoup sur quelqu'un sans jamais avoir accès à son expérience intérieure.
-
-Mon père introduit une limite plus radicale : l'opacité. Il reconnaît « oui, ça se tient » tout en pensant, je le sais, « mais je ne sais pas si c'est vraiment ça ». Certains de ses choix ne se réduisent pas à une transmission. Il existe chez lui des élans, des contradictions, des gens aimés sans qu'on sache pourquoi — une part irréductiblement opaque de la vie humaine, que j'élimine chaque fois que je construis une histoire trop cohérente.
-
-## 5. Le piège de la théorie qui explique tout
-
-J'intègre chaque réaction à mon propre modèle : l'accord de ma mère confirme mon analyse, la résistance de mon frère la confirme aussi, la minimisation de mon père n'est jamais que son mécanisme d'évitement. Personne ne peut me donner tort — **ma théorie s'auto-valide**, et mon extra-lucidité devient une forme sophistiquée d'aveuglement.
-
-Il y a une différence entre être compris et être interprété. Le premier laisse une part de mystère. Le second enferme dans une explication. Passer de « maman m'a fait mal » à « voici pourquoi maman m'a fait mal » est intellectuellement satisfaisant. Mais c'est aussi ma manière de ne plus avoir à prononcer la première phrase.
-
-Analyser quelqu'un, c'est exercer un pouvoir sur lui. Celui qui définit les causes définit le sens de l'histoire — « tu as fait cela parce que ton père... » n'explique pas seulement, cela **prend possession du récit de l'autre**. Une violence calme, bienveillante, argumentée, exacte le plus souvent — une prise malgré tout. Je l'ai fait à chacun d'eux, dans ce livre, avant même de m'en rendre compte.
-
-## 6. Vrai et défensif à la fois
-
-Voici le cœur de ce que j'ai fini par admettre : il n'y a pas à choisir entre « j'ai compris ma famille » et « je me trompe complètement ». Les deux sont vrais en même temps. J'ai identifié de véritables mécanismes de transmission. J'ai aussi sélectionné ceux qui donnent du sens à ma propre trajectoire. J'ai compris ma mère, et je l'ai réduite. J'ai compris mon père, sans jamais accéder à ce qu'il éprouve réellement.
-
-> **Plus une interprétation est brillante et cohérente, plus il est difficile pour celui qui la produit d'y voir ce qu'elle laisse dehors.**
-
-## 7. Apprendre à ne plus tout comprendre
-
-Mon parcours se lit en quatre temps : « je comprends ma famille », puis « je comprends pourquoi je suis comme je suis », puis « je comprends que ma compréhension est une construction », et enfin, j'y travaille encore : **« je peux être avec eux sans avoir besoin de les comprendre complètement. »** Mon problème n'a jamais été la distance — c'est que je transforme la distance en connaissance. Il me faut une proximité qui ne soit plus médiatisée par l'analyse.
-
-La cloison, dans cette famille, n'est plus seulement celle qui sépare ses membres. C'est celle qui me traverse moi-même : observer contre vivre, analyser contre ressentir, comprendre contre éprouver, prendre du recul contre prendre un risque affectif. J'ai cherché la charpente de ma famille — mais une maison n'est pas que sa charpente. Elle est faite de bruits, d'odeurs, de silences, de gestes sans explication : **j'ai consacré une bonne partie de ma vie à comprendre la structure de ma famille, alors que ce qui en faisait une famille était précisément ce qui échappait à mon analyse.**
-
-C'est ce qui fait de mon père mon véritable contre-modèle. Je comprends l'amour ; lui le pratique. J'explique pourquoi il est comme il est ; lui n'a jamais eu besoin de cette explication. **Celui qui comprend le mieux n'est pas celui qui a le mieux vécu.**
-
----
-
-## Ce que ce livre est, en fin de compte
-
-Vous venez de lire une famille qui parvient à comprendre ses transmissions et à transformer ses blessures. Vous venez aussi de lire, en même temps, quelque chose de plus dérangeant : un homme — moi — qui utilise sa logique pour construire une version cohérente de sa famille afin de pouvoir s'en rapprocher sans renoncer à la distance qui le protège.
-
-Mon récit est vrai. Il est aussi une défense. Ces dialogues ne sont pas des conversations qui ont eu lieu — ce sont les conversations dont j'avais besoin.
-
-La question n'est donc pas « ai-je compris ma famille ? » mais : **que dois-je encore accepter de ne pas comprendre, pour être enfin pleinement avec elle ?**
-
-La charpente permet à une maison de tenir. Ce qui fait qu'on y habite, ce sont les choses qui ne sont pas dans la charpente. Mon véritable dépassement ne sera pas de devenir moins capable d'analyser — ce sera de ne plus avoir besoin que mes analyses me servent de protection.
+Je ne sais pas encore si j'y arriverai. Je n'ai pas de méthode à proposer, pas de plan en trois étapes. Juste ça : j'essaie de voir, maintenant. Pas d'expliquer. Voir.
