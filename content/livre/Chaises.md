@@ -93,3 +93,15 @@ Quoi.
 Laisse-les arriver. T'as pas besoin d'aller les chercher à la porte.
 
 *Le père se rassoit, à moitié, entre deux, et attend — pour la première fois de la matinée, sans rien faire d'autre qu'attendre. L'aîné, en passant derrière lui pour aller ouvrir, lui met une main sur l'épaule, appuie une seconde, un peu fort comme toujours, avant de s'écarter.*
+
+
+**Le fils aîné :**
+Reste assis, papa. Je m'occupe d'accueillir tout le monde.
+
+*Il sort d'un pas décidé, satisfait de lui-même. Mais sur le perron, sa mère et sa femme sont déjà là, bras dessus bras dessous, en train de rire avec les premiers arrivants, visiblement installées là depuis un moment.*
+
+**La mère :**
+*sans même se retourner tout à fait*
+Merci, mon chéri, c'est adorable. Mais tu seras beaucoup plus utile à l'intérieur, à aider ton père pour les derniers arrangements.
+
+*L'aîné reste planté une seconde, la bouche encore entrouverte sur une phrase d'accueil qu'il n'aura jamais l'occasion de prononcer. Il hausse les épaules et repart vers la maison. Une fois qu'il a disparu à l'intérieur, la mère et la femme de l'aîné échangent un regard, un sourire complice, presque un clin d'œil, avant de se retourner ensemble vers les invités qui montent l'allée.*

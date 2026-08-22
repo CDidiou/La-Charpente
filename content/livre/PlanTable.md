@@ -80,4 +80,14 @@ Bon. Et le reste, l'ambiance, tout ça — ça viendra tout seul, tu crois vraim
 **Le fils cadet :**
 Je crois vraiment. Mais si jamais ça vient pas tout seul, tu me rappelles, et on refait trois règles.
 
-*Elle sourit, se lève, passe devant lui, et le prend dans ses bras.*
+*Elle sourit. La femme du cadet entre à cet instant, avec une pile de serviettes dans les bras. Elle jette un œil au plan de table encore ouvert sur la nappe.*
+
+**La femme du cadet :**
+Pour l'ambiance, il y a plus simple. Pas besoin de trois règles. Vous mettez juste votre fils au bout de la table, bien isolé, et le problème est réglé !
+
+*Un silence. La mère se retourne d'un coup, lève les deux bras au ciel avant d'éclater de rire.*
+
+**La mère :**
+C'est génial, ce que tu viens de dire ! Le problème était là, en fait, depuis le début. Tellement simple. Et lui, bien sûr, il ne pouvait pas le voir, ça !
+
+*Elles rient ensemble, un vrai fou rire partagé, et finissent par s'embrasser, ravies l'une de l'autre. Le cadet, à côté, réajuste ses lunettes d'un geste automatique et sourit faiblement, un peu largué par la vitesse à laquelle son système à trois règles vient d'être remplacé par une phrase.*

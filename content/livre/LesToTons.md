@@ -58,24 +58,6 @@ Parlons de nos choix de vie, alors. Moi, j'ai construit vite : j'ai voulu bâtir
 J'ai besoin de comprendre. Toi, tu préfères comprendre en marchant. Mais moi quand je marche, je n'arrive plus à si bien comprendre. Alors je ne bouge pas! Et je vois.
 
 **Le fils aîné:**
-Et nos couples ? Tu veux qu'on en parle ?
-
-**Le fils cadet:**
-Vas-y en premier.
-
-**Le fils aîné:**
-J'ai trouvé une femme aussi rigoureuse et exigeante que moi. On se ressemble beaucoup, elle et moi : même énergie, même besoin d'efficacité, même goût pour bâtir de grandes choses. Ça crée parfois des étincelles, deux caractères aussi forts qui se frottent, mais c'est une énergie qui nous pousse en avant plus qu'elle ne nous freine.
-
-**Le fils cadet:**
-Moi, j'ai trouvé un équilibre. Ma femme est comme moi, discrète, méthodique, très attachée aux faits et à la sécurité. On se comprend souvent sans parler. De l'extérieur, je crois qu'on paraît indéchiffrables. Mais entre nous, tout est clair.
-
-**Le fils aîné:**
-Papa et maman disent toujours qu'ils ne savent jamais ce que vous pensez, tous les deux.
-
-**Le fils cadet:**
-C'est notre force et notre défaut à la fois. On voit beaucoup, on montre peu.
-
-**Le fils aîné:**
 Et nos enfants, dans tout ça, qu'est-ce qu'ils vont hériter de nous ?
 
 **Le fils cadet:**

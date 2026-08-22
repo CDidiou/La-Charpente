@@ -9,7 +9,7 @@ weight: 17
 
 ---
 
-*Un soir d'automne. Le salon s'est vidé peu à peu vers la cuisine et le café. La gouvernante reste assiss seuls près de la fenêtre, une assiette à peine touchée sur les genoux, le regard ailleurs. L'aîné la remarque le premier.*
+*Un soir d'automne. Le salon s'est vidé peu à peu vers la cuisine et le café. La gouvernante des enfants de l'aîné, chez eux depuis plus d'une dizaine d'années maintenant, devenue un membre à part entière de la maison, reste assise seule près de la fenêtre, une assiette à peine touchée sur les genoux, le regard ailleurs. L'aîné la remarque le premier.*
 
 **Le fils aîné :**
 Ça va ?
@@ -146,3 +146,13 @@ Non.
 
 **Le fils aîné, en sortant, à moitié amusé :**
 Ok.
+
+*La gouvernante le fixe. Elle se lève, les poings sur les hanches*
+
+**La gouvernante :**
+Oh ! Tu vas arrêter de tourner en rond avec ce café ? Ça fait dix minutes que tu te promènes avec ! Si c’est pour boire de l'eau tiède, c'était pas la peine d'en avoir fait toute une pleine cafetière !
+
+*L’aîné reste muet, sa tasse à la main, totalement pris de court. Sur le côté, le cadet esquisse son petit sourire d'analyste, prêt à placer une remarque bien sentie sur la résilience silencieuse*
+
+**La gouvernante :**
+Et l'autre qui rigole ! Et, tu n'entends pas qu'il n'y a plus de musique depuis tout à l'heure ! Bon sang, on s'ennuie ici ! Il nous passe des morceaux larmoyants, et en plus quand le morceau se termine, nada, personne ne bouge ! Allez, ne vous inquietez pas, je m'en occupe, ça va swinguer !
