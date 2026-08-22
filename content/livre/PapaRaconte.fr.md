@@ -58,16 +58,16 @@ Est-ce que tu trouves ta place, au milieu de tout ce monde-là ?
 Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préfère les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
 
 **Ma mère:**
-Et les petits-enfants ? Est-ce qu'il y en a un qui te ressemble, dans tout ça ? Un qui vient te chercher pour faire les quatre cents coups, un comme toi ?
+Et notre maison, qu'est-ce que tu en as fait avec ta soeur ?
 
 **Moi:**
-Pas encore, maman. Pour l'instant, aucun d'eux ne ressemble à ce petit garnement que j'étais. Mais j'y crois. Je me dis que rien ne se perd vraiment. Que les enfants de mes stratèges, élevés dans des maisons si sérieuses, si organisées, auront peut-être besoin, un jour, de légèreté, de fête, de quelqu'un qui les emmène faire des bêtises avec les mains dans les copeaux de bois. J'espère être encore là pour ça. J'espère qu'un jour l'un d'eux viendra me chercher en disant : « Papi, on fait quoi aujourd'hui ? » Et ce jour-là, je crois que je penserai très fort à vous deux, maman, parce que j'aurai l'impression de vous voir revivre, dans un monde plus doux, plus léger.
+Justement. Tu te souviens de ce vieux livre, maman ? Celui qu’on avait trouvé dans le grenier, quand j’étais petit. Tu me le lisais le soir, parfois. On ne savait jamais s’il venait d’un de nos aïeux ou des gens qui habitaient la maison avant nous. Un homme qui parlait de charpente, de famille, de guerre… Ça n’avait pas grand sens. On souriait. Ça faisait un peu légende.
 
 **Ma mère:**
-Et les arrière-petits-enfants ?
+Oui, je me souviens. Tu adorais que je te racontes cette histoire. Tu écoutais sans trop comprendre, et tu finissais par t’endormir.
 
 **Moi:**
-Ceux-là, je ne les connais pas encore, maman. Mais je sais qu'ils viendront, un jour, s'asseoir à cette maison qu'on a habité ensemble. C'est mon symbole de transmission. Je ne sais pas quels visages ils auront ni quels caractères, mais je sais qu'ils hériteront de quelque chose que personne ne pourra leur enlever : une famille qui aime se retrouver autour d'une même table, à trinquer, à rire, à s'aimer.
+Je te le promets, maman, cette maison, je ne la vendrai pas. Je la retaperai. Même si ça doit prendre du temps. Même si mes fils ne comprennent pas tout de suite. Il y a des choses qu’on ne laisse pas tomber. Des charpentes qu’on doit relever, même quand on ne sait plus très bien pour qui.
 
 **Ma mère:**
 Tu as fait du beau travail, mon fils.

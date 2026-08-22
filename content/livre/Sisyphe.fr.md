@@ -1,21 +1,47 @@
 ---
-title: "Sisyphe"
+title: "La promesse"
 date: 2026-08-17
 version: 1.0
 weight: 27
 ---
 
-# Message au futur
+# Dernière cloison
 
-En mémoire de Joseph,
-Moi qui porte ton prénom, je comprends à présent ce que je te dois. Je porte ton prénom comme on porte le deuil de quelqu'un qu'on n'a pas connu, mais qui m'a, sans le savoir, sauvé moi et ma famille avec.
+*Les deux frères sont dans la maison en travaux. Le père est un peu plus loin avec un des petits-fils. L’aîné tient déjà la masse.*
 
-A mes enfants, à mes neveux, à leurs futurs descendants,
+**Le fils cadet:**
+Tu vas pas recommencer.
 
-Si ce récit a commencé par la légèreté d’une comédie et quelques répliques en harmonie, j’aimerais vous laisser ici la seule vérité qui vaille la peine d'être transmise. Une maison, une famille, cela ne s’ordonne pas comme un plan d’architecte sur une table rase. Joseph, celui qui a rêvé cette famille le premier, avant même qu'elle existe, avait toute l'envie du monde en 1916 pour tout rebâtir après le chaos ; et pourtant, la vie n'a pas voulu d'une ligne droite. La reconstruction ne suit aucune logique. C’est un travail lent, aveugle, mené sur plusieurs générations. Il a fallu des décennies d’aspiration, de faux pas, de renoncements et de rencontres improbables pour que, soudain, une saison calme advienne.
+**Le fils aîné:**
+Quoi ?
 
-Ce que nous avions pris pour une mécanique acquise n’était en réalité qu’une grâce suspendue. Car la pente de la ruine, elle, est une certitude d'une rapidité redoutable : un geste de trop sur une cloison maîtresse, un mot d’orgueil, ou simplement le grand vent furieux du monde extérieur, et ce qui avait pris un siècle à s'élever peut se fracasser en un instant. Tout revient toujours au bois brut, et tout s'effondre pour être réinventé.
+**Le fils cadet:**
+La cloison. Tu attends l’artisan. Tu me le promets ?
 
-Mais ne voyez là aucun désespoir. C'est le lot des hommes de rouler ce rocher sans fin vers la lumière. Si je vous laisse ces pages, ce n’est pas pour vous donner une leçon de sagesse ou vous imposer une manière de vivre, mais pour que vous sachiez d'où viennent les fissures de vos murs. Lorsque le vent du dehors viendra frapper chez vous — car il viendra —, souvenez-vous que rien n'est jamais définitivement perdu. On peut tout casser, mais dans la poussière des cloisons abattues, il reste toujours assez de bois sain et de souvenir d'amour pour réapprendre à bâtir.
+**Le fils aîné:**
+C'est pas possible... T’as peur de quoi, encore ? Que je fasse s’écrouler toute la baraque ?
 
-Jean-Joseph
+**Le fils cadet:**
+Oui, j'ai très peur même !
+*Il regarde un instant vers le lecteur, presque complice.*
+Surtout que, entre nous on ne sait plus très bien qui a inventé qui, dans cette histoire. Alors autant ne pas forcer le destin.
+
+**Le fils aîné:**
+T’es vraiment bizarre, toi. Enfin, parfois. T’es vraiment bizarre !
+
+**Le fils cadet:**
+Repose la masse, et promets !
+
+**Le fils aîné:**
+Pfff... Si tu te tais, mais vraiment jusqu'au bout, alors ok, je promets !
+Je touche à rien tout seul. Voilà. T'es content ?
+
+**Le fils cadet:**
+Ca change tout ! C'est d'accord. Je te promets aussi. D'ailleurs, écoute-bien, c'est analytiquement mon dernier mot !
+
+**Le fils aîné:**
+Bizarre, ouais. Et pas que parfois !
+
+*Evidemment, il joint le geste à la parole, et lui met une grande claque dans le dos, un peu trop forte, comme toujours, avant d’aller reposer la masse.*
+
+Quelque part, une charpente continue de tenir. Pour l’instant.

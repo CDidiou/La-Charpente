@@ -1,56 +1,43 @@
 ---
-title: "Bientôt le tome 2!"
+title: "Le poids des murs"
 date: 2026-08-17
 version: 1.0
 weight: 26
 ---
 
-# Le poids des murs
+# Ce qui cède sans prévenir
 
----
-
-*Avertissement aux lecteurs du Tome 1 : Oubliez les verres de rosé en terrasse, les théories psychologiques feutrées et la sérénité retrouvée. Le temps de la conciliation est révolu. Bienvenue dans la poussière, le sang et les ruines !*
-
-## Le coup de trop
-Fidèle à son obsession de foncer et d'ignorer la lenteur des protocoles, le fils aîné refuse d'attendre l'artisan. Armé d'une masse, il s'attaque lui-même à une seconde cloison. La charpente centenaire cède. La poutre maîtresse s'effondre. Le père, qui s'est interposé au dernier instant pour protéger son petit-fils, est écrasé sous les décombres.
-
-## L'ombre des Bernadi-Lilaz
-À l'hôpital, le verdict tombe : paralysie définitive. Cent ans tout juste après les tranchées de la Somme, le père se retrouve mutilé et immobile, rejouant malgré lui le destin tragique de son propre aïeul Joseph de Bernadi-Lilaz. Le refuge familial est devenu un champ de ruines.
-
-## Les rapaces
-La startup de tech de l'aîné fait faillite. Acculé par des créanciers impitoyables, il exige la vente immédiate et aux enchères de la maison d'enfance pour récupérer sa part. Les frais médicaux du père s'accumulent. Le projet idyllique de chambre d'hôtes aux volets gris anthracite se transforme en une saisie d'huissier brutalement notifiée.
-
-## Tout nu
-Pour rembourser ses propres dettes de jeu et financer son divorce, le fils cadet vend sans accord préalable les droits du roman familial à un éditeur à sensation. Les secrets les plus intimes du clan — les fraudes notariales passées, l'infertilité cachée, la mesquinerie des successions — sont étalés en vitrine de toutes les librairies de France.
-
-## Implosion
-L'aîné attaque son frère en justice pour diffamation et atteinte à la vie privée. La Lionne, brisée par la paralysie de son mari et la guerre ouverte de ses fils, perd toute son assurance. La thérapie systémique n'a pas de prise, il ne reste que des crises de larme et des hurlements de rage !
-
-*Une pluie battante tombe sur le chantier abandonné. La pancarte en bois brut pend de travers. Au milieu de la boue et des briques brisées, les deux frères s'empoignent par le col.L'observateur s'est brûlé les ailes. Maudit par sa famille, traqué par les avocats, il réalise trop tard que les mots font des maux. La mémée - la mère de la mère - boirait plutôt du muscat que de s'épuiser à contre courant. Ils l'ont oublié.*
-
----
-
-# La force du vent
-
----
-
-## La Forteresse d'Argile
-Le Tome 1 avait construit une magnifique homéostasie. Chaque membre du clan occupait son rôle avec une précision de maître horloger. On analysait la psychologie, on réglait les héritages, on pansait les blessures en pensant avoir acheté la paix. Mais une famille n'est pas une île.
-
-## L'Irruption de l'Imprévisible
-Ce n'est pas la haine qui détruit le clan, c'est le réel.
-Un geste de trop sur une cloison porteuse sans étude d'impact : la gravité ne fait pas de psychologie, la charpente cède.
-Le père, l'ancrage du système, est brisé physiquement. Le centre de gravité s'effondre.
-Les marchés s'affolent, la faillite frappe l'aîné, les frais médicaux submergent la maison. L'extérieur s'infiltre par toutes les fissures.
-
-## La Transmission Subie
-On croyait transmettre l'esprit d'entreprise, la conciliation ou l'humour du pas de côté. La crise révèle ce qu'on transmettait vraiment sans le savoir :
-- Chez l'aîné, l'urgence de foncer devient une panique destructrice.
-- Chez le cadet, la posture d'observateur bienveillant se métamorphose en une cruauté littéraire qui étale la vulnérabilité des siens.
-- Chez la mère, le besoin de contrôle se heurte à un monde imprévisible et se brise dans l'impuissance.
-- Chez le père, une maison en ruine.
-
-## La Tempête comme Révélateur
-L'extérieur n'est pas seulement une menace : c'est aussi le miroir d'une génération. Plus de cent ans plus tard, la crise contemporaine vient rejouer le traumatisme initial de 1916. Elle pose la question centrale que l'homéostasie des saisons calmes nous cachait : que reste-t-il d'une famille quand ses rituels, son confort et ses grilles de lecture ne suffisent plus à la protéger du monde ?
+On avait pris l’habitude de monter lentement.
+Une conversation après l’autre. Une cloison enlevée. Une chaise qu’on laisse enfin à sa place. Un silence qu’on n’a plus besoin de combler. La maison d’enfance se transformait peu à peu en quelque chose d’habitable à nouveau. Les volets étaient neufs. Une poutre ancienne était restée apparente, volontairement. On avait même ri, un dimanche, en regardant les petits-enfants taper dans les cloisons qui ne portaient plus rien.
+Personne n’a vu le geste de trop.
+L’aîné, fidèle à lui-même, n’a pas voulu attendre l’artisan pour la deuxième cloison. Il a pris la masse. Le père s’est interposé, plus par réflexe que par calcul, parce qu’un petit-fils était trop près. La poutre maîtresse a cédé d’un seul coup. Pas de grand bruit de fin du monde. Juste un craquement sourd, puis le poids. Le père s’est retrouvé au sol, les jambes inertes. À l’hôpital, les mots ont été simples, presque banals : paralysie. Définitive.
+Dans les semaines qui ont suivi, le reste s’est défait sans théâtralité.
+La société de l’aîné, déjà fragile, n’a pas supporté l’absence prolongée et les dettes médicales. Les créanciers sont arrivés. La maison, à peine terminée, est devenue un actif à réaliser. On a parlé de vente, d’abord à voix basse, puis plus clairement. Le cadet, de son côté, a cédé les droits du livre à un éditeur qui en voulait une version plus « accessible ». Les pages qu’il avait écrites pour comprendre sont devenues un objet public. L’aîné a mal pris la chose. Des avocats sont entrés dans la danse. La mère, qui avait toujours tenu, a commencé à s’absenter par moments, le regard ailleurs, comme si la charge était devenue trop lourde à répartir.
+Rien de tout cela n’est arrivé en un jour.
+Mais tout s’est enchaîné vite, une fois la première pièce tombée.
+On avait mis des années à nommer les places, à assouplir les rôles, à se regarder autrement. On avait cru, un instant, que la structure tenait mieux.
+Elle tenait.
+Jusqu’au moment où elle n’a plus tenu.
+Il ne reste plus grand-chose de l’équilibre patient qu’on avait construit.
+Juste la poussière, les papiers d’huissier, les non-dits qui reviennent, et cette évidence qu’on avait un peu oubliée : ce qui monte par l’escalier peut descendre par l’ascenseur. Sans prévenir. Sans même avoir l’élégance d’une vraie catastrophe.
+Le bois, lui, est toujours là.
+Brisé, mais encore présent.
+On verra bien ce qu’on pourra en faire.
 
 *C'est le vent du dehors qui vient nous rappeler de quel bois nous sommes vraiment faits.*
+
+# La lettre de Joseph
+
+À ceux qui viendront,
+Je suis rentré avec une jambe en moins et l’idée fixe de fonder une famille.
+Une table. Des voix. Un endroit où revenir.
+Ça n’a pas tenu.
+La femme est partie sans éclat. Les miens se disputaient déjà pour des murs et des chemins. J’ai acheté des lopins que personne ne voulait. J’ai calculé des charpentes seul. J’ai écrit, le soir, une famille qui savait se parler. Ce n’était pas la mienne. C’était tout ce que j’avais trouvé à mettre debout.
+Sisyphe roule sa pierre.
+Elle redescend.
+Il recommence.
+Il n’y a rien d’autre.
+Je n’ai pas fondé de foyer.
+J’ai quand même dressé des poutres dans le vide.
+Et je laisse ces pages comme on laisse une poutre brisée sur le chantier : on verra bien si quelqu’un s’en sert.
+Joseph de Bernadi-Lilaz
