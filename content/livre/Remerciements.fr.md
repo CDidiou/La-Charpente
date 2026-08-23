@@ -8,7 +8,7 @@ weight: 1
 # La Charpente
 
 ## Note sur l'auteur
-Joseph de Bernadi-Lilaz
+Joseph de Bernardy-Lilaz
 ![Photo de l'auteur](/La-Charpente/images/JosephWw1.png)
 
 

@@ -40,4 +40,4 @@ Il n’y a rien d’autre.
 Je n’ai pas fondé de foyer.
 J’ai quand même dressé des poutres dans le vide.
 Et je laisse ces pages comme on laisse une poutre brisée sur le chantier : on verra bien si quelqu’un s’en sert.
-Joseph de Bernadi-Lilaz
+Joseph de Bernardy-Lilaz
