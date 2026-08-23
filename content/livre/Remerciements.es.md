@@ -1,14 +1,14 @@
 ---
-title: "Prólogo"
-date: 2026-08-17
-version: 1.0
-weight: 1
+título: "Prólogo"
+fecha: 2026-08-17
+versión: 1.0
+peso: 1
 ---
 
 # El marco
 
 ## Nota sobre el autor
-José de Bernadi-Lilaz
+José de Bernardy-Lilaz
 ![Foto del autor](/La-Charpente/images/JosephWw1.png)
 
 
@@ -29,9 +29,9 @@ Hay lo que se dice una familia en la mesa, en voz alta, entre dos platos. Y est�
 
 Un padre que atiende la mesa sin que se lo pidan. Una madre que abre los vínculos con una facilidad desconcertante. Un hijo que se apresura para no tener que esperar nunca. Otro que lo entiende todo menos dejarse tocar. Cuatro formas de amar, cuatro formas de protegerte de amar demasiado.
 
-*The Frame* cuenta la historia de lo que mantiene unida a una familia sin ser vista: el cuidado y el vínculo, entrelazados entre sí, invisibles como vigas debajo del piso. Y lo que estas dos fuerzas pueden dar lugar, cuando dejen de agotarse cargándolo todo solos: una confianza lo suficientemente amplia como para atrevernos, por fin, a aventurarnos donde no sabíamos que podíamos llegar.
+The Frame cuenta la historia de lo que mantiene unida a una familia sin ser vista: el cuidado y la conexión, esas fibras apretadas en la veta misma de la madera, que dan fuerza a toda la estructura. Y lo que estas dos fuerzas pueden dar lugar, más aún cuando dejan de agotarse cargándolo todo solos: una confianza lo suficientemente amplia como para aventurarnos donde no sabíamos que podíamos llegar.
 
-Una novela-diálogo, un entramado que se desmonta y se vuelve a montar ante nuestros ojos, que conduce a esta pregunta, simple y formidable: *¿y si la verdadera prueba del amor no fuera comprenderlo todo, sino aceptar no comprenderlo todo y quedarse de todos modos?*
+Una novela en diálogos, un marco que desmontamos y volvemos a montar ante nuestros ojos, porque en el fondo nunca tenemos más que madera en bruto y ejemplos. Al resto, le damos forma nosotros mismos, lo movemos, lo tomamos con torpeza, a menudo a contrapelo de lo que pensábamos que estábamos haciendo. Y es este trabajo, mezcla de innato y adquirido, el que el viento revelará. No elegimos el marco bajo el cual nacemos. Pero cada uno elige, sin saberlo siempre, lo que añade.
 
 ## Agradecimientos
 

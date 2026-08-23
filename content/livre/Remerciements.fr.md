@@ -29,9 +29,9 @@ Il y a ce qu'une famille se dit à table, à voix haute, entre deux plats. Et il
 
 Un père qui tient la table sans qu'on lui demande. Une mère qui ouvre les liens avec une facilité déconcertante. Un fils qui fonce pour ne jamais avoir à attendre. Un autre qui comprend tout, sauf comment se laisser toucher. Quatre manières d'aimer, quatre façons de se protéger d'aimer trop.
 
-*La Charpente* raconte ce qui tient une famille debout sans qu'on le voie — le soin et le lien, tressés l'un dans l'autre, invisibles comme des poutres sous un plancher. Et ce que ces deux forces peuvent faire naître, quand elles cessent de s'épuiser à tout porter seules : une confiance assez large pour qu'on ose, enfin, s'aventurer là où on ne savait pas qu'on pouvait aller.
+La Charpente raconte ce qui tient une famille debout sans qu'on le voie — le soin et le lien, ces fibres serrées dans le grain même du bois, qui donnent sa résistance à toute la structure. Et ce que ces deux forces peuvent faire naître, encore plus quand elles cessent de s'épuiser à tout porter seules : une confiance assez large pour s'aventurer là où on ne savait pas qu'on pouvait aller.
 
-Un roman-dialogue, une charpente qui se démonte et se remonte sous nos yeux, jusqu'à cette question, simple et redoutable : *et si la vraie preuve d'amour n'était pas de tout comprendre, mais d'accepter de ne jamais tout comprendre — et de rester quand même ?*
+Un roman en dialogues, une charpente qu'on démonte et qu'on remonte sous nos yeux — parce qu'on ne dispose au fond jamais plus que de bois brut et d'exemples. Le reste, on le façonne soi-même, on le déplace, on le reprend maladroitement, souvent à contresens de ce qu'on croyait faire. Et c'est cet ouvrage-là, mélange d'inné et d'acquis, que le vent viendra révéler. On ne choisit pas la charpente sous laquelle on naît. Mais chacun choisit, sans toujours le savoir, ce qu'il y ajoute.
 
 ## Remerciements
 

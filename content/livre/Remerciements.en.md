@@ -8,7 +8,7 @@ weight: 1
 # The Frame
 
 ## Note on the author
-Joseph de Bernadi-Lilaz
+Joseph de Bernardy-Lilaz
 ![Photo by the author](/La-Charpente/images/JosephWw1.png)
 
 
@@ -29,9 +29,9 @@ There is what a family says to each other at the table, out loud, between two co
 
 A father who waits the table without being asked. A mother who opens the bonds with disconcerting ease. A son who rushes so he never has to wait. Another one who understands everything except how to let himself be touched. Four ways to love, four ways to protect yourself from loving too much.
 
-*The Frame* tells the story of what holds a family together without being seen — the care and the bond, woven into each other, invisible like beams under a floor. And what these two forces can give rise to, when they stop exhausting themselves carrying everything alone: ​​a confidence broad enough that we dare, finally, to venture where we didn't know we could go.
+The Frame tells the story of what holds a family together without being seen — the care and connection, those tight fibers in the very grain of the wood, which give strength to the entire structure. And what these two forces can give rise to, even more so when they stop exhausting themselves by carrying everything alone: ​​a confidence broad enough to venture where we didn't know we could go.
 
-A novel-dialogue, a framework that is dismantled and reassembled before our eyes, leading to this question, simple and formidable: *what if the true proof of love was not to understand everything, but to accept never understanding everything — and to stay anyway?*
+A novel in dialogues, a framework that we dismantle and reassemble before our eyes - because basically we never have more than raw wood and examples. The rest, we shape it ourselves, we move it, we take it up clumsily, often against the grain of what we thought we were doing. And it is this work, a mixture of innate and acquired, that the wind will reveal. We do not choose the framework under which we are born. But everyone chooses, without always knowing it, what they add.
 
 ## Acknowledgments
 

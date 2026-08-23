@@ -1,21 +1,47 @@
 ---
-title: "Sisyphus"
+title: "The promise"
 date: 2026-08-17
 version: 1.0
 weight: 27
 ---
 
-# Message to the future
+# Last partition
 
-In memory of Joseph,
-I, who bear your first name, now understand what I owe you. I bear your first name as we mourn for someone we never knew, but who, without knowing it, saved me and my family with it.
+*The two brothers are in the house under construction. The father is a little further away with one of the grandsons. The eldest already holds the mace.*
 
-To my children, to my nephews, to their future descendants,
+**The youngest son:**
+You're not going to start again.
 
-If this story began with the lightness of a comedy and a few harmonious lines, I would like to leave you here with the only truth worth conveying. A house, a family, cannot be ordered like an architect's plan on a blank slate. Joseph, the one who first dreamed of this family, before it even existed, had all the desire in the world in 1916 to rebuild everything after the chaos; and yet, life did not want a straight line. The reconstruction does not follow any logic. It is slow, blind work, carried out over several generations. It took decades of aspiration, missteps, renunciations and improbable encounters for, suddenly, a calm season to arrive.
+**The eldest son:**
+What?
 
-What we had taken for an acquired mechanism was in reality only a suspended grace. Because the slope of ruin is a certainty of fearsome rapidity: one gesture too many on a main wall, one word of pride, or simply the great furious wind of the outside world, and what took a century to rise can be shattered in an instant. Everything always comes back to raw wood, and everything falls apart to be reinvented.
+**The youngest son:**
+The partition. You wait for the craftsman. Do you promise me?
 
-But don't see any despair there. It is the lot of men to roll this endless rock towards the light. If I leave you these pages, it is not to give you a lesson in wisdom or impose a way of living, but so that you know where the cracks in your walls come from. When the wind from outside comes to knock at your house - because it will - remember that nothing is ever lost forever. You can break everything, but in the dust of broken down walls, there always remains enough healthy wood and memories of love to relearn how to build.
+**The eldest son:**
+It's not possible... What are you afraid of again? That I bring the whole house down?
 
-Jean-Joseph
+**The youngest son:**
+Yes, I'm very scared!
+*He looks towards the reader for a moment, almost complicit.*
+Especially since, between us, we no longer really know who invented who, in this story. So we might as well not force destiny.
+
+**The eldest son:**
+You're really weird, you. Well, sometimes. You're really weird!
+
+**The youngest son:**
+Put down the mace, and promise!
+
+**The eldest son:**
+Pfff... If you keep quiet, but really until the end, then ok, I promise!
+I don't touch anything alone. So. Are you happy?
+
+**The youngest son:**
+It changes everything! It's okay. I promise you too. Besides, listen carefully, analytically this is my last word!
+
+**The eldest son:**
+Weird, yeah. And not only sometimes!
+
+*Obviously, he walks his talk, and slaps him hard on the back, a little too hard, as always, before going to put the mace down.*
+
+Somewhere, a frame continues to hold. For now.

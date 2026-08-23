@@ -1,21 +1,47 @@
 ---
-title: "Sísifo"
+title: "La promesa"
 date: 2026-08-17
 version: 1.0
 weight: 27
 ---
 
-# Mensaje al futuro
+# Última partición
 
-En memoria de José,
-Yo, que llevo tu nombre, ahora comprendo lo que te debo. Llevo tu nombre mientras lloramos por alguien que nunca conocimos, pero que, sin saberlo, nos salvó a mí y a mi familia.
+*Los dos hermanos están en la casa en construcción. El padre está un poco más lejos con uno de los nietos. El mayor ya sostiene la maza.*
 
-A mis hijos, a mis sobrinos, a sus futuros descendientes,
+**El hijo menor:**
+No vas a empezar de nuevo.
 
-Si esta historia comenzó con la ligereza de una comedia y unas pocas líneas armoniosas, me gustaría dejaros aquí con la única verdad que vale la pena transmitir. Una casa, una familia, no se puede ordenar como el plano de un arquitecto sobre una pizarra en blanco. Joseph, el que soñó por primera vez con esta familia, antes de que existiera, tenía todas las ganas del mundo en 1916 de reconstruir todo después del caos; y, sin embargo, la vida no quería una línea recta. La reconstrucción no sigue ninguna lógica. Es un trabajo lento, ciego, realizado a lo largo de varias generaciones. Fueron necesarias décadas de aspiraciones, errores, renuncias y encuentros improbables para que, de repente, llegara una temporada tranquila.
+**El hijo mayor:**
+¿Qué?
 
-Lo que habíamos tomado por un mecanismo adquirido no era en realidad más que una gracia suspendida. Porque la pendiente de la ruina es una certeza de una rapidez temible: un gesto de más en un muro principal, una palabra de orgullo, o simplemente el gran viento furioso del mundo exterior, y lo que tardó un siglo en levantarse puede hacerse añicos en un instante. Todo siempre vuelve a la madera en bruto, y todo se desmorona para reinventarse.
+**El hijo menor:**
+La partición. Esperas al artesano. ¿Me lo prometes?
 
-Pero no veas ninguna desesperación allí. Corresponde a los hombres hacer rodar esta roca infinita hacia la luz. Si te dejo estas páginas no es para darte una lección de sabiduría ni imponerte una forma de vivir, sino para que sepas de dónde vienen las grietas de tus muros. Cuando el viento del exterior venga a golpear tu casa, porque lo hará, recuerda que nada se pierde para siempre. Todo se puede romper, pero en el polvo de las paredes derribadas siempre queda suficiente madera sana y recuerdos de amor para volver a aprender a construir.
+**El hijo mayor:**
+No es posible... ¿A qué tienes miedo otra vez? ¿Que derrumbe toda la casa?
 
-Juan José
+**El hijo menor:**
+¡Sí, tengo mucho miedo!
+*Mira al lector por un momento, casi cómplice.*
+Sobre todo porque, entre nosotros, ya no sabemos realmente quién inventó a quién en esta historia. Así que es mejor no forzar el destino.
+
+**El hijo mayor:**
+Eres realmente raro, tú. Bueno, a veces. ¡Eres realmente raro!
+
+**El hijo menor:**
+¡Baja la maza y promételo!
+
+**El hijo mayor:**
+Pfff... Si te quedas callada, pero de verdad hasta el final, entonces vale, ¡lo prometo!
+No toco nada solo. Entonces. ¿Estás feliz?
+
+**El hijo menor:**
+¡Lo cambia todo! Está bien. Yo también te lo prometo. Además, escucha con atención, analíticamente ¡esta es mi última palabra!
+
+**El hijo mayor:**
+Extraño, sí. ¡Y no sólo a veces!
+
+*Obviamente, hace lo que predica y le da una fuerte palmada en la espalda, un poco demasiado fuerte, como siempre, antes de bajar la maza.*
+
+En algún lugar, un marco sigue resistiendo. Por ahora.

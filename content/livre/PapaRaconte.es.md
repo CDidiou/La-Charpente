@@ -56,16 +56,16 @@ Creo que me equivoqué. Puede que no les haya dado mi gusto por la fiesta, pero 
 Sí, mamá, finalmente lo encontré. No soy yo quien construye imperios. Pero soy yo quien muestra el gesto, quien realmente traza el plan, mantiene caliente la casa, quien aún los reúne en torno a una buena comida, quien les recuerda que más allá de los éxitos y proyectos, hay una familia que se ama. Puede que a veces me derroten en estrategia, o en acción, pero prefiero dejarles ganar y no saberlo realmente, eso no es lo que me interesa.
 
 **Mi madre:**
-¿Y los nietos? ¿Hay alguien que se parezca a ti en todo esto? ¿Alguien que viene a recogerte para pasear, alguien como tú?
+Y nuestra casa, ¿qué hicieron tú y tu hermana con ella?
 
 **Yo:**
-Aún no, mamá. En este momento, ninguno de ellos se parece al mocoso que yo era. Pero creo en ello. Me digo a mí mismo que en realidad nada está perdido. Que los hijos de mis estrategas, criados en hogares tan serios y organizados, necesitarán quizás algún día ligereza, celebración, alguien que los lleve a hacer travesuras con las manos en las virutas de madera. Espero seguir aquí para eso. Espero que algún día alguno de ellos venga a buscarme y me diga: “Abuelo, ¿qué hacemos hoy?”. » Y ese día creo que pensaré mucho en vosotros dos, mamá, porque tendré la impresión de veros volver a la vida, en un mundo más suave y ligero.
+Exacto. ¿Recuerdas este viejo libro, mamá? El que encontramos en el ático cuando yo era pequeña. A veces me lo lees por la noche. Nunca supimos si vino de uno de nuestros antepasados ​​o de las personas que vivieron en la casa antes que nosotros. Un hombre que hablaba de carpintería, de familia, de guerra... No tenía mucho sentido. Sonreímos. Era un poco una leyenda.
 
 **Mi madre:**
-¿Y los bisnietos?
+Sí, lo recuerdo. Te encantó cuando te conté esta historia. Escuchaste sin entender realmente y terminaste quedándote dormido.
 
 **Yo:**
-No los sé todavía, mamá. Pero sé que algún día vendrán y se sentarán en esta casa en la que vivimos juntos. Este es mi símbolo de transmisión. No sé qué rostros tendrán ni qué personajes, pero sé que heredarán algo que nadie les podrá quitar: una familia a la que le gusta reunirse alrededor de la misma mesa, brindar, reír, amarse.
+Te prometo, mamá, que no venderé esta casa. Lo volveré a escribir. Incluso si debe llevar tiempo. Incluso si mis hijos no lo entienden de inmediato. Hay cosas que no soltamos. Marcos que debemos plantear, aún cuando ya no sepamos bien para quién.
 
 **Mi madre:**
 Hiciste un gran trabajo, hijo mío.

@@ -1,56 +1,43 @@
 ---
-title: "Volume 2 coming soon!"
+title: "The weight of the walls"
 date: 2026-08-17
 version: 1.0
 weight: 26
 ---
 
-# The weight of the walls
+# That which gives way without warning
 
----
-
-*Warning to readers of Volume 1: Forget the glasses of rosé on the terrace, the hushed psychological theories and the newfound serenity. The time for conciliation is over. Welcome to dust, blood and ruins!*
-
-## One shot too many
-Faithful to his obsession with rushing ahead and ignoring the slowness of protocols, the eldest son refuses to wait for the craftsman. Armed with a mace, he attacks a second partition himself. The century-old framework gives way. The main beam collapses. The father, who intervened at the last moment to protect his grandson, is crushed under the rubble.
-
-## The shadow of Bernadi-Lilaz
-At the hospital, the verdict falls: permanent paralysis. Just one hundred years after the trenches of the Somme, the father found himself mutilated and immobile, despite himself replaying the tragic destiny of his own ancestor Joseph de Bernadi-Lilaz. The family refuge has become a field of ruins.
-
-## Raptors
-The elder's tech startup goes bankrupt. Cornered by ruthless creditors, he demands the immediate sale and auction of the childhood home to recover his share. The father's medical bills are piling up. The idyllic guest room project with anthracite gray shutters is transformed into a bailiff's seizure brutally notified.
-
-## Naked
-To repay his own gambling debts and finance his divorce, the youngest son sells the rights to the family novel to a sensational publisher without prior agreement. The clan's most intimate secrets - past notarial frauds, hidden infertility, pettiness of inheritances - are displayed in the windows of every bookstore in France.
-
-## Implosion
-The eldest takes his brother to court for defamation and invasion of privacy. The Lioness, broken by the paralysis of her husband and the open war of her sons, loses all her confidence. Systemic therapy has no effect, all that remains is crying fits and howls of rage!
-
-*Heavy rain falls on the abandoned construction site. The raw wooden sign hangs crooked. In the middle of the mud and broken bricks, the two brothers grab each other by the collar. The observer burned his wings. Cursed by his family, hunted by lawyers, he realizes too late that words hurt. The grandmother - the mother's mother - would rather drink muscat than exhaust herself against the tide. They forgot it.*
-
----
-
-# The force of the wind
-
----
-
-## The Clay Fortress
-Volume 1 had built a magnificent homeostasis. Each member of the clan played their role with the precision of a master watchmaker. We analyzed psychology, we settled inheritances, we healed wounds thinking we had bought peace. But a family is not an island.
-
-## The Irruption of the Unpredictable
-It's not hatred that destroys the clan, it's reality.
-One gesture too many on a load-bearing partition without an impact study: gravity does not do psychology, the framework gives way.
-The father, the anchor of the system, is physically broken. The center of gravity collapses.
-The markets are panicking, bankruptcy hits the eldest, medical costs overwhelm the house. The outside seeps through every crack.
-
-## The Transmission Suffered
-We believed we were transmitting the spirit of enterprise, conciliation or the humor of sidestepping. The crisis reveals what we were really transmitting without knowing it:
-- For older adults, the urge to rush becomes a destructive panic.
-- For the younger child, the posture of a benevolent observer metamorphoses into a literary cruelty which displays the vulnerability of his loved ones.
-- In the mother, the need for control comes up against an unpredictable world and is shattered into helplessness.
-- At the father's house, a ruined house.
-
-## The Storm as Revealer
-The exterior is not only a threat: it is also the mirror of a generation. More than a hundred years later, the contemporary crisis replays the initial trauma of 1916. It asks the central question that the homeostasis of calm seasons hid from us: what remains of a family when its rituals, its comfort and its reading grids are no longer enough to protect it from the world?
+We got into the habit of going up slowly.
+One conversation after another. A partition removed. A chair that we finally leave in its place. A silence that no longer needs to be filled. The childhood home was gradually being transformed into something livable again. The shutters were new. An old beam had remained visible, deliberately. We even laughed one Sunday while watching the grandchildren banging on the partitions which no longer held anything.
+Nobody saw the gesture too much.
+The eldest, true to himself, did not want to wait for the craftsman for the second partition. He took the mass. The father intervened, more by reflex than by calculation, because a grandson was too close. The main beam gave way suddenly. No big noise about the end of the world. Just a dull crack, then the weight. The father found himself on the ground, his legs inert. At the hospital, the words were simple, almost banal: paralysis. Definitive.
+In the weeks that followed, the rest unraveled without theatrics.
+The elder's society, already fragile, could not cope with the prolonged absence and medical debts. The creditors have arrived. The house, barely finished, has become an asset to be realized. We talked about sales, first in hushed tones, then more clearly. The younger brother, for his part, sold the rights to the book to a publisher who wanted a more “accessible” version. The pages he had written to understand became a public object. The eldest took it badly. Lawyers joined the dance. The mother, who had always held on, began to be absent at times, looking elsewhere, as if the load had become too heavy to share.
+None of this happened in one day.
+But everything happened quickly, once the first piece fell.
+It took us years to name the places, to soften the roles, to look at ourselves differently. We thought, for a moment, that the structure was holding up better.
+She held on.
+Until she couldn't hold on anymore.
+There is not much left of the patient balance that we had built.
+Just the dust, the bailiff's papers, the unsaid things that come back, and this obvious fact that we had somewhat forgotten: what goes up the stairs can go down in the elevator. Without warning. Without even having the elegance of a real catastrophe.
+The wood is still there.
+Broken, but still present.
+We'll see what we can do with it.
 
 *It’s the wind from outside that comes to remind us of what wood we are really made of.*
+
+# Joseph's letter
+
+To those who will come,
+I came home with one leg missing and the fixed idea of starting a family.
+A table. Voices. A place to come back to.
+It didn't hold.
+The woman left without much fanfare. My people were already arguing over walls and paths. I bought plots of land that no one wanted. I calculated the frames alone. I wrote, in the evening, about a family who knew how to talk to each other. It wasn't mine. It was all I could find to stand up.
+Sisyphus rolls his stone.
+She comes back down.
+He starts again.
+There is nothing else.
+I didn't start a home.
+I still erected beams in the void.
+And I leave these pages like you leave a broken beam on the construction site: we'll see if anyone uses them.
+Joseph de Bernardy-Lilaz

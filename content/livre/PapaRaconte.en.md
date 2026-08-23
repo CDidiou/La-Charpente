@@ -56,16 +56,16 @@ Do you find your place among all these people?
 Yes, mom, I finally found it. I'm not the one who builds empires. But I am the one who shows the gesture, really draws the plan, keeps the house warm, the one who still brings them together around a good meal, the one who reminds them that beyond the successes and projects, there is a family that loves each other. I may sometimes be beaten in strategy, or in action, but I prefer to let them win and not really know, that's not what interests me.
 
 **My mother:**
-And the grandchildren? Is there anyone who looks like you in all this? Someone who comes to pick you up to go around, someone like you?
+And our house, what did you and your sister do with it?
 
 **Me:**
-Not yet, mom. Right now, none of them look like the little brat I was. But I believe in it. I tell myself that nothing is really lost. That the children of my strategists, raised in such serious, organized homes, will perhaps need, one day, lightness, celebration, someone who takes them to do mischief with their hands in the wood shavings. I hope I'm still here for that. I hope that one day one of them will come looking for me and say: “Grandpa, what are we doing today?” » And that day, I think I will think very hard of you both, Mom, because I will have the impression of seeing you come back to life, in a softer, lighter world.
+Exactly. Do you remember this old book, Mom? The one we found in the attic when I was little. You read it to me in the evening, sometimes. We never knew if it came from one of our ancestors or from the people who lived in the house before us. A man who talked about carpentry, family, war... It didn't make much sense. We smiled. It was a bit of a legend.
 
 **My mother:**
-And the great-grandchildren?
+Yes, I remember. You loved it when I told you this story. You listened without really understanding, and you ended up falling asleep.
 
 **Me:**
-I don't know these yet, Mom. But I know that one day they will come and sit in this house that we lived in together. This is my symbol of transmission. I don't know what faces they will have or what characters, but I know that they will inherit something that no one can take away from them: a family that likes to get together around the same table, to toast, to laugh, to love each other.
+I promise you, mom, I won't sell this house. I'll retype it. Even if it must take time. Even if my sons don't understand right away. There are things we don't let go of. Frameworks that we must raise, even when we no longer really know for whom.
 
 **My mother:**
 You did a great job, my son.
