@@ -1,8 +1,8 @@
 ---
-título: "Prólogo"
-fecha: 2026-08-17
-versión: 1.0
-peso: 1
+title: "Prólogo"
+date: 2026-08-17
+version: 1.0
+weight: 1
 ---
 
 # El marco
