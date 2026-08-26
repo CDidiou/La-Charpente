@@ -9,7 +9,7 @@ weight: 24
 
 ---
 
-*Une chambre d'hôtes au bord de la mer, la terrasse donnant sur des collines sèches. Le cadet les a réunis là, tous les trois, avant que le chantier ne commence — la maison d'enfance du père attend toujours sa restauration. Cette réunion a été orchestrée mystérieusement, ils sont perplexes d'être rassemblés, mais toujours heureux d'être ensemble. Sur la table basse, un exemplaire relié de* La Charpente. *Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Tous les trois se tournent, en même temps, vers le cadet, assis dans le fauteuil d'en face.*
+*Une chambre d'hôtes au bord de la mer, la terrasse donnant sur des collines sèches. Le cadet a réuni là son père, sa mère et son frère aîné, avant que le chantier ne commence — la maison d'enfance du père attend toujours sa restauration. Cette réunion a été orchestrée mystérieusement, ils sont perplexes d'être rassemblés, mais toujours heureux d'être ensemble. Sur la table basse, un exemplaire relié de La Charpente. Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Ils se tournent alors en même temps vers le cadet, assis dans le fauteuil d'en face.*
 
 **Le père :**
 Bon.

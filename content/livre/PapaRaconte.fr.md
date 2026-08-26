@@ -61,7 +61,7 @@ Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empire
 Et notre maison, qu'est-ce que tu en as fait avec ta soeur ?
 
 **Moi:**
-Justement. Tu te souviens de ce vieux livre, maman ? Celui qu’on avait trouvé dans le grenier, quand j’étais petit. Tu me le lisais le soir, parfois. On ne savait jamais s’il venait d’un de nos aïeux ou des gens qui habitaient la maison avant nous. Un homme qui parlait de charpente, de famille, de guerre… Ça n’avait pas grand sens. On souriait. Ça faisait un peu légende.
+Justement. Tu te souviens de ce vieux livre, maman ? Celui qu’on avait trouvé dans le vieux coffre du grenier, quand j’étais petit. Tu me le lisais le soir, parfois. On ne savait jamais s’il venait d’un de nos aïeux ou des gens qui habitaient la maison avant nous. Un homme qui parlait de charpente, de famille, de guerre... Ça n’avait pas grand sens. On souriait. Ça faisait un peu légende.
 
 **Ma mère:**
 Oui, je me souviens. Tu adorais que je te racontes cette histoire. Tu écoutais sans trop comprendre, et tu finissais par t’endormir.

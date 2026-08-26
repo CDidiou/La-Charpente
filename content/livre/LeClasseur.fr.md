@@ -102,6 +102,24 @@ Pour être juste, je pense que tu as pris le savoir, mais pas le courage qui va 
 C'est vrai, ça aussi. Je ne t'en veux pas, maman. Je suis un bon ingénieur, j'aime mon métier, à ma façon. Mais je voulais que tu saches que le décodage, l'intuition, l'analyse fine, tout ça, je l'ai gardé de toi, intact. Je l'utilise juste sur des moteurs et des circuits plutôt que sur des enfants en difficulté. Et c'est un atout de passer par ce chemin en fait ! Je me sens puissant.
 
 **La mère:**
+*Elle le regarde, surprise.*
+Qu'est-ce que tu veux dire ?
+
+**Le fils cadet:**
+Je suis plus léger. Je peux enfin l'écrire, je crois. Tout ça.
+
+**La mère:**
+L'écrire ?
+
+**Le fils cadet:**
+Oui. Tout ce que tu m'as donné... les classeurs, les histoires, les façons de regarder les gens. Tu m'avais donné tous les matériaux. Je crois que je suis enfin en train de trouver ma voie.
+
+*Il pose la main sur le classeur.*
+
+**Le fils cadet:**
+Et cette fois, c'est moi qui peux en faire quelque chose. Et je veux te l'offrir.
+
+**La mère:**
 Il n'est pas trop tard, tu sais.
 
 **Le fils cadet:**
