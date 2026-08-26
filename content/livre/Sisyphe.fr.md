@@ -31,10 +31,10 @@ Attends, attends ! La suite est encore plus forte ! Le gamin panique, il lui dem
 **Le fils aîné :**
 Ah oui, là, c'est sûr, tu m'as convaincu, je ne vais certainement pas perdre une seule minute à regarder ton navet en carton !
 *(Il va chercher la masse)*
-Allez, pousse-toi, ça ne va pas trainer avec cette cloison !
+Allez, pousse-toi, il faut faire cette ouverture dans le toit !
 
 **Le fils cadet :**
-La cloison ? Non non non non ! Ce n'est pas ce qu'on avait dit. On attend l’artisan.
+L'ouverture ? Non non non non ! Ce n'est pas ce qu'on avait dit. On attend l’artisan.
 
 **Le fils aîné :**
 C'est pas possible... T’as peur de quoi, encore ? Que je fasse s’écrouler toute la baraque ?
