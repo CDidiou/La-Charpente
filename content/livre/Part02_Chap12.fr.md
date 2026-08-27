@@ -7,7 +7,7 @@ description: "Dans la dernière scène, les deux frères promettent de ne plus t
 weight: 27
 ---
 
-*Les deux frères sont dans la maison en travaux. Le père est un peu plus loin avec un des petits-fils. La masse est là, tout près, contre le mur.*
+*(Les deux frères sont dans la maison en travaux. Le père est un peu plus loin avec un des petits-fils. La masse est là, tout près, contre le mur.)*
 
 **Le fils cadet :**
 Franchement, je te conseille ce vieux film. Ca fait pusieurs fois que je t'en parle, mais il est vraiment génial. Naufrage à babord. C'est filmé en noir et blanc. Des marins suédois du XVIIeme siècle, complètement rincés par le vent, qui viennent de passer dix heures au milieu des glaces dans une embarcation de fortune. Et là, y a le vieux capitaine, à la barre, un borgne taiseux ...
@@ -53,7 +53,7 @@ Mais t'as tout le temps peur de tout, toi. Tu m'énerves !
 
 **Le fils cadet :**
 Oui, j'ai toujours peur de tout ! Mais figure-toi que c'est peut-être ça qui peut me donner des super pouvoirs, des fois !
-*Il regarde vers le ciel, mystique.*
+*(Il regarde vers le ciel, mystique.)*
 Entre nous on ne sait plus très bien qui a inventé qui, dans cette histoire. Alors autant ne pas forcer le destin.
 
 **Le fils aîné :**
@@ -66,7 +66,7 @@ Oui, c'est d'accord. Et je tiens parole moi aussi. Car écoute-moi bien, c'est l
 **Le fils aîné :**
 T'es un peu fêlé toi avec tes visions !
 
-*Evidemment, il joint le geste à la parole, et lui met une grande claque dans le dos, un peu trop forte, comme toujours, avant d’aller reposer la masse.*
+*(Evidemment, il joint le geste à la parole, et lui met une grande claque dans le dos, un peu trop forte, comme toujours, avant d’aller reposer la masse.)*
 
 L'onde a ricoché.
 Quelque part, une charpente continue de tenir. Pour l’instant.

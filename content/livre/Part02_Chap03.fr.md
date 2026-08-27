@@ -24,7 +24,7 @@ Tu sais pas, ou t'as peur de lancer ton projet, que tout le monde trouve génial
 **Le fils aîné :**
 Parce que je te connais. Tu vas peser le pour, le contre, en parler à trois personnes, et au final tu vas prendre le truc que tout le monde attend de toi, en te convainquant après coup que c'était ton idée.
 
-*Le cadet repose l'assiette qu'il essuyait.*
+*(Le cadet repose l'assiette qu'il essuyait.)*
 
 **Le fils cadet :**
 T'es en train de m'analyser, là.
@@ -38,10 +38,10 @@ C'est pareil pour toi ?
 **Le fils aîné :**
 Bah ouais. Moi, je vois un truc pas droit, je le redresse. C'est normal. Là je vois, ta vie, elle est pas droite, alors je te dis comment la redresser.
 
-**Le fils cadet, un peu sec :**
+**Le fils cadet :** *(un peu sec)*
 Sauf que je ne suis pas un mur !
 
-*Silence. L'aîné continue à laver, sans rien dire, mais on sent qu'il a entendu.*
+*(Silence. L'aîné continue à laver, sans rien dire, mais on sent qu'il a entendu.)*
 
 **Le fils cadet :**
 Tu fais toujours ça. Dès qu'un truc chez quelqu'un te semble pas terminé, faut que tu le finisses. Le muret, les finances, ou ma carrière.
@@ -52,7 +52,7 @@ Oh, ça va ! J'essayais juste d'aider.
 **Le fils cadet :**
 Je sais. C'est ça le problème. Car tu ne m'as pas demandé si je voulais qu'on m'aide. T'as juste vu un truc pas fini et t'as sorti les outils.
 
-*L'aîné arrête de laver. Il regarde son frère, presque vexé.*
+*(L'aîné arrête de laver. Il regarde son frère, presque vexé.)*
 
 **Le fils aîné :**
 Et toi, tu fais quoi, d'habitude, quand tu me regardes rater un steak ? Tu m'aides pas non plus. Tu commentes.
@@ -66,7 +66,7 @@ Ah bon, pourquoi ?
 **Le fils cadet :**
 Parce que...
 
-*Il s'arrête. Il n'a pas de fin de phrase toute prête, pour une fois.*
+*(Il s'arrête. Il n'a pas de fin de phrase toute prête, pour une fois.)*
 
 **Le fils aîné :**
 Ben voilà.
@@ -80,7 +80,7 @@ Un peu ?
 **Le fils cadet :**
 Beaucoup pareil.
 
-*L'aîné se remet à laver, plus détendu, presque amusé.*
+*(L'aîné se remet à laver, plus détendu, presque amusé.)*
 
 **Le fils aîné :**
 Remarque, moi je répare pas les trucs des autres parce que j'aime le geste. Papa, lui, il aime le geste. Moi je n'aime juste pas laisser un truc pas fini derrière moi. Un mur pas droit, une carrière pas lancée, ça me regarde comme une partie pas terminée. Faut que je la gagne.
@@ -98,7 +98,7 @@ Et moi, dans cette histoire, je suis quoi ? Un mur pas droit ?
 Un peu, ouais. Mais un mur qui, en plus, refuse de dire s'il veut être redressé. Ça me rend dingue.
 
 **Le fils cadet :**
-...Ça, c'est la première fois que tu m'expliques un truc sur moi qui tient debout.
+Ça, c'est la première fois que tu m'expliques un truc sur moi qui tient debout.
 
 **Le fils aîné :**
 J'ai mes jours.
@@ -119,7 +119,7 @@ Toi aussi tu veux que ce soit fini et droit avant même de commencer.
 Sauf que toi c'est pas pour gagner.
 C'est pour pas perdre.
 
-*Il lui tend une assiette mal lavée sans un mot de plus. Le cadet la prend, la garde un instant dans les mains, sans l'essuyer.*
+*(Il lui tend une assiette mal lavée sans un mot de plus. Le cadet la prend, la garde un instant dans les mains, sans l'essuyer.)*
 
 **Le fils cadet :**
 C'est nouveau, ça, venant de toi.
@@ -131,6 +131,6 @@ Quoi donc.
 Regarde-moi cette assiette. Ni fais, ni à faire ! Un truc pas fini.
 
 **Le fils aîné :**
-Ouais, bon. Ca ne va pas t'inspirer un roman, encore!
+Ouais, bon. T'as qu'à la relaver et montrer que t'as gagné alors !
 
-*Le cadet lui balance le torchon mouillé à la figure, en riant, et retourne finir la vaisselle — cette fois avec quelque chose de réglé, de plus léger, entre les deux.*
+*(Le cadet lui balance le torchon mouillé à la figure, en riant, et retourne finir la vaisselle — cette fois avec quelque chose de réglé, de plus léger, entre les deux.)*
