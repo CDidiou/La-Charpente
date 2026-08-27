@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Derniers cartons"
+title: "(Propagation) Encore une bougie"
 subtitle: "Le socle"
 date: 2026-08-17
 version: 1.0
@@ -7,48 +7,165 @@ description: "En quittant la maison de retraite avec leur mère, les deux frère
 weight: 11
 ---
 
-**Le fils aîné:**
-On devrait pouvoir tout mettre dans deux ou trois cartons. Elle n'avait pas grand-chose, ici.
+*(La mère entre dans la maison de retraite, suivie de ses deux fils. Elle tient un petit paquet enveloppé dans du papier cadeau.)*
 
-**Le fils cadet:**
-On y va, alors. Maman, ça va ?
+**Le fils aîné :**
+Tu sais où elle est ?
 
-**La mère:**
-Ça va. Allons-y.
+**La mère :**
+Dans le petit salon. Comme d'habitude.
 
-*(Ils entrent dans le couloir principal de la maison de retraite.)*
+*(Ils avancent dans le couloir.)*
 
-**Une aide-soignante:**
-Madame ! Ça me fait de la peine pour votre maman, sincèrement. C'était quelqu'un, elle.
+**Une voix :**
+Madame !
+*(La mère se retourne.)*
 
-**La mère:**
-Merci, Sandrine. Ça compte beaucoup, ce que vous avez fait pour elle, ces derniers mois.
+**La mère :**
+Ah ! Bonjour, Germaine. Comment vous portez-vous ?
 
-**Un résident, depuis sa chaise:**
-Eh, la dame qui apporte les gâteaux ! Vous revenez nous voir, dites ?
+**Germaine :**
+Eh bé, ça va mieux depuis que je vous vois !
 
-**La mère:**
-Promis, monsieur Berthier. Je repasserai.
+**La mère :**
+Alors ça tombe bien, je suis venue exprès pour vous remonter le moral !
 
-*(Plus loin, la directrice de l'établissement les arrête un instant, chaleureuse, avant de les laisser continuer.)*
+*(Germaine sourit.)*
 
-**Un second résident:**
-C'est vous qui nous avez organisé le loto de Noël, non ? On en parle encore !
+**Germaine :**
+Vous allez voir votre maman ?
 
-**La mère:**
-*(avec un sourire, en pressant le pas)*
-C'était un plaisir.
+**La mère :**
+Oui. C'est son anniversaire aujourd'hui.
 
-**Le fils aîné:**
-*(à son frère, en souriant)*
-Ça ne change pas, hein.
+**Germaine :**
+Déjà ?
 
-**Le fils cadet:**
-Jamais.
+**La mère :**
+Eh oui. Encore une bougie.
+
+*(Germaine rit.)*
+
+**La mère :**
+Et vous, votre petit-fils ?
+
+**Germaine :**
+Il vient dimanche.
+
+**La mère :**
+Ah, dimanche ! Vous me raconterez.
+
+*(La mère lui pose doucement la main sur l'épaule.)*
+
+**La mère :**
+Allez, à tout à l'heure.
+
+*(Quelques mètres plus loin.)*
+
+**Une aide-soignante :**
+Madame ! Attendez !
+
+*(La mère s'arrête.)*
+
+**L'aide-soignante :**
+Vous avez pensé aux gâteaux ?
+
+**La mère :**
+Évidemment.
+
+*(Elle montre le paquet.)*
+
+**L'aide-soignante :**
+Je savais que je pouvais compter sur vous.
+
+**La mère :**
+Pour les gâteaux, oui. Pour le reste, méfiez-vous.
+
+*(Elles rient.)*
+
+**L'aide-soignante :**
+Votre maman vous attend.
+
+**La mère :**
+Je sais. Mais elle peut bien attendre encore deux minutes.
+
+*(L'aide-soignante repart.)*
+
+**Le fils aîné :**
+Tu n'es pas pressée ?
+
+**La mère :**
+Pourquoi je serais pressée ?
+
+**Le fils aîné :**
+Je ne sais pas. D'habitude, tu traverses tout ça à toute vitesse.
+
+**La mère :**
+D'habitude, je suis en retard.
+
+**Le fils cadet :**
+Et aujourd'hui ?
+
+**La mère :**
+Aujourd'hui aussi.
+
+*(Ils sourient.)*
+
+*(Ils continuent d'avancer. Un homme assis près d'une fenêtre lève la main.)*
+
+**Le résident :**
+Madame ! Venez voir !
+
+*(La mère s'approche.)*
+
+**Le résident :**
+Eh ! J'ai gagné à votre loto la semaine dernière. Celui que vous avez organisé !
+
+**La mère :**
+Ah bon ? Je ne m'en souviens pas ! Et qu'est-ce que vous avez gagné ?
+
+**Le résident :**
+Rien.
+
+**La mère :**
+Alors vous avez gagné le droit de rejouer.
+
+*(Le résident éclate de rire.)*
+
+**Le résident :**
+Vous êtes amusante, vous.
+
+**La mère :**
+Je fais ce que je peux.
+
+*(Elle reste quelques instants à discuter avec lui. Les deux frères attendent à quelques pas.)*
+
+**Le fils aîné :** *(à son frère)*
+Heureusement qu'on n'a pas amené à mamie un gateau glacé, il aurait fondu !
+
+*(La directrice de l'établissement rejoint la mère et le résident. La conversation se prolonge. Les deux fils restent à l'écart.)*
+
+**Le fils cadet :**
+C'est quoi ce gateau, d'ailleurs ?
+
+*(La mère revient vers eux.)*
+
+**La mère :**
+Bon, vous venez ? Votre grand-mère va finir par croire que je vous ai perdus.
+Et c'est un flan, que j'ai fait ce matin. En suivant scrupuleusement la recette de ta grand-mère. Je la faisais avec elle à la ferme quand j'étais petite. Et pas avec des oeufs ou du lait d'élevage industriel !
+
+*(Ils arrivent devant le petit salon.)*
+
+*(La grand-mère est assise près de la fenêtre. Elle se redresse en les voyant.)*
+
+**La grand-mère :**
+Ah ! Vous voilà ! Et en plus vous m'avez amené votre mère !
+
+*(Ils rient.)*
 
 ---
 
-*(Plus tard, dans la voiture, sur le parking de la maison de retraite. Les cartons sont chargés à l'arrière. Personne ne démarre tout de suite.)*
+*(Plus tard, dans la voiture, sur le parking de la maison de retraite.)*
 
 **Le fils cadet:**
 On te regardait, tout à l'heure, dans les couloirs. Ce n'est pas nouveau, pour nous, tu sais. On t'a toujours vue comme ça, avec tout le monde, partout où tu passes.
@@ -57,13 +174,13 @@ On te regardait, tout à l'heure, dans les couloirs. Ce n'est pas nouveau, pour 
 On a grandi avec cette version de toi. Ça a toujours fait partie du paysage.
 
 **La mère:**
-Je me demandais si ça vous gênait, en fait, aujourd'hui, dans ce contexte précis.
+Quoi donc, les garçons ?
 
 **Le fils cadet:**
-Pas du tout. Ça nous a même donné envie de te dire quelque chose, tous les deux, qu'on n'a peut-être jamais formulé aussi clairement.
+Ça nous a même donné envie de te dire quelque chose, tous les deux, qu'on n'a peut-être jamais formulé aussi clairement.
 
 **La mère:**
-Je t'écoute.
+Je vous écoute.
 
 **Le fils cadet:**
 On a grandi avec deux versions de toi, en fait. Celle qu'on vient de voir dans ce couloir, cette énergie que tu donnes à des gens de passage, des contextes, des projets. Et celle qu'on a reçue nous, à la maison, qui n'a jamais dépendu de rien.

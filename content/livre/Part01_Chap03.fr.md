@@ -50,7 +50,23 @@ Tu as toujours été comme ça, même petit. Pendant que je fonçais, toi tu reg
 Je cartographiais. Et toi, tu n'as jamais eu peur d'avancer. C'est une force que je n'ai pas. J'ai la vision mais pas le levier!
 
 **Le fils aîné:**
-Parlons de nos choix de vie, alors. Moi, j'ai construit vite : j'ai voulu bâtir quelque chose de grand, prendre des risques, avancer sans trop regarder en arrière. Toi, tu as pris le temps. Tu as réfléchi longtemps avant de te lancer, explique-moi tes choix.
+Dis, tu te souviens quand notre vieil oncle nous appelait les « ToTons » ?
+
+**Le fils cadet:**
+Oui, évidemment ! On était petits, et on lui disait timidement « bonjour tonton », l'un après l'autre.
+
+**Le fils aîné:**
+Ca le faisait rire à chaque fois ! Il nous imitait à merveille, et tout le monde s'esclaffait, nous les premiers !
+
+**Le fils cadet:**
+J'aimerais bien l'entendre nous appeler comme ça, aujourd'hui.
+
+**Le fils aîné:**
+Moi aussi.
+*(Un silence)*
+
+**Le fils aîné:**
+Parlons de nos choix de vie. Moi, j'ai construit vite : j'ai voulu bâtir quelque chose de grand, prendre des risques, avancer sans trop regarder en arrière. Toi, tu as pris le temps. Tu as réfléchi longtemps avant de te lancer, explique-moi tes choix.
 
 **Le fils cadet:**
 J'ai besoin de comprendre. Toi, tu préfères comprendre en marchant. Mais moi quand je marche, je n'arrive plus à si bien comprendre. Alors je ne bouge pas! Et je vois.
