@@ -1,5 +1,5 @@
 ---
-title: "Maman raconte"
+title: "(Propagation) Tenir debout"
 subtitle: "Dialogue imaginaire avec Papa"
 date: 2026-08-17
 version: 1.0
