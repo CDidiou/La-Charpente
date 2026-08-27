@@ -1,12 +1,10 @@
 ---
-title: "Steaks au poivre"
+title: "(Réflexion) Steaks au poivre"
+subtitle: "Tu vois ma projection"
 date: 2026-08-17
 version: 1.0
+description: "En cuisinant ensemble, les deux frères confrontent la projection que le cadet fait de son aîné, à ce que celui-ci ressent réellement, découvrant qu’ils ont tous deux parfois confondu leurs rôles avec leurs véritables choix."
 weight: 16
----
-
-# Tu vois ma projection
-
 ---
 
 *La cuisine sent le poivre brûlé et le beurre noisette. C'est Noël, tout le monde est au salon sauf les deux frères. L'aîné a pris la poêle avant que quelqu'un d'autre ne s'en approche — comme toujours.*

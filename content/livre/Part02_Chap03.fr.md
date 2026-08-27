@@ -1,12 +1,10 @@
 ---
-title: "L'assiette sale"
+title: "(Réflexion) L'assiette sale"
+subtitle: "Ce qu'on ne répare pas comme un mur"
 date: 2026-08-17
 version: 1.0
+description: "En faisant la vaisselle, les deux frères comprennent que leurs façons opposées d’aider l’autre — réparer d’un côté, analyser de l’autre — sont en réalité deux manières symétriques de vouloir maîtriser ce qui reste inachevé."
 weight: 18
----
-
-# Ce qu'on ne répare pas comme un mur
-
 ---
 
 *Un matin d'été. Fin du petit déjeuner. Les deux frères font la vaisselle, seuls — l'aîné lave, le cadet essuie, sans grand enthousiasme.*

@@ -1,12 +1,10 @@
 ---
-title: "Mon escalier"
+title: "(Propagation) Mon escalier"
+subtitle: "L'Apéritif"
 date: 2026-08-17
 version: 1.0
+description: "Lors d’un apéritif en famille, le père révèle la fragilité des liens qu’il a lui-même tenté de préserver, et tous comprennent que leur complémentarité — l’énergie, le regard et la capacité à consolider — est ce qui permet à la famille de tenir et de transmettre."
 weight: 12
----
-
-# L'Apéritif
-
 ---
 
 *(La voiture se gare devant la maison. En entrant, une odeur d'olives tièdes et de pain grillé flotte déjà dans l'air. Le père a mis la table dehors, sous la tonnelle, avec plus de choses que nécessaire, comme toujours. Des plans posés sur le coin de la table, à moitié couverts par une serviette.)*

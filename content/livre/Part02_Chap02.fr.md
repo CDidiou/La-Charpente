@@ -1,12 +1,10 @@
 ---
-title: "Le café"
+title: "(Réflexion) Le café"
+subtitle: "Ce qu'on ne répare pas avec les mains"
 date: 2026-08-17
 version: 1.0
+description: "Face au chagrin silencieux de la gouvernante, les deux frères découvrent que l’aîné cherche à réparer par l’action tandis que le cadet apprend à simplement être présent, chacun comprenant ainsi une autre manière de prendre soin."
 weight: 17
----
-
-# Ce qu'on ne répare pas avec les mains
-
 ---
 
 *Un soir d'automne. Le salon s'est vidé peu à peu vers la cuisine et le café. La gouvernante des enfants de l'aîné, chez eux depuis plus d'une dizaine d'années maintenant, devenue un membre à part entière de la maison, reste assise seule près de la fenêtre, une assiette à peine touchée sur les genoux, le regard ailleurs. L'aîné la remarque le premier.*

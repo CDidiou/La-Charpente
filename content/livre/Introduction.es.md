@@ -2,7 +2,7 @@
 title: "Posguerra"
 date: 2026-08-17
 version: 1.0
-weight: 2
+weight: 3
 ---
 
 *Diálogos imaginarios sobre lo que se transmite, y sobre lo que, a pesar de todo, se elige*

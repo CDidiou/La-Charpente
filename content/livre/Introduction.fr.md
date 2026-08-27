@@ -1,12 +1,10 @@
 ---
-title: "L'après-guerre"
+title: "(Propagation) L'après-guerre"
+subtitle: "Dialogues imaginaires sur ce qui se transmet, et sur ce qui, malgré tout, se choisit"
 date: 2026-08-17
 version: 1.0
-weight: 2
----
-
-*Dialogues imaginaires sur ce qui se transmet, et sur ce qui, malgré tout, se choisit*
-
+description: "Le narrateur présente une famille imaginaire construite pour explorer ce qui se transmet malgré soi — blessures, dons, rôles et silences — et ce qui peut enfin être choisi lorsqu’on prend le temps de le mettre en mots."
+weight: 3
 ---
 
 Je n'ai pas construit de famille. J'ai voulu, une fois, et ça ne s'est pas fait — ni tout à fait par ma faute, ni tout à fait par celle de mon amour. Alors j'en ai imaginé une, ici, sur ce papier, faute de mieux. Ce n'est pas la mienne. C'est celle que j'aurais aimé avoir, le temps de rater, puis de réparer.

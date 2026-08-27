@@ -1,13 +1,11 @@
 ---
 title: "Conclusion ?"
+subtitle: "Ce que j'ai voulu dire, en écrivant cette famille que je n'ai pas eue"
 date: 2026-08-17
 version: 1.0
+description: "En expliquant pourquoi il a inventé cette famille, le narrateur révèle que son véritable sujet n’est pas le dépassement individuel des déterminismes, mais la possibilité de se réparer à plusieurs, grâce à un lien suffisamment solide pour permettre à chacun de bouger sans se perdre."
 weight: 14
 ---
-
-# Conclusion ?
-
-## Ce que j'ai voulu dire, en écrivant cette famille que je n'ai pas eue
 
 Je vais essayer d'expliquer, une fois, ce que j'ai cherché à faire avec ces quatre-là. Pas parce qu'un livre a besoin qu'on l'explique, mais parce que celui-ci, je crois, m'a servi à comprendre quelque chose que la guerre et le retour ne m'avaient jamais laissé le temps de comprendre.
 

@@ -1,13 +1,10 @@
 ---
-title: "L'embrouille"
+title: "(Propagation) L'embrouille"
+subtitle: "Ce qu'on pesait différemment"
 date: 2026-08-17
 version: 1.0
+description: "Après trente ans de silence, le père et la mère confrontent leurs lectures opposées d’une vieille rupture familiale, comprennent comment une blessure transmise de génération en génération a pesé sur leurs choix, et décident de rouvrir la porte aux cousins."
 weight: 13
----
-
-# Ce Qu'on Pesait Différemment
-*Dialogue imaginaire entre le père et la mère, seuls*
-
 ---
 
 *(Le soir, après le départ des garçons. La table de la tonnelle n'a pas encore été débarrassée. Ils restent assis, tous les deux, sans rien à faire de précis, juste l'envie de continuer ce qui vient de s'ouvrir dans la journée.)*

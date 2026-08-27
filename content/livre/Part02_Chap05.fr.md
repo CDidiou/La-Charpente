@@ -1,12 +1,10 @@
 ---
-title: "Les chaises"
+title: "(Réflexion) Les chaises"
+subtitle: "Ce que les mains portent à la place de lui"
 date: 2026-08-17
 version: 1.0
+description: "À l’approche du repas familial, le père apprend à lâcher le contrôle tandis que son fils aîné reprend naturellement son rôle de celui qui veille sur les liens, avant de découvrir avec humour que personne n’a réellement besoin d’être orchestré."
 weight: 20
----
-
-# Ce que les mains portent à la place de lui
-
 ---
 
 *Un dimanche, avant l'arrivée de toute la famille pour un repas. Le père va et vient dans le salon, déplace une chaise, la repose, compte les couverts une troisième fois, jette un œil à la liste musicale, vérifie que le melon est bien découpé en cubes, revient sur les chaises.*

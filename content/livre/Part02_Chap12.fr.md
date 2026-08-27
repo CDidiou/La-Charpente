@@ -1,11 +1,11 @@
 ---
-title: "La promesse"
+title: "(Réflexion) La promesse"
+subtitle: "Ricochet"
 date: 2026-08-17
 version: 1.0
+description: "Dans la dernière scène, les deux frères promettent de ne plus toucher seuls aux cloisons de la maison, dans un échange complice qui suggère que, malgré tout ce qui a été déconstruit et reconstruit, la charpente — et leur lien — tient encore, pour l’instant."
 weight: 27
 ---
-
-# Dernière cloison
 
 *Les deux frères sont dans la maison en travaux. Le père est un peu plus loin avec un des petits-fils. La masse est là, tout près, contre le mur.*
 
@@ -46,7 +46,7 @@ Je ne sais pas. J'imagine. Attends. Non, je ne veux pas. On attend l'artisan.
 T'es sérieux, là ?
 
 **Le fils cadet :**
-Oui, je suis sérieux. Je ne veux pas. Pas cette fois. Non, repose la masse. Et promets-moi de ne pas toucher à cette cloison toi-même !
+Oui, je suis sérieux. Je ne veux pas. Pas cette fois. Non, repose la masse. Et promets-moi de ne pas toucher à cette ouverture toi-même !
 
 **Le fils aîné :**
 Mais t'as tout le temps peur de tout, toi. Tu m'énerves !
@@ -57,7 +57,7 @@ Oui, j'ai toujours peur de tout ! Mais figure-toi que c'est peut-être ça qui p
 Entre nous on ne sait plus très bien qui a inventé qui, dans cette histoire. Alors autant ne pas forcer le destin.
 
 **Le fils aîné :**
-Pfff... Alors c'est donnant-donnant ! Si tu te tais, mais vraiment jusqu'au bout, alors ok, je promets, je ne touche pas à la cloison !
+Pfff... Alors c'est donnant-donnant ! Si tu te tais, mais vraiment jusqu'au bout, alors ok, je promets, je ne touche pas à la contrefiche !
 Voilà. T'es content ?
 
 **Le fils cadet :**

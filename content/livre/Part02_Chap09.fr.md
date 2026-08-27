@@ -1,12 +1,10 @@
 ---
-title: "La relecture"
+title: "(Réflexion) La relecture"
+subtitle: "Ils referment le livre"
 date: 2026-08-17
 version: 1.0
+description: "Après avoir refermé le livre qui les a caricaturés, les trois personnages le relisent ensemble, reprennent la parole sur les rôles que le cadet leur a attribués et transforment finalement cette relecture en projet concret pour la rénovation de la maison familiale."
 weight: 24
----
-
-# Ils referment le livre
-
 ---
 
 *Une chambre d'hôtes au bord de la mer, la terrasse donnant sur des collines sèches. Le cadet a réuni là son père, sa mère et son frère aîné, avant que le chantier ne commence — la maison d'enfance du père attend toujours sa restauration. Cette réunion a été orchestrée mystérieusement, ils sont perplexes d'être rassemblés, mais toujours heureux d'être ensemble. Sur la table basse, un exemplaire relié de La Charpente. Le père vient de tourner la dernière page. Il le referme, le pose, et le pousse légèrement vers le milieu de la table — comme on repousse une assiette vide. La mère et l'aîné, qui viennent aussi de finir, le regardent faire. Ils se tournent alors en même temps vers le cadet, assis dans le fauteuil d'en face.*

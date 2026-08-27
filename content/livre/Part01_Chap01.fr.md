@@ -1,12 +1,10 @@
 ---
-title: "Papa raconte"
+title: "(Propagation) Papa raconte"
+subtitle: "Dialogue imaginaire avec Maman"
 date: 2026-08-17
 version: 1.0
+description: "Dans un dialogue imaginaire avec sa mère, le père retrace les mécanismes familiaux qu’il a reproduits malgré lui, puis comprend que sa véritable transmission à ses fils n’est pas dans ce qu’ils lui ressemblent, mais dans la sécurité et les fondations qu’il leur a données."
 weight: 4
----
-
-# Dialogue imaginaire avec Maman
-
 ---
 
 **Ma mère:**

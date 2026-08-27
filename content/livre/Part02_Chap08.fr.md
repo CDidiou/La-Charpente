@@ -1,12 +1,10 @@
 ---
-title: "Enfin la retraite"
+title: "(Réflexion) Enfin la retraite"
+subtitle: "Les casques de chantier"
 date: 2026-08-17
 version: 1.0
+description: "Alors que leurs fils leur ont appris à lâcher prise, les parents constatent avec amusement qu’ils restent ceux qui font tourner la maison et gardent les petits-enfants, mais acceptent désormais d’en profiter pleinement, entre chantier, rires et transmission."
 weight: 23
----
-
-# Les casques de chantier
-
 ---
 
 *La maison d'enfance du père, en plein chantier. Les murs sont à nu, la poussière recouvre tout, un thermos de café posé sur un plan de travail qui n'existe plus. Les parents gardent les petits-enfants pour les vacances, et les ont laissés jouer dans la pièce d'à côté pendant qu'eux deux soufflent un instant, assis sur deux seaux retournés.*

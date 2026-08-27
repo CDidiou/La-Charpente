@@ -1,13 +1,10 @@
 ---
-title: "Le classeur"
+title: "(Propagation) Le classeur"
+subtitle: "Dialogue imaginaire entre la mère et le fils cadet"
 date: 2026-08-17
 version: 1.0
+description: "En triant les anciens dossiers de la mère, le fils cadet comprend que son regard analytique sur les gens lui vient d’elle, même si elle l’a orienté vers les sciences plutôt que vers les relations humaines."
 weight: 8
----
-
-# Le Grenier qu'on Trie
-*Dialogue imaginaire entre la mère et le fils cadet*
-
 ---
 
 **La mère:**

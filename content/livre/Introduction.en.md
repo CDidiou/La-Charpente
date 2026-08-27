@@ -2,7 +2,7 @@
 title: "Post-war"
 date: 2026-08-17
 version: 1.0
-weight: 2
+weight: 3
 ---
 
 *Imaginary dialogues on what is transmitted, and on what, despite everything, is chosen*

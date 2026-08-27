@@ -1,13 +1,10 @@
 ---
-title: "Derniers cartons"
+title: "(Propagation) Derniers cartons"
+subtitle: "Dialogue imaginaire entre la mère et ses deux fils"
 date: 2026-08-17
 version: 1.0
+description: "En quittant la maison de retraite avec leur mère, les deux frères lui révèlent qu’ils ont chacun reçu et transformé une facette différente de son énergie relationnelle, sur le socle d’un amour maternel toujours inconditionnel."
 weight: 11
----
-
-# Les Couloirs de la Maison de Retraite
-*Dialogue imaginaire entre la mère et ses deux fils*
-
 ---
 
 **Le fils aîné:**

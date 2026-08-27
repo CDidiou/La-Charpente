@@ -1,11 +1,13 @@
 ---
-title: "Le poids des murs"
+title: "(Réflexion) Le poids des murs"
+subtitle: "La contrefiche"
 date: 2026-08-17
 version: 1.0
+description: "Alors que la famille croit enfin avoir consolidé ses liens et rendu la maison habitable, un accident fait s’effondrer la charpente au sens propre comme au figuré, entraînant avec elle l’équilibre patiemment reconstruit."
 weight: 26
 ---
 
-# Ce qui cède sans prévenir
+## Ce qui cède sans prévenir
 
 On avait pris l’habitude de monter lentement.
 Une conversation après l’autre. Une cloison enlevée. Une chaise qu’on laisse enfin à sa place. Un silence qu’on n’a plus besoin de combler. La maison d’enfance se transformait peu à peu en quelque chose d’habitable à nouveau. Les volets étaient neufs. Une poutre ancienne était restée apparente, volontairement. On avait même ri, un dimanche, en regardant les petits-enfants taper dans les cloisons qui ne portaient plus rien.
@@ -26,7 +28,8 @@ On verra bien ce qu’on pourra en faire.
 
 *C'est le vent du dehors qui vient nous rappeler de quel bois nous sommes vraiment faits.*
 
-# Une lettre probablement de Joseph
+
+## Une lettre probablement de Joseph
 
 À ceux qui viendront,
 Je suis rentré avec une jambe en moins et l’idée fixe de fonder une famille.

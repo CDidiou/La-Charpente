@@ -2,10 +2,11 @@
 title: "Plot twist"
 date: 2026-08-17
 version: 1.0
+description: "Le narrateur révèle que la famille qu’il vient de raconter est une construction de son propre regard, puis décide de rendre la parole aux autres pour cesser de les enfermer dans le rôle qu’il leur avait attribué."
 weight: 15
 ---
 
-# Ce que je ne vous ai pas dit au début
+## Ce que je ne vous ai pas dit au début
 
 Il faut que je vous dise quelque chose, maintenant, avant d'aller plus loin.
 

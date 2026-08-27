@@ -1,12 +1,10 @@
 ---
-title: "Le silence"
+title: "(Réflexion) Le silence"
+subtitle: "Ce que la tête voit à sa place"
 date: 2026-08-17
 version: 1.0
+description: "Face au silence qui suit le repas, le fils cadet apprend à son père qu’il n’a pas toujours besoin d’intervenir pour que les liens tiennent, et qu’il peut simplement être présent pendant que tout tient tout seul."
 weight: 21
----
-
-# Ce que la tête voit à sa place
-
 ---
 
 *Plus tard, le repas est fini, tout le monde est passé au salon. Un silence s'installe entre les conversations — pas gênant, juste un creux naturel. Le père se lève, mal à l'aise, cherche déjà une idée pour relancer quelque chose. Le cadet le retient par la manche, discrètement.*

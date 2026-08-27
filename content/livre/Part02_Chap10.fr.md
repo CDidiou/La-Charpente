@@ -1,12 +1,10 @@
 ---
-title: "La visite"
+title: "(Réflexion) La visite"
+subtitle: "La maison qu'on ne reconnaît plus"
 date: 2026-08-17
 version: 1.0
+description: "En visitant la maison d’enfance rénovée par ses neveux, le père et sa sœur relisent leur propre histoire familiale et comprennent que ce qui n’a pas pu être réparé à leur génération peut enfin l’être par la suivante."
 weight: 25
----
-
-# La maison qu'on ne reconnaît plus
-
 ---
 
 *La maison d'enfance, six mois après la fin du chantier. Les volets sont neufs, gris anthracite, la façade a retrouvé sa pierre nue sous l'ancien crépi. Une pancarte en bois brut, discrète, annonce "Chambres d'hôtes". Le père attend sur le perron, presque impatient comme un gamin, quand la voiture de sa sœur se gare enfin dans la rue.*
@@ -101,5 +99,3 @@ Peut-être qu'il fallait juste attendre une génération de plus.
 
 **La sœur :**
 Attends ! J'ai une idée !
-
----

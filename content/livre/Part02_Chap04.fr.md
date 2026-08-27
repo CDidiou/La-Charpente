@@ -1,12 +1,10 @@
 ---
-title: "Le plan de table"
+title: "(Réflexion) Le plan de table"
+subtitle: "Ce que la tête ne surveille pas non plus"
 date: 2026-08-17
 version: 1.0
+description: "En aidant sa mère à simplifier un plan de table qu’elle compliquait en voulant anticiper les besoins de chacun, le fils cadet reconnaît chez elle la même méthode analytique qu’il a héritée d’elle, mais découvre que certaines choses peuvent simplement se laisser vivre."
 weight: 19
----
-
-# Ce que la tête ne surveille pas non plus
-
 ---
 
 *Le soir, à la table de la cuisine. La mère a étalé devant elle le plan de table pour le repas d'anniversaire du père — des petits papiers, des ratures, un début de crise. Le cadet entre, se sert un verre d'eau, la voit s'arrêter, recommencer, s'arrêter encore.*
