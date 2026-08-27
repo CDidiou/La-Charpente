@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) Steaks au poivre"
-subtitle: "Tu vois ma projection"
+subtitle: "Ce que tu vois à ma place"
 date: 2026-08-17
 version: 1.0
 description: "En cuisinant ensemble, les deux frères confrontent la projection que le cadet fait de son aîné, à ce que celui-ci ressent réellement, découvrant qu’ils ont tous deux parfois confondu leurs rôles avec leurs véritables choix."

@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) Le plan de table"
-subtitle: "Ce que la tête ne surveille pas non plus"
+subtitle: "Ce que l'on peut déplacer"
 date: 2026-08-17
 version: 1.0
 description: "En aidant sa mère à simplifier un plan de table qu’elle compliquait en voulant anticiper les besoins de chacun, le fils cadet reconnaît chez elle la même méthode analytique qu’il a héritée d’elle, mais découvre que certaines choses peuvent simplement se laisser vivre."

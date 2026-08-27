@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Le classeur"
-subtitle: "Dialogue imaginaire entre la mère et le fils cadet"
+subtitle: "Les clefs de la maison"
 date: 2026-08-17
 version: 1.0
 description: "En triant les anciens dossiers de la mère, le fils cadet comprend que son regard analytique sur les gens lui vient d’elle, même si elle l’a orienté vers les sciences plutôt que vers les relations humaines."

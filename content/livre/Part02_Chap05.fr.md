@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) Les chaises"
-subtitle: "Ce que les mains portent à la place de lui"
+subtitle: "Ce qu'on n'a pas à porter"
 date: 2026-08-17
 version: 1.0
 description: "À l’approche du repas familial, le père apprend à lâcher le contrôle tandis que son fils aîné reprend naturellement son rôle de celui qui veille sur les liens, avant de découvrir avec humour que personne n’a réellement besoin d’être orchestré."

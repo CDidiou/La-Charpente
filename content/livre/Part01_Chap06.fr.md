@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Le numéro 9"
-subtitle: "Dialogue imaginaire entre le père et le fils cadet"
+subtitle: "Jouer avec ses forces"
 date: 2026-08-17
 version: 1.0
 description: "Au bord du terrain, le père et son fils cadet reconnaissent qu’ils ont tous deux choisi l’effacement plutôt que l’affirmation, avant de décider de mettre leurs forces complémentaires au service d’un projet familial commun"

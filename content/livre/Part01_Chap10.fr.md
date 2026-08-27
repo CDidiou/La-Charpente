@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) L'embrouille"
-subtitle: "Ce qu'on pesait différemment"
+subtitle: "Rouvrir la porte"
 date: 2026-08-17
 version: 1.0
 description: "Après trente ans de silence, le père et la mère confrontent leurs lectures opposées d’une vieille rupture familiale, comprennent comment une blessure transmise de génération en génération a pesé sur leurs choix, et décident de rouvrir la porte aux cousins."

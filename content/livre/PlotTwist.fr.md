@@ -1,5 +1,6 @@
 ---
 title: "Plot twist"
+subtitle: "Rendre la plume"
 date: 2026-08-17
 version: 1.0
 description: "Le narrateur révèle que la famille qu’il vient de raconter est une construction de son propre regard, puis décide de rendre la parole aux autres pour cesser de les enfermer dans le rôle qu’il leur avait attribué."

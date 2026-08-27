@@ -1,6 +1,6 @@
 ---
-title: "(Propagation) Tenir debout"
-subtitle: "Dialogue imaginaire avec Papa"
+title: "(Propagation) Maman raconte"
+subtitle: "Tenir debout"
 date: 2026-08-17
 version: 1.0
 description: "Dans un dialogue imaginaire avec son père, la mère raconte comment elle a transformé l’autorité héritée de lui en une force qui lui a permis de construire un couple équilibré et de transmettre à ses deux fils, chacun à sa manière, une synthèse de l’action et de l’analyse."

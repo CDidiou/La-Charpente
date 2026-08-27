@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) La haie"
-subtitle: "Ce que les mains ne surveillent pas"
+subtitle: "Ce qu'on fait pour soi"
 date: 2026-08-17
 version: 1.0
 description: "En taillant la haie avec son fils, la mère apprend à cesser de surveiller et de se rendre utile pour les autres, tandis que l’aîné lui révèle qu’il tient d’elle cette capacité à faire les choses bien, mais qu’il peut désormais lui en restituer une part."

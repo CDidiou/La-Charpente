@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Mon escalier"
-subtitle: "L'Apéritif"
+subtitle: "Faire tenir"
 date: 2026-08-17
 version: 1.0
 description: "Lors d’un apéritif en famille, le père révèle la fragilité des liens qu’il a lui-même tenté de préserver, et tous comprennent que leur complémentarité — l’énergie, le regard et la capacité à consolider — est ce qui permet à la famille de tenir et de transmettre."

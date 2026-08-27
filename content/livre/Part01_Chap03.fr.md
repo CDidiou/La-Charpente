@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Les ToTons"
-subtitle: "Dialogue imaginaire entre frères"
+subtitle: "Faire équipe"
 date: 2026-08-17
 version: 1.0
 description: "Les deux frères revisitent l’histoire et les blessures de leurs lignées, comprennent ce qu’ils ont eux-mêmes transmis à leurs enfants et imaginent comment transformer cet héritage en une force commune pour la génération suivante."

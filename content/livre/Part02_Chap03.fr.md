@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) L'assiette sale"
-subtitle: "Ce qu'on ne répare pas comme un mur"
+subtitle: "Ce qu'on laisse en désordre"
 date: 2026-08-17
 version: 1.0
 description: "En faisant la vaisselle, les deux frères comprennent que leurs façons opposées d’aider l’autre — réparer d’un côté, analyser de l’autre — sont en réalité deux manières symétriques de vouloir maîtriser ce qui reste inachevé."

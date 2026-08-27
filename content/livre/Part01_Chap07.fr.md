@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Le pilulier"
-subtitle: "Dialogue imaginaire entre la mère et sa propre mère"
+subtitle: "Les mêmes outils"
 date: 2026-08-17
 version: 1.0
 description: "En préparant le pilulier de sa mère, la mère découvre que derrière sa propre tendance à tout analyser se cachait une autre forme de transmission : le rire et le pas de côté que sa mère lui avait appris sans jamais les nommer."

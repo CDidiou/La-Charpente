@@ -1,6 +1,6 @@
 ---
 title: "(Réflexion) Le silence"
-subtitle: "Ce que la tête voit à sa place"
+subtitle: "Ce qui tient sans qu'on le tienne"
 date: 2026-08-17
 version: 1.0
 description: "Face au silence qui suit le repas, le fils cadet apprend à son père qu’il n’a pas toujours besoin d’intervenir pour que les liens tiennent, et qu’il peut simplement être présent pendant que tout tient tout seul."

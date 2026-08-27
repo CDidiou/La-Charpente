@@ -1,6 +1,6 @@
 ---
-title: "(Réflexion) Enfin la retraite"
-subtitle: "Les casques de chantier"
+title: "(Réflexion) Le temps retrouvé"
+subtitle: "Ce qu'on fait quand on n'a plus rien à prouver"
 date: 2026-08-17
 version: 1.0
 description: "Alors que leurs fils leur ont appris à lâcher prise, les parents constatent avec amusement qu’ils restent ceux qui font tourner la maison et gardent les petits-enfants, mais acceptent désormais d’en profiter pleinement, entre chantier, rires et transmission."

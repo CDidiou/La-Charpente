@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) La cloison"
-subtitle: "Dialogue imaginaire entre le père et le fils aîné"
+subtitle: "Faire tomber les murs"
 date: 2026-08-17
 version: 1.0
 description: "En retapant ensemble la maison familiale, le père et son fils aîné comprennent comment chacun s’est construit en opposition à la génération précédente et que transmettre, ce n’est pas donner une direction, mais offrir un lieu où revenir."

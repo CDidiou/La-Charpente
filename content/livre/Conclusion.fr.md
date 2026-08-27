@@ -1,6 +1,6 @@
 ---
 title: "Conclusion ?"
-subtitle: "Ce que j'ai voulu dire, en écrivant cette famille que je n'ai pas eue"
+subtitle: "La table que je n’ai pas eue"
 date: 2026-08-17
 version: 1.0
 description: "En expliquant pourquoi il a inventé cette famille, le narrateur révèle que son véritable sujet n’est pas le dépassement individuel des déterminismes, mais la possibilité de se réparer à plusieurs, grâce à un lien suffisamment solide pour permettre à chacun de bouger sans se perdre."

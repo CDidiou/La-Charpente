@@ -1,6 +1,6 @@
 ---
 title: "(Propagation) Derniers cartons"
-subtitle: "Dialogue imaginaire entre la mère et ses deux fils"
+subtitle: "Le socle"
 date: 2026-08-17
 version: 1.0
 description: "En quittant la maison de retraite avec leur mère, les deux frères lui révèlent qu’ils ont chacun reçu et transformé une facette différente de son énergie relationnelle, sur le socle d’un amour maternel toujours inconditionnel."
