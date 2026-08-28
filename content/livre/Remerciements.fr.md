@@ -5,7 +5,7 @@ version: 1.0
 weight: 1
 ---
 
-# La Charpente
+# La Charpente (Roman du cycle de Bernardy-Lilaz)
 
 ## Note sur l'auteur
 Joseph de Bernardy-Lilaz

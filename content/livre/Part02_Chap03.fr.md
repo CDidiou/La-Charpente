@@ -7,7 +7,7 @@ description: "En faisant la vaisselle, les deux frères comprennent que leurs fa
 weight: 18
 ---
 
-*Un matin d'été. Fin du petit déjeuner. Les deux frères font la vaisselle, seuls — l'aîné lave, le cadet essuie, sans grand enthousiasme.*
+*(Un matin d'été. Fin du petit déjeuner. Les deux frères font la vaisselle, seuls — l'aîné lave, le cadet essuie, sans grand enthousiasme.)*
 
 **Le fils aîné :**
 Alors, tu démissionnes ou pas ? Les entrepreneurs, ils ne sont pas là à attendre et à compter les fleurs !
