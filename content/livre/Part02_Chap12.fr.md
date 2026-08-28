@@ -1,72 +1,50 @@
 ---
-title: "(Réflexion) La promesse"
-subtitle: "Ricochet"
+title: "Les ratures du frère ainé"
+subtitle: "Je t'en fiche de la contrefiche"
 date: 2026-08-17
 version: 1.0
-description: "Dans la dernière scène, les deux frères promettent de ne plus toucher seuls aux cloisons de la maison, dans un échange complice qui suggère que, malgré tout ce qui a été déconstruit et reconstruit, la charpente — et leur lien — tient encore, pour l’instant."
+description: "Quand on découvre la version du frère aîné, après relecture."
 weight: 27
 ---
+ 
+*(Écrit à même la dernière page du livre, d’une écriture vive, au stylo bleu.)*
 
-*(Les deux frères sont dans la maison en travaux. Le père est un peu plus loin avec un des petits-fils. La masse est là, tout près, contre le mur.)*
+Tu t’es planté sur maman.
+Tu as écrit qu’elle t’avait donné les clés et interdit d’ouvrir la porte. C’est joli. C’est faux.
+Elle ne t’a rien donné exprès. Elle vivait dedans, c’est tout. Ses dossiers, ses histoires d’enfants, ses anecdotes… elle ne voyait même pas que tu prenais. Parce que toi, tu savais disparaître. Tu fais le caméléon depuis que t’as six ans. Un gamin normal, elle l’aurait vu tout de suite. Toi non. Tu traînais où elle ne regardait pas, tu écoutais, tu stockais, et tu fermais ta gueule. Tu as volé les clés. Et après tu t’es plié à l’ingénierie comme un bon petit soldat, histoire que personne ne se doute que tu les avais déjà en poche. C’est pas elle qui t’a bloqué. C’est toi qui as préféré obéir plutôt que d’assumer ce que tu avais piqué en silence.
 
-**Le fils cadet :**
-Franchement, je te conseille ce vieux film. Ca fait pusieurs fois que je t'en parle, mais il est vraiment génial. Naufrage à babord. C'est filmé en noir et blanc. Des marins suédois du XVIIeme siècle, complètement rincés par le vent, qui viennent de passer dix heures au milieu des glaces dans une embarcation de fortune. Et là, y a le vieux capitaine, à la barre, un borgne taiseux ...
+Et le reste, c’est pareil.
 
-**Le fils aîné :** *(levant les yeux au ciel)*
-Oh non... Pitié, épargne-moi ton pitch de drame tourné dans un fjord avec trois figurants et un budget bougie.
+Maman, elle ouvre le robinet à fond. Tout le temps. Depuis toujours.
+Tu te souviens des étés à la mer ? Elle avait préparé trois goûters différents parce que l’un de nous n’aimait pas le jambon, l’autre voulait du fromage, et elle-même n’avait rien mangé.
+Tu te souviens des Noëls ? Elle faisait les courses, le repas, la déco, les lits, l’accueil, la vaisselle… tout. Tu te levais à huit heures pour voir si tu avais des cadeaux sous le sapin, et elle, elle était là depuis au moins deux heures, elle t'avait fait le café et lavé, repassé ta chemise pour que tu repartes le soir avec une valise plus propre qu’à l’arrivée !
 
-**Le fils cadet :**
-Mais attends, et écoute ces répliques qui claquent ! Le vieux pose sa main énorme sur l'épaule du mousse, le regarde droit dans les yeux, et là il lui sort :
-« Peut-être que les hommes sont incapables d'être grands... On ne peut pas les forcer à l'être. »
+Elle ne dose pas. Elle n’a jamais dosé. Elle donne comme si elle devait rattraper quelque chose qu’elle n’avait pas eue petite. Et chaque fois qu’elle soigne quelqu’un, c’est un peu elle-même qu’elle soigne. Toi tu as pris ça pour de la science qu’elle te transmettait. Non. C’était juste le robinet grand ouvert. Point.
 
-**Le fils aîné :**
-Super. Passe-moi plutôt la masse, on a du boulot !
+Papa, c’est pareil, dans l’autre sens.
+Lui, il a grandi avec le bruit du rabot qui devait faire taire le reste. Alors dès qu’il a pu, il a fait l’inverse : il a rempli.
 
-**Le fils cadet :** :
-Attends, attends ! La suite est encore plus forte ! Le gamin panique, il lui demande comment ils vont s'en sortir, et le vieux lui lâche :
-« On ne peut pas éviter la catastrophe. Elle arrivera de toute façon, tôt ou tard, sous une forme ou une autre. »
-*(Il marque une pause, le regard grave)*
-« Mais... ce qu'on peut faire, c'est modifier l'endroit où elle frappe. »
+Il construisait des cabanes que personne n’avait demandées.
+Il invitait les voisins sans prévenir.
+Il remettait une bouteille sur la table alors que tout le monde avait fini.
+Il voulait rouvrir aux cousins trente ans après.
+Il voulait cette putain de fenêtre de toit pour faire entrer la lumière.
 
-**Le fils aîné :**
-Ah oui, là, c'est sûr, tu m'as convaincu, je ne vais certainement pas perdre une seule minute à regarder ton navet en carton !
-*(Il va chercher la masse)*
-Allez, pousse-toi, il faut faire cette ouverture dans le toit !
+C’est pas un hasard si c’est pile à ce moment-là que ça a cassé. Il a passé sa vie à vouloir prouver que la maison pouvait être pleine de bruit joyeux. Et le jour où il a imposé cette ouverture, le plafond lui est tombé dessus !
 
-**Le fils cadet :**
-L'ouverture ? Non non non non ! Ce n'est pas ce qu'on avait dit. On attend l’artisan.
+Deux robinets ouverts.
+Deux parents qui donnent sans jauge.
 
-**Le fils aîné :**
-C'est pas possible... T’as peur de quoi, encore ? Que je fasse s’écrouler toute la baraque ?
+Et nous, au milieu, à devoir apprendre seuls à ne pas nous noyer.
+Toi et moi, on a juste choisi des directions différentes pour évacuer le trop-plein.
+Moi, je sors. Je fonce, je commande, j’accueille tout le monde avant qu’on m’y invite, je m’énerve dès que ça freine. J’ai besoin de résistance pour sentir que j’existe.
 
-**Le fils cadet :**
-Je ne sais pas. J'imagine. Attends. Non, je ne veux pas. On attend l'artisan.
+Toi, tu rentres. Tu observes, tu ranges, tu fais des théories même en pleine crise. Tu brûles en circuit fermé.
+On a eu trop de carburant et pas assez d’oxygène.
 
-**Le fils aîné :**
-T'es sérieux, là ?
+Tu as raconté une maison où tout le monde calcule.
+Alors que c’était juste une maison où tout le monde donne trop, sans jamais regarder le compteur.
 
-**Le fils cadet :**
-Oui, je suis sérieux. Je ne veux pas. Pas cette fois. Non, repose la masse. Et promets-moi de ne pas toucher à cette ouverture toi-même !
+C’est tout.
+Ton livre est beau. Il est faux.
 
-**Le fils aîné :**
-Mais t'as tout le temps peur de tout, toi. Tu m'énerves !
-
-**Le fils cadet :**
-Oui, j'ai toujours peur de tout ! Mais figure-toi que c'est peut-être ça qui peut me donner des super pouvoirs, des fois !
-*(Il regarde vers le ciel, mystique.)*
-Entre nous on ne sait plus très bien qui a inventé qui, dans cette histoire. Alors autant ne pas forcer le destin.
-
-**Le fils aîné :**
-Pfff... Alors c'est donnant-donnant ! Si tu te tais, mais vraiment jusqu'au bout, alors ok, je promets, je ne touche pas à la contrefiche !
-Voilà. T'es content ?
-
-**Le fils cadet :**
-Oui, c'est d'accord. Et je tiens parole moi aussi. Car écoute-moi bien, c'est littéralement mon dernier mot !
-
-**Le fils aîné :**
-T'es un peu fêlé toi avec tes visions !
-
-*(Evidemment, il joint le geste à la parole, et lui met une grande claque dans le dos, un peu trop forte, comme toujours, avant d’aller reposer la masse.)*
-
-L'onde a ricoché.
-Quelque part, une charpente continue de tenir. Pour l’instant.
