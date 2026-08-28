@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Les ratures du frère ainé"
+title: "Les ratures du frère ainé"
 subtitle: "Je t'en fiche de la contrefiche"
 date: 2026-08-17
 version: 1.0
