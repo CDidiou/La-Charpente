@@ -7,13 +7,13 @@ description: "Lors d’un apéritif en famille, le père révèle la fragilité 
 weight: 12
 ---
 
-*(La voiture se gare devant la maison. En entrant, une odeur d'olives tièdes et de pain grillé flotte déjà dans l'air. Le père a mis la table dehors, sous la tonnelle, avec plus de choses que nécessaire, comme toujours. Des plans posés sur le coin de la table, à moitié couverts par une serviette.)*
+*(Quelques mois plus tard. Les 2 frères arrivent à la maison du père et de la mère. En entrant, une odeur d'olives tièdes et de pain grillé flotte déjà dans l'air. Le père a mis la table dehors, sous la tonnelle, avec plus de choses que nécessaire, comme toujours. Des plans posés sur le coin de la table, à moitié couverts par une serviette.)*
 
 **Le père :**
 Vous voilà. J'ai sorti le rosé, les rillettes, et j'ai fait quelques toasts, au cas où la journée aurait été longue. Et j'ai revu les plans, pour la maison. Il faut commencer par la charpente, pas par l'escalier!
 
 **La mère :**
-Elle a été longue, la journée. Et toi, tu as plus d'énergie que nous tous réunis!
+Regardez les enfants ! Votre père a tout refait sur sa planche à dessin.
 
 **Le père :**
 Dessiner, faire des plans, ce n'est pas du travail pour moi.
@@ -29,32 +29,29 @@ L'oeil de ceux du métier.
 
 *(Ils s'installent. Le père sert, remplit les verres, pousse le plat vers chacun.)*
 
+**La mère :**
+Alors quelles nouvelles vous nous rapportez ? Comment vont mon fils action et mon fils vision ?
+
 **Le fils aîné :**
-C'était étrange, en fait, cette journée. On est allés récupérer les affaires de mamie, et dans les couloirs, tout le monde s'est mis à réclamer maman. Les soignants, les résidents, la direction.
-
-**Le père :**
-Ça ne m'étonne pas d'elle.
-
-***Le fils cadet :**
-On en a parlé, en revenant. De comment on a chacun pris un peu de ce qu'elle sait faire. Lui l'élan, moi le regard.
+Tu te moques de nous, maman, depuis qu'on s'est auto attribué des qualités, sur ton dos.
 
 **La mère :**
-Ils m'ont fait un joli cadeau, tous les deux, dans la voiture.
+Main non, voyons ! Je vous taquine. Vous m'avez fait une belle déclaration, ce jour-là. Et j'aime m'en rappeler et re-évoquez vos mots !
 
 **Le père :**
-Et moi, dans tout ça, on m'a oublié sur le bord de la route ?
+Oui, ils t'ont fait un joli cadeau. Maist moi, dans tout ça... Ils m'ont oublié sur le bord de la route !
 
 ***Le fils cadet :**
-Non, justement. En rentrant, je me disais un truc.
+Ah ! Tu veux un cadeau aussi, tiens ! Comme tu es assis, je suis prêt pour un grand discours. 
 
-**Le père :**
-Quoi donc ?
+**Le père :** *il lui tend un verre de rosé*
+Ca ne m'étonne pas de toi. Tiens, prends un verre et commence ton annonce. Je t'écoute, mais ne sois pas trop long, on a tous soif !
 
 ***Le fils cadet :**
-Que toi, tu ne cours jamais après rien. Tu es toujours déjà là, en train de préparer, d'anticiper, de tenir les fils. Maman fait des étincelles. Toi tu fais que ça tienne.
+Je vais donc être bref. Papa, toi, tu ne cours jamais après rien. Tu es toujours déjà là, en train de préparer, d'anticiper, de tenir les fils. Maman fait des étincelles. Toi tu fais que ça tienne.
 
 **Le père :**
-Je tiens rien du tout, je fais les choses.
+C'est bien, le discours est fini. A la tienne, à la vôtre ! Je te remercie, mais sache que je tiens rien du tout, je fais les choses.
 
 **Le fils aîné :**
 D'accord, tu fais. Mais ça revient un peu au même, non ?
@@ -66,7 +63,7 @@ Pas vraiment. Regardez cette maison. Sans quelqu'un qui visse, qui perce, qui co
 Il n'a pas tort.
 
 **Le père :**
-Tiens, d'ailleurs, puisqu'on parle de ça. Je repensais à un truc, cet après-midi.
+Tiens, d'ailleurs, puisqu'on parle de tout. Je repensais à un truc, tout cet après-midi.
 
 **La mère :**
 À quoi ?

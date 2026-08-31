@@ -40,7 +40,7 @@ Viens voir.
 Y avait un mur, là, avant. Pas de fenêtre.
 
 **Le père :**
-Ouais. L'aîné a fait sauter le mur porteur, avec un permis en bonne et due forme, hein, je précise. Il voulait de la lumière. Il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
+Ouais. L'aîné a fait sauter le mur porteur. On l'a enlevé tous les deux, cette cloison, lui et moi. Nous voulions de la lumière. Et ça n'a pas trainé, tu le connais, il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
 
 *(Ils reviennent à la cuisine, s'assoient un moment, un café entre eux. La sœur regarde au loin, silencieuse un instant.)*
 

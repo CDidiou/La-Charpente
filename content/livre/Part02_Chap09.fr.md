@@ -126,7 +126,7 @@ Je m'en doutais, tiens !
 *(Mais avant que quiconque ait choisi son premier mot, l'aîné a déjà la tête baissée sur son carnet, stylo en main, en train d'écrire — sans attendre, sans réfléchir à sa première phrase, exactement comme il a toujours fait. Les trois autres le regardent une seconde, surpris de le voir déjà lancé.)*
 
 **Le fils aîné :** *(sans lever les yeux de son carnet)*
-Et bien quoi ? Finissez-moi ces inutiles travaux d'auto-analyse. Il faut qu'on parle du vrai, qu'on s'organise pour la rénovation de la maison !
+Et bien quoi ? Finissez-moi ces inutiles travaux d'auto-analyse. Il faut qu'on parle du vrai, qu'on s'organise pour la rénovation de la maison ! On n'a fait que de petits travaux, il fait vraiment accélérer maintenant !
 
 *(Il continue d'écrire, presque en riant tout seul. Un par un, les autres se mettent à écrire aussi. Le père et la mère échangent un regard.)*
 
