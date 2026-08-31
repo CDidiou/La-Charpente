@@ -61,11 +61,13 @@ Elle est par terre, notre famille.
 *(Il s’approche du lit, se penche.)*
 
 **Le fils aîné :**  
-Papa.  
-Je sais que tu entends.  
-Je n'ai pas d'excuses.
-J’ai voulu ouvrir. J’ai trop poussé. Et maintenant tu es là.  
-C’est tout.
+Papa.
+Je sais que tu entends.
+Je vais tout reprendre en main. Ton rêve, ta maison d'enfance, je vais la remettre debout.
+Je vais racheterles parts de l'autre, et tu peux compter sur moi, je vais en faire le joyau que tu voulais.
+Je ne te trahirai pas, moi.
+Je t'aime.
+Tiens bon.
 
 *(Il se redresse. Regarde son frère.)*
 

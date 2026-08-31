@@ -60,7 +60,7 @@ On emporte aussi celle-là. Elle fait partie des éléments signalétiques liés
 **L’huissier :**
 Ce vieux coffre est bien lourd !
 
-*(Un vieux parchemin s'en échappe. Il roule jusqu'aux pieds de la mère. Lentement elle le ramasse. Elle l'ouvre. Ses yeux n'arrive plus à lire. Le parchemin lui glisse des mains.)*
+*(Soudain une bourrasque. Une porte claque. L'huissier, surpris, manque de tomber dans l'escalier, avec son coffre en bois massif dans les mains. Un vieux parchemin s'en échappe. Il roule jusqu'aux pieds de la mère. Lentement elle le ramasse. Elle l'ouvre. Ses yeux n'arrive plus à lire. Le parchemin lui glisse des mains.)*
 
 **L’huissier :**  
 Nous reviendrons demain pour le reste. Cuisine, chambres. Vous serez là ?
