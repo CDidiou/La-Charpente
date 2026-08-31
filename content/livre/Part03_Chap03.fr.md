@@ -78,15 +78,20 @@ Je ne sais pas.
 ## Le parchemin, une lettre probablement de Joseph
 
 À ceux qui viendront,
-Je suis rentré avec une jambe en moins et l’idée fixe de fonder une famille.
-Une table. Des voix. Un endroit où revenir.
-Ça n’a pas tenu.
-La femme est partie sans éclat. Les miens se disputaient déjà pour des murs et des chemins. J’ai acheté des lopins que personne ne voulait. J’ai calculé des charpentes seul. J’ai écrit, le soir, une famille qui savait se parler. Ce n’était pas la mienne. C’était tout ce que j’avais trouvé à mettre debout.
-Sisyphe roule sa pierre.
-Elle redescend.
-Il recommence.
-Il n’y a rien d’autre.
-Je n’ai pas fondé de foyer.
-J’ai quand même dressé des poutres dans le vide.
-Et je laisse ces pages comme on laisse une poutre brisée sur le chantier : on verra bien si quelqu’un s’en sert.
+
+Je suis rentré avec une jambe en moins, une idée fixe, et rien d'autre. Une table. Des voix. Un endroit où revenir. Je le disais bien, à qui voulait l'entendre. Ça n'a pas tenu, et ça n'a pas tenu à cause de moi.
+
+Elle m'attendait. Je n'ai pas su rester. J'avais toujours un lopin de plus à acheter, un bois de plus à couper, une jambe de moins et pourtant jamais le temps de m'asseoir en face de quelqu'un. Je confondais bâtir et aimer. Je croyais que remplir une grange suffisait à remplir une maison.
+
+Elle est partie sans éclat, parce qu'il n'y avait rien à disputer : je n'avais rien donné qu'on puisse me reprendre.
+
+Je n'ai pas eu d'enfants. Je n'ai eu personne, le soir, à qui expliquer une charpente. J'ai calculé des poutres tout seul, j'ai dressé des maisons vides pour des gens que je ne reverrais jamais, et j'ai fini par écrire, moi qui n'avais jamais su parler, une famille qui savait se parler. Ce n'était pas la mienne. Je n'en ai jamais eu.
+
+Sisyphe, au moins, a sa pierre. Moi je n'ai eu que le geste, jamais le poids de quelque chose à perdre.
+
+Je n'ai pas fondé de foyer. Je n'ai laissé personne. Je laisse ces pages comme on laisse une poutre qu'on n'a jamais su poser : on verra bien si quelqu'un en veut.
+
+*(Ici l'écriture change. Plus serrée, plus penchée, comme une main qui a tremblé puis s'est reprise de force.)*
+
+Vois, Joseph, ce que j'écris de toi pour l'éternité. Tu ne liras jamais ces lignes. Eux, ils les liront à ta place.
 MZ.

@@ -4,10 +4,10 @@ subtitle: "Papa"
 date: 2026-08-17
 version: 1.0
 description: "Une fissure au plafond"
-weight: 28
+weight: 29
 ---
 
-Lepère, sur son lit d'hôpitel, regarde le plafond depuis des heures.  
+Le père, sur son lit d'hôpital, regarde le plafond depuis des heures.  
 Les joints blancs forment des lignes droites, presque parfaites. Une fissure part du coin gauche et s’arrête net, comme si quelqu’un avait décidé d’arrêter de pousser.
 
 Il ne sent plus ses jambes.  

@@ -1,10 +1,10 @@
 ---
 title: "(Interférences) Après l’inventaire"
-subtitle: "La fissure"
+subtitle: "C’est à vous"
 date: 2026-08-17
 version: 1.0
-description: "Procédure de recours"
-weight: 29
+description: "Procédure de conciliation"
+weight: 30
 ---
 
 La maison est sous scellés depuis huit jours.  
@@ -16,115 +16,124 @@ Il n’enlève pas son manteau.
 — J’ai déposé une requête en annulation de la saisie.  
 Il y a des irrégularités dans la procédure. Les délais n’ont pas été respectés. On peut encore la faire tomber.
 
-Le cadet est debout près de la fenêtre.  
-Il ne se retourne pas tout de suite.
+---
 
-— Tu as vu les chiffres ?
+Le bureau de l’avocat sent le cuir neuf et le café trop fort. L’aîné a réservé la petite salle du fond, celle qu’on appelle « salon de conciliation ». Trois fauteuils, une table basse, une fenêtre qui donne sur une cour intérieure grise. L’avocat les a laissés seuls, en disant qu’il reviendrait quand ils auraient besoin de lui pour formaliser.
 
-— Je m’en fous des chiffres.
+L’aîné a déjà ouvert son dossier. Des feuilles bien alignées, des post-it, un stylo prêt.
 
-— Tu es déjà endetté jusqu’au cou. Ta société…
+**L’aîné :**  
+Il faut qu’on règle ça aujourd’hui. La banque ne va pas attendre. Si on transfère les parts maintenant, on peut encore négocier un échelonnement. Toi tu signes ici, et ici. Après on voit pour la maison.
 
-— Je rachète tes parts. Toutes. Au prix qu’il faudra.  
-Je ne laisserai pas vendre.
+*(Le cadet n’a pas touché aux documents. Il regarde la table, puis la fenêtre, puis son frère.)*
 
-Silence.
+**Le cadet :**  
+Tu as déjà tout décidé.
 
-La mère, assise dans le fauteuil trop bas de la chambre d’ami, regarde les deux.  
-Elle n’a rien dit depuis qu’il est entré.
+**L’aîné :**  
+J’ai tout préparé. C’est pas la même chose.  
+Si on ne bouge pas, ils saisissent. Tu veux qu’on perde tout d’un coup ?
 
-Le cadet se tourne enfin.
+*(La porte s’ouvre. La mère entre sans frapper. Elle porte un classeur épais sous le bras, le même qu’elle utilisait autrefois pour ses dossiers d’école. Elle le pose sur la table, à côté de celui de l’aîné, et s’assoit. Elle n’enleve pas son manteau.)*
 
-— Tu ne rachètes rien.  
-La maison n’est plus à nous. Elle est aux créanciers.  
-Et même si tu gagnais, tu n’as pas l’argent.
+**La mère :**  
+Bonjour.
 
-— Je le trouverai.
+*(Les deux fils se taisent.)*
 
-— Comment ?
+**L’aîné :**  
+Maman, on était en train de…
 
-L’aîné ne répond pas.  
-Il pose le dossier sur la table basse, trop fort.
+**La mère :**  
+Je sais.  
+J’ai tout rassemblé.
 
-— Signe la cession de tes droits. Je m’occupe du reste.
+*(Elle ouvre le classeur. À l’intérieur, des chemises étiquetées à la main : *Comptes – Assurances – Médical – Maison – Entreprise – Contacts*. Chaque document est classé, annoté au crayon, daté.)*
 
-Le cadet regarde le dossier sans le toucher.
+**La mère :**  
+Les codes d’accès. Les procurations que j’avais encore. Les derniers relevés. Le nom du notaire. Celui de l’assureur. Les numéros des médecins. Ce que j’ai pu récupérer sur les dettes de ta société.  
+Tout est là. Vous n’aurez rien à chercher.
 
-— Non.
+*(L’aîné se penche, feuillete rapidement. Le cadet ne bouge pas.)*
 
-— Pourquoi ?
+**Le cadet :**  
+Tu as fait ça toute seule.
 
-— Parce que ça ne sert à rien.  
-Et parce que tu continues de décider pour tout le monde.
+**La mère :**  
+Oui.
 
-L’aîné serre la mâchoire.
+**L’aîné :**  
+C’est bien. On va pouvoir avancer plus vite. Il faut juste que tu signes encore cette page, et que lui signe le transfert.
 
-— Je refuse que cette maison parte.  
-Papa l’a retapée. Je l'ai retapée avec lui.  
-Je ne laisserai pas un huissier la vider.
+*(La mère referme le classeur d’un geste net et le pousse vers le milieu de la table, entre eux deux.)*
 
-— Elle est déjà vide.
+**La mère :**  
+Non.  
+Je ne signe plus rien.  
+Je ne décide plus rien.  
+Je ne tiens plus rien.
 
-Nouveau silence.  
-Plus long.
+*(Silence.)*
 
-La mère se lève.  
-Ses mains tremblent un peu. Elle les cache derrière son dos.
+**L’aîné :**  
+Maman, on a besoin que…
 
-— Arrêtez.
+**La mère :**  
+Vous n’avez plus besoin de moi.  
+Tout est dans le classeur. Vous avez les papiers, vous avez les clés, vous avez les numéros.  
+C’est à vous maintenant.
 
-Les deux fils se taisent.
+*(Elle se leve.)*
 
-Elle regarde l’aîné.
+**Le cadet :**  
+Tu ne peux pas juste…
 
-— Tu vas te ruiner pour une maison qu’on ne pourra plus habiter.
+**La mère :**  
+Si.  
+Je peux.
 
-— Ce n’est pas qu’une maison.
+*(Elle rajuste son manteau.)*
 
-Elle regarde le cadet.
+**L’aîné :**  
+Et papa ?
 
-— Et toi, tu laisses faire. Comme toujours.
+**La mère :**  
+Votre père parle de l’établi. Du graffiti. Des repas d’avant.  
+Il est déjà ailleurs.  
+Moi aussi, maintenant.
 
-Le cadet ouvre la bouche.  
-La referme.
+*(Elle traverse la pièce. À la porte, elle se retourne une dernière fois. Pas pour les supplier, pas pour s’excuser. Juste pour vérifier qu’ils ont bien compris.)*
 
-L’aîné reprend le dossier.
+**La mère :**  
+Ne m’appelez pas pour les détails.  
+Je ne répondrai plus.  
+Débrouillez-vous.
 
-— Je dépose quand même.  
-Avec ou sans ta signature.  
-Il y a des voies. Des délais. Des recours.  
-Je vais les utiliser tous.
+*(Elle sort. La porte se referme sans bruit.)*
+*(Les deux frères restent immobiles. Le classeur est là, entre eux, fermé. L’aîné le regarde comme un chantier qu’il faut attaquer tout de suite. Le cadet le regarde comme un objet qu’on ne sait plus où ranger.)*
 
-Il sort.  
-La porte ne claque pas.  
-Elle se referme juste, net.
+**L’aîné :**  
+Bon.  
+On commence par le transfert.
 
-Dans le couloir, on entend ses pas descendre l’escalier trop vite.
+**Le cadet :**  
+Tu as entendu ce qu’elle a dit ?
 
-Le cadet reste immobile.  
-La mère se rassoit.
+**L’aîné :**  
+Oui.  
+Elle nous a tout donné. Alors on fait ce qu’il faut.
 
-Plus tard, le soir, un message arrive sur le téléphone du cadet.  
-« Audience fixée dans six semaines. Je te tiens au courant. »
+*(Il ouvre déjà la première chemise. Le cadet, lui, n’a toujours pas touché aux papiers. Il regarde la porte fermée, puis la fenêtre, puis son frère.)*
 
-Il ne répond pas.
+**Le cadet :**  
+Elle a coupé.
 
-La mère, dans sa chambre, entend le silence de la maison.  
-Elle pense au coffre scié.
-Aux scellés sur la porte.  
-À son mari qui regarde encore le plafond.
+**L’aîné :**  
+Elle a transmis.  
+C’est pas pareil.
 
-Elle ne lui a toujours pas dit pour la saisie.  
-Elle ne lui a pas dit que l’aîné se battait pour l’annuler.  
-Elle ne lui a pas dit que le cadet refusait.
+**Le cadet :**  
+Si.  
+C’est exactement pareil.
 
-La cassure n’a pas besoin de mots.  
-Elle est dans le dossier posé trop fort.  
-Dans la signature refusée.  
-Dans le message resté sans réponse.  
-Dans la procédure qui commence, déjà perdue d’avance,  
-mais que l’aîné poursuit quand même,  
-parce qu’il ne sait pas faire autrement.
-
-La fissure, au plafond, a un peu plus progressé.
-En silence.
+*(L’aîné ne répond pas. Il a déjà sorti son stylo.)*
