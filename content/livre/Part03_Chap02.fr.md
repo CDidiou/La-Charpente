@@ -9,70 +9,104 @@ weight: 27
 
 *(Chambre d’hôpital. Stores baissés. Le père est allongé, les draps tirés jusqu’à la poitrine. Ses mains reposent à plat sur le drap, trop immobiles. Il regarde le plafond. Les deux fils sont debout de chaque côté du lit. Personne ne s’est assis.)*
 
-**Le fils aîné :**  
+**Le fils aîné :**
 Tu as vendu le livre.
 
-**Le fils cadet :**  
-Pas maintenant.
+*(Le cadet ne répond pas. Il regarde les mains de son père.)*
 
-**Le fils aîné :**  
-Si. Maintenant.  
-Tu as pris ce qu’on était, tu l’as mis en pages, et tu l’as vendu à un type qui voulait « quelque chose de plus accessible ».
+**Le fils aîné :**
+J'ai eu l'appel de l'éditeur ce matin. Dans la salle d'attente. Pendant qu'on attendait de savoir s'il remarcherait.
 
-*(Le cadet ne répond pas tout de suite. Il regarde les mains de son père.)*
-
-**Le fils cadet :**  
+**Le fils cadet :**
 J’avais besoin d’argent.
 
-**Le fils aîné :**  
-Moi j’avais besoin que tu te taises une fois. 
-Tu as toujours tout regardé de loin. Même ça, tu l’as mis à distance. Tu as transformé papa en personnage. Maman en portrait. Moi tu me fais passer pour un bulldozer sans états d'âme. Et quand ça a vraiment cassé, tu as monnayé le regard.
+**Le fils aîné :** *(un rire sans rien dedans)*
+Bien sûr.
+
+*(Il fait deux pas, s'arrête devant la fenêtre, dos à eux.)*
+
+**Le fils cadet :**
+Dis quelque chose de vrai, pour une fois. Pas juste "bien sûr".
+
+**Le fils aîné :**
+Qu'est-ce que tu veux que je dise.
+
+**Le fils cadet :**
+Je sais pas. N'importe quoi. Mais pas ça.
 
 *(Le père cligne des yeux. Rien d’autre.)*
 
-**Le fils cadet :**  
-Et toi ?  
-Toi qui n’as pas voulu attendre. Toi qui as pris la masse. Toi qui as décidé que cette contrefiche n’était « qu’une pièce de bois de plus ».
-C’est toi qui l’as mis là.
+**Le fils aîné :** *(toujours face à la fenêtre)*
+Tu te souviens de la dernière fois qu'on s'est vraiment engueulés, tous les deux ? Vraiment.
 
-**Le fils aîné :**  
-Je savais ce que je faisais.
+**Le fils cadet :**
+Non
 
-**Le fils cadet :**  
-Non. Tu as fait comme toujours. Tu as foncé. Tu as voulu aller plus vite que la structure. Et maintenant il est là, et tu cherches quelqu’un d’autre à blâmer.
+**Le fils aîné :**
+Moi non plus.
 
-*(Un silence. Le père tourne légèrement la tête vers l’aîné, puis vers le cadet. Ses lèvres bougent. Aucun son ne sort.)*
+*(Il se retourne enfin.)*
 
-**Le fils aîné :**  
-Je ne te blâme pas. Je te vois.
-Depuis le début tu observes, tu ranges, tu expliques. Même ici, tu es en train de me mettre dans une case.
-Moi j’ai cassé. Toi tu as vendu. On est quittes.
+**Le fils aîné :**
+On n'a jamais gueulé. On a juste... chacun fait notre truc, dans notre coin, en silence, pendant vingt ans. Et regarde où ça nous a menés.
 
-**Le fils cadet :**  
+**Le fils cadet :**
+Ça n'a rien à voir avec le silence. C'est une poutre qui a cédé.
+
+**Le fils aîné :**
+Une poutre que j'ai touchée, oui. Vas-y, dis-le.
+
+**Le fils cadet :**
+Je l'ai pas dit.
+
+**Le fils aîné :**
+Tu l'as pensé.
+
+**Le fils cadet :**
+J'ai pensé beaucoup de choses. Genre : pourquoi t'as pas attendu l'artisan. Genre : pourquoi tu peux jamais juste attendre.
+
+*(L'aîné ferme les yeux une seconde, encaisse.)*
+
+**Le fils aîné :**
+Vas-y, continue. C'est le moment, non ? Papa peut pas bouger, il peut juste écouter. C'est le moment ou jamais pour toi de vider ton sac.
+
+**Le fils cadet :**
 Arrête.
 
-**Le fils aîné :**  
-Non.  
-Pourquoi ? Pour préserver quoi ?
-La belle image ? Le livre où on se parlait bien ?
-Il est par terre, ton livre.
-Elle est par terre, notre famille.
+**Le fils aîné :**
+Non, sérieux. Je t'ai jamais vu vider ton sac. Jamais. Alors vas-y.
 
-*(Il s’approche du lit, se penche.)*
+*(Un silence différent, cette fois. Le cadet regarde son frère, puis la fenêtre, puis de nouveau son frère.)*
 
-**Le fils aîné :**  
-Papa.
+**Le fils cadet :**
+J'ai peur que tu m'en veuilles toute ta vie pour un truc que t'as fait toi-même.
+
+*(Rien. L'aîné ne répond pas tout de suite. Il se rapproche du lit, très lentement.)*
+
+**Le fils aîné :**
+J'ai peur pareil. Sauf que moi c'est pour un truc que j'ai vraiment fait.
+
+*(Il s'arrête devant le lit. Regarde son père. Sa voix change, plus basse.)*
+
+**Le fils aîné :**
+Papa. *(Rien.)*
 Je sais que tu entends.
-Je vais tout reprendre en main. Ton rêve, ta maison d'enfance, je vais la remettre debout.
-Je vais racheterles parts de l'autre, et tu peux compter sur moi, je vais en faire le joyau que tu voulais.
-Je ne te trahirai pas, moi.
-Je t'aime.
-Tiens bon.
+*(Il prend une inspiration, cherche ses mots, n'en trouve pas de propres, se lance quand même.)*
+La maison. Je vais m'en occuper. Je sais pas encore comment, mais je vais m'en occuper.
 
-*(Il se redresse. Regarde son frère.)*
+*(Il pose sa main sur celle de son père, un instant, maladroit, comme s'il ne savait pas si le geste était permis.)*
 
-**Le fils aîné :**  
-Et toi, tu peux garder tes analyses.
-Elles ne tiennent plus rien.
+**Le fils aîné :**
+Je suis désolé.
 
-*(Il sort. La porte se referme avec un bruit sourd. Le cadet reste debout un long moment. Il regarde son père. Le père le regarde en retour. Aucun des deux ne parle. Le cadet finit par s’asseoir, enfin, sur la chaise trop basse. Ses mains jointes entre les genoux. Il n’ajoute rien. Dehors, dans le couloir, on entend des pas qui s’éloignent, puis plus rien.)*
+*(Ce sont les seuls mots simples qu'il ait dits depuis le début. Ni lui ni le cadet ne bougent, un moment. Puis l'aîné retire sa main, se redresse, retrouve d'un coup sa voix habituelle, plus dure.)*
+
+**Le fils aîné :** *(à son frère, sans le regarder)*
+Toi tu peux repartir écrire, si tu veux. Y a plus grand-chose à observer, ici.
+
+*(Il sort. La porte se referme avec un bruit sourd. Le cadet reste debout un long moment. Il regarde son père. Le père le regarde en retour. Aucun des deux ne parle. Le cadet finit par s’asseoir, enfin, sur la chaise trop basse. Ses mains jointes entre les genoux.)*
+
+**Le fils cadet :** *(très bas, presque pour lui-même)*
+Je sais pas quoi te dire non plus, papa.
+
+*(Le père tourne légèrement la tête vers lui. Rien d'autre. Dehors, dans le couloir, des pas qui s'éloignent, puis plus rien.)*

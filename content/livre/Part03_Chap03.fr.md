@@ -9,50 +9,50 @@ weight: 28
 
 *(La maison d’enfance. Les volets neufs sont ouverts. La lumière entre trop bien. Un homme en costume sombre est déjà dans le salon, un dossier sous le bras, un employé derrière lui avec un carnet. La mère est debout près de la grande table, les mains posées à plat sur le bois. Elle n’a pas bougé depuis qu’ils sont entrés.)*
 
-**L’huissier :**  
+**L’huissier :**
 Madame, je vais devoir procéder. Vous avez reçu les notifications.
 
-**La mère :**  
+**La mère :**
 Oui.
 
-**L’huissier :**  
+**L’huissier :**
 Nous commençons par le mobilier de cette pièce. La table, les chaises, le buffet. Ensuite l’étage.
 
 *(Elle ne répond pas. Elle regarde la table. L’employé note déjà.)*
 
-**L’huissier :**  
+**L’huissier :**
 Est-ce que quelqu’un d’autre est présent ? Un de vos fils, peut-être ?
 
-**La mère :**  
+**La mère :**
 Non.
 
-**L’huissier :**  
+**L’huissier :**
 Bien. On avance alors.
 
 *(Il fait un signe. L’employé s’approche du buffet, ouvre les portes, sort les assiettes une par une, les pose dans des cartons ouverts. Le bruit de la porcelaine est sec, précis. La mère suit des yeux chaque geste, sans intervenir.)*
 
-**L’huissier :**  
+**L’huissier :**
 Vous pouvez garder les effets personnels. Vêtements, papiers, souvenirs de petite taille. Le reste est inventorié.
 
-**La mère :**  
+**La mère :**
 Je sais.
 
 *(Un silence. On entend l’employé monter à l’étage. Des pas au-dessus de leurs têtes. Une porte qui grince. La mère reste immobile.)*
 
-**L’huissier :**  
+**L’huissier :**
 Madame… vous allez bien ?
 
-**La mère :**  
+**La mère :**
 Non.
 
 *(Elle dit ça sans dramatiser. Juste un constat. Puis elle retire ses mains de la table, les laisse pendre le long de son corps. Elle s’assoit lourdement sur la seule chaise qui n’a pas encore été déplacée. Ses épaules s’affaissent. Pour la première fois depuis des années, elle n’organise plus rien, ne décide plus rien, ne protège plus rien.)*
 
-**La mère :**  
+**La mère :**
 Faites.
 
 *(L’huissier la regarde une seconde de trop, puis reprend son travail. Il passe dans le couloir, s’arrête devant la porte d’entrée. La pancarte en bois brut est encore accrochée à l’extérieur, discrète : « Chambres d’hôtes ». Il la détache d’un geste net, la retourne, la pose contre le mur, côté texte invisible.)*
 
-**L’huissier :**  
+**L’huissier :**
 On emporte aussi celle-là. Elle fait partie des éléments signalétiques liés à l’activité.
 
 *(La mère ne lève pas les yeux. Elle fixe un point sur le sol, entre ses pieds. On entend le bruit sourd des chaises qu’on empile dehors. Puis le buffet qu’on déplace. La maison se vide par morceaux, sans précipitation, avec la précision ennuyeuse des choses officielles. L’employé redescend finalement avec le coffre du grenier.)*
@@ -62,10 +62,10 @@ Ce vieux coffre est bien lourd !
 
 *(Soudain une bourrasque. Une porte claque. L'huissier, surpris, manque de tomber dans l'escalier, avec son coffre en bois massif dans les mains. Un vieux parchemin s'en échappe. Il roule jusqu'aux pieds de la mère. Lentement elle le ramasse. Elle l'ouvre. Ses yeux n'arrive plus à lire. Le parchemin lui glisse des mains.)*
 
-**L’huissier :**  
+**L’huissier :**
 Nous reviendrons demain pour le reste. Cuisine, chambres. Vous serez là ?
 
-**La mère :**  
+**La mère :**
 Je ne sais pas.
 
 *(Il note quelque chose, hésite, puis sort. La porte reste ouverte un instant. On voit la pancarte posée contre le mur, face contre terre. Un courant d’air la fait basculer légèrement. Elle ne se relève pas.)*
