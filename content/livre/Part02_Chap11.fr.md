@@ -26,20 +26,3 @@ Le bois, lui, est toujours là.
 Brisé, mais encore présent.
 On verra bien ce qu’on pourra en faire.
 
-*C'est le vent du dehors qui vient nous rappeler de quel bois nous sommes vraiment faits.*
-
-
-## Une lettre probablement de Joseph
-
-À ceux qui viendront,
-Je suis rentré avec une jambe en moins et l’idée fixe de fonder une famille.
-Une table. Des voix. Un endroit où revenir.
-Ça n’a pas tenu.
-La femme est partie sans éclat. Les miens se disputaient déjà pour des murs et des chemins. J’ai acheté des lopins que personne ne voulait. J’ai calculé des charpentes seul. J’ai écrit, le soir, une famille qui savait se parler. Ce n’était pas la mienne. C’était tout ce que j’avais trouvé à mettre debout.
-Sisyphe roule sa pierre.
-Elle redescend.
-Il recommence.
-Il n’y a rien d’autre.
-Je n’ai pas fondé de foyer.
-J’ai quand même dressé des poutres dans le vide.
-Et je laisse ces pages comme on laisse une poutre brisée sur le chantier : on verra bien si quelqu’un s’en sert.

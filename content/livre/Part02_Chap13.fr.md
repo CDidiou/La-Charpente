@@ -55,7 +55,12 @@ Faites.
 **L’huissier :**  
 On emporte aussi celle-là. Elle fait partie des éléments signalétiques liés à l’activité.
 
-*(La mère ne lève pas les yeux. Elle fixe un point sur le sol, entre ses pieds. L’employé redescend avec un carton. On entend le bruit sourd des chaises qu’on empile dehors. Puis le buffet qu’on déplace. La maison se vide par morceaux, sans précipitation, avec la précision ennuyeuse des choses officielles.)*
+*(La mère ne lève pas les yeux. Elle fixe un point sur le sol, entre ses pieds. On entend le bruit sourd des chaises qu’on empile dehors. Puis le buffet qu’on déplace. La maison se vide par morceaux, sans précipitation, avec la précision ennuyeuse des choses officielles. L’employé redescend finalement avec le coffre du grenier.)*
+
+**L’huissier :**
+Ce vieux coffre est bien lourd !
+
+*(Un vieux parchemin s'en échappe. Il roule jusqu'aux pieds de la mère. Lentement elle le ramasse. Elle l'ouvre. Ses yeux n'arrive plus à lire. Le parchemin lui glisse des mains.)*
 
 **L’huissier :**  
 Nous reviendrons demain pour le reste. Cuisine, chambres. Vous serez là ?
@@ -66,3 +71,22 @@ Je ne sais pas.
 *(Il note quelque chose, hésite, puis sort. La porte reste ouverte un instant. On voit la pancarte posée contre le mur, face contre terre. Un courant d’air la fait basculer légèrement. Elle ne se relève pas.)*
 
 *(La mère est toujours assise. Elle n’a plus l’énergie de se lever, ni de fermer la porte, ni de regarder ce qu’on emporte. Elle reste là, au milieu de la pièce trop vide, les mains inertes sur ses genoux, comme quelqu’un qui a enfin arrêté de tenir.)*
+
+*C'est le vent du dehors qui vient nous rappeler de quel bois nous sommes vraiment faits.*
+
+
+## Le parchemin, une lettre probablement de Joseph
+
+À ceux qui viendront,
+Je suis rentré avec une jambe en moins et l’idée fixe de fonder une famille.
+Une table. Des voix. Un endroit où revenir.
+Ça n’a pas tenu.
+La femme est partie sans éclat. Les miens se disputaient déjà pour des murs et des chemins. J’ai acheté des lopins que personne ne voulait. J’ai calculé des charpentes seul. J’ai écrit, le soir, une famille qui savait se parler. Ce n’était pas la mienne. C’était tout ce que j’avais trouvé à mettre debout.
+Sisyphe roule sa pierre.
+Elle redescend.
+Il recommence.
+Il n’y a rien d’autre.
+Je n’ai pas fondé de foyer.
+J’ai quand même dressé des poutres dans le vide.
+Et je laisse ces pages comme on laisse une poutre brisée sur le chantier : on verra bien si quelqu’un s’en sert.
+MZ.
