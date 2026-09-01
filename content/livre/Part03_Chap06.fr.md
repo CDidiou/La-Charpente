@@ -89,3 +89,30 @@ Quand le rire retombe, le père garde sa main un instant sur l’épaule de l’
 Le même bois.
 
 Et pour la première fois depuis longtemps, ça suffisait.
+
+
+Le soir, dans la chambre, le père se recouche. Épuisé, mais le sourire qui ne veut pas partir. Il repense à la main sur l'épaule de l'aîné. À celle de l'aîné, ensuite, sur celle du cadet. Une pièce qui en retient une autre, qui en retient une autre. Il ferme les yeux.
+
+*Ça a tenu parce que j'ai tenu. C'est moi qui ai remis la structure droite. Comme toujours.*
+
+Il s'endort avec cette pensée-là, posée sur lui comme une couverture, et ne voit pas qu'elle est faite du même bois que celle qui a cédé sur le chantier.
+
+Dans la voiture, l'aîné a le téléphone à l'oreille avant même d'avoir démarré.
+
+Maître Rossi ? Oui, c'est encore moi. Écoutez, la situation a changé. Mon père va mieux. Beaucoup mieux, même. C'est le moment d'avancer, pas de traîner. Je veux qu'on relance le dossier de rachat de parts dès demain matin.
+
+*Il raccroche, démarre, ne remarque pas qu'il a déjà, dans sa tête, posé une nouvelle poutre à l'endroit exact où l'ancienne a cassé.*
+
+Le cadet, lui, rentre à pied. Il repense à la scène, presque malgré lui, comme on range un chantier avant la nuit.
+
+Papa est resté dans l'instant. Une pièce de bois qu'on vient de poser, encore chaude de la scie, qui ne sait pas encore qu'elle va devoir porter un poids. Mon frère, lui, est déjà en train d'en couper une autre. Il n'a jamais su rester sur un même chantier plus d'une soirée. Maman s'est retirée. Elle regarde de loin, elle a mis une bâche sur ce qu'elle ne peut plus porter.
+
+Il continue à marcher, presque satisfait de la netteté de son propre diagnostic. Trois pièces de bois, trois façons de plier sous la charge.
+
+Puis il essaie de se poser la même question sur lui-même.
+
+Et moi ?
+
+*Il ne trouve rien à répondre. Il regarde ses mains, vides, qui n'ont rien apporté ce soir-là, comme d'habitude depuis l'accident. Il continue de marcher.*
+
+La question reste posée dans l'air, comme une planche qu'on aurait oubliée de clouer.
