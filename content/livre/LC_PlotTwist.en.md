@@ -1,15 +1,16 @@
 ---
-title: "Plot twist"
+title: "Twist stud"
+subtitle: "Return the pen"
 date: 2026-08-17
 version: 1.0
-weight: 15
+description: "The narrator reveals that the family he has just described is a construction of his own view, then decides to give voice to others to stop locking them into the role he had assigned to them."
+weight: 215
 ---
-
-# What I didn't tell you at the beginning
+## What I didn't tell you at the beginning
 
 I need to tell you something now, before we go any further.
 
-This family that you have just read about — my father who runs the table, my mother who orders, my brother who rushes, me who observes — I wrote it. Not just told: constructed. The almost too perfectly lucid dialogues that you have read so far are not conversations that took place as they were. These were conversations that I had become, over time, capable of imagining. **You didn't see my family for what it was. You saw it as I was capable of thinking it.**
+This family that you have just read about — my father who runs the table, my mother who orders, my brother who rushes, me who observes — I wrote it. Not just told: constructed. The almost too perfectly lucid dialogues that you have read so far are not conversations that took place as they were. These were conversations that I had become, over time, capable of imagining. **You didn't see my family for what it was. You saw it as I was capable of thinking it.** I even wanted to tell it to you by making the old book that Dad found, when he was little, in the chest in the attic, a sort of family legend. This family myth served as a foundation for my own inner narrative. But don't lock me in a box.
 
 I'm not telling you this to make amends. I'm telling you this because if I don't say it now, everything that follows will continue to seem like truth to you, even though it's just my look at her—a trained look, old, and not at all innocent.
 

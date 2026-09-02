@@ -1,22 +1,37 @@
 ---
-title: "Post-war"
+title: "(Propagation) Post-war"
+subtitle: "Imaginary dialogues on what is transmitted, and on what, despite everything, is chosen"
 date: 2026-08-17
 version: 1.0
-weight: 3
+description: "The narrator presents an imaginary family built to explore what is transmitted despite oneself – wounds, gifts, roles and silences – and what can finally be chosen when we take the time to put it into words."
+weight: 203
 ---
+I didn't build a family. I think I wanted to, once. Just one. And it didn't happen. I could say that it was neither entirely my fault, nor entirely that of my childhood sweetheart. It's more convenient that way. The truth is, I cheated on her. Afterwards, I did what men do who don't want to look back for too long: I worked, I built, I looked for something else to pass on.
 
-*Imaginary dialogues on what is transmitted, and on what, despite everything, is chosen*
+So I imagined one, here, on paper, for lack of anything better. A family that is not mine. A family that would have time to talk to each other. Time to argue, to lie to each other perhaps, to fail each other, then to come back to sit at the same table. A family that would have the time to ask: where do we come from? What have we been left with? And what are we leaving to others?
 
----
+It all started with a fairly simple exercise that I gave myself one evening, without really knowing why: imagine a conversation with someone in my family, living or dead, and ask them what happened to us. I didn't have anyone to really ask. So I made up a few. People who could still talk to each other. A son facing his mother. A girl facing her father. A father and son renovating a house. A mother and her son sorting out an attic.
 
-I didn't build a family. I wanted to, once, and it didn't happen — neither entirely through my fault, nor entirely through that of my love. So I imagined one, here, on this paper, for lack of anything better. It's not mine. It's the one I wish I had, the time to mess up, then repair.
+Things I didn't have.
 
-It all started with a simple exercise, which I gave myself one evening without really knowing why: imagine a conversation with someone in my family, living or dead, and ask them what happened to us. I had no one to really ask. So I invented four people who could still ask themselves this question - a son facing his mother, a daughter facing her father, two brothers going back through their family tree, a father and his son renovating a house that I never had, a mother and her son sorting out an attic that I never filled. We progress in these pages a bit like I have progressed in my life, I think: we do, we bump into each other, and then we stop to understand – sometimes much longer than we would have liked – before setting off to do more.
+We move forward in these pages a bit like I moved forward in my life, I think: we do. We bump into each other. Let's start again. And then, sometimes, we stop to understand. Often too late. I spent my life chasing an idea of ​​legacy without even knowing exactly what I was looking for. A sort of mythical heritage. A story of which I wanted to be the custodian, as if there was somewhere, hidden behind things, proof of what I had come to do there.
 
-I don't pretend to explain anyone, least of all myself. I simply wanted to make visible what I never saw coming, in my own story: how a wound experienced by an elderly couple can infuse, two generations later, even into the profession that a grandson chooses, or into the way in which a son raises his own children. How we transmit, without wanting to, a gift and the fear that goes with it, in the same gesture, without ever being able to separate them. How we can also, once, say it out loud to ourselves - and that changes, a little, what happens next. I wasn't able to do that in time. History, the war, my own family, everything passed so quickly. This book is my attempt to see things more clearly.
+I looked for gold coins. I have spent my life looking for gold coins.
 
-Four characters carry the whole: a father and a mother, and their two sons, the eldest and the youngest, sons that I never had. Each arrives with a trajectory that seems their own, almost an evidence of character - the conciliatory father, the mother who commands, the eldest who rushes, the younger who observes. But dialogue after dialogue, I wanted to show that these trajectories are less individual than they seem: each responds to a place left empty by a generation before, or by a brother, or by a sister that we never knew. The portraits of these four, with their strengths, their fragilities and their contradictions, close this collection - followed by a final reflection on what this family, imaginary from beginning to end, ended up understanding for itself, in my place.
+And I think what I needed was to talk to my people.
 
-I have no lessons to teach. I had a life, a leg missing, plots of land, wood cut with my hands, and not much else to leave. This book is only a way of looking more closely at a question that I asked myself too late, alone, in my house where I calculated and built the frame, but where I have no one to answer me: what, in a family, is repeated without anyone choosing it - and what, despite everything, is repeated only because no one, before, took the time to say it out loud?
+Only mine, I lost them. Or maybe I never really had them. I've had a lifetime to figure that out. One leg less. Pieces of land. Wood cut with my hands. A house whose frame I calculated and built. I worked. I have accumulated. I passed on a house, yes. But no story.
+
+I have no lessons to teach. I just look now at what I've been doing all this time. What I received without knowing it. Which I unintentionally reproduced. The silences, the gestures, the anger, the ways of leaving, those of never asking for forgiveness. Everything that one generation leaves to the next without even thinking of giving it to them.
+
+Maybe that’s why I needed to invent this family. To give him what I couldn't give mine: time to talk. To see what is being transmitted. What is lost. What we think we have chosen when we are only starting again.
+
+And now that I look behind me, in this house that I built but where no one answers me, I finally ask myself the question that perhaps I should have asked much earlier:
+
+What do we repeat without having chosen it?
+
+And what, despite everything, is only repeated because no one before us has taken the time to say it out loud?
+
+
 
 ---

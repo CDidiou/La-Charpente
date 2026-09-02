@@ -1,15 +1,16 @@
 ---
-title: "Giro de la trama"
+title: "Perno giratorio"
+subtitle: "devolver el bolígrafo"
 date: 2026-08-17
 version: 1.0
-weight: 15
+description: "El narrador revela que la familia que acaba de describir es una construcción de su propia visión, luego decide dar voz a los demás para que dejen de encerrarlos en el papel que les había asignado."
+weight: 215
 ---
-
-# Lo que no te dije al principio
+## Lo que no te dije al principio
 
 Necesito decirte algo ahora, antes de continuar.
 
-Esta familia sobre la que acabas de leer (mi padre que dirige la mesa, mi madre que ordena, mi hermano que corre, yo que observa) la escribí. No sólo contado: construido. Los diálogos casi demasiado lúcidos que has leído hasta ahora no son conversaciones que tuvieron lugar como antes. Eran conversaciones que, con el tiempo, me había vuelto capaz de imaginar. **No viste a mi familia tal como era. Lo viste como yo era capaz de pensarlo.**
+Esta familia sobre la que acabas de leer (mi padre que dirige la mesa, mi madre que ordena, mi hermano que corre, yo que observa) la escribí. No sólo contado: construido. Los diálogos casi demasiado lúcidos que has leído hasta ahora no son conversaciones que se desarrollaron como antes. Eran conversaciones que, con el tiempo, me había vuelto capaz de imaginar. **No viste a mi familia tal como era. Lo viste como yo era capaz de pensarlo.** Incluso quise contártelo haciendo del viejo libro que papá encontró, cuando era pequeño, en el arcón del desván, una especie de leyenda familiar. Este mito familiar sirvió de base para mi propia narrativa interior. Pero no me encierres en una caja.
 
 No te estoy diciendo esto para hacer las paces. Te digo esto porque si no lo digo ahora, todo lo que sigue te seguirá pareciendo verdad, aunque sea solo mi mirada hacia ella, una mirada entrenada, vieja y nada inocente.
 

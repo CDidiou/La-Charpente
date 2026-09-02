@@ -2,23 +2,34 @@
 title: "Foreword"
 date: 2026-08-17
 version: 1.0
-weight: 1
+weight: 201
 ---
-
-# The Frame
+# La Charpente (Novel from the de Bernard-Lilaz cycle)
 
 ## Note on the author
-Joseph de Bernardy-Lilaz
+Philip de Bernard-Lilaz, known as Chip-Flip
 ![Photo by the author](/La-Charpente/images/JosephWw1.png)
 
 
-Born in 1896 in a hamlet that no map took the trouble to name in full, the youngest of siblings too numerous for the land that was supposed to feed them, he left France at the age of fifteen with, as his only baggage, the certainty that there was nothing to expect there. Quebec welcomed him without really holding him back - a few winters logging in forests larger than anything he had known, letters that he almost never sent.
+Born in 1896 in a hamlet that no map took the trouble to name in full, the last of siblings too numerous for the land that had to feed them, he left France at the age of fifteen for Quebec. He spent a few years there logging, in forests larger than anything he had known, before returning in 1916.
 
-He returned in 1916, for reasons he explained to no one, and found himself in the Somme a few months later. He leaves a leg and, it is said, part of his ability to hope that things will work themselves out. When she returns home, her family is not really expecting her: they are busy tearing each other apart for reasons of boundaries, inheritance, old grudges that no one knows how to tell in the right order anymore. He watches his cousins ​​go to war, in turn, without understanding - he who has just returned from a real war - what could possibly be worth fighting again, among ourselves, for a wall or a road.
+A few months later, the Somme took its leg.
 
-He doesn't find his place, so he makes one elsewhere: he buys plots of forest that no one wants, sells the wood that he cuts himself, hobbling, with one leg less and a stubbornness that no one knew from him before. He loves one woman from the village, just one, who loves him too, but whose temperament - too fiery for his own silence - ends up separating them without either of them really deciding it. He will not remarry. He will never demand anything from anyone.
+When he returns, he realizes that he doesn't have much left to find. So he searches. First a place, then land, then traces. He begins to search the papers, the memories, the half-told stories. He wants to know what was there before him, what belongs to him, what he could in turn leave behind. Through searching, he ends up realizing that somewhere there is an older, greater, almost legendary heritage. A treasure. Gold coins, perhaps.
 
-He only wrote one book, late, almost in secret, on hidden family wounds, while ellipsising his own story - four characters who cannot manage to tell each other the essentials, and a framework, in the title, which we never see but which holds everything up all the same. The book found neither eager publisher nor faithful reader. He died without knowing that a century later, someone would find it in an attic, read it in one sitting, and decide that it deserved, finally, to be read by more than one person at a time.
+He spends his life looking for them.
+
+He buys pieces of forest that no one wants, cuts his wood with his own hands, builds a house. He moves forward with one leg missing and the stubbornness of those who have decided not to owe anything to chance. He accumulates what can be accumulated. He builds what can stand.
+
+But a house is not a story.
+
+Late, almost at the end, he wrote only one book. Four characters search for what we receive from the dead, what we transmit to the living, what we repeat without even knowing why. They talk about the essentials, like families talk when they have waited too long.
+
+The book found neither publisher nor readers.
+
+He dies with his house, his lands and his gold coins — if they ever existed.
+
+A century later, someone will find his book in an attic. And perhaps he will then understand what it took him a lifetime to understand: he was not looking for treasure. He was looking for a story.
 
 
 ## The work
@@ -35,7 +46,7 @@ A novel in dialogues, a framework that we dismantle and reassemble before our ey
 
 ## Acknowledgments
 
-I have no one to thank for this book. I came back from Canada on purpose, to fight for this country, for this family, for this dream. I fought, and the dream slipped away anyway. I worked with wood, I invested in plots of land that no one wanted, and I didn't succeed in building a real home. I give everything that is left, as long as it ensures my old age - and I also give, with it, my life lessons, so that others try again, and achieve what I could not do.
+I have no one to thank for this book. I came back from Canada on purpose, to fight for this country, for this family, for this dream. I fought, and the dream slipped away anyway. I worked with wood, I invested in plots of land that no one wanted, and I didn't succeed in building a real home. I give everything that is left, as long as it ensures my old age - and I also give, with it, my life lessons, so that others will try again, and achieve what I could not do.
 
 A frame is only useful if it shelters a warm hearth.
 
@@ -46,3 +57,4 @@ A frame is only useful if it shelters a warm hearth.
 To my father, to my mother, to my brother.
 
 I love you.
+*C-F*

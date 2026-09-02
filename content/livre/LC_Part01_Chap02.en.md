@@ -1,25 +1,22 @@
 ---
-title: "Mom tells"
+title: "(Spread) Mom tells"
+subtitle: "Stand up"
 date: 2026-08-17
 version: 1.0
-weight: 5
+description: "In an imaginary dialogue with her father, the mother recounts how she transformed the authority inherited from him into a force that allowed her to build a balanced couple and to transmit to her two sons, each in their own way, a synthesis of action and analysis."
+weight: 205
 ---
-
-# Imaginary dialogue with Dad
-
----
-
 **Dad:**
 You who speak well, explain our family to me. Start with you. How did you grow up, ultimately?
 
 **Me:**
-I've become a strong woman, Dad. The one who decides, who organizes, who has never been afraid to take her place in a room. I have never tolerated being stepped on, being made to decide for me, being erased. I think it was you who taught me that, without really meaning to. Watching you command, seeing you occupy all the space, I understood very early on that there were only two ways to exist: bend, or stand your ground. I chose to stand my ground.
+I've become a strong woman, Dad. The one who decides, who organizes, who has never been afraid to take her place in a room. I have never tolerated being stepped on, being made to decide for me, being erased. I think it was you who taught me that, without really meaning to. Watching you command, seeing you occupy all the space, I understood very early that there were only two ways to exist: to bend, or to stand up. I chose to stand my ground.
 
 **Dad:**
 Are you blaming me?
 
 **Me:**
-No, dad. No complaints. For a long time, yes, it weighed on me. But today I look at it differently. I know very well that it wasn't tyranny, in your head, when you commanded like that. Life was hard at the time, you had to decide quickly, organize, hold the line without tolerating too much challenge, otherwise everything would fall apart. Your way of commanding was your way of protecting me and Mom. Today I only see love, which had no other language to express itself. You made me. You taught me, without a word, what power, structure, will were. I used it. I still use it.
+No, dad. No complaints. For a long time, yes, it weighed on me. But today I look at it differently. I know very well that it wasn't tyranny, in your head, when you commanded like that. Life was hard at the time, you had to decide quickly, organize, hold the line without tolerating too much challenge, otherwise everything would fall apart. The tragic time of the Mathurins. Your way of commanding was your way of protecting me and Mom. Today I only see love, which had no other language to express itself. You made me. You taught me, without a word, what power, structure, will were. I used it. I still use it.
 
 **Dad:**
 And did you have your mother in your pocket? 

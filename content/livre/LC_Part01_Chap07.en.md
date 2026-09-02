@@ -1,16 +1,12 @@
 ---
-title: "The pillbox"
+title: "(Propagation) The pillbox"
+subtitle: "Les mêmes outils"
 date: 2026-08-17
 version: 1.0
-weight: 10
+description: "While preparing her mother's pillbox, the mother discovers that behind her own tendency to analyze everything was hidden another form of transmission: laughter and the side step that her mother had taught her without ever naming them."
+weight: 210
 ---
-
-# By Interposed Tape
-*Imaginary dialogue between the mother and her own mother*
-
----
-
-*(An ordinary afternoon. The mother came to prepare the pill box for the week, in the room of her own mother's retirement home. Seven small boxes, seven days, two doses per day.)*
+*(An ordinary afternoon. The mother came to prepare the pill box for the week, in the room of her own mother's retirement home. Seven small boxes, seven days, two taken per day.)*
 
 **The grandmother:**
 You know that if you keep coming every day like this, the others will end up believing that I have a private nurse.
@@ -39,7 +35,7 @@ It's my talent. I've had it since before you were born.
 You know I could tell you, right now, exactly where that talent comes from. I understood this by studying small children who do not adapt. I understood things.
 
 **The grandmother:**
-Spare me your presentation, come on! I've experienced it, that's more than enough for me.
+Spare me your presentation, come on! I've been through it, that's enough for me.
 
 **The mother:**
 That's the problem. You experienced it, and you just decided to laugh about it, while I decided to understand it. We didn't take the same emergency exit.
@@ -113,13 +109,13 @@ It's not my role to insist. I slip the sentence to you, and I smile while you pr
 You slip in a lot of sentences.
 
 **The grandmother:**
-It's my way of taking care of you, while you take care of me. Do you think I don't notice the energy you've put, for ten years, into supporting me and your father with our characters? We said it to ourselves, well, with our eyes.**The mother:**
+It's my way of taking care of you, while you take care of me. Do you think I don't notice the energy you've put, for ten years, into supporting me and your father with our characters? We said it to ourselves, well, with our eyes.
+
+**The mother:**
 I didn't know. Anyway, I don't count my energy.
 
 **The grandmother:**
-I know. That's why I'm counting it in your place.
-
-**The mother:**
+I know. That's why I'm counting it in your place.**The mother:**
 ...Thank you, mom.
 
 **The grandmother:**
@@ -150,7 +146,7 @@ Pardi! A mother always sees. I just never wanted to say it with your words, your
 **The grandmother:**
 Ah, this time, you didn't find a great sentence!
 
-*(The mother has nothing to answer. She closes the pill bottle a second time, without it being necessary, just to have something to do.)*
+*(The mother has nothing to answer. She closes the pillbox a second time, without it being necessary, just to have something to do.)*
 
 **The grandmother:**
 You're suddenly pale.

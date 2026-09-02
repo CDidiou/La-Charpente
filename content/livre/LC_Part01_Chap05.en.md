@@ -1,15 +1,11 @@
 ---
-title: "The binder"
+title: "(Propagation) The workbook"
+subtitle: "The keys to the house"
 date: 2026-08-17
 version: 1.0
-weight: 8
+description: "By sorting through his mother's old files, the youngest son understands that his analytical view of people comes from her, even if she oriented him towards science rather than human relations."
+weight: 208
 ---
-
-# The Attic We Sort
-*Imaginary dialogue between mother and youngest son*
-
----
-
 **The mother:**
 So what did you find up there in all that dust?
 
@@ -74,7 +70,7 @@ I have never disobeyed you. You were gentle and uncompromising for me. I didn't 
 You don't say it with much joy in your voice.
 
 **The youngest son:**
-No, because the strange thing is that I have never been able to separate the two. I studied cold, technical, full of calculations. But I spend my time constructing concepts, making sense of events, connecting them, dissecting the people around me exactly as you taught me to do. My colleagues tell me that I see things that no one else sees in a meeting. And at home, I dismantle everything I can get my hands on. Radios, old clocks, my sons' toys. I can't stand not knowing how it works. And then I figure out why it works.
+No, because the strange thing is that I have never been able to separate the two. I studied cold, technical, full of calculations. But I spend my time constructing concepts, making sense of events, connecting them, dissecting the people around me exactly as you taught me to do. My colleagues tell me that I see things that no one else sees in a meeting. And at home, I dismantle everything I can get my hands on. Radios, old clocks, my sons' toys. I can't stand not knowing how it works. And then I try to figure out why it works.
 
 **The mother:**
 You dismantle objects like you decode people.
@@ -92,12 +88,30 @@ I had a good teacher at home for twenty years.
 I think I did two contradictory things with you, actually, listening to you speak. I pampered you like the daughter I would have liked to have, with all the gentleness, all the confidence, all the knowledge that I could give you. And at the same time, my lioness part took over when you had to choose your life, and I imposed a hard, rigorous path on you.
 
 **The youngest son:**
-You gave me the keys to a house, and forbade me to open the door.**The mother:**
+You gave me the keys to a house, and forbade me to open the door.
+
+**The mother:**
 It's a beautiful image, and a little cruel for me.
-To be fair, I think you took the knowledge, but not the courage to go with it.
+To be fair, I think you took the knowledge, but not the courage to go with it.**The youngest son:**
+That's true, too. I don't blame you, mom. I am a good engineer, I love my job, in my own way. But I wanted you to know that decoding, intuition, fine analysis, all that, I kept from you, intact. I just use it on motors and circuits rather than on children in difficulty. And it’s an asset to go this route in fact! I feel powerful.
+
+**The mother:**
+*She looks at him, surprised.*
+What do you mean?
 
 **The youngest son:**
-That's true, too. I don't blame you, mom. I am a good engineer, I love my job, in my own way. But I wanted you to know that decoding, intuition, fine analysis, all that, I kept from you, intact. I just use it on motors and circuits rather than on children in difficulty. And it’s an asset to go this route in fact! I feel powerful.
+I am lighter. I can finally write it, I think. All that.
+
+**The mother:**
+Write it?
+
+**The youngest son:**
+Yes. Everything you gave me... the binders, the stories, the ways of looking at people. You gave me all the materials. I think I'm finally finding my way.
+
+*He places his hand on the binder.*
+
+**The youngest son:**
+And this time, it's me who can do something with it. And I want to give it to you.
 
 **The mother:**
 It's not too late, you know.

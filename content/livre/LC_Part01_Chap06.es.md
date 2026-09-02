@@ -1,158 +1,156 @@
 ---
-title: "Número 9"
+title: "(Propagation) Le numéro 9"
+subtitle: "Jouer avec ses forces"
 date: 2026-08-17
 version: 1.0
-weight: 9
+description: "Au bord du terrain, le père et son fils cadet reconnaissent qu’ils ont tous deux choisi l’effacement plutôt que l’affirmation, avant de décider de mettre leurs forces complémentaires au service d’un projet familial commun"
+weight: 209
 ---
+**Le père :**
+Deux bières, s'il te plaît, et vas-y large sur la mousse pour mon fils, il n'en boit jamais assez pour connaître la vraie mesure !
 
-# El partido del pueblo
-*Diálogo imaginario entre padre e hijo menor*
+**Le fils cadet :**
+Tu dis ça à chaque fois.
 
----
+**Le père :**
+Et à chaque fois c'est vrai. Assieds-toi, ils vont taper le coup d'envoi. Regarde le petit numéro 9, il vient d'à côté de chez nous, il a un pied gauche qui va nous faire pleurer de joie un jour.
 
-**Padre:**
-Dos cervezas, por favor, y dale mucha espuma a mi hijo, ¡nunca bebe lo suficiente como para saber la verdadera medida!
+**Le fils cadet :**
+Tu connais tout le monde ici.
 
-**El hijo menor:**
-Dices eso cada vez.
+**Le père :**
+Ça fait quarante ans que je viens. Le père du gardien, c'était mon copain d'école. Sa mère nous faisait des gâteaux le dimanche.
 
-**Padre:**
-Y cada vez es verdad. Siéntate, van a empezar. Miren al pequeño número 9, viene de cerca de nosotros, tiene un pie izquierdo que algún día nos hará llorar de alegría.
+**Le fils cadet :**
+C'est ton monde, ça, hein. Tout le monde te connaît, tout le monde t'aime bien.
 
-**El hijo menor:**
-Conoces a todos aquí.
+**Le père :**
+Et toi, ce n'est clairement pas le tien. Tu regardes le match comme tu regardes tout, d'ailleurs. De loin, en analysant.
 
-**Padre:**
-Llevo viniendo cuarenta años. El padre del guardia era mi amigo de la escuela. Su madre nos hacía pasteles los domingos.
+**Le fils cadet :**
+Je ne peux pas m'en empêcher. Je viens de remarquer que leur numéro 6 couvre trois fois plus de terrain que les autres, mais qu'il ne touche jamais le ballon dans les moments qui comptent.
 
-**El hijo menor:**
-Este es tu mundo, ¿eh? Todo el mundo te conoce, le gustas a todo el mundo.
+**Le père :**
+Tu viens de décrire ta vie en une phrase, tu sais.
 
-**Padre:**
-Y tú, claramente no es tuyo. De todos modos, miras el partido como miras todo. Desde la distancia, analizando.
+**Le fils cadet :**
+...C'est vrai que tu as un talent pour ça, toi.
 
-**El hijo menor:**
-No puedo evitarlo. Acabo de notar que su número 6 cubre tres veces más terreno que los demás, pero nunca toca el balón en los momentos que cuentan.
+**Le père :**
+Pour quoi ?
 
-**Padre:**
-Acabas de describir tu vida en una frase, ¿sabes?
+**Le fils cadet :**
+Pour dire une chose énorme, l'air de rien, entre deux gorgées de bière, sans prévenir.
 
-**El hijo menor:**
-...Es verdad que tienes talento para eso, tú.
+**Le père :**
+Je n'ai pas tes analyses savantes, moi. Mais j'ai des années d'observation, à ma façon, du bord du terrain.
 
-**Padre:**
-¿Para qué?
+**Le fils cadet :**
+Justement, papa, je voulais te parler de ça. J'ai réfléchi, ces derniers temps, à un truc qui traverse toute la famille. Un même motif, qui revient à chaque génération, sous des formes différentes.
 
-**El hijo menor:**
-Decir algo enorme, casualmente, entre dos sorbos de cerveza, sin previo aviso.
+**Le père :**
+Vas-y, je t'écoute, j'ai le temps, la mi-temps n'est pas avant vingt minutes.
 
-**Padre:**
-No tengo tus análisis académicos. Pero tengo años de observación, a mi manera, desde el borde del campo.
+**Le fils cadet :**
+On décide pour l'autre, par amour, dans cette famille. Sans jamais lui demander ce qu'il veut vraiment. Toi tu as cédé du terrain à maman pendant des années pour préserver la paix, sans lui demander si c'était le bon prix à payer. Elle, elle a décidé de ma vocation à ma place, pour me protéger, sans me demander ce que moi je voulais devenir. Mon frère fait probablement pareil avec ses fils, à sa manière, en traçant le chemin trop vite pour eux.
 
-**El hijo menor:**
-Exacto papá, quería hablarte de eso. Últimamente he estado pensando en algo que afecta a toda la familia. Un mismo motivo, que regresa a cada generación, en diferentes formas.
+**Le père :**
+Et toi, qu'est-ce que tu fais, dans cette histoire ?
 
-**Padre:**
-Adelante, te escucho, tengo tiempo, faltan veinte minutos para el entretiempo.
+**Le fils cadet :**
+Moi je regarde. Je n'ai jamais rien décidé pour personne. Je me suis juste retiré, j'ai observé, j'ai tout compris sans jamais rien dire à voix haute.
 
-**El hijo menor:**
-Decidimos el uno por el otro, por amor, en esta familia. Sin siquiera preguntarle qué es lo que realmente quiere. Le diste terreno a mamá durante años para preservar la paz, sin preguntarle si era el precio correcto a pagar. Ella decidió por mí mi vocación, para protegerme, sin preguntarme qué quería ser. Probablemente mi hermano hace lo mismo con sus hijos, a su manera, abriéndoles el camino demasiado rápido.
+**Le père :**
+On est pareils, alors, toi et moi.
 
-**Padre:**
-Y tú, ¿qué haces en esta historia?
+**Le fils cadet :**
+C'est ce que je me disais, en venant ici. On est les deux spectateurs de cette famille. Les deux lions, c'est maman et mon frère. Ils prennent le ballon, ils foncent, ils décident. Toi et moi, on est sur le banc de touche depuis toujours.
 
-**El hijo menor:**
-Miro. Nunca he decidido nada por nadie. Simplemente me quedé atrás, observé, asimilé todo sin decir nada en voz alta.
+**Le père :**
+Ça fait un choc, de l'entendre dit comme ça.
 
-**Padre:**
-Entonces somos iguales, tú y yo.
+**Le fils cadet :**
+Je ne le dis pas pour te blesser.
 
-**El hijo menor:**
-Eso es lo que me dije cuando vine aquí. Somos los dos espectadores de esta familia. Los dos leones son mamá y mi hermano. Cogen el balón, corren, deciden. Tú y yo hemos estado al margen desde siempre.
+**Le père :**
+Je sais. Mais c'est juste. J'ai passé ma vie à applaudir depuis la ligne de touche, en espérant que personne ne remarque que je n'ai jamais tapé dans le ballon moi-même.
 
-**Padre:**
-Es un shock oírlo decir así.
+**Le fils cadet :**
+Et moi j'ai passé la mienne à commenter le match dans ma tête, sans jamais descendre sur le terrain.
 
-**El hijo menor:**
-No digo esto para lastimarte.
+**Le père :**
+Deux stratégies différentes pour le même problème, en fait. Moi je cédais pour ne pas faire de vagues. Toi tu t'effaçais pour ne pas être vu.
 
-**Padre:**
-Lo sé. Pero es justo. Pasé mi vida animando desde la barrera, esperando que nadie se diera cuenta de que yo nunca pateé el balón.
+**Le fils cadet :**
+L'évitement et l'effacement. Les deux faces d'une même pièce.
 
-**El hijo menor:**
-Y yo me la pasé comentando mentalmente el partido, sin ni siquiera salir al campo.
+**Le père :**
+Regarde ce numéro 9, tiens, celui dont je te parlais. Il ne fait pas partie des deux lions de son équipe non plus. Il n'est pas le capitaine, il ne gueule pas, il ne commande rien. Mais quand il touche le ballon, il change tout.
 
-**Padre:**
-De hecho, dos estrategias diferentes para el mismo problema. Me rendí para no causar problemas. Te escondiste para no ser visto.
+**Le fils cadet :**
+Tu veux en venir où ?
 
-**El hijo menor:**
-Evitación y borrado. Dos caras de la misma moneda.
+**Le père :**
+Que ce n'est pas parce qu'on n'est pas des lions qu'on doit rester sur le banc. On peut jouer autrement. Toi tu vois le jeu avant tout le monde, tu sens où ça va se passer avant que ça se passe. Moi je sais rassembler du monde, faire que tout le monde ait envie de venir à la même table. Si on arrête de se comparer à ta mère et ton frère, et qu'on joue avec ce qu'on a, nous, on peut faire quelque chose qu'eux ne savent pas faire.
 
-**Padre:**
-Mira este número 9, del que te hablaba. Tampoco es uno de los dos leones de su equipo. No es el capitán, no grita, no ordena nada. Pero cuando toca el balón lo cambia todo.
+**Le fils cadet :**
+C'est-à-dire ?
 
-**El hijo menor:**
-¿A dónde vas con esto?
+**Le père :**
+Construire ensemble, sans avoir besoin de dominer qui que ce soit.
 
-**Padre:**
-Que no es porque no seamos leones que tengamos que quedarnos en el banquillo. Podemos jugar de otra manera. Ves el juego antes que los demás, sientes dónde va a suceder antes de que suceda. Sé cómo unir a la gente, hacer que todos quieran sentarse a la misma mesa. Si dejamos de compararnos con tu madre y tu hermano, y jugamos con lo que tenemos, podemos hacer algo que ellos no saben hacer.
+**Le fils cadet :**
+Il manque quand même un petit quelque chose.
 
-**El hijo menor:**
-¿Es decir?
+**Le père :**
+Tu proposes quoi ?
 
-**Padre:**
-Construyamos juntos, sin necesidad de dominar a nadie.
+**Le fils cadet :**
+Je ne sais pas comment le nommer, exactement. Dans l'équipe on a le passeur, le stratège, les accélérateurs Mais le match ça se gagne en équipe. Il faut un peu de légèreté pour que les égos s'assemblent.
 
-**El hijo menor:**
-Todavía falta algo.
+**Le père :**
+Un grain de folie. On me le refuse. On me le reproche. Je ne le propose même plus!
 
-**Padre:**
-¿Qué sugieres?
+**Le fils cadet :**
+On n'a pas besoin d'attendre d'être servis ! On peut se l'offrir, nous-mêmes, maintenant.
 
-**El hijo menor:**
-No sé cómo llamarlo exactamente. En el equipo tenemos al pasador, al estratega, a los aceleradores Pero el partido se gana en equipo. Se necesita un poco de ligereza para que los egos se unan.
+**Le père :**
+Tu as une idée derrière la tête, toi, en disant ça.
 
-**Padre:**
-Un toque de locura. Me lo niegan. Me culpan por ello. ¡Ya ni siquiera lo sugiero!**El hijo menor:**
-¡No tenemos que esperar para que nos atiendan! Podemos ofrecerlo nosotros mismos ahora.
+**Le fils cadet :**
+J'y pense depuis que tu as parlé de retaper ta maison d'enfance. Comme d'un projet de famille. De transmission. Ton geste d'autorité. Ca m'a plu. Et ça mérite un vrai lancement, quelque chose qui marque le coup autrement qu'un contrat à signer ou un premier coup de marteau.
 
-**Padre:**
-Tienes una idea en la cabeza cuando dices eso.
+**Le père :**
+Continue.
 
-**El hijo menor:**
-He estado pensando en ello desde que hablaste de renovar la casa de tu infancia. Como un proyecto familiar. Transmisión. Tu gesto de autoridad. Me gustó. Y merece un lanzamiento real, algo que marque la ocasión más que un contrato por firmar o el primer golpe de martillo.
+**Le fils cadet :**
+Et si, avant même de commencer les travaux, on partait ensemble, juste nous quatre ? Pas pour travailler, pas pour parler chantier sérieusement. Juste pour se retrouver, loin d'ici, et lancer le projet avec un peu de fête, avant qu'il ne devienne une affaire de devis et de plannings. Un moment où on tourne une page symboliquement, tous les quatre. Pour en écrire une nouvelle.
 
-**Padre:**
-Continúe.
+**Le père :**
+Poser la première pierre, mais de loin, en trinquant plutôt qu'en creusant.
 
-**El hijo menor:**
-¿Y si antes incluso de empezar a trabajar nos fuéramos juntos, solo nosotros cuatro? No trabajar, no hablar seriamente de construcción. Sólo para reunirnos, lejos de aquí, y lanzar el proyecto con un poco de celebración, antes de que se convierta en una cuestión de presupuestos y horarios. Un momento en el que simbólicamente pasamos página, los cuatro. Para escribir uno nuevo.
+**Le fils cadet :**
+Exactement. Et cette fois, c'est nous qui décidons de la date de départ ! On ne s'est jamais autorisé à leur dire non aux deux autres, alors c'est l'heure de la revanche !
 
-**Padre:**
-Poner la primera piedra, pero desde lejos, tostando en lugar de cavar.
+**Le père :**
+Tu as raison. Il faut marquer le début d'un projet familial par du plaisir. Tu vas voir ça leur fera du bien à tous.
 
-**El hijo menor:**
-Exacto. ¡Y esta vez decidimos la fecha de salida! Nunca nos permitimos decir que no a los otros dos, ¡así que es hora de vengarnos!
+**Le fils cadet :**
+A nous tous.
 
-**Padre:**
-Tienes razón. El inicio de un proyecto familiar debe marcarse con mucho gusto. Ya verás que les hará bien a todos.
+**Le père :**
+Tiens, justement, regarde. But du petit numéro 9.
 
-**El hijo menor:**
-A todos nosotros.
+**Le fils cadet :**
+Il n'a même pas eu le temps de réfléchir, on dirait.
 
-**Padre:**
-Bueno, mira. Gol del pequeño número 9.
+**Le père :**
+C'est bien pour ça qu'il a marqué.
 
-**El hijo menor:**
-Al parecer, ni siquiera tuvo tiempo de pensar.
+**Le fils cadet :**
+On trinque au voyage, alors ? Pour de vrai, cette fois.
 
-**Padre:**
-Por eso marcó.
-
-**El hijo menor:**
-¿Entonces brindamos por el viaje? De verdad esta vez.
-
-**Padre:**
-Brindamos por eso. Y a este pequeño número 9, que nos acaba de dar una gran lección sin saberlo.
+**Le père :**
+On trinque à ça. Et à ce petit numéro 9, qui vient de nous donner une belle leçon sans le savoir.
 
 ---

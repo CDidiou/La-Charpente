@@ -1,16 +1,12 @@
 ---
-title: "El pastillero"
+title: "(Propagación) El pastillero"
+subtitle: "Las mismas herramientas"
 date: 2026-08-17
 version: 1.0
-weight: 10
+description: "Mientras prepara el pastillero de su madre, ésta descubre que detrás de su propia tendencia a analizar todo se escondía otra forma de transmisión: la risa y el paso lateral que su madre le había enseñado sin nombrarlos jamás."
+weight: 210
 ---
-
-# Por cinta interpuesta
-*Diálogo imaginario entre la madre y su propia madre*
-
----
-
-*(Una tarde cualquiera. La madre vino a preparar el pastillero de la semana, en la habitación de la residencia de ancianos de su propia madre. Siete cajitas, siete días, dos dosis por día.)*
+*(Una tarde cualquiera. La madre vino a preparar el pastillero de la semana, en la habitación de la residencia de ancianos de su propia madre. Siete cajitas, siete días, dos tomadas por día.)*
 
 **La abuela:**
 Sabes que si sigues viniendo todos los días así los demás acabarán creyendo que tengo una enfermera privada.
@@ -39,7 +35,7 @@ Es mi talento. Lo tengo desde antes de que nacieras.
 Sabes que podría decirte, ahora mismo, exactamente de dónde viene ese talento. Lo entendí estudiando a niños pequeños que no se adaptan. Entendí cosas.
 
 **La abuela:**
-Ahórrame tu presentación, ¡vamos! Lo he experimentado, eso es más que suficiente para mí.
+Ahórrame tu presentación, ¡vamos! Ya pasé por eso, eso es suficiente para mí.
 
 **La madre:**
 Ese es el problema. Tú lo experimentaste y decidiste reírte de ello, mientras yo decidí entenderlo. No tomamos la misma salida de emergencia.
@@ -113,13 +109,13 @@ No es mi papel insistir. Te deslizo la frase y sonrío mientras finges no escuch
 Dices muchas frases.
 
 **La abuela:**
-Es mi manera de cuidarte, mientras tú me cuidas a mí. ¿Crees que no noto la energía que has puesto, durante diez años, en apoyarnos a mí y a tu padre con nuestros personajes? Nos lo dijimos a nosotros mismos, bueno, con la mirada.**La madre:**
+Es mi manera de cuidarte, mientras tú me cuidas a mí. ¿Crees que no noto la energía que has puesto, durante diez años, en apoyarnos a mí y a tu padre con nuestros personajes? Nos lo dijimos a nosotros mismos, bueno, con la mirada.
+
+**La madre:**
 No lo sabía. De todos modos, no cuento mi energía.
 
 **La abuela:**
-Lo sé. Por eso lo cuento en tu lugar.
-
-**La madre:**
+Lo sé. Por eso lo cuento en tu lugar.**La madre:**
 ...Gracias, mamá.
 
 **La abuela:**
@@ -150,7 +146,7 @@ Lo viste todo, mi forma de actuar, mi dureza, todo lo que me llevó cuarenta añ
 **La abuela:**
 ¡Ah, esta vez no encontraste una buena frase!
 
-*(La madre no tiene nada que responder. Cierra el frasco de pastillas por segunda vez, sin que sea necesario, sólo para tener algo que hacer.)*
+*(La madre no tiene nada que responder. Cierra el pastillero por segunda vez, sin que sea necesario, sólo para tener algo que hacer.)*
 
 **La abuela:**
 De repente estás pálido.

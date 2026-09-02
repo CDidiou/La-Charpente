@@ -1,22 +1,37 @@
 ---
-title: "Posguerra"
+title: "(Propagación) Posguerra"
+subtitle: "Diálogos imaginarios sobre lo que se transmite y sobre lo que, a pesar de todo, se elige"
 date: 2026-08-17
 version: 1.0
-weight: 3
+description: "El narrador presenta una familia imaginaria construida para explorar lo que se transmite a pesar de uno mismo –heridas, regalos, roles y silencios– y lo que finalmente se puede elegir cuando nos tomamos el tiempo para expresarlo con palabras."
+weight: 203
 ---
+No formé una familia. Creo que quise hacerlo, una vez. Sólo uno. Y no sucedió. Podría decir que no fue del todo culpa mía ni enteramente de mi amor de la infancia. Es más conveniente así. La verdad es que la engañé. Después hice lo que hacen los hombres que no quieren mirar atrás por mucho tiempo: trabajé, construí, busqué algo más que transmitir.
 
-*Diálogos imaginarios sobre lo que se transmite, y sobre lo que, a pesar de todo, se elige*
+Así que me imaginé uno, aquí, en papel, a falta de algo mejor. Una familia que no es la mía. Una familia que tendría tiempo para hablar entre ellos. Es hora de discutir, tal vez de mentirse unos a otros, de fallarnos unos a otros, y luego volver a sentarnos en la misma mesa. Una familia que tendría tiempo de preguntarse: ¿de dónde venimos? ¿Qué nos ha quedado? ¿Y qué les dejamos a los demás?
 
----
+Todo empezó con un ejercicio bastante sencillo que me propuse una tarde, sin saber muy bien por qué: imaginar una conversación con alguien de mi familia, vivo o muerto, y preguntarle qué nos pasó. Realmente no tenía a nadie a quien preguntar. Así que inventé algunos. Personas que todavía podían hablar entre sí. Un hijo frente a su madre. Una niña frente a su padre. Un padre y un hijo renovando una casa. Una madre y su hijo arreglando un ático.
 
-No formé una familia. Lo quise, una vez, y no sucedió, ni enteramente por mi culpa, ni enteramente por la de mi amor. Así que imaginé uno, aquí, en este papel, a falta de algo mejor. No es mío. Es el que desearía tener, el tiempo para estropearlo y luego repararlo.
+Cosas que no tenía.
 
-Todo empezó con un ejercicio sencillo que me hice una tarde sin saber muy bien por qué: imaginar una conversación con alguien de mi familia, vivo o muerto, y preguntarle qué nos pasó. Realmente no tenía a nadie a quien preguntar. Así que inventé a cuatro personas que todavía podían hacerse esta pregunta: un hijo frente a su madre, una hija frente a su padre, dos hermanos repasando su árbol genealógico, un padre y su hijo renovando una casa que nunca tuve, una madre y su hijo arreglando un ático que nunca llené. Creo que avanzamos en estas páginas un poco como yo he progresado en mi vida: lo hacemos, nos topamos y luego nos detenemos a comprender –a veces mucho más tiempo del que nos hubiera gustado– antes de lanzarnos a hacer más.
+Avanzamos en estas páginas un poco como yo avancé en mi vida, creo: lo hacemos. Nos topamos. Empecemos de nuevo. Y luego, a veces, nos detenemos a comprender. A menudo es demasiado tarde. Pasé mi vida persiguiendo una idea de legado sin siquiera saber exactamente lo que estaba buscando. Una especie de herencia mítica. Una historia de la que quería ser custodio, como si en algún lugar, escondida detrás de las cosas, hubiera una prueba de lo que había venido a hacer allí.
 
-No pretendo dar explicaciones a nadie, y menos a mí mismo. Simplemente quería hacer visible lo que nunca vi venir, en mi propia historia: cómo una herida vivida por una pareja de ancianos puede impregnar, dos generaciones después, incluso la profesión que elige un nieto, o la forma en que un hijo cría a sus propios hijos. Cómo transmitimos, sin querer, un regalo y el miedo que lo acompaña, en un mismo gesto, sin poder separarlos jamás. Cómo también podemos, una vez, decirlo en voz alta a nosotros mismos, y eso cambia, un poco, lo que sucede a continuación. No pude hacerlo a tiempo. La historia, la guerra, mi propia familia, todo pasó muy rápido. Este libro es mi intento de ver las cosas más claramente.
+Busqué monedas de oro. He pasado mi vida buscando monedas de oro.
 
-Cuatro personajes cargan el todo: un padre y una madre, y sus dos hijos, el mayor y el menor, hijos que nunca tuve. Cada uno llega con una trayectoria que parece propia, casi una evidencia de carácter: el padre conciliador, la madre que manda, el mayor que corre, el más joven que observa. Pero diálogo tras diálogo quería mostrar que estas trayectorias son menos individuales de lo que parecen: cada una responde a un lugar dejado vacío por una generación anterior, o por un hermano, o por una hermana que nunca conocimos. Los retratos de estos cuatro, con sus fortalezas, sus fragilidades y sus contradicciones, cierran esta colección, seguidos de una reflexión final sobre lo que esta familia, imaginaria de principio a fin, acabó comprendiendo por sí misma, en mi lugar.
+Y creo que lo que necesitaba era hablar con mi gente.
 
-No tengo lecciones que enseñar. Tenía una vida, me faltaba una pierna, terrenos, leña cortada con mis manos y poco más que dejar. Este libro es sólo una manera de profundizar en una pregunta que me hice demasiado tarde, solo, en mi casa donde calculé y construí el marco, pero donde no tengo a nadie que me responda: ¿qué, en una familia, se repite sin que nadie lo elija - y qué, a pesar de todo, se repite sólo porque nadie, antes, se tomó el tiempo de decirlo en voz alta?
+Sólo míos, los perdí. O tal vez nunca los tuve realmente. He tenido toda una vida para darme cuenta de eso. Una pierna menos. Trozos de tierra. Madera cortada con mis manos. Una casa cuyo marco calculé y construí. Yo trabajé. He acumulado. Pasé por una casa, sí. Pero no hay historia.
+
+No tengo lecciones que enseñar. Ahora solo miro lo que he estado haciendo todo este tiempo. Lo que recibí sin saberlo. Que reproduje sin querer. Los silencios, los gestos, los enojos, las formas de partir, las de nunca pedir perdón. Todo lo que una generación deja a la siguiente sin siquiera pensar en dárselo.
+
+Quizás por eso necesitaba inventar esta familia. Para darle lo que yo no pude darle al mío: tiempo para hablar. Para ver lo que se transmite. Lo que se pierde. Lo que creemos haber elegido cuando apenas estamos empezando de nuevo.
+
+Y ahora que miro detrás de mí, en esta casa que construí pero donde nadie me responde, por fin me hago la pregunta que tal vez debería haberme hecho mucho antes:
+
+¿Qué repetimos sin haberlo elegido?
+
+¿Y qué, a pesar de todo, sólo se repite porque nadie antes que nosotros se ha tomado el tiempo de decirlo en voz alta?
+
+
 
 ---

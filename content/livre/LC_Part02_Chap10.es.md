@@ -1,15 +1,12 @@
 ---
-title: "La visita"
+title: "(Reflexión) La visita"
+subtitle: "La casa que ya no reconocemos"
 date: 2026-08-17
 version: 1.0
-weight: 25
+description: "Al visitar la casa de su infancia renovada por sus sobrinos, el padre y su hermana releen su propia historia familiar y comprenden que lo que no pudo repararse en su generación, finalmente puede ser reparado por la siguiente."
+weight: 225
 ---
-
-# La casa que ya no reconocemos
-
----
-
-*Hogar de infancia, seis meses después de finalizar el proyecto. Las contraventanas son nuevas, de color gris antracita, la fachada ha recuperado su piedra desnuda bajo el antiguo yeso. Un discreto cartel de madera en bruto anuncia "Habitaciones de huéspedes". El padre espera en el porche, casi impaciente como un niño, hasta que el coche de su hermana finalmente se aparca en la calle.*
+*(La casa de la infancia, seis meses después de la finalización del proyecto. Las contraventanas son nuevas, de color gris antracita, la fachada ha recuperado su piedra desnuda bajo el antiguo yeso. Un discreto y tosco cartel de madera anuncia "Habitaciones de invitados". El padre espera en la escalera, casi impaciente como un niño, cuando el coche de su hermana finalmente aparca en la calle.)*
 
 **El padre:**
 Entonces? ¿Qué dices?
@@ -17,7 +14,7 @@ Entonces? ¿Qué dices?
 **La hermana:**
 Espera, al menos déjame salir del auto.
 
-*Se baja, cierra la puerta, mira la fachada por un largo momento sin decir nada. El padre la observa, atento a su reacción como si él mismo hubiera puesto cada piedra.*
+*(Baja, cierra la puerta, mira la fachada un largo rato sin decir nada. El padre observa su mirada, atento a su reacción como si él mismo hubiera puesto cada piedra.)*
 
 **La hermana:**
 Ya no es la misma casa.
@@ -25,7 +22,7 @@ Ya no es la misma casa.
 **El padre:**
 Sí. Es lo mismo. Acabo... de despertar.
 
-*La arrastra hacia adentro. El pasillo oscuro de su infancia se ha convertido en un pasaje claro, pared blanca, una única viga vista, la original, deliberadamente dejada en bruto en medio de todo lo demás bien alisado.*
+*(La lleva al interior. El pasillo oscuro de su infancia se ha convertido en un pasaje claro, pared blanca, una única viga expuesta, la original, deliberadamente dejada en bruto en medio de todo lo demás bien alisado.)*
 
 **El padre:**
 Fue mi hijo menor quien insistió. “Mantenemos una viga visible, para recordar que no es una casa nueva, es una casa reparada”. Lo habría repintado todo inmediatamente, pero tenía razón.
@@ -36,15 +33,15 @@ Fue mi hijo menor quien insistió. “Mantenemos una viga visible, para recordar
 **El padre:**
 Ven a ver.
 
-*Suben las escaleras y entran a una habitación luminosa, cama grande, baño contiguo.*
+*(Suben las escaleras y entran a una habitación luminosa, cama grande, baño contiguo.)*
 
 **La hermana:**
 Antes había un muro allí. Sin ventana.
 
 **El padre:**
-Sí. El mayor voló el muro de carga, con el permiso correspondiente, eh, debo señalar. Quería luz. Siempre quiso que las cosas se movieran más rápido de lo que eran.
+Sí. El mayor voló el muro de carga. Ambos quitamos esta partición, él y yo. Queríamos luz. Y no pasó mucho tiempo, ya lo conoces, siempre quiso que las cosas progresaran más rápido de lo que eran.
 
-*Regresan a la cocina, se sientan un rato, toman un café entre ellos. La hermana mira a lo lejos y guarda silencio por un momento.*
+*(Regresan a la cocina, se sientan un momento, con un café entre ellas. La hermana mira hacia otro lado, en silencio por un momento.)*
 
 **La hermana:**
 Recuerdas a papá en la mañana antes de partir. Se quedaba allí durante horas, sin decir nada, simplemente feliz de que todos estuviéramos allí.
@@ -58,7 +55,7 @@ Parece tan lejano.
 **El padre:**
 Y tú y yo lo recordamos. Ya éramos diferentes.
 
-*Ella se ríe, una risita seca.*
+*(Ella se ríe, una risita seca.)*
 
 **La hermana:**
 Es curioso que digas eso. Estaba pensando en algo en mi camino hacia aquí. Tus dos hijos. El mayor que corre, que derriba muros. El cadete que observa, que piensa.
@@ -75,7 +72,7 @@ No lo había pensado así.
 **La hermana:**
 Me alegra que tus hijos rehicieran nuestra casa. Pero me digo a mí mismo que podríamos haber hecho este trabajo nosotros mismos. Para nuestros padres.
 
-*Un silencio más largo. El padre hace girar su taza en sus manos.*
+*(Un silencio más largo. El padre gira la taza entre sus manos.)*
 
 **El padre:**
 Creo que no tuvimos tiempo. Mamá y papá se fueron demasiado rápido. Nunca tuvimos la oportunidad de sentarnos así, tú y yo, teníamos que administrar nuestras casas. Como mamá y papá, en definitiva.
@@ -83,7 +80,7 @@ Creo que no tuvimos tiempo. Mamá y papá se fueron demasiado rápido. Nunca tuv
 **La hermana:**
 Y ahora por fin podemos sentarnos. En nuestro local. En nuestra infancia.
 
-*Ella coloca su mano sobre la mesa, entre ellos, sin colocarla sobre la de él, simplemente descansando allí, como un punto de equilibrio entre dos tazas de café.*
+*(Pone su mano sobre la mesa, entre ellos, sin colocarla sobre la de él, simplemente descansando allí, como un punto de equilibrio entre dos tazas de café.)*
 
 **La hermana:**
 Esta casa es hermosa. De hecho, más hermosa de lo que recordaba.
@@ -91,15 +88,13 @@ Esta casa es hermosa. De hecho, más hermosa de lo que recordaba.
 **El padre:**
 Creo que ella es la misma. Es que la miramos con ojos que han tenido tiempo de cambiar.
 
-*Sonríe, mira por última vez la nueva fachada, el cartel de madera, las contraventanas grises.*
+*(Sonríe, mira por última vez la nueva fachada, el cartel de madera, las contraventanas grises.)*
 
 **La hermana:**
 Tus hijos hicieron un buen trabajo.
 Quizás tuvimos que esperar una generación más.
 
-*Se levanta, va hacia la puerta y de repente se da vuelta.*
+*(Se levanta, va hacia la puerta y de repente se da vuelta.)*
 
 **La hermana:**
 ¡Espera! ¡Tengo una idea!
-
----
