@@ -4,7 +4,7 @@ subtitle: "Ce qui ne se tient plus"
 date: 2026-08-17
 version: 1.0
 description: "Les meubles sont saisis. La mère ne réagit plus"
-weight: 28
+weight: 229
 ---
 
 *(La maison d’enfance. Les volets neufs sont ouverts. La lumière entre trop bien. Un homme en costume sombre est déjà dans le salon, un dossier sous le bras, un employé derrière lui avec un carnet. La mère est debout près de la grande table, les mains posées à plat sur le bois. Elle n’a pas bougé depuis qu’ils sont entrés.)*

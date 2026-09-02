@@ -4,7 +4,7 @@ subtitle: "Le même bois"
 date: 2026-08-17
 version: 1.0
 description: "Frappe dans le dos"
-weight: 31
+weight: 232
 ---
 
 Deux mois plus tard.
@@ -12,31 +12,31 @@ Le père est rentré. Pas à la maison d’enfance (vendue en partie, transform�
 Ce jour-là, l’aîné est passé pour les papiers de la banque. Il est resté debout, a parlé vite, a reparlé. Puis le cadet est arrivé. Il n’a rien apporté. Il s’est juste assis.
 Le père est dans son fauteuil près de la fenêtre. Il regarde les enfants qui jouent dans le square. De temps en temps il sourit, sans raison précise.
 
-Le père :
+**Le père :**
 Vous vous souvenez de l’établi de mon père, sous la fenêtre ?
 
-Le cadet :
+**2J :**
 Oui.
 
-Le père :
+**Le père :**
 Ton grand-père restait des heures. Il ne disait rien. Moi je restais derrière, à le regarder.
 C’est drôle. Maintenant c’est moi qui regarde par la fenêtre. Et vous, derrière.
 
 Le cadet ne répond pas tout de suite. Il regarde aussi le square.
 
-L'aîné :
+**Tazar :**
 Maman est passée ce matin ?
 
-Le père :
+**Le père :**
 Oui. Elle a laissé des fruits. Elle a dit qu’elle reviendrait jeudi.
 
 Elle ne reste plus longtemps. Mais elle vient.
 Silence.
 
-Le père :
+**Le père :**
 Vous avez beaucoup de choses à régler ?
 
-L'aîné :
+**Tazar :**
 Oui. C'est moi qui m'en occupe.
 
 
@@ -48,12 +48,12 @@ Dehors, un enfant crie. Un ballon rebondit contre le grillage. Le père esquisse
 
 Le père, sans les regarder.
 
-**Le père :**  
+**Le père :**
 Vous avez été nuls.
 
 L’aîné tourna la tête. Le cadet aussi.
 
-**Le père :**  
+**Le père :**
 Toi, tu as foncé comme un con.
 Toi, tu as tout regardé sans bouger.
 Et moi… moi j’ai laissé faire.
@@ -61,7 +61,7 @@ On a tout cassé proprement.
 
 Il sourit, un sourire un peu de travers, à moitié dans les nuages.
 
-**Le père :**  
+**Le père :**
 Mais je ne vous en veux plus.
 Parce que vous êtes là.
 Vous avez tenu.
@@ -69,7 +69,7 @@ Chacun à sa façon, bancale, mais vous avez tenu.
 
 Il chercha ses mots un moment, comme s’ils flottaient un peu trop loin.
 
-**Le père :**  
+**Le père :**
 On a le même bois, vous savez.
 Le même.
 Même quand il craque.
