@@ -11,7 +11,7 @@ José de Bernardo y Lilaz, conocido como Juan-Dos
 ![Foto del autor](/La-Charpente/images/JosephWw1.png)
 
 
-Nacido en 1896 en una aldea que ningún mapa se tomó la molestia de nombrar en su totalidad, el último de hermanos demasiado numerosos para la tierra que debía alimentarlos, dejó Francia a los quince años para ir a Quebec. Pasó algunos años allí talando bosques, en bosques más grandes que cualquier cosa que hubiera conocido, antes de regresar en 1916.
+Nacido en 1876 en una aldea que ningún mapa se tomó la molestia de nombrar en su totalidad, el último de hermanos demasiado numerosos para la tierra que debía alimentarlos, dejó Francia a los quince años para ir a Quebec. Pasó algunos años allí talando bosques, en bosques más grandes que cualquier cosa que hubiera conocido, antes de regresar en 1916.
 
 Unos meses más tarde, el Somme tomó la delantera.
 

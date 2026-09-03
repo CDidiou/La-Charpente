@@ -4,7 +4,7 @@ subtitle: "It was already overflowing"
 date: 2026-08-17
 version: 1.0
 description: "When we discover the older brother's version, after rereading."
-weight: 232
+weight: 234
 ---
 *(Written on the last page of the book, in lively handwriting, in blue pen.)*
 

@@ -26,6 +26,7 @@ No tengo lecciones que enseñar. Ahora solo miro lo que he estado haciendo todo 
 
 Quizás por eso necesitaba inventar esta familia. Para darle lo que yo no pude darle al mío: tiempo para hablar. Para ver lo que se transmite. Lo que se pierde. Lo que creemos haber elegido cuando apenas estamos empezando de nuevo.
 
+Sobreviví, milagrosamente, a la Gran Guerra y, aún más milagrosamente, a la gripe española.
 Y ahora que miro detrás de mí, en esta casa que construí pero donde nadie me responde, por fin me hago la pregunta que tal vez debería haberme hecho mucho antes:
 
 ¿Qué repetimos sin haberlo elegido?

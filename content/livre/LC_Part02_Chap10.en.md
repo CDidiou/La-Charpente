@@ -41,19 +41,45 @@ There was a wall there before. No window.
 **The father:**
 Yeah. The eldest blew up the load-bearing wall. We both removed this partition, him and I. We wanted light. And it didn't take long, you know him, he always wanted things to progress faster than they were.
 
-*(They return to the kitchen, sit for a moment, a coffee between them. The sister looks away, silent for a moment.)*
+*(They go back down. At the landing, a narrower staircase continues towards the attic. The sister stops in front, her hand on the banister, without going up.)*
 
 **The sister:**
-You remember Dad in the morning before leaving. He would stay there for hours, saying nothing, just happy that we were all there.
+And up there? Did you touch the attic too?
 
 **The father:**
-And mom who was busy making sure everything was ready, the coffee hot, the toast ready.
+No. We just redid the framework and the insulation. The rest we left.
+
+**The sister:**
+Is the old chest still there?
+
+**The father:** *(for a moment, his hand on the banister in turn, without going up any further)*
+It must be there, yes. No one had the heart to really empty it.
+
+**The sister:**
+Do you remember the last time we both went up there as kids?
+
+**Father:** *(voice a little lower, almost in spite of himself)*
+I prefer not to think about that one too much.
+
+**The sister:** *(looking at him, surprised by the tone)*
+I was just telling you about the trunk.
+
+**The father:** *(smiling too quickly, already going down one step)*
+I know. Come on, the coffee will be cold.
+
+*(He goes back downstairs without looking back. The sister remains alone in front of the stairs for a moment, her hand still on the banister, her gaze raised towards the darkness of the attic — then she ends up following him, without asking any other questions. To the kitchen. A coffee between them.)*
+
+**The sister:**
+And dad, in the morning, before leaving! He would stay there for hours, saying nothing, just happy that we were all there.
+
+**The father:**
+Yes! And mom was busy getting everything ready. Coffee hot and toast ready.
 
 **The sister:**
 It seems so far away.
 
 **The father:**
-And you and I remember. We were already different.
+And you and me, remember? We were already different!
 
 *(She laughs, a dry little laugh.)*
 
@@ -61,7 +87,7 @@ And you and I remember. We were already different.
 It's funny you say that. I was just thinking about something on my way here. Your two sons. The eldest who rushes, who breaks down walls. The cadet who observes, who thinks.
 
 **The father:**
-Yeah.
+Yes, well?
 
 **The sister:**
 I recognized myself in that. The two of us, before. You, the strong guy happy to live who has never been afraid of anything. Me, the intellectual who left quickly, a chance to seize. I took a step back, I was able to breathe.
@@ -92,9 +118,7 @@ I think she's the same. It's just that we look at her with eyes that have had ti
 
 **The sister:**
 Your sons did a good job.
-Maybe we just had to wait one more generation.
-
-*(She gets up, goes to the door, and suddenly turns around.)*
+Maybe we just had to wait one more generation.*(She gets up, goes to the door, and suddenly turns around.)*
 
 **The sister:**
 Wait! I have an idea!

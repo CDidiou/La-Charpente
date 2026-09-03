@@ -41,19 +41,45 @@ Antes había un muro allí. Sin ventana.
 **El padre:**
 Sí. El mayor voló el muro de carga. Ambos quitamos esta partición, él y yo. Queríamos luz. Y no pasó mucho tiempo, ya lo conoces, siempre quiso que las cosas progresaran más rápido de lo que eran.
 
-*(Regresan a la cocina, se sientan un momento, con un café entre ellas. La hermana mira hacia otro lado, en silencio por un momento.)*
+*(Vuelven a bajar. En el rellano, una escalera más estrecha continúa hacia el desván. La hermana se detiene delante, con la mano en la barandilla, sin subir.)*
 
 **La hermana:**
-Recuerdas a papá en la mañana antes de partir. Se quedaba allí durante horas, sin decir nada, simplemente feliz de que todos estuviéramos allí.
+¿Y allá arriba? ¿Tocaste el ático también?
 
 **El padre:**
-Y mamá que estaba ocupada asegurándose de que todo estuviera listo, el café caliente, las tostadas listas.
+No. Simplemente rehicimos la estructura y el aislamiento. El resto lo dejamos.
+
+**La hermana:**
+¿Sigue ahí el viejo cofre?
+
+**El padre:** *(por un momento, su mano en la barandilla por turno, sin subir más)*
+Debe estar ahí, sí. Nadie tuvo el corazón para vaciarlo realmente.
+
+**La hermana:**
+¿Recuerdas la última vez que ambos fuimos allí cuando éramos niños?
+
+**Padre:** *(voz un poco más baja, casi a su pesar)*
+Prefiero no pensar demasiado en eso.
+
+**La hermana:** *(mirándolo, sorprendida por el tono)*
+Te estaba hablando del baúl.
+
+**El padre:** *(sonriendo demasiado rápido, ya bajando un escalón)*
+Lo sé. Vamos, el café estará frío.
+
+*(Vuelve abajo sin mirar atrás. La hermana se queda sola frente a las escaleras por un momento, con la mano todavía en la barandilla, la mirada levantada hacia la oscuridad del desván — luego termina siguiéndolo, sin hacer más preguntas. Hacia la cocina. Un café entre ambos.)*
+
+**La hermana:**
+¡Y papá, por la mañana, antes de partir! Se quedaba allí durante horas, sin decir nada, simplemente feliz de que todos estuviéramos allí.
+
+**El padre:**
+¡Sí! Y mamá estaba ocupada preparando todo. Café caliente y tostadas listas.
 
 **La hermana:**
 Parece tan lejano.
 
 **El padre:**
-Y tú y yo lo recordamos. Ya éramos diferentes.
+Y tú y yo, ¿recuerdas? ¡Ya éramos diferentes!
 
 *(Ella se ríe, una risita seca.)*
 
@@ -61,7 +87,7 @@ Y tú y yo lo recordamos. Ya éramos diferentes.
 Es curioso que digas eso. Estaba pensando en algo en mi camino hacia aquí. Tus dos hijos. El mayor que corre, que derriba muros. El cadete que observa, que piensa.
 
 **El padre:**
-Sí.
+Sí, ¿bien?
 
 **La hermana:**
 Me reconocí en eso. Nosotros dos, antes. Tú, el chico fuerte feliz de vivir que nunca ha tenido miedo de nada. Yo, el intelectual que abandonó rápidamente, una oportunidad que aprovechar. Di un paso atrás, pude respirar.
@@ -92,9 +118,7 @@ Creo que ella es la misma. Es que la miramos con ojos que han tenido tiempo de c
 
 **La hermana:**
 Tus hijos hicieron un buen trabajo.
-Quizás tuvimos que esperar una generación más.
-
-*(Se levanta, va hacia la puerta y de repente se da vuelta.)*
+Quizás tuvimos que esperar una generación más.*(Se levanta, va hacia la puerta y de repente se da vuelta.)*
 
 **La hermana:**
 ¡Espera! ¡Tengo una idea!

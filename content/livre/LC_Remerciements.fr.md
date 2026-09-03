@@ -12,7 +12,7 @@ Joseph de Bernardy-Lilaz, dit Degis
 ![Photo de l'auteur](/La-Charpente/images/JosephWw1.png)
 
 
-Né en 1896 dans un hameau qu’aucune carte ne prenait la peine de nommer en entier, dernier d’une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans pour le Québec. Il y passe quelques années à bûcheronner, dans des forêts plus grandes que tout ce qu’il avait connu, avant de rentrer en 1916.
+Né en 1876 dans un hameau qu’aucune carte ne prenait la peine de nommer en entier, dernier d’une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans pour le Québec. Il y passe des années à bûcheronner, dans des forêts plus grandes que tout ce qu’il avait connu, avant de rentrer en 1916.
 
 Quelques mois plus tard, la Somme lui prend une jambe.
 

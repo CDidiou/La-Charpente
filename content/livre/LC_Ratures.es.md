@@ -4,7 +4,7 @@ subtitle: "ya estaba desbordado"
 date: 2026-08-17
 version: 1.0
 description: "Cuando descubrimos la versión del hermano mayor, tras releer."
-weight: 232
+weight: 234
 ---
 *(Escrito en la última página del libro, con letra vivaz y bolígrafo azul.)*
 

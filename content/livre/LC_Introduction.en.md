@@ -26,6 +26,7 @@ I have no lessons to teach. I just look now at what I've been doing all this tim
 
 Maybe that’s why I needed to invent this family. To give him what I couldn't give mine: time to talk. To see what is being transmitted. What is lost. What we think we have chosen when we are only starting again.
 
+I survived, miraculously, the Great War and, even more miraculously, the Spanish Flu.
 And now that I look behind me, in this house that I built but where no one answers me, I finally ask myself the question that perhaps I should have asked much earlier:
 
 What do we repeat without having chosen it?

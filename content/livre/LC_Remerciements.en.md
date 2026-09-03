@@ -11,7 +11,7 @@ Philip de Bernard-Lilaz, known as Chip-Flip
 ![Photo by the author](/La-Charpente/images/JosephWw1.png)
 
 
-Born in 1896 in a hamlet that no map took the trouble to name in full, the last of siblings too numerous for the land that had to feed them, he left France at the age of fifteen for Quebec. He spent a few years there logging, in forests larger than anything he had known, before returning in 1916.
+Born in 1876 in a hamlet that no map took the trouble to name in full, the last of siblings too numerous for the land that had to feed them, he left France at the age of fifteen for Quebec. He spent a few years there logging, in forests larger than anything he had known, before returning in 1916.
 
 A few months later, the Somme took its leg.
 
