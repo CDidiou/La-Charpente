@@ -1,5 +1,5 @@
 ---
-title: "*(Propagation)* The Pill Box"
+title: "(Propagation) The Pill Box"
 subtitle: "The Same Tools"
 date: 2026-08-17
 version: 1.0

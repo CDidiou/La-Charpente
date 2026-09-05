@@ -6,101 +6,212 @@ version: 1.0
 description: "En taillant la haie avec son fils, la mère apprend à cesser de surveiller et de se rendre utile pour les autres, tandis que l’aîné lui révèle qu’il tient d’elle cette capacité à faire les choses bien, mais qu’il peut désormais lui en restituer une part."
 weight: 222
 ---
+Le lendemain matin, la Mère taille la haie.
+Elle avance lentement le long du jardin, s’arrête, recule de deux pas et regarde son travail.
+L’Aîné arrive avec une paire de gants.
 
-*(Un après-midi de printemps, au jardin. La mère taille une haie, s'arrête tous les trois gestes pour regarder vers la maison — vérifier une fenêtre, tendre l'oreille. L'aîné arrive avec une deuxième paire de gants.)*
+**Le Fils Aîné :**
+Je peux t’aider.
 
-**Le fils aîné :**
-Tiens. Tu fais quoi, là, à te retourner tout le temps ?
+**La Mère :**
+Si tu veux.
 
-**La mère :**
-Je taille, et je surveille que ton père range pas le barbecue n'importe comment.
+Il prend le taille-haie.
+Il commence de l’autre côté.
+Quelques secondes passent.
+La Mère continue.
+L’Aîné s’arrête.
+Il regarde la haie.
+Puis il reprend.
+La Mère s’arrête à son tour.
+Elle regarde le côté qu’il vient de faire.
 
-**Le fils aîné :**
-Ça fait beaucoup de trucs à la fois pour une haie.
+**La Mère :**
+Tu as laissé ça.
 
-**La mère :**
-C'est toujours comme ça.
+Elle montre une petite branche qui dépasse.
+L’Aîné regarde.
 
-*(Il enfile les gants, prend le sécateur restant, se met à tailler de l'autre côté, sans rien dire d'abord. Elle continue à s'interrompre, regarder, écouter.)*
+**Le Fils Aîné :**
+Ah.
 
-**Le fils aîné :**
-Maman. Regarde juste la haie.
+Il la coupe.
+Puis il recule.
+Il regarde.
+La Mère reprend son côté.
+Elle coupe une branche.
+L’Aîné regarde.
 
-**La mère :**
-Je regarde la haie.
+**Le Fils Aîné :**
+Là.
 
-**Le fils aîné :**
-Non, tu regardes la haie, la maison, la fenêtre, et t'écoutes en même temps. Regarde juste la haie, deux minutes.
+**La Mère :**
+Quoi ?
 
-*(Elle s'arrête, un peu prise de court.)*
+**Le Fils Aîné :**
+Ça dépasse.
 
-**La mère :**
-Et si y a un problème.
+La Mère regarde.
+Elle coupe.
+Elle recule.
+L’Aîné regarde.
 
-**Le fils aîné :**
-Y en a pas. Et si y en a un, je suis là, je bouge plus vite que toi de toute façon.
+**Le Fils Aîné :**
+Encore un peu.
 
-*(Elle rit.)*
+Elle le regarde.
 
-**La mère :**
-Toujours en train de me rassurer que tu gères.
+**La Mère :**
+Tu veux le faire ?
 
-**Le fils aîné :**
-Non. Je te dis pas de me faire confiance à moi. Je te dis juste : pour une fois, t'as pas besoin d'être celle qui vérifie. Coupe la branche, regarde si c'est droit, et voilà.
+L’Aîné prend le taille-haie.
+Il coupe.
+Puis il le lui rend.
+La Mère regarde.
+Elle passe la main sur la haie.
 
-*(Elle hésite, puis coupe une branche, recule d'un pas, regarde le résultat.)*
+**La Mère :**
+Là, c’est bien.
 
-**La mère :**
-C'est pas mal, ça.
+L’Aîné regarde son côté.
+Il voit une petite irrégularité.
+Il reprend le taille-haie.
 
-**Le fils aîné :**
-Voilà. C'est tout. Juste ça.
+**La Mère :**
+Qu’est-ce que tu fais ?
 
-*(Un silence. Elle taille encore, un peu plus lentement, un peu plus concentrée, sans se retourner vers la maison cette fois.)*
+**Le Fils Aîné :**
+Rien.
 
-**La mère :**
-C'est étrange. J'ai l'impression de rien faire d'utile, là, si je surveille pas en même temps.
+Il coupe.
+Ils travaillent chacun de leur côté.
+Un peu plus vite.
+Puis un peu plus lentement.
+Ils reculent régulièrement pour regarder la haie.
+Ils avancent.
+Recoupent.
+Reculent.
+Un silence.
+La Mère passe de l’autre côté.
+Elle regarde le travail de l’Aîné.
+L’Aîné regarde le sien.
 
-**Le fils aîné :**
-T'es en train de faire un truc utile. Tu tailles une haie.
+**La Mère :**
+Tu as fait plus court ici.
 
-**La mère :**
-C'est pas pareil.
+**Le Fils Aîné :**
+Oui.
 
-**Le fils aîné :**
-Pourquoi.
+**La Mère :**
+Pourquoi ?
 
-**La mère :**
-Parce que d'habitude, l'utile, chez moi, c'est toujours pour quelqu'un. Là c'est juste... pour la haie.
+**Le Fils Aîné :**
+Parce que ça descend.
 
-*(L'aîné s'arrête de couper, la regarde.)*
+La Mère regarde.
+Regarde encore.
 
-**Le fils aîné :**
-Tu sais d'où je le tiens, moi, ce truc de faire un truc bien juste pour le faire bien ? De toi. Sauf que toi tu l'as jamais fait pour toi. Tu l'as toujours fait pour nous, pour qu'on soit bien.
+**La Mère :**
+Ah oui.
 
-**La mère :**
-C'est mon rôle.
+Elle reprend le taille-haie.
+L’Aîné la regarde faire.
+Puis il revient sur son côté.
+Quelques minutes plus tard, ils reculent tous les deux.
+La haie est parfaitement droite.
+Ils la regardent.
 
-**Le fils aîné :**
-C'était. Là, pendant dix minutes, essaie autre chose. Coupe une branche juste parce qu'elle est pas droite, pas parce que quelqu'un a besoin de quelque chose.
+**Le Fils Aîné :**
+C’est propre.
 
-*(Elle le regarde, presque déstabilisée d'être prise en flagrant délit de quelque chose qu'elle n'avait jamais nommé.)*
+**La Mère :**
+Oui.
 
-**La mère :**
-Tu me donnes des leçons, maintenant.
+Ils restent un instant devant la haie.
+Le voisin arrive par-dessus la clôture.
 
-**Le fils aîné :**
-Je te rends un truc que tu m'as donné. C'est pas pareil.
+**Le voisin :**
+Ah, vous êtes là !
 
-*(Elle sourit, reprend le sécateur, taille encore, sans se retourner vers la maison. Le silence qui suit est différent — plus dense, plus tranquille.)*
+La Mère se retourne.
 
-**La mère :**
-Ton père va pas savoir ranger ce barbecue tout seul, remarque.
+**La Mère :**
+Bonjour, Monsieur Firmin. Ça fait plaisir de vous voir. Vous vous faites rare en ce moment !
 
-**Le fils aîné :**
-Ça, c'est pas ton problème pendant dix minutes.
+**Le voisin :**
+Oui, bonjour. C’est que je suis bien occupé avec ces rénovations.
+Notez, votre mari m’a bien aidé. C’est une bonne idée qu’il a eue pour la pente de raccordement.
+Bon, je voulais vous confirmer. C’est bien pour demain. Demain matin.
 
-**La mère :**
-D'accord. Dix minutes.
+La Mère attend, surprise.
 
-*(Elle continue à couper. Au bout d'un moment, elle se surprend elle-même à sourire, seule, devant une branche bien droite, sans que personne ne l'ait vu faire ni sans qu'elle ait besoin que quelqu'un le voie. L'aîné, en passant derrière elle pour attraper le sac à déchets verts, lui pose une seconde la main sur l'épaule — pas pour la rassurer, juste pour être là — puis repart sans un mot.)*
+**Le voisin :**
+Oui, la toupie. Elle arrive vers huit heures pour faire la chape de ma terrasse.
+
+Il regarde la haie.
+
+**Le voisin :**
+Il va falloir l’enlever. Comme prévu.
+
+Un silence.
+L’Aîné regarde la haie.
+La Mère regarde la haie.
+Le Père apparaît au fond du jardin.
+
+**Le Père :**
+Ah oui !
+
+La Mère se retourne.
+
+**Le Père :**
+Bonjour Firmin ! C’est demain alors ?
+
+**La Mère :**
+Tu m’en avais parlé ?
+
+Le Père réfléchit.
+
+**Le Père :**
+Non.
+
+L’Aîné regarde la haie.
+La Mère regarde la haie.
+Le voisin sourit, un peu gêné.
+
+**Le voisin :**
+Je suis désolé. Je croyais…
+
+**La Mère :**
+Non, non.
+C’est très bien. Ça va vous faire une belle extension. Il nous tarde de voir ça.
+
+**Le voisin :**
+Ah oui, j’en attends beaucoup. Eh ! On l’inaugurera ensemble. Vous êtes invités au premier jour ! Barbecue pour tous !
+
+Elle pose son taille-haie.
+L’Aîné pose le sien.
+Ils regardent encore une fois leur travail.
+
+**La Mère :**
+Merci Firmin, vous êtes adorable.
+
+**Le Père :**
+Bon…
+
+Il regarde la haie.
+
+**Le voisin :**
+Vous voulez un coup de main pour la raser, cette haie ?
+
+La Mère regarde son mari.
+L’Aîné regarde son père.
+La Mère et l’Aîné se mettent à rire.
+Le Père les regarde, sans comprendre.
+
+**Le Père :**
+Ah.
+
+Il sourit.
+
+**Le Père :**
+Oui, bon. Non, Firmin, on s’en occupe, on est déjà trois pour faire ça ! Et elle était un peu trop belle aussi.

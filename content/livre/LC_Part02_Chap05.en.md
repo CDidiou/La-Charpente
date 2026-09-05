@@ -1,102 +1,101 @@
 ---
-title: "(Reflection) Chairs"
-subtitle: "What you don't have to wear"
+title: "*(Reflection)* The Chairs"
+subtitle: "What You Don't Have to Carry"
 date: 2026-08-17
 version: 1.0
 description: "As the family meal approaches, the father learns to let go of control while his eldest son naturally resumes his role as the one who watches over the bonds, before discovering with humor that no one really needs to be orchestrated."
 weight: 220
 ---
-*(One Sunday, before the whole family arrives for a meal. The father comes and goes in the living room, moves a chair, puts it back, counts the cutlery a third time, takes a look at the music list, checks that the melon is cut into cubes, returns to the chairs.)*
+*(One Sunday, before the whole family arrives for lunch. The Father paces back and forth through the living room, moving a chair, putting it back, counting the cutlery for the third time, checking the music playlist, making sure the melon has been cut into cubes, then coming back to the chairs.)*
 
-**The eldest son:**
+**The Elder Son :**
 Dad. Sit down for two minutes.
 
-**The father:**
-I still have the chairs to finish, and I have to see if we have enough bottles, and...
+**The Father :**
+I've still got the chairs to finish, and I need to check whether we've got enough bottles, and—
 
-**The eldest son:**
-I take care of the chairs.
+**The Elder Son :**
+I'll take care of the chairs.
 
-**The father:**
-No, leave it, I know where I want to put them.
+**The Father :**
+No, leave it. I know where I want them.
 
-**The eldest son:**
-So tell me where, and I'll put them. You sit down.
+**The Elder Son :**
+Then tell me where, and I'll put them there. You sit down.
 
-*(The father hesitates, looks around the room as if he would miss something by stopping.)*
+*(The Father hesitates, looking around the room as though stopping for a moment might mean he'd miss something.)*
 
-**The father:**
-If no one takes care of anything, it's going to be rubbish.
+**The Father :**
+If nobody takes care of anything, it'll be a complete mess.
 
-**The eldest son:**
-I don't worry about anything, Dad. I take care of the chairs. That's all there is to do, right now.
+**The Elder Son :**
+I'm not taking care of nothing, Dad. I'm taking care of the chairs. That's all there is to do right now.
 
-*(He begins to move the chairs himself, without waiting for a response. The father watches him, almost idle, not knowing what to watch for.)*
+*(He starts moving the chairs himself, without waiting for an answer. The Father watches him, almost at a loss, no longer knowing what there is left to keep an eye on.)*
 
-**The father:**
-You don't put them the way I wanted. Look, this one is not aligned with the table.
+**The Father :**
+You're not putting them where I wanted them. Look, that one isn't lined up with the table.
 
-**The eldest son:**
-They are there. People will sit on them, Dad, not measure them.
+**The Elder Son :**
+They're there. People are going to sit on them, Dad, not measure them.
 
-**The father:**
-It takes two more seconds to do it right.
+**The Father :**
+It takes two extra seconds to do it properly.
 
-**The eldest son:**
- So what? There is no chair lining up contest, as far as I know.
+**The Elder Son :**
+So what? As far as I know, there isn't a chair-alignment competition.
 
-*(The father approaches anyway, straightens the chair with a precise gesture, almost without thinking about it — an old reflex. The eldest watches him do it, a little taken aback.)*
+*(The Father comes over anyway and straightens the chair with one precise movement, almost without thinking — an old reflex. The Elder Son watches him, slightly caught off guard.)*
 
-**The father:**
-You never liked gesture for gesture's sake. You like the result, the finish line. I love the moment when I do it.
+**The Father :**
+You've never liked doing something just for the sake of doing it. You like the result, the finish line. I like the moment when I'm doing it.
 
-**The eldest son:**
-It's true. You straighten a chair as if it were important that it was straight. I'm just putting it down so we can move on.
-You're better than me with your hands. Better than me, and better than my brother. Well, if he tried to use his hands, of course!
+**The Elder Son :**
+That's true. You straighten a chair as if it matters that it's straight. I just put it down so we can move on to the next thing. You're better than me with your hands. Better than me, and better than my brother. Well, if he ever tried using his hands, that is!
 
-**The father:**
-It's easy for you. You've never been afraid that a family meal will go bad.
+**The Father :**
+That's easy for you. You've never been afraid that a family meal might fall flat.
 
-**The eldest son:**
-It never falls flat. Because you are here. Not because you have everything sorted out to the millimeter before people arrive.
+**The Elder Son :**
+It never falls flat. Because you're here. Not because you've got everything set down to the millimetre before people arrive.
 
-*(The father sits down, reluctantly, his hands still restless, trying to figure out what to do with them.)*
+*(The Father sits down reluctantly, his hands still restless, looking for something to do.)*
 
-**The father:**
-It feels weird to me.
+**The Father :**
+This feels strange.
 
-*(A silence. The father looks at the empty room for a few more minutes, the chairs not quite as he would have put them, and yet the room still stands.)*
+*(A silence. The Father looks at the still-empty room for a few more minutes, the chairs not quite where he would have put them, and yet the room is holding together anyway.)*
 
-**The eldest son:**
-You know you gave me this ability to pay attention to connections. I pay attention to it, but it doesn't worry me.
+**The Elder Son :**
+You know you gave me this ability to pay attention to the ties between people. I pay attention to them, but they don't worry me.
 
-*(The father looks at him, touched more than he shows.)*
+*(The Father looks at him, more moved than he lets on.)*
 
-**The father:**
-And if I don't warm things up this afternoon, what's going to happen, eh?
+**The Father :**
+And if I don't lift the mood at lunch today, what happens, huh?
 
-**The eldest son:**
-So we'll eat in silence, and it won't be the end of the world. But I bet you no.
+**The Elder Son :**
+Then we'll eat in silence, and it won't be the end of the world. But I'll bet you that won't happen.
 
-*(We hear a car arriving outside, voices, a door slamming. The father gets up, a reflex, ready to get back into the orchestration.)*
+*(A car can be heard arriving outside, voices, a door slamming. The Father gets up, instinctively, ready to start orchestrating everything again.)*
 
-**The eldest son:**
+**The Elder Son :**
 Dad.
 
-**The father:**
-What.
+**The Father :**
+What?
 
-**The eldest son:**
-Let them happen. You don't need to go pick them up at the door.
+**The Elder Son :**
+Let them arrive. You don't need to go and meet them at the door.
 
-*(The father sits down again, half, between two, and waits - for the first time in the morning, without doing anything other than waiting. The eldest, passing behind him to open the door, puts a hand on his shoulder, presses for a second, a little hard as always, before stepping aside.)*
+*(The Father sits back down, halfway, caught between getting up and staying put, and waits — for the first time that morning, doing nothing but waiting. As he passes behind him on his way to open the door, The Elder Son puts a hand on his shoulder, presses for a second, a little too firmly as always, then steps away.)*
 
-**The eldest son:**
-Stay seated, Dad. I take care of welcoming everyone.
+**The Elder Son :**
+Stay sitting, Dad. I'll take care of welcoming everyone.
 
-*(He walks out with a determined step, satisfied with himself. But on the steps, his mother and his wife are already there, arm in arm, laughing with the first arrivals, obviously having been there for a while.)*
+*(He walks out with determined steps, pleased with himself. But on the doorstep, his mother and his wife are already there, arm in arm, laughing with the first arrivals, clearly having been there for some time.)*
 
-**The mother:** *(without even completely turning around)*
-Thank you, darling, it's adorable. But you will be much more useful inside, helping your father with the final arrangements.
+**The Mother :** *(without even quite turning around)*
+Thanks, sweetheart. That's adorable. But you'll be much more useful inside, helping your father with the final arrangements.
 
-*(The eldest stays there for a second, his mouth still half open on a welcoming phrase that he will never have the opportunity to utter. He shrugs his shoulders and walks back towards the house. Once he has disappeared inside, the eldest's mother and wife exchange a look, a knowing smile, almost a wink, before turning together towards the guests who are coming up the aisle.)*
+*(The Elder Son stands there for a second, his mouth still open around a welcoming sentence he'll never get to say. He shrugs and heads back into the house. Once he's disappeared inside, The Mother and the Elder Son's wife exchange a look, a conspiratorial smile, almost a wink, then turn together toward the guests coming up the path.)*

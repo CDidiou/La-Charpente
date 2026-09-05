@@ -6,34 +6,51 @@ version: 1.0
 description: "Alors que leurs fils leur ont appris à lâcher prise, les parents constatent avec amusement qu’ils restent ceux qui font tourner la maison et gardent les petits-enfants, mais acceptent désormais d’en profiter pleinement, entre chantier, rires et transmission."
 weight: 223
 ---
+*(La maison d’enfance du Père, en plein chantier. Les murs sont à nu, la poussière recouvre tout. Un thermos de café est posé sur un plan de travail qui n’existe plus. Les parents gardent les petits-enfants pour les vacances. Ils les ont laissés jouer dans la pièce d’à côté pendant qu’eux deux soufflent un instant, assis sur deux seaux retournés.)*
 
-*(La maison d'enfance du père, en plein chantier. Les murs sont à nu, la poussière recouvre tout, un thermos de café posé sur un plan de travail qui n'existe plus. Les parents gardent les petits-enfants pour les vacances, et les ont laissés jouer dans la pièce d'à côté pendant qu'eux deux soufflent un instant, assis sur deux seaux retournés.)*
+**La Mère :**
+On est quand même bien, là.
 
-**La mère :**
-T'as vu comme ton fils t'a laissé assis, l'autre jour ? Il t'a pris les chaises des mains, en te disant texto : « t'as pas besoin d'être celui qui tient tout. »
+**Le Père :**
+Oui.
 
-**Le père :**
-Ouais. Et toi, avec la haie ? Il t'a empêchée de surveiller la maison en te tailladant deux branches de traviole.
+**La Mère :**
+Deux seaux, un café, cinq gosses qui sont en train de démonter la maison.
 
-**La mère :**
-« Regarde juste la haie, maman. » On se croirait dans un stage.
+**Le Père :**
+C’est presque des vacances.
 
-**Le père :**
-Un stage de quoi, remarque ?
-
-**La mère :**
-Je sais pas. Un truc genre « pleine présence et jardinage conscient ». Cent quatre-vingts euros la journée, avec tisane à midi.
-
-*(Le père manque de s'étouffer de rire dans son gobelet de thermos.)*
-
-**Le père :**
-Arrête, tu vas me faire recracher mon café. Et le silence, avec ton fils, alors ? Tu sais ce qu'il m'a dit ? « On n'a pas besoin de savoir pourquoi. » J'ai cru un instant qu'il allait me proposer un bâton de pluie.
+*(Ils boivent.)*
 
 **La mère :**
-Et le plan de table ! Il m'a sorti trois contraintes sur un bout de papier comme un consultant qui facture à l'heure. « Une chose à la fois, maman. »
+T'as vu comme ton fils t'a pris le couteau du melon, l'autre jour ?
 
-**Le père :**
-Nos fils sont devenus des coachs de vie sans qu'on nous prévienne.
+**Le Père :**
+Oui.
+
+**La Mère :**
+Pourquoi ?
+
+**Le Père :**
+Parce qu’il voulait le faire.
+
+**La Mère :**
+Et il voulait jardiner aussi à ma place!
+
+**Le Père :**
+Et l'autre ?
+
+**La Mère :**
+Avec ses vis?
+
+**Le Père :**
+Oui.
+
+**La Mère :**
+Il ne voulait pas les pousser.
+
+**Le Père :**
+Il doit avoir besoin de temps pour les regarder.
 
 *(Ils rient franchement, ce vrai fou rire qui reprend juste au moment où on croit qu'il s'arrête. Un fracas de pas précipités, des cris, une porte qui claque contre le mur. Les cinq petits débarquent dans la pièce, surexcités, l'un d'eux brandissant déjà un morceau de tuyau trouvé quelque part.)*
 

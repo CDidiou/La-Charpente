@@ -6,86 +6,357 @@ version: 1.0
 description: "En aidant sa mère à simplifier un plan de table qu’elle compliquait en voulant anticiper les besoins de chacun, le fils cadet reconnaît chez elle la même méthode analytique qu’il a héritée d’elle, mais découvre que certaines choses peuvent simplement se laisser vivre."
 weight: 219
 ---
+Le soir, à la table de la cuisine.
+La Mère a étalé devant elle le plan de table pour le repas d’anniversaire du Père.
+Des petits papiers.
+Des ratures.
+Certains noms ont déjà changé trois fois de place.
+Le Cadet entre, se sert un verre d’eau et regarde sa mère.
 
-*(Le soir, à la table de la cuisine. La mère a étalé devant elle le plan de table pour le repas d'anniversaire du père — des petits papiers, des ratures, un début de crise. Le cadet entre, se sert un verre d'eau, la voit s'arrêter, recommencer, s'arrêter encore.)*
-
-**Le fils cadet :**
+****Le Fils Cadet :****
 Ça va ?
 
-**La mère :**
-Je sais plus où mettre ton cousin. Si je la mets à côté du voisin, il va parler fort et le voisin ne va pas entendre la moitié. Si je le mets à côté de ton père, ils vont recommencer sur la politique. Et ma copine, elle mange plus de viande maintenant, faut que je vérifie qui est à côté d'elle pour pas que ça la gêne.
+**La Mère :**
+Je sais plus où mettre ton cousin.
 
-**Le fils cadet :**
+Elle déplace un papier.
+
+**La Mère :**
+Si je le mets à côté du voisin, il va parler fort et le voisin n’entendra rien. Si je le mets à côté de ton père, ils vont recommencer sur la politique.
+
+Elle déplace un autre papier.
+
+**La Mère :**
+Et ma copine, elle mange plus de viande maintenant. Faut que je vérifie qui est à côté d’elle.
+
+Le Cadet regarde le plan.
+
+****Le Fils Cadet :****
 Tu penses à tout le monde en même temps, là.
 
-**La mère :**
+**La Mère :**
 Il faut bien.
 
-**Le fils cadet :**
-Non. Il ne faut pas faire compliqué. Que des étapes simples
+Le Cadet s’assoit en face d’elle.
+Il prend un stylo.
 
-*(Il s'assoit en face d'elle, attrape un papier, un stylo.)*
+****Le Fils Cadet :****
+Non. Donne-moi les contraintes.
 
-**Le fils cadet :**
-Donne-moi juste les contraintes. Pas les gens, les contraintes. Une par une.
+**La Mère :**
+Les contraintes ?
 
-**La mère :**
-Comment ça, les contraintes.
+****Le Fils Cadet :****
+Pas les gens. Les contraintes.
 
-**Le fils cadet :**
-Genre : "ces deux-là, jamais côte à côte." "Celle-là, doit entendre." "Celle-là, régime particulier." Tu me donnes juste les règles, et après on remplit, pas l'inverse.
+Il prend un petit papier.
 
-*(Elle le regarde, hésite, puis commence à énumérer, un peu plus lentement.)*
+****Le Fils Cadet :****
+Une par une.
 
-**La mère :**
-Ton cousin et ton père, pas côte à côte. Le voisin a besoin d'être à côté de quelqu'un qui parle pas trop fort, ou alors en face. Ma copine, éviter d'être juste devant le plat principal si c'est de la viande.
+La Mère hésite.
 
-**Le fils cadet :**
-Voilà. Trois règles. C'est gérable, trois règles.
+**La Mère :**
+Ton cousin et ton père, pas côte à côte.
 
-*(Il dessine rapidement une table, place les noms selon ce qu'elle vient de dire. Elle regarde faire, presque suspendue.)*
+Le Cadet note.
 
-**La mère :**
-Attends, mais et l'ambiance générale, et si...
+**La Mère :**
+Le voisin a besoin d’être à côté de quelqu’un qui ne parle pas trop fort.
 
-**Le fils cadet :**
-Maman. Une chose à la fois. Là on résout juste les trois règles. L'ambiance, c'est un autre problème, on le regarde après, ou on le regarde pas du tout, ça se fait tout seul en général.
+Il note.
 
-*(Elle regarde le plan devant elle, achevé, propre, trois règles respectées, sans qu'elle ait eu à porter tout le reste en tête en même temps.)*
+**La Mère :**
+Ma copine, pas devant le plat principal si c’est de la viande.
 
-**La mère :**
-C'est étrangement reposant, ça.
+Il note.
 
-**Le fils cadet :**
-Parce que là, pour une fois, t'as pas besoin de deviner ce que chacun va ressentir. T'as juste besoin de vérifier trois trucs.
+****Le Fils Cadet :****
+Voilà.
 
-**La mère :**
-D'habitude je vérifie que pour tout le monde tout soit bien disposé.
+Il regarde les trois papiers.
 
-**Le fils cadet :**
-Je sais. Tu as raison de vérifier pour chacun à tour de rôle. J'ai hérité de ta méthode d'ailleurs. Sauf que toi tu le fais avec de l'inquiétude. Moi j'applique juste ta méthode.
+****Le Fils Cadet :****
+Trois règles.
 
-*(La mère repose son stylo, le regarde, presque surprise qu'il puisse dire ça d'elle sans en faire une explication compliquée.)*
+**La Mère :**
+Oui, mais…
 
-**La mère :**
+****Le Fils Cadet :****
+Quoi ?
+
+**La Mère :**
+Il y a aussi ton oncle.
+
+****Le Fils Cadet :****
+Qu’est-ce qu’il a ?
+
+**La Mère :**
+Il en veut encore à ton cousin.
+
+Le Cadet lève les yeux.
+
+****Le Fils Cadet :****
+Pourquoi ?
+
+**La Mère :**
+L’histoire du mariage.
+
+****Le Fils Cadet :****
+C’est pas une contrainte, ça. C’est un roman.
+
+La Mère sourit malgré elle.
+
+**La Mère :**
+Bon. Alors évite-les aussi.
+
+****Le Fils Cadet :****
+Pourquoi ?
+
+**La Mère :**
+Parce que sinon ils vont se parler.
+
+****Le Fils Cadet :****
+Et alors ?
+
+**La Mère :**
+Et alors ils vont reparler de l’histoire du mariage.
+
+Le Cadet réfléchit.
+Il ajoute un quatrième papier.
+
+****Le Fils Cadet :****
+D’accord. Quatrième règle.
+
+Il commence à dessiner une table.
+
+**La Mère :**
+Attends.
+
+****Le Fils Cadet :****
+Quoi encore ?
+
+**La Mère :**
+La cousine de ton père.
+
+****Le Fils Cadet :****
+Elle a quoi ?
+
+**La Mère :**
+Elle n’aime pas être au bout.
+
+Le Cadet la regarde.
+
+****Le Fils Cadet :****
+Pourquoi ?
+
+**La Mère :**
+Elle dit qu’on l’oublie.
+
+****Le Fils Cadet :****
+Bon.
+
+Il prend un autre papier.
+
+****Le Fils Cadet :****
+Cinquième règle.
+
+**La Mère :**
+Et ton père aime bien être au milieu.
+
+****Le Fils Cadet :****
+Sixième.
+
+**La Mère :**
+Et moi, j’aime bien avoir la cuisine dans mon champ de vision.
+
+Le Cadet s’arrête.
+Il regarde sa mère.
+
+****Le Fils Cadet :****
+Ça, c’est pas une règle pour les invités.
+
+**La Mère :**
+Je sais.
+
+Un silence.
+Le Cadet reprend son stylo.
+Il place les noms.
+La Mère regarde.
+
+**La Mère :**
+Mais attends, si tu mets ton père là, ton cousin va forcément parler à ton oncle.
+
+****Le Fils Cadet :****
+Ils peuvent parler.
+
+**La Mère :**
+Oui, mais…
+
+****Le Fils Cadet :****
+Maman.
+
+Il pose son stylo.
+
+****Le Fils Cadet :****
+On ne peut pas prévoir ce que les gens vont faire.
+
+La Mère regarde le plan.
+
+****Le Fils Cadet :****
+On peut juste éviter les problèmes évidents.
+
+Il replace deux papiers.
+
+****Le Fils Cadet :****
+Ça, ça tient.
+
+Il en replace un autre.
+
+****Le Fils Cadet :****
+Ça aussi.
+
+Il regarde sa mère.
+
+****Le Fils Cadet :****
+Le reste, on verra.
+
+La Mère regarde le plan.
+
+Elle ne dit rien.
+Le Cadet se lève pour aller chercher son verre d’eau.
+Il revient.
+Le plan n’a pas bougé.
+
+**La Mère :**
+C’est étrange.
+
+****Le Fils Cadet :****
+Quoi ?
+
+**La Mère :**
+Ça marche.
+
+****Le Fils Cadet :****
+Oui.
+
+**La Mère :**
+Sans que j’aie besoin de penser à tout.
+
+****Le Fils Cadet :****
+C’est le principe.
+
+Elle regarde encore le plan.
+Puis le Cadet.
+
+**La Mère :**
+Tu fais ça comment, toi ?
+
+****Le Fils Cadet :****
+Quoi ?
+
+**La Mère :**
+Tu prends tout un problème et tu le découpes.
+
+Le Cadet hausse les épaules.
+
+****Le Fils Cadet :****
+Je sais pas.
+
+Il regarde les petits papiers.
+
+****Le Fils Cadet :****
+Je crois que je tiens ça de toi.
+
+La Mère sourit.
+
+**La Mère :**
+Moi ?
+
+****Le Fils Cadet :****
+Oui.
+
+Il désigne les papiers.
+
+****Le Fils Cadet :****
+Tu fais pareil.
+
+**La Mère :**
+Non. Moi, je pense aux gens.
+
+****Le Fils Cadet :****
+Oui.
+
+Un temps.
+
+****Le Fils Cadet :****
+Et moi, je pense aux contraintes.
+
+La Mère regarde le plan.
+Puis elle repose son stylo.
+
+**La Mère :**
 Tu me rends un truc, là, on dirait.
 
-*(Elle replie le plan de table, satisfaite, le pose de côté sans le reprendre trois fois comme elle l'aurait fait avant.)*
+Le Cadet sourit.
+Elle replie le plan.
+Une fois.
+Puis une deuxième fois.
+Elle le pose de côté.
+Elle ne le rouvre pas.
 
-**La mère :**
-Bon. Et le reste, l'ambiance, tout ça — ça viendra tout seul, tu crois vraiment ?
+**La Mère :**
+Bon.
 
-**Le fils cadet :**
-Je crois vraiment. Mais si jamais ça vient pas tout seul, tu me rappelles, et on refait trois règles.
+Elle regarde son fils.
 
-*(Elle sourit. La femme du cadet entre à cet instant, avec une pile de serviettes dans les bras. Elle jette un œil au plan de table encore ouvert sur la nappe.)*
+**La Mère :**
+Et l’ambiance générale ?
 
-**La femme du cadet :**
-Pour l'ambiance, il y a plus simple. Pas besoin de trois règles. Vous mettez juste votre fils au bout de la table, bien isolé, et le problème est réglé !
+****Le Fils Cadet :****
+On verra.
 
-*(Un silence. La mère se retourne d'un coup, lève les deux bras au ciel avant d'éclater de rire.)*
+**La Mère :**
+Tu crois vraiment que ça va se faire tout seul ?
 
-**La mère :**
-C'est génial, ce que tu viens de dire ! Le problème était là, en fait, depuis le début. Tellement simple. Et lui, bien sûr, il ne pouvait pas le voir, ça !
+****Le Fils Cadet :****
+Je crois.
 
-*(Elles rient ensemble, un vrai fou rire partagé, et finissent par s'embrasser, ravies l'une de l'autre. Le cadet, à côté, réajuste ses lunettes d'un geste automatique et sourit faiblement, un peu largué par la vitesse à laquelle son système à trois règles vient d'être remplacé par une phrase.)*
+Un temps.
+
+****Le Fils Cadet :****
+Sinon tu me rappelles.
+
+**La Mère :**
+Et tu me donneras une nouvelle règle ?
+
+**Le Fils Cadet :**
+Et même trois règles d'un coup!
+
+La femme du Cadet entre à ce moment-là avec une pile de serviettes.
+Elle pose les serviettes.
+Regarde la table.
+Puis le plan de table plié.
+
+**La femme du Cadet :**
+Trois règles d'un coup ?
+
+Elle regarde la Mère, puis le Cadet.
+Elle sourit.
+Elle réfléchit une seconde.
+
+**La femme du Cadet :**
+Sinon, vous mettez juste votre fils au bout de la table, tout seul.
+
+Un temps.
+La Mère éclate de rire.
+La femme du Cadet rit avec elle.
+Le Cadet réajuste ses lunettes.
+
+**Le Fils Cadet :**
+Je vois pas le rapport.
+
+Elles rient encore plus.
+Le Cadet regarde le plan de table.
+Puis les deux femmes.
+Il sourit.

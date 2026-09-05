@@ -1,90 +1,90 @@
 ---
-title: "(Reflection) The table plan"
-subtitle: "What can be moved"
+title: "*(Reflection)* The Seating Plan"
+subtitle: "What Can Be Moved"
 date: 2026-08-17
 version: 1.0
 description: "By helping his mother to simplify a table plan that she complicated by wanting to anticipate everyone's needs, the younger son recognizes in her the same analytical method that he inherited from her, but discovers that certain things can simply be allowed to live."
 weight: 219
 ---
-*(In the evening, at the kitchen table. The mother has spread out in front of her the table plan for the father's birthday meal - small papers, erasures, the beginning of a crisis. The youngest enters, pours himself a glass of water, sees her stop, start again, stop again.)*
+*(That evening, at the kitchen table. The Mother has spread out the seating plan for The Father’s birthday dinner in front of her — little slips of paper, crossed-out names, the beginnings of a crisis. The Younger Son comes in, pours himself a glass of water, and watches her stop, start over, stop again.)*
 
-**The youngest son:**
-Are you okay?
+**The Younger Son :**
+You okay?
 
-**The mother:**
-I don't know where to put your cousin anymore. If I put it next to the neighbor, he will speak loudly and the neighbor won't hear half of it. If I put him next to your father, they'll start talking about politics again. And my girlfriend, she eats more meat now, I have to check who's next to her so it doesn't bother her.
+**The Mother :**
+I don't know where to put your cousin anymore. If I put her next to the neighbour, he'll talk too loudly and the neighbour won't hear half of what she's saying. If I put him next to your father, they'll start arguing about politics again. And my friend doesn't eat meat anymore, so I need to check who's sitting next to her so she doesn't feel awkward.
 
-**The youngest son:**
-You're thinking of everyone at the same time.
+**The Younger Son :**
+You're thinking about everyone at once.
 
-**The mother:**
-You have to.
+**The Mother :**
+Well, someone has to.
 
-**The youngest son:**
-No. You don't have to make it complicated. Just simple steps
+**The Younger Son :**
+No. Don't make it complicated. Just simple steps.
 
-*(He sits down opposite her, grabs a paper, a pen.)*
+*(He sits down opposite her and picks up a piece of paper and a pen.)*
 
-**The youngest son:**
-Just give me the constraints. Not the people, the constraints. One by one.
+**The Younger Son :**
+Give me the constraints. Not the people. The constraints. One at a time.
 
-**The mother:**
-What do you mean, constraints?
+**The Mother :**
+What do you mean, the constraints?
 
-**The youngest son:**
-Like: “these two, never side by side.” “This one must hear.” “This one, special diet.” You just give me the rules, and then we fill in, not the other way around.
+**The Younger Son :**
+Like: “These two can never sit next to each other.” “This one needs to be able to hear.” “This one has a special diet.” You give me the rules, and then we fill in the names. Not the other way around.
 
-*(She looks at him, hesitates, then begins to list, a little more slowly.)*
+*(She looks at him, hesitates, then starts listing them, a little more slowly.)*
 
-**The mother:**
-Your cousin and your father, not side by side. The neighbor needs to be next to someone who speaks not too loudly, or in front of him. My friend, avoid being right in front of the main course if it is meat.
+**The Mother :**
+Your cousin and your father can't sit next to each other. The neighbour needs to be next to someone who doesn't talk too loudly, or sitting opposite them. And my friend shouldn't be sitting directly opposite the main dish if it's meat.
 
-**The youngest son:**
-There you go. Three rules. It's manageable, three rules.
+**The Younger Son :**
+There you go. Three rules. That's manageable. Three rules.
 
-*(He quickly draws a table, places the names according to what she has just said. She watches, almost suspended.)*
+*(He quickly sketches a table and places the names according to what she has told him. She watches, almost holding her breath.)*
 
-**The mother:**
-Wait, but what about the general atmosphere, what if...
+**The Mother :**
+Wait, but what about the general atmosphere, and what if—
 
-**The youngest son:**
-Mom. One thing at a time. There we just solve the three rules. The atmosphere is another problem, we watch it afterwards, or we don't watch it at all, it generally happens on its own.
+**The Younger Son :**
+Mum. One thing at a time. Right now we're solving the three rules. The atmosphere is a different problem. We can look at that afterward — or not look at it at all. It usually sorts itself out.
 
-*(She looks at the plan in front of her, completed, clean, three rules respected, without having to carry everything else in mind at the same time.)*
+*(She looks at the plan in front of her, finished and neat, with the three rules respected, without having to keep everything else in her head at the same time.)*
 
-**The mother:**
-It's strangely relaxing, that.
+**The Mother :**
+That's strangely relaxing.
 
-**The youngest son:**
-Because now, for once, you don't need to guess what everyone is going to feel. You just need to check three things.
+**The Younger Son :**
+Because for once, you don't have to guess what everyone is going to feel. You just have to check three things.
 
-**The mother:**
-Usually I check that everything is well laid out for everyone.
+**The Mother :**
+Usually I check that everything is right for everyone.
 
-**The youngest son:**
-I know. You are right to check for each one in turn. I inherited your method by the way. Except that you do it with worry. I just follow your method.
+**The Younger Son :**
+I know. You're right to check for each person, one at a time. I actually got my method from you. Except you do it with anxiety. I just apply the method.
 
-*(The mother puts down her pen, looks at him, almost surprised that he can say that about her without making a complicated explanation.)*
+*(The Mother puts down her pen and looks at him, almost surprised that he can say something about her like that without turning it into a complicated explanation.)*
 
-**The mother:**
-You're giving me something back, it seems.
+**The Mother :**
+It feels like you're giving something back to me.
 
-*(She folds the table plan, satisfied, puts it aside without taking it up three times as she would have done before.)*
+*(She folds up the seating plan, satisfied, and puts it aside without unfolding it three more times like she would have before.)*
 
-**The mother:**
-Good. And the rest, the atmosphere, all that — it will come by itself, do you really think?
+**The Mother :**
+Okay. And the rest — the atmosphere and all that — you really think it'll sort itself out?
 
-**The youngest son:**
-I really believe. But if it doesn't come by itself, you call me back, and we'll redo three rules.
+**The Younger Son :**
+I really do. But if it doesn't, call me and we'll come up with three more rules.
 
-*(She smiles. The younger brother's wife enters at this moment, with a pile of napkins in her arms. She takes a look at the table plan still open on the tablecloth.)*
+*(She smiles. The Younger Son’s wife comes in at that moment, carrying a stack of napkins. She glances at the seating plan still open on the tablecloth.)*
 
-**The cadet's wife:**
-For the atmosphere, there is something simpler. No need for three rules. You just put your son at the end of the table, well insulated, and the problem is solved!
+**The Younger Son’s wife :**
+For the atmosphere, there's an even simpler solution. You don't need three rules. Just put your son at the end of the table, all by himself, and problem solved!
 
-*(A silence. The mother suddenly turns around, raises both arms to the sky before bursting out laughing.)*
+*(A silence. The Mother turns around sharply, throws both arms up in the air, and bursts out laughing.)*
 
-**The mother:**
-That’s great, what you just said! The problem was there, in fact, from the beginning. So simple. And he, of course, couldn't see that!
+**The Mother :**
+That's brilliant! That was the problem all along! So simple. And of course he couldn't see it!
 
-*(They laugh together, a real shared laugh, and end up kissing, delighted with each other. The younger brother, next to him, readjusts his glasses automatically and smiles weakly, a little overwhelmed by the speed with which his three-rule system has just been replaced by a sentence.)*
+*(They both collapse into genuine laughter, eventually hugging each other, delighted with one another. Beside them, The Younger Son automatically adjusts his glasses and smiles faintly, slightly bewildered by how quickly his three-rule system has just been replaced by a single sentence.)*

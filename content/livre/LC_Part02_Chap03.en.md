@@ -1,135 +1,131 @@
 ---
-title: "(Reflection) The dirty plate"
-subtitle: "What we leave in disorder"
+title: "*(Reflection)* The Dirty Plate"
+subtitle: "What We Leave in Disarray"
 date: 2026-08-17
 version: 1.0
 description: "While washing the dishes, the two brothers understand that their opposing ways of helping the other – repairing on one side, analyzing on the other – are in reality two symmetrical ways of wanting to master what remains unfinished."
 weight: 218
 ---
-*(A summer morning. End of breakfast. The two brothers do the dishes, alone — the eldest washes, the younger wipes, without much enthusiasm.)*
+*(One summer morning. Breakfast is over. The two brothers are doing the dishes alone — The Elder Son washes, The Younger Son dries, neither with much enthusiasm.)*
 
-**The eldest son:**
-So, are you resigning or not? Entrepreneurs are not there waiting and counting the flowers!
+**The Elder Son :**
+So, are you quitting or not? The contractors aren't exactly sitting around waiting for you and counting flowers!
 
-**The youngest son:**
+**The Younger Son :**
 I don't know yet.
 
-**The eldest son:**
-You don't know, or you're afraid to launch your project, which everyone thinks is great.
+**The Elder Son :**
+You don't know, or you're afraid to launch your project, the one everyone thinks is brilliant?
 
-**The youngest son:**
-...Why do you ask like that.
+**The Younger Son :**
+…Why are you asking me like that?
 
-**The eldest son:**
-Because I know you. You're going to weigh the pros and cons, talk to three people about it, and in the end you're going to take the thing that everyone expects from you, convincing yourself afterwards that it was your idea.
+**The Elder Son :**
+Because I know you. You'll weigh the pros and cons, talk it over with three people, and in the end you'll choose whatever everyone expects you to choose, then convince yourself afterward that it was your idea.
 
-*(The cadet puts down the plate he was wiping.)*
+*(The Younger Son puts down the plate he was drying.)*
 
-**The youngest son:**
+**The Younger Son :**
 You're analyzing me now.
 
-**The eldest son:**
-No, I'll fix you.
+**The Elder Son :**
+No, I'm fixing you.
 
-**The youngest son:**
-Is it the same for you?
+**The Younger Son :**
+Is that the same thing to you?
 
-**The eldest son:**
-Well yeah. I see something wrong, I straighten it. It's normal. There I see, your life is not right, so I tell you how to straighten it out.
+**The Elder Son :**
+Well, yeah. When I see something that's crooked, I straighten it. That's just how I am. And right now, I see that your life isn't straight, so I'm telling you how to straighten it out.
 
-**The youngest son:** *(a little dry)*
+**The Younger Son :** *(a little sharply)*
 Except I'm not a wall!
 
-*(Silence. The eldest continues washing, without saying anything, but we sense that he has heard.)*
+*(Silence. The Elder Son keeps washing without saying anything, but it's clear he's heard him.)*
 
-**The youngest son:**
-You always do this. As soon as something at someone's house seems unfinished, you have to finish it. The wall, finances, or my career.
+**The Younger Son :**
+You always do this. Whenever something about someone seems unfinished to you, you have to finish it. The little wall, the finances, or my career.
 
-**The eldest son:**
-Oh, it's okay! I was just trying to help.
+**The Elder Son :**
+Oh, come on! I was just trying to help.
 
-**The youngest son:**
-I know. That's the problem. Because you didn't ask me if I wanted help. You just saw something unfinished and took out the tools.
+**The Younger Son :**
+I know. That's the problem. You didn't ask me whether I wanted help. You just saw something unfinished and brought out the tools.
 
-*(The eldest stops washing. He looks at his brother, almost offended.)*
+*(The Elder Son stops washing. He looks at his brother, almost offended.)*
 
-**The eldest son:**
-And what do you usually do when you watch me mess up a steak? You're not helping me either. You comment.
+**The Elder Son :**
+And what do you usually do when you watch me mess up a steak? You don't help either. You comment.
 
-**The youngest son:**
-It's not the same.
+**The Younger Son :**
+That's different.
 
-**The eldest son:**
-Oh well, why?
+**The Elder Son :**
+Oh yeah? Why?
 
-**The youngest son:**
-Because...
+**The Younger Son :**
+Because…
 
-*(He stops. He doesn't have a ready-made end to his sentence, for once.)*
+*(He stops. For once, he doesn't have a ready-made ending to the sentence.)*
 
-**The eldest son:**
-Well there you go.
+**The Elder Son :**
+There you go.
 
-**The youngest son:**
-Ok. Ok, it's a bit the same.
+**The Younger Son :**
+Okay. Okay, it's kind of the same.
 
-**The eldest son:**
-A little?
+**The Elder Son :**
+Kind of?
 
-**The youngest son:**
-Much the same.
+**The Younger Son :**
+Pretty much the same.
 
-*(The eldest goes back to washing, more relaxed, almost amused.)*
+*(The Elder Son starts washing again, more relaxed, almost amused.)*
 
-**The eldest son:**
-Note, I don't repair other people's things because I like the gesture. Dad likes the gesture. I just don't like leaving something unfinished behind. A wall that is not straight, a career that is not launched, that looks to me like a game not finished. I have to win it.
+**The Elder Son :**
+You know, I don't fix other people's stuff because I enjoy the act of fixing. Dad does. He likes the doing. I just don't like leaving something unfinished behind me. A crooked wall, a career that hasn't been launched — I see those as an unfinished game. I have to win it.
 
-**The youngest son:**
-Part.
+**The Younger Son :**
+A game.
 
-**The eldest son:**
-Yeah. I don't think I've ever repaired a wall for the wall's sake. I fixed it so I could say it was done, and done well, faster than anyone else would have done.
+**The Elder Son :**
+Yeah. I don't think I've ever fixed a wall for the wall's sake. I fixed it so I could say it was done, and done properly, faster than anyone else could have done it.
 
-**The youngest son:**
-And what am I in this story? A wall not straight?
+**The Younger Son :**
+And me, in all this? What am I? A crooked wall?
 
-**The eldest son:**
-A little, yeah. But a wall which, moreover, refuses to say whether it wants to be straightened. It drives me crazy.
+**The Elder Son :**
+A little, yeah. But a wall that also refuses to say whether it wants to be straightened. That drives me crazy.
 
-**The youngest son:**
-This is the first time you've explained something about me that makes sense.
+**The Younger Son :**
+That's the first time you've ever explained something about me that actually makes sense.
 
-**The eldest son:**
-I have my days.
+**The Elder Son :**
+I have my moments.
 
-**The youngest son:**
-So tell me. My professional life, what do I do?
+**The Younger Son :**
+Then tell me. What should I do with my professional life?
 
-**The eldest son:**
+**The Elder Son :**
 No idea.
 
-**The youngest son:**
-You just gave me a speech and you don't know how to answer the question?
+**The Younger Son :**
+You just gave me this whole speech and you don't know how to answer the question?
 
-**The eldest son:**
-It's your life. Get by.
-But I'm going to tell you something that Monsieur doesn't even see.
-You too want it to be finished and straight before you even begin.
-Except you're not there to win.
-This is so as not to lose.
+**The Elder Son :**
+It's your life. Figure it out. But I'll tell you something that Monsieur doesn't even see. You want everything to be finished and straight before you've even started. Except you don't do it to win. You do it so you won't lose.
 
-*(He hands him a poorly washed plate without another word. The younger boy takes it, holds it in his hands for a moment, without wiping it.)*
+*(He hands him a poorly washed plate without another word. The Younger Son takes it and holds it for a moment without drying it.)*
 
-**The youngest son:**
+**The Younger Son :**
 That's new, coming from you.
 
-**The eldest son:**
-What then.
+**The Elder Son :**
+What is?
 
-**The youngest son:**
-Look at this plate. Neither do nor to do! Something not finished.
+**The Younger Son :**
+Look at this plate. Not done, not even properly started! Just something unfinished.
 
-**The eldest son:**
-Yeah, good. All you have to do is wash it again and show that you've won!
+**The Elder Son :**
+Yeah, well. You might as well wash it again and show me you've won!
 
-*(The younger child throws the wet cloth in his face, laughing, and returns to finish the dishes — this time with something settled, lighter, in between.)*
+*(The Younger Son throws the wet dish towel in his face, laughing, and goes back to finish the dishes — this time with something settled, something lighter, between them.)*

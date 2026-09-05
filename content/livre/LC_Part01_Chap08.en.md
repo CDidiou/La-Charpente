@@ -1,5 +1,5 @@
 ---
-title: "*(Propagation)* One More Candle"
+title: "(Propagation) One More Candle"
 subtitle: "The Foundation"
 date: 2026-08-17
 version: 1.0
@@ -8,7 +8,7 @@ weight: 211
 ---
 *(The Mother enters the care home, followed by her two sons. She is carrying a small parcel wrapped in gift paper.)*
 
-**The Eldest Son :**
+**The Elder Son :**
 Do you know where she is?
 
 **The Mother :**
@@ -91,19 +91,19 @@ I know. But she can wait another two minutes.
 
 *(The care assistant walks away.)*
 
-**The Eldest Son :**
+**The Elder Son :**
 You’re not in a hurry?
 
 **The Mother :**
 Why would I be?
 
-**The Eldest Son :**
+**The Elder Son :**
 I don’t know. Usually you race through all this.
 
 **The Mother :**
 Usually I’m late.
 
-**The Youngest Son :**
+**The Younger Son :**
 And today?
 
 **The Mother :**
@@ -140,12 +140,12 @@ I do what I can.
 
 *(She stays for a few moments chatting with him. The two brothers wait a few steps away.)*
 
-**The Eldest Son :** *(to his brother)*
+**The Elder Son :** *(to his brother)*
 Good job we didn’t bring Grandma an ice-cream cake. It’d have melted by now!
 
 *(The Director of the care home joins the Mother and the resident. The conversation carries on. The two sons remain at a distance.)*
 
-**The Youngest Son :**
+**The Younger Son :**
 What is that cake, anyway?
 
 *(The Mother comes back to them.)*
@@ -166,76 +166,76 @@ Ah! There you are! And you’ve even brought me your mother!
 
 *(Later, in the car, in the care-home car park.)*
 
-**The Youngest Son :**
+**The Younger Son :**
 We were watching you earlier, in the corridors. It’s not new to us, you know. We’ve always seen you like that, with everyone, everywhere you go.
 
-**The Eldest Son :**
+**The Elder Son :**
 We grew up with that version of you. It was always part of the landscape.
 
 **The Mother :**
 What do you mean, boys?
 
-**The Youngest Son :**
+**The Younger Son :**
 It made us want to tell you something, both of us. Something we may never have put quite so clearly into words.
 
 **The Mother :**
 I’m listening.
 
-**The Youngest Son :**
+**The Younger Son :**
 We actually grew up with two versions of you. The one we’ve just seen in that corridor — all that energy you give to passing people, situations, projects. And the one we received at home, which never depended on anything.
 
-**The Eldest Son :**
+**The Elder Son :**
 You never loved us because we were useful. We never had to earn your presence, your attention, your love. It was simply there, all the time, without conditions.
 
 **The Mother :**
 That’s what I always wanted for you. For that to be the one thing you could count on, whatever happened.
 
-**The Youngest Son :**
+**The Younger Son :**
 And I think that’s exactly why we each grew up differently, with that same energy you put out everywhere. Because we received it from two different sides, at the same time.
 
 **The Mother :**
 Explain.
 
-**The Youngest Son :**
+**The Younger Son :**
 You know how to create strong bonds, quickly, with anyone. We watched you do it all through our childhood — with other parents, colleagues, neighbours. And he took exactly that talent. He knows how to bring a team together, get a project moving, make people want to follow him, in a matter of weeks. It’s your way of doing things, in his hands.
 
-**The Eldest Son :**
+**The Elder Son :**
 It’s true. I was never afraid of going towards people, of building something quickly with them. I owe you that, Mum. A real strength. I wouldn’t have had it if I hadn’t watched you do it, year after year.
 
 **The Mother :**
 And you?
 
-**The Youngest Son :**
+**The Younger Son :**
 I took the other side of the same gift. I watched you too, but through my own eyes, from further back. And what I saw was that those wonderful bonds you created everywhere had a rhythm: they appeared quickly, shone brightly, and then one day the circumstances changed, and they faded without drama. I learned to watch that rhythm very closely. It gave me an eye, I think, for guessing what will last and what won’t.
 
 **The Mother :**
 A kind of caution.
 
-**The Youngest Son :**
+**The Younger Son :**
 More than that, actually. A real skill. I can read people, sense how solid a bond is before it’s ever put to the test. I’d never have developed it if, throughout my childhood, I hadn’t had the best possible example right in front of me, showing me how a bond is built and how it closes.
 
 **The Mother :**
 I’d never thought that part of me could be received as a gift.
 
-**The Eldest Son :**
+**The Elder Son :**
 It is one, Mum. Truly. I took the momentum. He took the discernment. Between us, we ended up receiving the whole of you.
 
-**The Youngest Son :**
+**The Younger Son :**
 And the foundation underneath all of it is that neither of us, not for a moment, ever had to wonder whether your love would hold. That foundation is what allowed each of us to take a piece of your energy and make something personal out of it, without being afraid.
 
 **The Mother :**
 You’re giving me quite a gift yourselves, the two of you, by telling me that.
 
-**The Eldest Son :**
+**The Elder Son :**
 We wanted you to know.
 
-**The Youngest Son :**
+**The Younger Son :**
 Because we’ve just seen, in those corridors, everything you know how to give to other people, without counting the cost. And we wanted you to know that we understood, a long time ago, how lucky we were to receive the unlimited version of that same gift.
 
 **The Mother :**
 Thank you. Truly.
 
-**The Eldest Son :**
+**The Elder Son :**
 Shall we go home?
 
 **The Mother :**

@@ -1,5 +1,5 @@
 ---
-title: "*(Interferencias)* Los Nombres"
+title: "(Interferencias) Los Nombres"
 subtitle: "Lo Que Firmamos"
 date: 2026-08-17
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "*(Propagation)* My Staircase"
+title: "(Propagation) My Staircase"
 subtitle: "Making Things Hold"
 date: 2026-08-17
 version: 1.0
@@ -17,13 +17,13 @@ Look at this, boys! Your father’s redrawn the whole thing on his drawing board
 **The Father :**
 Drawing, making plans — that’s not work to me.
 
-**The Eldest Son :** *(glancing at the plans)*
+**The Elder Son :** *(glancing at the plans)*
 You’ve moved the staircase.
 
 **The Father :**
 I’d rather have it opening onto the kitchen than the entrance hall.
 
-**The Youngest Son :**
+**The Younger Son :**
 The eye of a man who knows his trade.
 
 *(They sit down. The Father serves, fills their glasses, pushes the dish towards each of them.)*
@@ -31,7 +31,7 @@ The eye of a man who knows his trade.
 **The Mother :**
 So, what news have you brought us? How are my man of action and my man of vision?
 
-**The Eldest Son :**
+**The Elder Son :**
 You’re teasing us, Mum, ever since we gave ourselves those qualities, thanks to you.
 
 **The Mother :**
@@ -40,19 +40,19 @@ Of course not! I’m only teasing. You made a lovely declaration that day. And I
 **The Father :**
 Yes, they gave you a lovely present. But what about me, then…? They’ve left me by the roadside!
 
-**The Youngest Son :**
+**The Younger Son :**
 Ah! You want a present too, do you? Well, here you are! Since you’re sitting down, I’m ready for a proper speech.
 
 **The Father :** *(holding out a glass of rosé)*
 That doesn’t surprise me. Here, have a drink and make your announcement. I’m listening, but don’t take too long — we’re all thirsty!
 
-**The Youngest Son :**
+**The Younger Son :**
 I’ll keep it brief, then. Dad, you never chase after anything. You’re always already there, getting things ready, thinking ahead, keeping the threads together. Mum makes sparks. You make things hold.
 
 **The Father :**
 Right, speech over. Cheers, then! To you all! Thank you, but let me tell you something: I don’t hold anything together. I just get on with things.
 
-**The Eldest Son :**
+**The Elder Son :**
 All right, you get on with things. But isn’t that much the same thing?
 
 **The Father :**
@@ -76,7 +76,7 @@ My grandmother?
 **The Father :**
 Yes. It’s more than thirty years now since she died.
 
-**The Youngest Son :**
+**The Younger Son :**
 I remember those summers so well.
 
 **The Father :**
@@ -96,19 +96,19 @@ Not towards you, exactly. But I wanted it said, one day, in front of the boys, w
 
 *(A silence. The Father turns his glass between his fingers.)*
 
-**The Youngest Son :**
+**The Younger Son :**
 A knot, really, is never made of a single thread. You always need at least two, crossing one another, each resisting the other a little. It’s that crossing that holds, not a single thread, however strong it may be.
 
-**The Eldest Son :**
+**The Elder Son :**
 And the two of you, with such different ways of holding a connection — one weaving, the other reinforcing — you’ve built some pretty solid networks, haven’t you? Look at the result. The four of us are sitting here on a Sunday, with rosé and roof-frame plans on the table.
 
-**The Youngest Son :**
+**The Younger Son :**
 We’re living proof that it held, whatever happened with the cousins. Your love and generosity have woven a magnificent structure that gives us an unconditional foundation.
 
 **The Father :** *(a smile returning, still slightly crooked)*
 That’s a clever way of closing the subject, boys.
 
-**The Eldest Son :**
+**The Elder Son :**
 We learnt from the best school.
 
 **The Mother :**
@@ -123,16 +123,16 @@ Perhaps not a debt. But a proper answer, yes. The connection you carried on your
 **The Father :**
 I love you too. The house stands because of you. You have the energy. And a fine sensitivity. I’m happy with you.
 
-**The Youngest Son :**
+**The Younger Son :**
 The house, the house — I’d say houses! Because there’s a link between past, present and future that runs physically through houses. I’m thinking of your childhood home, Dad.
 
 **The Father :**
 Exactly. Everyone talks about the project, the idea, the symbol. I’ve already got the plans. And I’m going to call in a tradesman. Yes, a tradesman. Because I’ve given enough. I’m not starting another round of building work with your mother. Enough is enough. We’ll use tradesmen. And you lot can pay the bill. You’ll have the rental income — you can sort yourselves out!
 
-**The Eldest Son :**
+**The Elder Son :**
 Well said, Dad. Let’s get moving! I’m ready.
 
-**The Youngest Son :**
+**The Younger Son :**
 Yes. Let’s move forward. We’ve got a roof frame to start. We start with the roof, because the story began with the roof frame!
 
 **The Mother :**

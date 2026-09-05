@@ -1,103 +1,114 @@
 ---
-title: "(Réflexion) Les chaises"
-subtitle: "Ce qu'on n'a pas à porter"
+title: "(Réflexion) Les crevettes"
+subtitle: "Ce qu'on fait sans y penser"
 date: 2026-08-17
 version: 1.0
 description: "À l’approche du repas familial, le père apprend à lâcher le contrôle tandis que son fils aîné reprend naturellement son rôle de celui qui veille sur les liens, avant de découvrir avec humour que personne n’a réellement besoin d’être orchestré."
 weight: 220
 ---
 
-*(Un dimanche, avant l'arrivée de toute la famille pour un repas. Le père va et vient dans le salon, déplace une chaise, la repose, compte les couverts une troisième fois, jette un œil à la liste musicale, vérifie que le melon est bien découpé en cubes, revient sur les chaises.)*
+Dimanche matin. Le déjeuner approche.
+Le Père coupe un melon sur le plan de travail. L’Aîné entre dans la cuisine, regarde un instant autour de lui.
 
-**Le fils aîné :**
-Papa. Assieds-toi deux minutes.
+**Le Fils Aîné :**
+Je vais le faire.
 
-**Le père :**
-J'ai encore les chaises à finir, et faut que je voie si on a assez de bouteilles, et...
+Il prend le couteau.
+Le Père lui laisse la place. Il va tranquillement vers les crevettes et commence à les décortiquer.
 
-**Le fils aîné :**
-Je m'occupe des chaises.
+**Le Père :**
+J’ai eu de la chance, hier, avec Marcel. On a remonté deux goujons!
 
-**Le père :**
-Non, laisse, je sais où je veux les mettre.
+**Le Fils Aîné :**
+Ah oui ?
 
-**Le fils aîné :**
-Alors dis-moi où, et moi je les mets. Toi tu t'assois.
+**Le Père :**
+Oui. Mais il faisait frais quand même au bord du lac.
 
-*(Le père hésite, regarde la pièce comme s'il allait rater quelque chose en s'arrêtant.)*
+**Le Fils Aîné :**
+Oui, c'est à cause du vent.
 
-**Le père :**
-Si personne s'occupe de rien, ça va être n'importe quoi.
+L’Aîné termine le melon. Il jette un coup d’œil aux crevettes.
+Le Père continue à parler en travaillant.
 
-**Le fils aîné :**
-Je ne m'occupe pas de rien, justement, papa. Je m'occupe des chaises. C'est tout ce qu'il y a à faire, là, maintenant.
+**Le Père :**
+On pensait rentrer vers midi, finalement on est restés presque deux heures de plus.
 
-*(Il commence à déplacer les chaises lui-même, sans attendre de réponse. Le père le regarde faire, presque désœuvré, ne sachant plus quoi surveiller.)*
+**Le Fils Aîné :**
+C'est un jeu de patience, la pêche. Tu devrais reprendre le vélo, et faire des courses, en catégorie Sénior.
 
-**Le père :**
-Tu les mets pas comme je voulais. Regarde, celle-là, elle est pas alignée avec la table.
+Le Père pose les crevettes dans un plat.
 
-**Le fils aîné :**
-Elles sont là. Les gens vont s'asseoir dessus, papa, pas les mesurer.
+**Le Père :**
+Des courses! Tu n'y penses pas!
+Tiens! Il n’y a presque plus de café.
 
-**Le père :**
-Ça prend deux secondes de plus de bien faire.
+**Le Fils Aîné :**
+J’y vais.
 
-**Le fils aîné :**
- Et alors ? Il n'y a pas de concours d'alignement de chaises, à ce que je sache.
+Il disparaît aussitôt.
+Le Père reprend le découpage du melon laissé en plan.
 
-*(Le père s'approche quand même, redresse la chaise d'un geste précis, presque sans y penser — un réflexe ancien. L'aîné le regarde faire, un peu pris de court.)*
+**Le Fils Aîné :**
+Laisse. Le melon, je m’en occupe. Fais tes crevettes, toi.
 
-**Le père :**
-T'as jamais aimé le geste pour le geste. T'aimes le résultat, la ligne d'arrivée. Moi j'aime le moment où je le fais.
+Le Père lui laisse la place et repredn le décorticage des crevettes.
 
-**Le fils aîné :**
-C'est vrai. Toi tu redresses une chaise comme si c'était important qu'elle soit droite. Moi je la pose juste pour qu'on passe à autre chose.
-T'es meilleur que moi avec tes mains. Meilleur que moi, et meilleur que mon frère. Enfin s'il essayait d'utiliser ses mains, bien sûr !
+**Le Père :**
+On était tellement content, Marcel a pris des photos! Tu veux les voir?
 
-**Le père :**
-C'est facile pour toi. T'as jamais eu peur qu'un repas de famille tombe à plat.
+**Le Fils Aîné :**
+Oui, oui. Mais tout à l'heure!
 
-**Le fils aîné :**
-Ça tombe jamais à plat. Parce que t'es là. Pas parce que t'as tout réglé au millimètre avant que les gens arrivent.
+**Le Père :**
+Ah! Il faudrait aussi sortir le vin.
 
-*(Le père s'assoit, à contrecœur, les mains encore agitées, cherchant quoi faire d'elles.)*
+**Le Fils Aîné :**
+Je m’en occupe.
 
-**Le père :**
-Ça me fait bizarre.
+**Le Père :**
+Prends-en deux.
 
-*(Un silence. Le père regarde la pièce vide encore quelques minutes, les chaises pas tout à fait comme il les aurait mises, et pourtant la pièce tient debout quand même.)*
+L’Aîné descend.
+Le Père reste dans la cuisine.
+Quelques instants plus tard, l’Aîné remonte avec les bouteilles.
+Le Père en le voyant se retourne vers le placard pour saisir des verres à vin.
+L’Aîné le voit. Trop tard.
+Le Père les a déjà pris.
+La Mère entre dans la cuisine. Elle regarde le melon, les crevettes, le café, les bouteilles.
+Tout est prêt.
 
-**Le fils aîné :**
-Tu sais que tu m'as donné cette capacité à faire attention aux liens. J'y fais attention, mais ça ne m'inquiète pas.
+**La Mère :**
+Bon. Maintenant, tu t’assieds. Moi, je vais me préparer
 
-*(Le père le regarde, touché plus qu'il ne le montre.)*
+Le Père s’assoit.
+L’Aîné reste debout quelques instant.
 
-**Le père :**
-Et si je ne réchauffe pas l'ambiance, ce midi, qu'est-ce qui se passe, hein ?
+**Le Fils Aîné :** *à lui-même*
+J’ai compris.
 
-**Le fils aîné :**
-Alors on mangera en silence, et ce sera pas la fin du monde. Mais je te parie que non.
+Il se dirige vers l’entrée.
+Sa femme, dans le canapé, le regarde l'air étonné.
 
-*(On entend une voiture arriver dehors, des voix, une porte qui claque. Le père se lève, un réflexe, prêt à repartir dans l'orchestration.)*
+**La femme de l’aîné :**
+La dernière fois, le vin n’était pas assez frais.
 
-**Le fils aîné :**
-Papa.
+L’Aîné se retourne aussitôt.
 
-**Le père :**
-Quoi.
+**Le Fils Aîné :**
+Exact. J'y vais.
 
-**Le fils aîné :**
-Laisse-les arriver. T'as pas besoin d'aller les chercher à la porte.
+Il repart en cuisine, et saisit les bouteilles.
+La sonnette retentit.
+Il se fige.
+La Mère est déjà dans l’entrée.
 
-*(Le père se rassoit, à moitié, entre deux, et attend — pour la première fois de la matinée, sans rien faire d'autre qu'attendre. L'aîné, en passant derrière lui pour aller ouvrir, lui met une main sur l'épaule, appuie une seconde, un peu fort comme toujours, avant de s'écarter.)*
+**La Mère :**
+Laisse, j’ouvre.
 
-**Le fils aîné :**
-Reste assis, papa. Je m'occupe d'accueillir tout le monde.
-
-*(Il sort d'un pas décidé, satisfait de lui-même. Mais sur le perron, sa mère et sa femme sont déjà là, bras dessus bras dessous, en train de rire avec les premiers arrivants, visiblement installées là depuis un moment.)*
-
-**La mère :** *(sans même se retourner tout à fait)*
-Merci, mon chéri, c'est adorable. Mais tu seras beaucoup plus utile à l'intérieur, à aider ton père pour les derniers arrangements.
-
-*(L'aîné reste planté une seconde, la bouche encore entrouverte sur une phrase d'accueil qu'il n'aura jamais l'occasion de prononcer. Il hausse les épaules et repart vers la maison. Une fois qu'il a disparu à l'intérieur, la mère et la femme de l'aîné échangent un regard, un sourire complice, presque un clin d'œil, avant de se retourner ensemble vers les invités qui montent l'allée.)*
+L’Aîné regarde les bouteilles qu’il tient encore dans les mains.
+Puis la porte.
+Puis les bouteilles.
+Il soupire et retourne dans la cuisine.
+La Mère et sa femme se regardent.
+Elles sourient.

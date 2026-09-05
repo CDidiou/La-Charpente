@@ -1,5 +1,5 @@
 ---
-title: "*(Propagation)* The Tangle"
+title: "(Propagation) The Tangle"
 subtitle: "Opening the Door Again"
 date: 2026-08-17
 version: 1.0
@@ -18,7 +18,7 @@ Yes. And I want us to carry on, just the two of us, with what we started with th
 What are you thinking about?
 
 **The Mother :**
-My cousin and my cousins? All of that, really. You know the facts as well as I do. But I don’t think we’ve ever actually told each other how we each experienced it.
+My cousin and her brother? All of that, really. You know the facts as well as I do. But I don’t think we’ve ever actually told each other how we each experienced it.
 
 **The Father :**
 That’s true. We both know everything. We’ve just never put it into words between us.
@@ -36,7 +36,7 @@ What I may never have properly told you is what it meant to her, as a little gir
 And where do you think I grew up? You told me that a long time ago. What I hadn’t understood was how much it still weighed on you when everything came to a head over the inheritance.
 
 **The Mother :**
-Exactly. That’s where it tipped. Her sister had already been dead for years. What remained were my cousin and my cousin, to sort out the inheritance with my mother. My male cousin lived far away and was detached from the whole thing. But my female cousin reopened something without meaning to.
+Exactly. That’s where it tipped. Her sister had already been dead for years. What remained were my cousin and her elder brother, to sort out the inheritance with my mother. My male cousin lived far away and was detached from the whole thing. But her sister reopened something without meaning to.
 
 **The Father :**
 I know. I’d even say she had occupied the same place as your mother, only a generation later.
@@ -111,7 +111,7 @@ Yes, you’re right. The weight of the past never stops by itself. It keeps trav
 Like us, with our two boys. One charges ahead, the other watches. We’ve passed on our strengths to them, no doubt. But perhaps, without meaning to, we’ve passed on a little of all this underneath it too.
 
 **The Father :**
-Then let’s call them both. Your cousin and your cousin.
+Then let’s call them both. Your cousin and her brother.
 
 **The Mother :**
 Both of them?

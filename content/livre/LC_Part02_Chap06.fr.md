@@ -1,73 +1,172 @@
 ---
-title: "(Réflexion) Le silence"
+title: "(Réflexion) Les vis"
 subtitle: "Ce qui tient sans qu'on le tienne"
 date: 2026-08-17
 version: 1.0
 description: "Face au silence qui suit le repas, le fils cadet apprend à son père qu’il n’a pas toujours besoin d’intervenir pour que les liens tiennent, et qu’il peut simplement être présent pendant que tout tient tout seul."
 weight: 221
 ---
+Plus tard, le repas est fini. Tout le monde est passé au salon.
+Le Père est assis avec les voisins. Son ami raconte quelque chose à propos de la pêche. Les enfants jouent par terre. La Mère parle avec des cousins.
 
-*(Plus tard, le repas est fini, tout le monde est passé au salon. Un silence s'installe entre les conversations — pas gênant, juste un creux naturel. Le père se lève, mal à l'aise, cherche déjà une idée pour relancer quelque chose. Le cadet le retient par la manche, discrètement.)*
+Le Cadet est assis à l’écart.
 
-**Le fils cadet :**
-Assieds-toi.
+Il regarde son père un instant.
 
-**Le père :**
-Il se passe plus rien, là. Je vais chercher un digestif.
+**Le Fils Cadet :**
+Papa, tu l’as encore ?
 
-**Le fils cadet :**
-Il se passe du silence. C'est pas la même chose que rien.
+**Le Père :**
+Quoi ?
 
-**Le père :**
-Comment ça.
+**Le Fils Cadet :**
+La vieille Game Boy.
 
-**Le fils cadet :**
-Regarde-les. Personne a l'air mal. Ton copain somnole, le petit couple de voisins, ils se tiennent la main sans se parler, les enfants jouent tout seuls par terre. Personne attend que tu fasses quelque chose.
+**Le Père :**
+Dans le buffet, je crois.
 
-*(Le père se rassoit, pas totalement convaincu, les yeux quand même en train de vérifier.)*
+Le Cadet se lève.
+Il revient quelques minutes plus tard avec la Game Boy.
+Il s’installe à la table basse et commence à la démonter.
 
-**Le père :**
-J'ai toujours l'impression que si je fais rien, on ne va plus s'estimer.
+Autour de lui, les conversations continuent.
 
-**Le fils cadet :**
-Je sais. Mais regarde ce qui vient de se passer, là, à l'instant. Personne s'est délité. Le silence a juste duré, et rien n'est tombé.
+**L’ami du Père :**
+Moi, je te dis qu’elle était au moins comme ça.
 
-**Le père :**
-Peut-être que ça tient parce que je suis là quand même, prêt à intervenir si besoin.
+**La Mère :**
+Tu reprends un peu de café ?
 
-**Le fils cadet :**
-Oui, peut-être. Il n'y a qu'à attendre pour vérifier alors !.
+**Une voisine :**
+Quand on l'a vu qu'il repartait, il était dans une de ces colères!
 
-*(Le père le regarde, presque piqué.)*
+Le Cadet dévisse la coque.
+Une petite vis tombe sur la table.
+Il la récupère.
 
-**Le père :**
-Tu crois que je sais pas m'arrêter.
+**Le Père :**
+Tu vas la réparer ?
 
-**Le fils cadet :**
-Je crois que t'as jamais testé, pour vérifier si ça s'écroule sans tes dons. Parce que tu t'arrêtes jamais assez longtemps pour voir.
+**Le Fils Cadet :**
+Je sais pas.
 
-*(Un silence entre eux, cette fois. Le père observe la pièce à nouveau, mais différemment — pas pour évaluer si ça tient, juste pour regarder.)*
+Il enlève une autre vis.
+La coque s’ouvre.
+Il pose les deux parties devant lui.
+Autour de lui, les conversations reprennent.
 
-**Le père :**
-C'est étrange de juste regarder.
+**Un voisin :**
+On devrait refaire ça cet été.
 
-**Le fils cadet :**
-Écoutons le bruit des liens. Tu sais si bien faire. Mais écoutons tout. Pas ce qui semble manquer. Juste ce qu'il y a.
+**La Mère :**
+Oui, pourquoi pas.
 
-*(Le père reste silencieux, regarde vraiment, cette fois : son copain qui dort, le couple regarde les enfants au sol, le cadet à côté de lui.)*
+**Une enfant :**
+Maman, regarde !
 
-**Le père :**
-Y a rien qui manque, en fait.
+Le Cadet retourne la carte électronique.
+Un petit fil dépasse.
+Il cherche un tournevis.
+Le Père se lève.
 
-**Le fils cadet :**
-Voilà.
+**Le Père :**
+Bon, je sers le café !
 
-**Le père :**
-Alors à quoi je sers ?
+Les conversations se déplacent avec lui.
+Les chaises bougent.
+Tout le monde se rapproche de la table.
+Le Cadet ne bouge pas.
+Le Père revient avec les tasses.
+Il s’arrête devant la table basse.
+Une carte électronique occupe la place où il veut poser une tasse.
+Il la déplace doucement.
+Il pose la tasse.
+Puis le sucre.
+Il n’y a plus de place.
+Il déplace deux tournevis.
+Le Cadet prend celui dont il a besoin sans lever les yeux.
+Le Père pose les chocolats.
+Une petite vis roule.
+Il la rattrape avant qu’elle ne tombe.
 
-*(Le cadet ne répond pas tout de suite — pas de théorie prête, pour une fois, juste le temps de trouver quelque chose de vrai.)*
+**Le Père :**
+Attention.
 
-**Le fils cadet :**
-Tu sers pas à faire tenir. Tu sers à être là pendant que ça tient. C'est pas rien, ça, papa. C'est même plus rare que l'autre truc.
+**Le Fils Cadet :**
+Oui.
 
-*(Le père ne dit rien, mais quelque chose dans ses épaules se relâche, un peu. Le cadet lui masse cette épaule douloureuse une seconde, et se tait — pour de vrai, cette fois, sans rien préparer à dire ensuite.)*
+Le Père regarde la table.
+Il déplace encore quelques pièces.
+Une tasse trouve enfin sa place.
+Les conversations continuent autour d’eux.
+
+**Une voisine :**
+Cette année, impossible de truover une réservation. Tout est pris d'assaut.
+
+**La Mère :**
+On pourrait en profiter pour aller en Bretagne.
+
+**L’ami du Père :**
+Moi, je peux m’en occuper.
+
+Le Cadet refixe les boutons du joystick dans la coque.
+Ou plutôt, il essaie.
+Le Père revient avec une autre tasse.
+Il cherche un endroit où la poser.
+Il soulève un fil.
+Puis une carte.
+Puis un tournevis.
+Il pose la tasse.
+Le Cadet continue.
+
+Sa femme vient s’asseoir près de lui.
+Elle regarde un moment la Game Boy.
+Puis la tasse du cadet.
+Elle la prend.
+Elle fait semblant de la boire.
+Le Cadet ne voit rien.
+
+Elle regarde la Mère.
+Un petit sourire.
+
+Elle prend ensuite la tasse du Cadet et la ramène à la cuisine.
+Le Cadet continue de travailler.
+
+**La femme du Cadet :**
+C’est bon. J’ai bu ton café.
+
+Il cherche quelque chose parmi les pièces.
+
+**Le Fils Cadet :**
+Ah.
+
+**Le Fils Cadet :**
+Tu l’as pas vu, le petit tournevis ?
+
+Il lève les yeux.
+La tasse n’est plus là.
+
+**Le Fils Cadet :**
+Et mon café ?
+
+Un silence. Tout le monde le regarde. Il ne comprend pas.
+
+**La femme du Cadet :**
+Je ne sais pas. Demande à ta maman!
+
+La Mère arrive avec une tasse.
+Elle la pose juste devant lui.
+Le Cadet lève les yeux.
+
+**Le Fils Cadet :**
+Ah. Merci.
+
+Il reprend son tournevis.
+Un silence.
+Puis tout le monde éclate de rire.
+Le Cadet regarde autour de lui, surpris.
+Il regarde sa tasse.
+Puis la Game Boy.
+
+**Le Fils Cadet :**
+J’avais presque fini.
