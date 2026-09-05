@@ -1,33 +1,45 @@
 ---
-title: "Twist stud"
+title: "Plot Twist"
 subtitle: "Return the pen"
 date: 2026-08-17
 version: 1.0
 description: "The narrator reveals that the family he has just described is a construction of his own view, then decides to give voice to others to stop locking them into the role he had assigned to them."
 weight: 215
 ---
-## What I didn't tell you at the beginning
+## What I Didn’t Tell You at the Beginning
 
-I need to tell you something now, before we go any further.
+There is something I need to tell you now, before we go any further.
 
-This family that you have just read about — my father who runs the table, my mother who orders, my brother who rushes, me who observes — I wrote it. Not just told: constructed. The almost too perfectly lucid dialogues that you have read so far are not conversations that took place as they were. These were conversations that I had become, over time, capable of imagining. **You didn't see my family for what it was. You saw it as I was capable of thinking it.** I even wanted to tell it to you by making the old book that Dad found, when he was little, in the chest in the attic, a sort of family legend. This family myth served as a foundation for my own inner narrative. But don't lock me in a box.
+The family you have just read about — my father holding the table, my mother giving the orders, my brother charging ahead, me watching — I wrote them. I didn’t merely tell their story: I constructed it. The almost unnaturally lucid dialogues you have read so far are not conversations that took place exactly as you have read them. They are conversations I had, over time, become capable of imagining. You have not seen my family as it was.
 
-I'm not telling you this to make amends. I'm telling you this because if I don't say it now, everything that follows will continue to seem like truth to you, even though it's just my look at her—a trained look, old, and not at all innocent.
+You have seen it as I was capable of thinking about it.
+
+I even wanted to tell it by turning the old book Dad found as a boy in the chest in the attic into a kind of family legend. That family myth became the foundation for my own inner narrative. But don’t lock me in a chest as well.
+
+I am not telling you this to ask for forgiveness. I am telling you because if I don’t tell you now, everything that follows will continue to seem like truth, when it is only my view of it — an old, practised view, and by no means an innocent one.
 
 ---
 
-## What I do with it, now that I know it
+## What I Do With It Now That I Know
 
-There you go. I told you what I had to tell you. It remains to be seen what I do with it.
+There. I’ve told you what I needed to tell you. Now the question is what I do with it.
 
-What I wrote is not reality. It was a projection that I needed — a need to understand, a need not to sink, a need for there to be meaning somewhere. That doesn't make it fake. It simply makes it mine, before being theirs.
+What I wrote is not reality. It is a projection I needed — needed to understand, needed not to drown, needed there to be some kind of meaning somewhere. That does not make it false. It simply makes it mine, before it is theirs.
 
-And I now know what telling someone off means. It is never a neutral gesture. It’s a power grab — gentle, well-intentioned, but a power grab nonetheless. Whoever writes the story decides what it means. I did it to my father, to my mother, to my brother, before I even realized it.
+And I know now what it means to tell someone’s story. It is never a neutral act. It is an act of power — gentle, well-intentioned, but an act of power all the same. Whoever writes the story decides what it means. I did that to my father, my mother, my brother, before I even realised I was doing it.
 
-So I see only one thing to do with the power we have taken without wanting to: put it down by offering it. Not keeping it to myself, not silently apologizing — returning it, literally, to those to whom it belonged. Give them the pen. Let them also write what I thought I could write alone.
+So I can see only one thing to do with power taken without meaning to take it: lay it down by giving it away. Not keep it for myself, not apologise in silence — return it, literally, to those it belonged to. Give them the pen. Let them write, too, what I thought I could write alone.
 
-There is an image that helps me see what each of us was in this story. A plant needs a base to stand upright, a soil to nourish itself, an interior movement to circulate what it absorbs, and light from outside to transform all of this into something living. My father was the foundation. My mother, the soil. My brother went outside to look for the light, where neither of us would have gone to look for it. And I, with what I have just done, with these words, I have perhaps provided the movement - the thing that circulates, that prevents everything else from remaining frozen. None of this would have grown out of order. We needed the base and the soil first, then the light, and the movement last. We had this chance, I think, without having chosen it.
+There is an image that helps me see what each of us has been in this story. A plant needs a base to stand upright, soil to feed it, an inner movement to circulate what it takes in, and light from outside to turn all of that into something alive. My father was the foundation. My mother, the soil. My brother went looking for the light outside, where neither of us would have thought to look.
 
-The real work now is not to write a better version. It is to stop confusing myself with the function that I have given myself — the one that understands, that explains, that places everyone in a box so that I no longer have to directly feel what is happening there. I can understand. I no longer need to be the one who understands.
+And I, through what I have just done, through these words, may have provided the movement — the thing that makes everything circulate, that stops the rest from remaining fixed. None of it would have grown in disorder. We needed the foundation and the soil first, then the light, and the movement last. We were lucky enough to have it happen that way, I think, without ever choosing it.
 
-I don't know yet if I will succeed. I have no method to suggest, no three-step plan. Just this: I'm trying to see now. No explaining. See.
+The real work now is not to write a better version. It is to stop confusing myself with the role I gave myself — the one who understands, who explains, who puts everyone into a category so I no longer have to feel directly what is happening inside it. I can understand. I no longer need to be the one who understands.
+
+I don’t yet know whether I’ll manage it. I have no method to offer, no three-step plan.
+
+Just this: I am trying to see, now.
+
+Not explain.
+
+See.

@@ -1,161 +1,163 @@
 ---
-title: "(Reflection) Steaks with pepper"
-subtitle: "What you see in my place"
+title: "*(Reflection)* Pepper Steaks"
+subtitle: "What You See in My Place"
 date: 2026-08-17
 version: 1.0
 description: "By cooking together, the two brothers confront the projection that the younger one makes of his older brother, with what the latter really feels, discovering that they have both sometimes confused their roles with their real choices."
 weight: 216
 ---
-*(The kitchen smells of burnt pepper and browned butter. It's Christmas, everyone is in the living room except the two brothers. The eldest took the pan before anyone else got near it — as always.)*
+*(The kitchen smells of burnt pepper and browned butter. It’s Christmas. Everyone is in the sitting room except the two brothers. The Eldest Son has taken the frying pan before anyone else could get near it — as always.)*
 
-**The eldest son:**
-Are you watching, or are you helping me?
+**The Eldest Son :**
+Are you watching, or are you helping?
 
-**The youngest son:**
-I look. It's more efficient. You do it, I comment.
+**The Youngest Son :**
+I’m watching. It’s more efficient. You do, I comment.
 
-**The eldest son:**
-Yeah, I noticed that.
+**The Eldest Son :**
+Yeah. I’d noticed.
 
-*(He turns the steaks. One of the two sticks, resists, pulls out of the pan poorly — one end remains stuck, burnt.)*
+*(He turns the steaks. One of them catches, sticks, tears badly away from the pan — a piece stays behind, burnt.)*
 
-**The eldest son:**
-Shit.
+**The Eldest Son :**
+Fuck.
 
-**The youngest son:** *(smiling)*
-The champion misses a steak. Historical.
+**The Youngest Son :** *(smiling)*
+The champion ruins a steak. Historic.
 
-**The eldest son:**
+**The Eldest Son :**
 Shut up for two seconds.
 
-*(He scratches the bottom of the pan, annoyed, without saying anything. The younger boy watches him, still a little amused, but something in his brother's silence cools him.)*
+*(He scrapes the bottom of the pan, irritated, saying nothing. The Youngest Son watches him, still faintly amused, but something in his brother’s silence sobers him.)*
 
-**The youngest son:**
-It's okay, it's just a steak.
+**The Youngest Son :**
+It’s fine. It’s only a steak.
 
-**The eldest son:**
-I know it's just a steak.
+**The Eldest Son :**
+I know it’s only a steak.
 
-**The youngest son:**
-So why are you making that face?
+**The Youngest Son :**
+Then why are you pulling that face?
 
-**The eldest son:**
-Because you've been watching me cook for twenty years and telling yourself things in your head, and I know very well what you're saying to yourself.
+**The Eldest Son :**
+Because you’ve spent twenty years watching me cook, thinking things in your head, and I know perfectly well what you’re thinking.
 
-**The youngest son:**
-Oh yeah? Tell me.
+**The Youngest Son :**
+Oh yeah? Go on.
 
-**The eldest son:**
-Something like: “He needs to succeed at this, it’s his thing, his way of counting, I’m not going to go on his land, I’m going to leave him.” » You have your own little theory for everything, eh.
+**The Eldest Son :**
+Something like: “He needs to succeed at this, it’s his thing, his way of counting, I’m not going to step onto his ground, I’ll leave him to it.” You’ve got a nice neat little theory for everything, haven’t you?
 
-*(The cadet no longer laughs.)*
+*(The Youngest Son stops laughing.)*
 
-**The youngest son:**
-It's not false.
+**The Youngest Son :**
+It’s not wrong.
 
-**The eldest son:**
-No, it's not false, it's just that you never asked if it was true. You just decided, and you've been serving it to me since you were like twelve.
+**The Eldest Son :**
+No, it’s not wrong. It’s just that you never asked whether it was true. You just decided, and you’ve been serving it up to me since you were, what, twelve?
 
-**The youngest son:**
-You're not going to tell me that you don't like people watching you do it.
+**The Youngest Son :**
+You’re not going to tell me you don’t like being watched.
 
-**The eldest son:**
-Yes. I love being looked at, even if I say otherwise. But it's not the love of the gesture, for me. Dad could make this steak all by himself in an empty kitchen, just for the pleasure of having it done well. I need to know that I gained something at the end. Thirty years without missing one is quite a score. It's not a caress.
+**The Eldest Son :**
+I do. I love being watched, even if I pretend otherwise. But it’s not the gesture I love, the way Dad does. Dad could make this steak alone in an empty kitchen, just for the pleasure of getting it right. I need to know I’ve won something at the end of it. Thirty years without ruining one is a score. It’s not a caress.
 
-*(He pushes the meat to the side, drier than he would like.)*
+*(He pushes the meat aside, more sharply than he intended.)*
 
-**The eldest son:**
-And you always do that. You look at something, and two minutes later you already have the complete explanation of why I'm doing it. Except that sometimes I don't know why I do it myself.
+**The Eldest Son :**
+And you always do this. You look at something, and two minutes later you’ve already got the complete explanation for why I’m doing it. Except sometimes I don’t know myself why I’m doing it.
 
-**The youngest son:** *(after a silence)*
-...
+**The Youngest Son :** *(after a silence)*
+…
 
-**The eldest son:**
-What.
+**The Eldest Son :**
+What?
 
-**The youngest son:**
-Nothing. I'm trying to think of something to answer and I don't have one.
+**The Youngest Son :**
+Nothing. I’m trying to think of something to say and I haven’t got one.
 
-**The eldest son:**
-Does that ever happen to you?
+**The Eldest Son :**
+That never happens to you, does it?
 
-**The youngest son:**
-No. Not in front of you anyway.
+**The Youngest Son :**
+Not in front of you, anyway.
 
-*(A different silence this time. The eldest lowers the heat a little.)*
+*(A different silence this time. The Eldest Son turns the heat down a little.)*
 
-**The eldest son:**
-Do you know what really pisses me off? It's not that you're watching me. It's because in your head I don't even really exist. You have a character, you call him by my first name, and you talk to him. I'm right next door.
+**The Eldest Son :**
+You know what gets on my nerves, actually? It’s not that you watch me. It’s that, in your head, I don’t really exist. You’ve got a character, you give him my name, and you talk to him. I’m just standing here beside him.
 
-**The youngest son:**
-It's a bit hard there.
+**The Youngest Son :**
+That’s a bit harsh.
 
-**The eldest son:**
-It might be hard, but look, right now: you haven't known what to say for two minutes. This is the first time since we walked into this kitchen that you've talked to me and not your idea of ​​me.
+**The Eldest Son :**
+Maybe it is. But look at you, right now: you haven’t known what to say for two minutes. It’s the first time since we came into this kitchen that you’ve talked to me, rather than to your idea of me.
 
-*(The cadet puts down his glass. He takes a while to respond.)*
+*(The Youngest Son puts down his glass. It takes him a while to answer.)*
 
-**The youngest son:**
-Ok. So tell me something I don't know. Why do you always do this, the steak, the bread, the low wall, everything — why is it always you.
+**The Youngest Son :**
+Okay. Then tell me something I don’t know. Why do you always do it? The steak, the bread, the little wall, everything — why is it always you?
 
-**The eldest son:**
-I don't know. Serious. At first they asked me, so I did it, and at some point I didn't know if I liked it or if I just had no more right not to know how to do it. It's not a strategy. It just stuck like steak there.
+**The Eldest Son :**
+I don’t know. Honestly. At first people asked me to do it, so I did, and at some point I stopped knowing whether I liked doing it or whether I’d simply lost the right not to know how. It’s not a strategy. It just stayed stuck, like that steak.
 
-**The youngest son:**
-This is the first thing you said to me tonight that I hadn't already written in my head before you said it.
+**The Youngest Son :**
+That’s the first thing you’ve said to me tonight that I hadn’t already written in my head before you said it.
 
-**The eldest son:**
+**The Eldest Son :**
 Welcome.
 
-*(He laughs, a little short, almost surprised to laugh.)*
+*(He laughs, briefly, almost surprised to hear himself laugh.)*
 
-**The youngest son:**
-Do you think that I also never chose, for the same reason? That it just stuck?
+**The Youngest Son :**
+Do you think I’ve never chosen either, for the same reason? That it just stayed stuck?
 
-**The eldest son:**
-I don't know. You, tell me. For once I'm the one asking.
+**The Eldest Son :**
+I don’t know. You tell me. For once, I’m the one asking.
 
-**The youngest son:**
-...I don't know either. It's weird not knowing.
+**The Youngest Son :**
+…I don’t know either. It’s strange not to know.
 
-**The eldest son:**
-Yeah. What does it do?
+**The Eldest Son :**
+Yeah. What’s it feel like?
 
-**The youngest son:**
-It's stupid.
+**The Youngest Son :**
+Feels stupid.
 
-*(They both laugh, for real this time, not the polite laughter of grand theories.)*
+*(They both laugh, properly this time, not the polite laughter of grand theories.)*
 
-**The eldest son:**
-Good. Move over, I'll get my steak.
+**The Eldest Son :**
+Right. Move. I’m rescuing my steak.
 
-*(He cuts the burnt piece, throws it away, serves the rest on a plate, pushes it towards his brother without a word.)*
+*(He cuts away the burnt piece, throws it out, puts the rest on a plate and pushes it towards his brother without a word.)*
 
-**The youngest son:**
-It's good nonetheless.
+**The Youngest Son :**
+It’s good anyway.
 
-**The eldest son:**
+**The Eldest Son :**
 I know.
 
-**The youngest son:**
-I think I've been looking at you for so long that I never noticed that you stopped being exactly who I was looking at.
+**The Youngest Son :**
+I think I’ve been watching you for so long that I never noticed you’d stopped being exactly the person I was watching.
 
-**The eldest son:**
-It took you thirty years, I mean.
+**The Eldest Son :**
+Took you thirty years, then.
 
-**The youngest son:**
-You never told me to stop.**The eldest son:**
-Because I didn't know how. You would have given me a theory about why I was telling you that.
+**The Youngest Son :**
+You never told me to stop.
 
-*(The cadet doesn't respond. He smiles, takes a bite, shrugs his shoulders - as if he accepted, for once, not having the last word.)*
+**The Eldest Son :**
+Because I didn’t know how. You’d have given me a theory about why I was telling you.
 
-**The eldest son:**
-Come on, let's serve before it cools. And this time you carry the plates.
+*(The Youngest Son says nothing. He smiles, takes a bite, shrugs — as though, for once, he is willing not to have the last word.)*
 
-**The youngest son:**
+**The Eldest Son :**
+Come on, let’s serve it before it gets cold. And this time you carry the plates.
+
+**The Youngest Son :**
 Okay.
 
-**The eldest son:**
-And you don't give me an analytical novel about pepper steaks in two years!
+**The Eldest Son :**
+And don’t turn it into an analytical novel about pepper steaks in two years!
 
-*(The younger one grabs the plates. As he passes behind him to leave the kitchen, the older one slaps him hard on the back – a little too hard, as always – without saying anything. Not a word. Just a slightly heavy hand.)*
+*(The Youngest Son picks up the plates. As he passes behind him on the way out of the kitchen, the Eldest Son gives him a great slap on the back — a little too hard, as always — without adding anything. Not a word. Just a slightly heavy hand.)*

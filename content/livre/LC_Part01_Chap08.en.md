@@ -1,242 +1,242 @@
 ---
-title: "(Propagation) Another candle"
-subtitle: "The base"
+title: "*(Propagation)* One More Candle"
+subtitle: "The Foundation"
 date: 2026-08-17
 version: 1.0
 description: "Leaving the retirement home with their mother, the two brothers reveal to her that they have each received and transformed a different facet of her relational energy, on the basis of always unconditional maternal love."
 weight: 211
 ---
-*(The mother enters the retirement home, followed by her two sons. She is holding a small package wrapped in gift paper.)*
+*(The Mother enters the care home, followed by her two sons. She is carrying a small parcel wrapped in gift paper.)*
 
-**The eldest son:**
+**The Eldest Son :**
 Do you know where she is?
 
-**The mother:**
-In the small living room. As per usual.
+**The Mother :**
+In the little lounge. As usual.
 
-*(They move forward in the corridor.)*
+*(They walk along the corridor.)*
 
-**A voice:**
+**A Voice :**
 Madam!
-*(The mother turns around.)*
 
-**The mother:**
-Ah! Hello, Germaine. How are you doing?
+*(The Mother turns.)*
 
-**Germaine:**
-Well, things are better since I saw you!
+**The Mother :**
+Ah! Hello, Germaine. How are you keeping?
 
-**The mother:**
-So that’s good, I came on purpose to cheer you up!
+**Germaine :**
+Well, better now I’ve seen you!
+
+**The Mother :**
+Then that’s lucky. I came specially to cheer you up!
 
 *(Germaine smiles.)*
 
-**Germaine:**
-Are you going to see your mom?
+**Germaine :**
+You’re going to see your mum?
 
-**The mother:**
-Yes. It's his birthday today.
+**The Mother :**
+Yes. It’s her birthday today.
 
-**Germaine:**
+**Germaine :**
 Already?
 
-**The mother:**
-Yes. Another candle.
+**The Mother :**
+Yes. One more candle.
 
 *(Germaine laughs.)*
 
-**The mother:**
-And you, your grandson?
+**The Mother :**
+And your grandson?
 
-**Germaine:**
-He comes on Sunday.
+**Germaine :**
+He’s coming on Sunday.
 
-**The mother:**
-Ah, Sunday! You will tell me.
+**The Mother :**
+Ah, Sunday! You’ll have to tell me all about it.
 
-*(The mother gently places her hand on his shoulder.)*
+*(The Mother gently places a hand on her shoulder.)*
 
-**The mother:**
-Come on, see you later.
+**The Mother :**
+Right, see you later.
 
-*(A few meters further.)*
+*(A few yards further on.)*
 
-**A caregiver:**
-Madam! Wait !
+**A Care Assistant :**
+Madam! Wait!
 
-*(The mother stops.)*
+*(The Mother stops.)*
 
-**The caregiver:**
-Have you thought about cakes?
+**The Care Assistant :**
+Did you remember the cakes?
 
-**The mother:**
-Obviously.
+**The Mother :**
+Of course.
 
-*(She shows the package.)*
+*(She holds up the parcel.)*
 
-**The caregiver:**
+**The Care Assistant :**
 I knew I could count on you.
 
-**The mother:**
-For cakes, yes. For the rest, be careful.
+**The Mother :**
+For cakes, yes. The rest, I’d be careful.
 
 *(They laugh.)*
 
-**The caregiver:**
-Your mother is waiting for you.
+**The Care Assistant :**
+Your mum’s waiting for you.
 
-**The mother:**
-I know. But she can wait two more minutes.
+**The Mother :**
+I know. But she can wait another two minutes.
 
-*(The caregiver leaves.)*
+*(The care assistant walks away.)*
 
-**The eldest son:**
-Aren't you in a hurry?
+**The Eldest Son :**
+You’re not in a hurry?
 
-**The mother:**
-Why would I be in a hurry?
+**The Mother :**
+Why would I be?
 
-**The eldest son:**
-I don't know. Usually, you rush through it all.
+**The Eldest Son :**
+I don’t know. Usually you race through all this.
 
-**The mother:**
-Usually I'm late.
+**The Mother :**
+Usually I’m late.
 
-**The youngest son:**
+**The Youngest Son :**
 And today?
 
-**The mother:**
+**The Mother :**
 Today too.
 
 *(They smile.)*
 
-*(They continue to move forward. A man sitting near a window raises his hand.)*
+*(They carry on walking. A man sitting by a window raises his hand.)*
 
-**The resident:**
-Madam! Come see!
+**The Resident :**
+Madam! Come and see!
 
-*(The mother approaches.)*
+*(The Mother walks over.)*
 
-**The resident:**
-Hey! I won your lottery last week. The one you organized!
+**The Resident :**
+Hey! I won your lottery last week. The one you organised!
 
-**The mother:**
-Oh good? I don't remember! And what did you gain?
+**The Mother :**
+Did you? I don’t remember that! And what did you win?
 
-**The resident:**
+**The Resident :**
 Nothing.
 
-**The mother:**
-Then you've earned the right to play again.
+**The Mother :**
+Then you’ve won the right to play again.
 
 *(The resident bursts out laughing.)*
 
-**The resident:**
-You're funny, you.
+**The Resident :**
+You’re a funny one, you are.
 
-**The mother:**
+**The Mother :**
 I do what I can.
 
 *(She stays for a few moments chatting with him. The two brothers wait a few steps away.)*
 
-**The eldest son:** *(to his brother)*
-Luckily we didn't bring grandma an iced cake, it would have melted!
+**The Eldest Son :** *(to his brother)*
+Good job we didn’t bring Grandma an ice-cream cake. It’d have melted by now!
 
-*(The director of the establishment joins the mother and the resident. The conversation continues. The two sons remain aside.)*
+*(The Director of the care home joins the Mother and the resident. The conversation carries on. The two sons remain at a distance.)*
 
-**The youngest son:**
-What is this cake, anyway?
+**The Youngest Son :**
+What is that cake, anyway?
 
-*(The mother returns to them.)*
+*(The Mother comes back to them.)*
 
-**The mother:**
-So, are you coming? Your grandmother will end up believing that I lost you.
-And it's a flan that I made this morning. By scrupulously following your grandmother's recipe. I did it with her on the farm when I was little. And not with factory-farmed eggs or milk!
+**The Mother :**
+Right, are you coming? Your grandmother’s going to think I’ve lost you. And it’s a flan. I made it this morning. Following your grandmother’s recipe to the letter. I used to make it with her on the farm when I was little. And not with factory-farmed eggs and milk, either!
 
-*(They arrive in front of the small living room.)*
+*(They arrive at the little lounge.)*
 
-*(The grandmother is sitting near the window. She straightens up when she sees them.)*
+*(The Grandmother is sitting by the window. She straightens up when she sees them.)*
 
-**The grandmother:**
-Ah! Here you are! And what's more, you brought me your mother!
+**The Grandmother :**
+Ah! There you are! And you’ve even brought me your mother!
 
 *(They laugh.)*
 
 ---
 
-*(Later, in the car, in the retirement home parking lot.)*
+*(Later, in the car, in the care-home car park.)*
 
-**The youngest son:**
-We were looking at you earlier in the corridors. It's not new to us, you know. We've always seen you like this, with everyone, everywhere you go.
+**The Youngest Son :**
+We were watching you earlier, in the corridors. It’s not new to us, you know. We’ve always seen you like that, with everyone, everywhere you go.
 
-**The eldest son:**
-We grew up with this version of you. It has always been part of the landscape.
+**The Eldest Son :**
+We grew up with that version of you. It was always part of the landscape.
 
-**The mother:**
-What then, boys?
+**The Mother :**
+What do you mean, boys?
 
-**The youngest son:**
-It even made us both want to say something to you that we've perhaps never expressed so clearly.
+**The Youngest Son :**
+It made us want to tell you something, both of us. Something we may never have put quite so clearly into words.
 
-**The mother:**
-I'm listening to you.
+**The Mother :**
+I’m listening.
 
-**The youngest son:**
-We grew up with two versions of you, actually. The one we just saw in this corridor, this energy that you give to passing people, contexts, projects. And the one we received at home, which never depended on anything.
+**The Youngest Son :**
+We actually grew up with two versions of you. The one we’ve just seen in that corridor — all that energy you give to passing people, situations, projects. And the one we received at home, which never depended on anything.
 
-**The eldest son:**
-You never loved us for a purpose. Never needed to deserve your presence, your attention, your love. It was just there, all the time, no strings attached.
+**The Eldest Son :**
+You never loved us because we were useful. We never had to earn your presence, your attention, your love. It was simply there, all the time, without conditions.
 
-**The mother:**
-I always wanted that for you. Let that be the only thing guaranteed, no matter what.
+**The Mother :**
+That’s what I always wanted for you. For that to be the one thing you could count on, whatever happened.
 
-**The youngest son:**
-And I think that's exactly why we each grew up differently, with the same energy that you deploy everywhere. Because we received it from two different sides, at the same time.
+**The Youngest Son :**
+And I think that’s exactly why we each grew up differently, with that same energy you put out everywhere. Because we received it from two different sides, at the same time.
 
-**The mother:**
-Explain to me.**The youngest son:**
-You know how to create a strong bond, quickly, with anyone. We saw you do this throughout our childhood, with parents, colleagues, neighbors. And he took exactly this talent. He knows how to bring together a team, carry out a project, make people want to follow him, in just a few weeks. It's your gesture, in his hands.
+**The Mother :**
+Explain.
 
-**The eldest son:**
-It's true. I have never been afraid to approach people, to build quickly with them. I owe you that, mom. A real strength, that I would not have had without watching you do it, year after year.
+**The Youngest Son :**
+You know how to create strong bonds, quickly, with anyone. We watched you do it all through our childhood — with other parents, colleagues, neighbours. And he took exactly that talent. He knows how to bring a team together, get a project moving, make people want to follow him, in a matter of weeks. It’s your way of doing things, in his hands.
 
-**The mother:**
+**The Eldest Son :**
+It’s true. I was never afraid of going towards people, of building something quickly with them. I owe you that, Mum. A real strength. I wouldn’t have had it if I hadn’t watched you do it, year after year.
+
+**The Mother :**
 And you?
 
-**The youngest son:**
-I took the other side of the same gift. I looked at you too, but with my own eyes, more withdrawn. And what I saw was that these magnificent links that you created everywhere had a rhythm: they were born quickly, they shined brightly, and then one day, the context changed, and they faded without drama. I learned to observe this rhythm very closely. It gave me an eye, I think, for guessing what will last and what won't.
+**The Youngest Son :**
+I took the other side of the same gift. I watched you too, but through my own eyes, from further back. And what I saw was that those wonderful bonds you created everywhere had a rhythm: they appeared quickly, shone brightly, and then one day the circumstances changed, and they faded without drama. I learned to watch that rhythm very closely. It gave me an eye, I think, for guessing what will last and what won’t.
 
-**The mother:**
-A form of caution.
+**The Mother :**
+A kind of caution.
 
-**The youngest son:**
-More than that, even. A real skill. I know how to read people, feel the solidity of a bond even before it is tested. I would never have developed it if I had not, throughout my childhood, had the best possible example before my eyes to observe how a bond is built and closed.
+**The Youngest Son :**
+More than that, actually. A real skill. I can read people, sense how solid a bond is before it’s ever put to the test. I’d never have developed it if, throughout my childhood, I hadn’t had the best possible example right in front of me, showing me how a bond is built and how it closes.
 
-**The mother:**
-I never thought that this part of me could be received as a gift.
+**The Mother :**
+I’d never thought that part of me could be received as a gift.
 
-**The eldest son:**
-It's one, mom. Sincerely. I took the momentum. He took discernment. Between the two of us, we ended up receiving the full package of who you are.
+**The Eldest Son :**
+It is one, Mum. Truly. I took the momentum. He took the discernment. Between us, we ended up receiving the whole of you.
 
-**The youngest son:**
-And the basis of all this is that never, at no time, did we two need to wonder if your love was going to last. It’s this foundation that allowed us to each take a piece of your energy and make something personal with it, without being afraid.
+**The Youngest Son :**
+And the foundation underneath all of it is that neither of us, not for a moment, ever had to wonder whether your love would hold. That foundation is what allowed each of us to take a piece of your energy and make something personal out of it, without being afraid.
 
-**The mother:**
-You both are giving me a great gift by telling me that.
+**The Mother :**
+You’re giving me quite a gift yourselves, the two of you, by telling me that.
 
-**The eldest son:**
-We wanted you to know that.
+**The Eldest Son :**
+We wanted you to know.
 
-**The youngest son:**
-Because we have just seen, in these corridors, everything you know how to give to others, without counting. And we wanted you to know that we understood, for a long time, how lucky we were to receive the unlimited version of this same gift.
+**The Youngest Son :**
+Because we’ve just seen, in those corridors, everything you know how to give to other people, without counting the cost. And we wanted you to know that we understood, a long time ago, how lucky we were to receive the unlimited version of that same gift.
 
-**The mother:**
-Thank you. Really.
+**The Mother :**
+Thank you. Truly.
 
-**The eldest son:**
-Shall we go back?
+**The Eldest Son :**
+Shall we go home?
 
-**The mother:**
-We're going back.
-
----
+**The Mother :**
+Let’s go home.

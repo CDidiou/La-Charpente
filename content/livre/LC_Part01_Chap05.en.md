@@ -1,137 +1,137 @@
 ---
-title: "(Propagation) The workbook"
-subtitle: "The keys to the house"
+title: "(Propagation) The Filing Cabinet"
+subtitle: "The Keys to the House"
 date: 2026-08-17
 version: 1.0
 description: "By sorting through his mother's old files, the youngest son understands that his analytical view of people comes from her, even if she oriented him towards science rather than human relations."
 weight: 208
 ---
-**The mother:**
-So what did you find up there in all that dust?
+**The Mother :**
+So, what did you find up there, among all that dust?
 
-**The youngest son:**
-Whole boxes. Letters, photos, account books from grandfather. And that, too. Hey, I didn't even know you kept those binders.
+**The Youngest Son :**
+Whole boxes of things. Letters, photographs, Grandad’s account books. And this, too. Look, I didn’t even know you’d kept these files.
 
-**The mother:**
-My school records. That goes back a long way, I mean.
+**The Mother :**
+My school files. That goes back a long way, doesn’t it?
 
-**The youngest son:**
-I remember those names, actually. You often spoke about these children in difficulty, with a thousand enlightening anecdotes.
+**The Youngest Son :**
+I actually remember some of the names. You used to talk about those troubled children quite often, with all sorts of revealing little stories.
 
-**The mother:**
-I had forgotten that I kept these files. I mainly worked in debriefing. A child who couldn't concentrate in class, another who bit his classmates, a little girl who hadn't spoken since her parents were torn apart. I came home with all that in my head.
+**The Mother :**
+I’d forgotten I still had these files. I mostly worked in debriefing. A child who couldn’t concentrate in class, another who bit his classmates, a little girl who had stopped speaking after her parents tore each other apart. I’d come home with all of it in my head.
 
-**The youngest son:**
-You told me about it, some cases, at the table. A lot, even. I remember you explaining why this little boy was typing, or why this little girl was hiding under the desk. You didn't spare my brother and me the details.
+**The Youngest Son :**
+You told us plenty of those stories at the dinner table. A lot of them, actually. I remember you explaining why this little boy hit people, or why that little girl hid under the desk. You never spared my brother and me the details.
 
-**The mother:**
-No, it's true. I never hid this job from you, nor sugar-coated anything. I even think I spoke to you about my files as I would have spoken to a colleague.
+**The Mother :**
+No, that’s true. I never hid that work from you, and I never softened anything. I think I even talked to you about my files as though I were talking to a colleague.
 
-**The youngest son:**
-I was five years old, mom. Then ten years. Then fifteen years. I know all your files. In secret.
+**The Youngest Son :**
+I was five, Mum. Then ten. Then fifteen. I know all your cases. In secret.
 
-**The mother:**
-You listened so well that I forgot your age. And you asked finer questions than some of my colleagues!
+**The Mother :**
+You listened so carefully that I forgot your age. And you asked more perceptive questions than some of my colleagues!
 
-**The youngest son:**
-I remembered everything. Each case you told me about, I remembered it, I linked it to the others, I looked for common reasons. Without knowing it, I think I learned to decode people exactly like you did in your job. Except that I never had an office, or a diploma, or little patients. I just kept looking, all alone, in my corner.
+**The Youngest Son :**
+I kept all of it in my head. Every case you told me about, I remembered, linked it to the others, looked for patterns they had in common. Without realising it, I think I learned to decode people exactly as you did in your work. Except I never had an office, or a qualification, or little patients. I just kept the way of looking, on my own, off in my corner.
 
-**The mother:**
-I didn't know it could have weighed on you so much.
+**The Mother :**
+I didn’t realise it could have weighed on you so much.
 
-**The youngest son:**
-It didn't weigh me down, it nourished me. What strikes me, while sorting these files today, is something else. You who poured all this material on me, who almost trained me like a little budding psychologist... you never let me become one, however.
+**The Youngest Son :**
+It didn’t weigh on me. It fed me. What strikes me, sorting through these files today, is something else. You poured all that material into me, practically trained me as a little psychologist in the making… and yet you never let me become one.
 
-**The mother:**
-How's that?
-
-**The youngest son:**
-You pushed me towards rigorous, prestigious scientific studies. You wanted me to become an engineer, not spend my life listening to people like you.
-
-**The mother:**
-It's true.
-
-**The youngest son:**
-Why?
-
-**The mother:**
-I saw science careers as prestigious and full of opportunities. I wanted to keep you safe. Me, my job, I took it to repair myself. I felt he was calling me. You didn't need it, I was protecting you.
-
-**The youngest son:**
-So you sent me to dismantle machines rather than souls.
-
-**The mother:**
-Said like that, it sounds harsh. But yes, almost.
-
-**The youngest son:**
-I have never disobeyed you. You were gentle and uncompromising for me. I didn't even think about upsetting you. I took the scientific path. And I became exactly what you wanted: an engineer.
-
-**The mother:**
-You don't say it with much joy in your voice.
-
-**The youngest son:**
-No, because the strange thing is that I have never been able to separate the two. I studied cold, technical, full of calculations. But I spend my time constructing concepts, making sense of events, connecting them, dissecting the people around me exactly as you taught me to do. My colleagues tell me that I see things that no one else sees in a meeting. And at home, I dismantle everything I can get my hands on. Radios, old clocks, my sons' toys. I can't stand not knowing how it works. And then I try to figure out why it works.
-
-**The mother:**
-You dismantle objects like you decode people.
-
-**The youngest son:**
-Exactly. I don't think I've ever had the right to take people down, so I'm making up for it on the machines. Same mechanism, applied to a cold axis rather than a hot axis.
-
-**The mother:**
-I didn't expect you to phrase that so precisely.
-
-**The youngest son:**
-I had a good teacher at home for twenty years.
-
-**The mother:**
-I think I did two contradictory things with you, actually, listening to you speak. I pampered you like the daughter I would have liked to have, with all the gentleness, all the confidence, all the knowledge that I could give you. And at the same time, my lioness part took over when you had to choose your life, and I imposed a hard, rigorous path on you.
-
-**The youngest son:**
-You gave me the keys to a house, and forbade me to open the door.
-
-**The mother:**
-It's a beautiful image, and a little cruel for me.
-To be fair, I think you took the knowledge, but not the courage to go with it.**The youngest son:**
-That's true, too. I don't blame you, mom. I am a good engineer, I love my job, in my own way. But I wanted you to know that decoding, intuition, fine analysis, all that, I kept from you, intact. I just use it on motors and circuits rather than on children in difficulty. And it’s an asset to go this route in fact! I feel powerful.
-
-**The mother:**
-*She looks at him, surprised.*
+**The Mother :**
 What do you mean?
 
-**The youngest son:**
-I am lighter. I can finally write it, I think. All that.
+**The Youngest Son :**
+You pushed me towards scientific studies — rigorous, prestigious ones. You wanted me to become an engineer, not spend my life listening to people as you did.
 
-**The mother:**
-Write it?
+**The Mother :**
+That’s true.
 
-**The youngest son:**
-Yes. Everything you gave me... the binders, the stories, the ways of looking at people. You gave me all the materials. I think I'm finally finding my way.
+**The Youngest Son :**
+Why?
 
-*He places his hand on the binder.*
+**The Mother :**
+I saw science as prestigious, with plenty of opportunities. I wanted to make you secure. I chose my own profession to put myself back together. I felt it calling me. You didn’t need that. I was protecting you.
 
-**The youngest son:**
-And this time, it's me who can do something with it. And I want to give it to you.
+**The Youngest Son :**
+So you sent me off to take machines apart rather than souls.
 
-**The mother:**
-It's not too late, you know.
+**The Mother :**
+Put like that, it sounds harsh. But yes, more or less.
 
-**The youngest son:**
-To change career?
+**The Youngest Son :**
+I never disobeyed you. You were gentle with me and utterly uncompromising. It never even occurred to me to contradict you. I took the scientific path. And I became exactly what you wanted: an engineer.
 
-**The mother:**
-To stop just taking things apart. You could start saying out loud what you see in people, from time to time. You have the same look as me. All you need is permission to use it.
+**The Mother :**
+You don’t sound terribly happy about it.
 
-**The youngest son:**
-Are you giving me this permission?
+**The Youngest Son :**
+No. Because the strange thing is, I’ve never managed to separate the two. I studied cold, technical subjects, full of calculations. But I spend my time building concepts, making sense of events, connecting them, taking apart the people around me in exactly the way you taught me to. My colleagues say I see things in meetings that nobody else sees. And at home, I take apart anything that falls into my hands.
 
-**The mother:**
-You don't need it anymore! You have come a long way, my son.
+Radios. Old clocks. My sons’ toys. I can’t stand not knowing how something works. And then, afterwards, I want to know why it works.
 
-**The youngest son:**
-Put these binders away with me. We will keep them with the photos. My sons will also have to know where this view that they already have, I believe, about people comes from.
+**The Mother :**
+You take objects apart the way you decode people.
 
-**The mother:**
-And this time, if they want to make a career out of it, I'll let them choose.
+**The Youngest Son :**
+Exactly. I suppose I was never allowed to take people apart, so I make up for it with machines. Same mechanism, applied along a cold axis rather than a warm one.
 
----
+**The Mother :**
+I didn’t expect you to put it so precisely.
+
+**The Youngest Son :**
+I had a good teacher at home for twenty years.
+
+**The Mother :**
+Listening to you, I think I did two contradictory things with you, really. I indulged you like the daughter I would have liked to have had, with all the tenderness, all the confidences, all the knowledge I could give you. And at the same time, my lioness side took over when it came to choosing your life, and I imposed a hard, rigorous path on you.
+
+**The Youngest Son :**
+You gave me the keys to a house, and forbade me from opening the door.
+
+**The Mother :**
+That’s a beautiful image, and a little cruel to me. To be fair, I think you took the knowledge, but not the courage that came with it.
+
+**The Youngest Son :**
+That’s true as well. I don’t blame you, Mum. I’m a good engineer. I like my work, in my own way. But I wanted you to know that the decoding, the intuition, the fine analysis — all of that, I kept from you, intact. I just use it on engines and circuits rather than troubled children. And actually, going down this path is an advantage! I feel powerful.
+
+**The Mother :**
+She looks at him, surprised. What do you mean?
+
+**The Youngest Son :**
+I feel lighter. I think I can finally write it down. All of it.
+
+**The Mother :**
+Write it down?
+
+**The Youngest Son :**
+Yes. Everything you gave me… the files, the stories, the ways of looking at people. You gave me all the materials. I think I’m finally beginning to find my own path.
+
+*He lays a hand on the file.*
+
+**The Youngest Son :**
+And this time, I’m the one who can make something of it. And I want to give it to you.
+
+**The Mother :**
+It isn’t too late, you know.
+
+**The Youngest Son :**
+To change careers?
+
+**The Mother :**
+To stop taking only objects apart. You could start saying out loud what you see in people, now and then. You have the same way of looking that I do. The only thing you’re missing is permission to use it.
+
+**The Youngest Son :**
+You’re giving me that permission now?
+
+**The Mother :**
+You don’t need it any more! You’ve come a long way, my son.
+
+**The Youngest Son :**
+Put these files away with me. We’ll keep them with the photographs. My sons will need to know, too, where that way of looking at people — which I think they already have — comes from.
+
+**The Mother :**
+And this time, if they want to make a profession of it, I’ll let them choose.

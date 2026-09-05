@@ -1,156 +1,154 @@
 ---
-title: "(Propagation) Le numéro 9"
-subtitle: "Jouer avec ses forces"
+title: "(Propagation) Number 9"
+subtitle: "Playing to Our Strengths"
 date: 2026-08-17
 version: 1.0
-description: "Au bord du terrain, le père et son fils cadet reconnaissent qu’ils ont tous deux choisi l’effacement plutôt que l’affirmation, avant de décider de mettre leurs forces complémentaires au service d’un projet familial commun"
+description: "t the edge of the pitch, the father and his younger son recognise that they have both chosen self-effacement over self-assertion, before deciding to put their complementary strengths at the service of a shared family project."
 weight: 209
 ---
-**Le père :**
-Deux bières, s'il te plaît, et vas-y large sur la mousse pour mon fils, il n'en boit jamais assez pour connaître la vraie mesure !
+**Dad :**
+Two beers, please, and go heavy on the head for my son. He never drinks enough to know the true measure of a pint!
 
-**Le fils cadet :**
-Tu dis ça à chaque fois.
+**The Youngest Son :**
+You say that every time.
 
-**Le père :**
-Et à chaque fois c'est vrai. Assieds-toi, ils vont taper le coup d'envoi. Regarde le petit numéro 9, il vient d'à côté de chez nous, il a un pied gauche qui va nous faire pleurer de joie un jour.
+**Dad :**
+And every time it’s true. Sit down, they’re about to kick off. Look at number 9, there. He’s from just down the road from us. One day that left foot of his is going to bring us to tears of joy.
 
-**Le fils cadet :**
-Tu connais tout le monde ici.
+**The Youngest Son :**
+You know everyone here.
 
-**Le père :**
-Ça fait quarante ans que je viens. Le père du gardien, c'était mon copain d'école. Sa mère nous faisait des gâteaux le dimanche.
+**Dad :**
+I’ve been coming here for forty years. The goalkeeper’s dad was at school with me. His mother used to bake cakes for us on Sundays.
 
-**Le fils cadet :**
-C'est ton monde, ça, hein. Tout le monde te connaît, tout le monde t'aime bien.
+**The Youngest Son :**
+This is your world, isn’t it? Everyone knows you, everyone likes you.
 
-**Le père :**
-Et toi, ce n'est clairement pas le tien. Tu regardes le match comme tu regardes tout, d'ailleurs. De loin, en analysant.
+**Dad :**
+And clearly it isn’t yours. You watch the match the way you watch everything else, really. From a distance, analysing.
 
-**Le fils cadet :**
-Je ne peux pas m'en empêcher. Je viens de remarquer que leur numéro 6 couvre trois fois plus de terrain que les autres, mais qu'il ne touche jamais le ballon dans les moments qui comptent.
+**The Youngest Son :**
+I can’t help it. I’ve just noticed their number 6 covers three times as much ground as the others, but he never gets near the ball when it matters.
 
-**Le père :**
-Tu viens de décrire ta vie en une phrase, tu sais.
+**Dad :**
+You’ve just described your whole life in one sentence, you know.
 
-**Le fils cadet :**
-...C'est vrai que tu as un talent pour ça, toi.
+**The Youngest Son :**
+You really do have a talent for that.
 
-**Le père :**
-Pour quoi ?
+**Dad :**
+For what?
 
-**Le fils cadet :**
-Pour dire une chose énorme, l'air de rien, entre deux gorgées de bière, sans prévenir.
+**The Youngest Son :**
+Saying something enormous as though it were nothing, between two mouthfuls of beer, without warning.
 
-**Le père :**
-Je n'ai pas tes analyses savantes, moi. Mais j'ai des années d'observation, à ma façon, du bord du terrain.
+**Dad :**
+I haven’t got your clever analyses. But I’ve got years of watching people, in my own way, from the touchline.
 
-**Le fils cadet :**
-Justement, papa, je voulais te parler de ça. J'ai réfléchi, ces derniers temps, à un truc qui traverse toute la famille. Un même motif, qui revient à chaque génération, sous des formes différentes.
+**The Youngest Son :**
+That’s exactly what I wanted to talk to you about, Dad. I’ve been thinking lately about something that runs right through the family. The same pattern coming back in every generation, in different forms.
 
-**Le père :**
-Vas-y, je t'écoute, j'ai le temps, la mi-temps n'est pas avant vingt minutes.
+**Dad :**
+Go on. I’m listening. I’ve got time. Half-time isn’t for another twenty minutes.
 
-**Le fils cadet :**
-On décide pour l'autre, par amour, dans cette famille. Sans jamais lui demander ce qu'il veut vraiment. Toi tu as cédé du terrain à maman pendant des années pour préserver la paix, sans lui demander si c'était le bon prix à payer. Elle, elle a décidé de ma vocation à ma place, pour me protéger, sans me demander ce que moi je voulais devenir. Mon frère fait probablement pareil avec ses fils, à sa manière, en traçant le chemin trop vite pour eux.
+**The Youngest Son :**
+In this family, we make decisions for one another, out of love. Without ever asking what the other person actually wants. You gave Mum ground for years to keep the peace, without asking yourself whether that was the right price to pay. She decided my vocation for me, to protect me, without asking what I wanted to become. My brother probably does the same with his sons, in his own way, drawing their path for them too quickly.
 
-**Le père :**
-Et toi, qu'est-ce que tu fais, dans cette histoire ?
+**Dad :**
+And you? What do you do in all this?
 
-**Le fils cadet :**
-Moi je regarde. Je n'ai jamais rien décidé pour personne. Je me suis juste retiré, j'ai observé, j'ai tout compris sans jamais rien dire à voix haute.
+**The Youngest Son :**
+I watch. I’ve never decided anything for anyone. I just withdrew, observed, understood everything without ever saying any of it out loud.
 
-**Le père :**
-On est pareils, alors, toi et moi.
+**Dad :**
+So you and I are alike, then.
 
-**Le fils cadet :**
-C'est ce que je me disais, en venant ici. On est les deux spectateurs de cette famille. Les deux lions, c'est maman et mon frère. Ils prennent le ballon, ils foncent, ils décident. Toi et moi, on est sur le banc de touche depuis toujours.
+**The Youngest Son :**
+That’s what I was thinking on the way here. We’re the two spectators in this family. The two lions are Mum and my brother. They take the ball, charge forward, make the decisions. You and I have been on the substitutes’ bench all our lives.
 
-**Le père :**
-Ça fait un choc, de l'entendre dit comme ça.
+**Dad :**
+It’s quite a shock, hearing it put like that.
 
-**Le fils cadet :**
-Je ne le dis pas pour te blesser.
+**The Youngest Son :**
+I’m not saying it to hurt you.
 
-**Le père :**
-Je sais. Mais c'est juste. J'ai passé ma vie à applaudir depuis la ligne de touche, en espérant que personne ne remarque que je n'ai jamais tapé dans le ballon moi-même.
+**Dad :**
+I know. But it’s true. I’ve spent my life applauding from the touchline, hoping no one would notice that I’d never actually kicked the ball myself.
 
-**Le fils cadet :**
-Et moi j'ai passé la mienne à commenter le match dans ma tête, sans jamais descendre sur le terrain.
+**The Youngest Son :**
+And I’ve spent mine commentating on the match in my head, without ever stepping onto the pitch.
 
-**Le père :**
-Deux stratégies différentes pour le même problème, en fait. Moi je cédais pour ne pas faire de vagues. Toi tu t'effaçais pour ne pas être vu.
+**Dad :**
+Two different strategies for the same problem, really. I gave ground so as not to make waves. You made yourself disappear so as not to be seen.
 
-**Le fils cadet :**
-L'évitement et l'effacement. Les deux faces d'une même pièce.
+**The Youngest Son :**
+Avoidance and self-effacement. Two sides of the same coin.
 
-**Le père :**
-Regarde ce numéro 9, tiens, celui dont je te parlais. Il ne fait pas partie des deux lions de son équipe non plus. Il n'est pas le capitaine, il ne gueule pas, il ne commande rien. Mais quand il touche le ballon, il change tout.
+**Dad :**
+Look at number 9, there — the one I was telling you about. He isn’t one of the two lions on his team either. He isn’t the captain, he doesn’t shout, he doesn’t order anyone about. But when he gets the ball, he changes everything.
 
-**Le fils cadet :**
-Tu veux en venir où ?
+**The Youngest Son :**
+Where are you going with this?
 
-**Le père :**
-Que ce n'est pas parce qu'on n'est pas des lions qu'on doit rester sur le banc. On peut jouer autrement. Toi tu vois le jeu avant tout le monde, tu sens où ça va se passer avant que ça se passe. Moi je sais rassembler du monde, faire que tout le monde ait envie de venir à la même table. Si on arrête de se comparer à ta mère et ton frère, et qu'on joue avec ce qu'on a, nous, on peut faire quelque chose qu'eux ne savent pas faire.
+**Dad :**
+That just because we aren’t lions doesn’t mean we have to stay on the bench. We can play in a different way. You see the game before everyone else does. You sense where it’s going to happen before it happens. And I know how to bring people together, how to make everyone want to sit down at the same table. If we stop comparing ourselves with Mum and your brother, and play with what we’ve got, the two of us could do something they don’t know how to do.
 
-**Le fils cadet :**
-C'est-à-dire ?
+**The Youngest Son :**
+Which is?
 
-**Le père :**
-Construire ensemble, sans avoir besoin de dominer qui que ce soit.
+**Dad :**
+Build something together, without needing to dominate anyone.
 
-**Le fils cadet :**
-Il manque quand même un petit quelque chose.
+**The Youngest Son :**
+There’s still something missing, though.
 
-**Le père :**
-Tu proposes quoi ?
+**Dad :**
+What would you suggest?
 
-**Le fils cadet :**
-Je ne sais pas comment le nommer, exactement. Dans l'équipe on a le passeur, le stratège, les accélérateurs Mais le match ça se gagne en équipe. Il faut un peu de légèreté pour que les égos s'assemblent.
+**The Youngest Son :**
+I don’t quite know what to call it. In a team you’ve got the playmaker, the strategist, the ones who make the runs. But matches are won as a team. You need a little lightness, something that brings the egos together.
 
-**Le père :**
-Un grain de folie. On me le refuse. On me le reproche. Je ne le propose même plus!
+**Dad :**
+A touch of madness. People won’t let me have it. They hold it against me. I don’t even offer it any more!
 
-**Le fils cadet :**
-On n'a pas besoin d'attendre d'être servis ! On peut se l'offrir, nous-mêmes, maintenant.
+**The Youngest Son :**
+We don’t have to wait for someone to serve it to us! We can give it to ourselves, right now.
 
-**Le père :**
-Tu as une idée derrière la tête, toi, en disant ça.
+**Dad :**
+You’ve got an idea in your head, saying that.
 
-**Le fils cadet :**
-J'y pense depuis que tu as parlé de retaper ta maison d'enfance. Comme d'un projet de famille. De transmission. Ton geste d'autorité. Ca m'a plu. Et ça mérite un vrai lancement, quelque chose qui marque le coup autrement qu'un contrat à signer ou un premier coup de marteau.
+**The Youngest Son :**
+I’ve been thinking about it ever since you mentioned restoring your childhood home. As a family project. Something to pass on. Your gesture of taking charge. I liked it. And it deserves a proper beginning, something that marks the occasion in a way that’s more than a contract to sign or the first blow of a hammer.
 
-**Le père :**
-Continue.
+**Dad :**
+Go on.
 
-**Le fils cadet :**
-Et si, avant même de commencer les travaux, on partait ensemble, juste nous quatre ? Pas pour travailler, pas pour parler chantier sérieusement. Juste pour se retrouver, loin d'ici, et lancer le projet avec un peu de fête, avant qu'il ne devienne une affaire de devis et de plannings. Un moment où on tourne une page symboliquement, tous les quatre. Pour en écrire une nouvelle.
+**The Youngest Son :**
+What if, before we even start the work, the four of us went away together? Just the four of us. Not to work, not to have serious conversations about the building. Just to be together, somewhere far from here, and launch the project with a bit of celebration before it turns into estimates and schedules. A moment when all four of us symbolically turn the page. And write a new one.
 
-**Le père :**
-Poser la première pierre, mais de loin, en trinquant plutôt qu'en creusant.
+**Dad :**
+Lay the first stone, but from a distance — raising a glass rather than digging.
 
-**Le fils cadet :**
-Exactement. Et cette fois, c'est nous qui décidons de la date de départ ! On ne s'est jamais autorisé à leur dire non aux deux autres, alors c'est l'heure de la revanche !
+**The Youngest Son :**
+Exactly. And this time, we’re the ones who choose the departure date! We’ve never allowed ourselves to say no to the other two, so it’s time for a little revenge!
 
-**Le père :**
-Tu as raison. Il faut marquer le début d'un projet familial par du plaisir. Tu vas voir ça leur fera du bien à tous.
+**Dad :**
+You’re right. A family project should begin with pleasure. You’ll see, it’ll do them all good.
 
-**Le fils cadet :**
-A nous tous.
+**The Youngest Son :**
+All of us.
 
-**Le père :**
-Tiens, justement, regarde. But du petit numéro 9.
+**Dad :**
+There we are. Look. Number 9’s just scored.
 
-**Le fils cadet :**
-Il n'a même pas eu le temps de réfléchir, on dirait.
+**The Youngest Son :**
+He didn’t even have time to think about it, by the look of things.
 
-**Le père :**
-C'est bien pour ça qu'il a marqué.
+**Dad :**
+That’s precisely why he scored.
 
-**Le fils cadet :**
-On trinque au voyage, alors ? Pour de vrai, cette fois.
+**The Youngest Son :**
+So, shall we raise a glass to the trip? Properly, this time.
 
-**Le père :**
-On trinque à ça. Et à ce petit numéro 9, qui vient de nous donner une belle leçon sans le savoir.
-
----
+**Dad :** 
+To the trip. And to that little number 9, who’s just taught us a fine lesson without even knowing it.

@@ -39,7 +39,7 @@ Tu te moques de nous, maman, depuis qu'on s'est auto attribué des qualités, su
 Main non, voyons ! Je vous taquine. Vous m'avez fait une belle déclaration, ce jour-là. Et j'aime m'en rappeler et re-évoquez vos mots !
 
 **Le père :**
-Oui, ils t'ont fait un joli cadeau. Maist moi, dans tout ça... Ils m'ont oublié sur le bord de la route !
+Oui, ils t'ont fait un joli cadeau. Mais moi, dans tout ça... Ils m'ont oublié sur le bord de la route !
 
 ***Le fils cadet :**
 Ah ! Tu veux un cadeau aussi, tiens ! Comme tu es assis, je suis prêt pour un grand discours. 

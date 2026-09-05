@@ -75,7 +75,7 @@ Si t'avais mieux observé la nature, t'aurais compris que ce n'est pas comme ça
 Peut-être, mais tu ne m'as jamais appris ton truc. Le pas de côté, le sourire.
 
 **La grand-mère :**
-Je n'ai pas pu. Je ne savais pas que je pouvais te le dire. Tu n'avais qu'à regarder comme il faut! La légèreté, ça se voit, et c'est joli en plus. Moi je la vois souvent, et ça me plait quand je la reconnais. Petite, je t'ai vue foncer tête baissée sur tout. Alors, je me suis dit, celle-là, elle a une arme, qu'elle l'utilise, ça ira bien pour elle.
+Je n'ai pas pu. Je ne savais pas que je pouvais te le dire. Tu n'avais qu'à regarder comme il faut! La légèreté, ça se voit, et c'est joli en plus. Moi je la vois souvent, et ça me plaît quand je la reconnais. Petite, je t'ai vue foncer tête baissée sur tout. Alors, je me suis dit, celle-là, elle a une arme, qu'elle l'utilise, ça ira bien pour elle.
 
 **La mère :**
 J'ai trouvé les livres, la théorie, la psychologie des autres pour comprendre la mienne.

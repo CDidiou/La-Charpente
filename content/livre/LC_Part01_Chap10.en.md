@@ -1,182 +1,182 @@
 ---
-title: "(Propagation) The confusion"
-subtitle: "Reopen the door"
+title: "*(Propagation)* The Tangle"
+subtitle: "Opening the Door Again"
 date: 2026-08-17
 version: 1.0
 description: "After thirty years of silence, the father and mother confront their opposing readings of an old family breakdown, understand how a wound passed down from generation to generation weighed on their choices, and decide to reopen the door to the cousins."
 weight: 213
 ---
-*(In the evening, after the boys have left. The table in the arbor has not yet been cleared. They both remain seated, without anything specific to do, just the desire to continue what has just happened during the day.)*
+*(That evening, after the boys have left. The table beneath the arbour has not yet been cleared. They remain sitting there, the two of them, with nothing particular to do, simply wanting to carry on with what they began to open up that day.)*
 
-**The father:**
-The boys gone, just the two of us remain.
+**The Father :**
+Now the boys have gone, it’s just the two of us.
 
-**The mother:**
-Yes. And I want us both to continue what we have just started with them.
+**The Mother :**
+Yes. And I want us to carry on, just the two of us, with what we started with them.
 
-**The father:**
+**The Father :**
 What are you thinking about?
 
-**The mother:**
-To my cousin and my cousin. The whole thing, actually. You know the facts as well as I do. But I don't think we ever told each other how we experienced them separately.
+**The Mother :**
+My cousin and my cousins? All of that, really. You know the facts as well as I do. But I don’t think we’ve ever actually told each other how we each experienced it.
 
-**The father:**
-It's true. We both know everything. We just never put it into words, between us.
+**The Father :**
+That’s true. We both know everything. We’ve just never put it into words between us.
 
-**The mother:**
-So I'm getting started. You know my mother had an older sister who died long before all this. She had two children. My mother only had me.
+**The Mother :**
+Then I’ll start. You know my mother had an older sister, who died long before any of this. She had two children. My mother only had me.
 
-**The father:**
-I've known that forever!
+**The Father :**
+I’ve known that all my life!
 
-**The mother:**
-Perhaps what I never really told you was what it had meant for her, as a child, to have an older sister. In a poor family at the time, you couldn't feed two mouths the same way. Her sister took priority, almost automatically, without anyone ever saying it out loud. My mother grew up second. Not rejected. Just second.
+**The Mother :**
+What I may never have properly told you is what it meant to her, as a little girl, to have an older sister. In a poor family, back then, you couldn’t feed two mouths in quite the same way. Her sister came first, almost automatically, without anyone ever saying so out loud. My mother grew up second. Not rejected. Just second.
 
-**The father:**
-And where do you think I grew up? You told me that a long time ago. What I didn't understand was how much it still weighed on you when everything came down to the succession.
+**The Father :**
+And where do you think I grew up? You told me that a long time ago. What I hadn’t understood was how much it still weighed on you when everything came to a head over the inheritance.
 
-**The mother:**
-There you go. That's where things changed. His sister had already died a long time ago. What remained was my cousin, to manage the estate with my mother. My cousin was far away, and detached from all that. But my cousin, she reopened something without wanting to.
+**The Mother :**
+Exactly. That’s where it tipped. Her sister had already been dead for years. What remained were my cousin and my cousin, to sort out the inheritance with my mother. My male cousin lived far away and was detached from the whole thing. But my female cousin reopened something without meaning to.
 
-**The father:**
-That I know. I would even say that she had lived in the same place as your mother, but a generation later.
+**The Father :**
+I know. I’d even say she had occupied the same place as your mother, only a generation later.
 
-**The mother:**
-Exactly. Her brother had had priority, as the eldest son, and she had grown up second, as my mother had been before her. The same pattern, another branch.
+**The Mother :**
+Exactly. Her brother had been given priority, as the eldest son, and she had grown up second, just as my mother had before her. The same pattern, another branch.
 
-**The father:**
-Two women who had each lived in the place of the second.
+**The Father :**
+Two women who had both lived in the place of the second.
 
-**The mother:**
-And when it was time to settle the inheritance, my cousin and my mother reactivated in each other all the old stress of having been less chosen. A remark about sharing, a decision made on a piece of furniture, nothing serious in itself. But immediately, it resonated for both of them like childhood scenes beginning again.
+**The Mother :**
+And when the inheritance had to be settled, my cousin and my mother reactivated in one another all that old anxiety of having been the one who was chosen less. A remark about the division of things, a decision over a piece of furniture — nothing serious in itself. But immediately, for both of them, it echoed with scenes from childhood starting all over again.
 
-**The father:**
-And you intervened.
+**The Father :**
+And you stepped in.
 
-**The mother:**
-I put myself between the two. I took my mother's side, without hesitation. I saw a sixty-year-old woman relive, live, before my eyes, a little girl's wound. I couldn't let this happen.
+**The Mother :**
+I put myself between them. I took my mother’s side without hesitating for a second. I could see a sixty-year-old woman reliving, right before my eyes, the wound of a little girl. I couldn’t stand by and let it happen.
 
-**The father:**
-And to protect your mother, you cut ties.
+**The Father :**
+And to protect your mother, you cut the ties.
 
-**The mother:**
-Yes. You always knew that. What I never told you was the exact weight it had, in my head, at that precise moment. For me, it wasn't just another decision. It was the only possible response to what I was seeing.
+**The Mother :**
+Yes. You always knew that. What I never told you was exactly how much it weighed on me, in my head, at that precise moment. To me, it wasn’t one decision among others. It was the only possible answer to what I was seeing.
 
-**The father:**
-That’s where it didn’t add up, for me, at the time. Besides, your cousin didn't do anything. He didn't even know what was going on between your cousin and your mother. And yet, he paid the same price as her. It was nonsense.
+**The Father :**
+That’s the bit that never made sense to me at the time. And your cousin hadn’t done anything. He didn’t even know what was happening between your cousin and your mother. And yet he paid the same price she did. It made no sense.
 
-**The mother:**
-I know. I weighed it differently than you did at the time. For me, the urgency was to completely close the door on this story, as long as my mother was alive and vulnerable. I didn't have the finesse to sort. I closed the entire block.
+**The Mother :**
+I weighed it differently from you back then. For me, the urgent thing was to shut the door on that whole story, completely, while my mother was still alive and vulnerable. I didn’t have the subtlety to separate things out. I shut the whole branch away.
 
-**The father:**
-And yet, it never seemed difficult to you to do it. I've never seen you hesitate, or doubt, or really suffer from it.
+**The Father :**
+And yet it never seemed difficult for you to do. I never saw you hesitate, or doubt, or really suffer over it.
 
-**The mother:**
-It's true. And I think I know why, now that you put it like that. It wasn't my connection that I was cutting. It was my mother's, whom I protected. Me, my own bonds, I never let them go like that, suddenly. But that one wasn't mine. I was on the side of the one who protects, not the one who is exposed. Maybe that's why I was able to make a clear decision, without it costing me.
+**The Mother :**
+That’s true. And I think I know why now, the way you’ve put it. It wasn’t my own connection that I was cutting. It was my mother’s, which I was protecting. I never let my own ties go like that, all at once. But that one wasn’t mine. I was on the side of the person doing the protecting, not the one being exposed. Maybe that’s why I could cut it cleanly, without it costing me.
 
-**The father:**
-And I saw a simple, warm bond with people I loved very much, broken for a reason that I only half understood. I didn't have the same weights on the scale. I didn't understand you at all.
+**The Father :**
+And I saw a simple, warm connection with people I loved very much, broken for a reason I only half understood. I didn’t have the same weights on my scales. I didn’t understand either of you.
 
-**The mother:**
+**The Mother :**
 You saw the warm present. I saw the ghost of the past.
 
-**The father:**
-That's it, exactly. We looked at the same scene, with the same faces on it, and we didn't see the same thing.
+**The Father :**
+That’s it, exactly. We were looking at the same scene, with the same faces in it, and we weren’t seeing the same thing at all.
 
-**The mother:**
-I think we each knew the other's position, in fact, without ever having really heard it said like that.**The father:**
-Do you regret closing the entire block today?
+**The Mother :**
+I think, really, that we each knew where the other stood, without ever actually hearing it said like that.
 
-**The mother:**
-I can't tell you. If I had to do it again, I would protect my mother with all my strength. I have my story, you know.
+**The Father :**
+Do you regret, now, shutting away the whole branch?
 
-**The father:**
-I know. I miss summer evenings. The songs, the joys, the meals. It's not even a grudge, just... a simple lack.
+**The Mother :**
+I can’t tell you. If I had to do it again, I would protect my mother with everything I had. I have my own history, you know.
 
-**The mother:**
-More than thirty years. My mother is not here anymore.
+**The Father :**
+I know. I miss those summer evenings. The songs, the happiness, the meals. It isn’t even resentment, just… a simple sense of something missing.
 
-**The father:**
-Your cousins have children. How did they experience all this? They were small at the time.
+**The Mother :**
+More than thirty years. My mother isn’t here any more.
 
-**The mother:**
-We don't choose everything we want to transmit. But we can make choices.
+**The Father :**
+Your cousins have children. How did they experience all this, I wonder? They were little at the time.
 
-**The father:**
-Yes, you are right. The weight of the past never stops on its own, it continues to descend if no one stops it along the way.
+**The Mother :**
+We can’t choose everything we pass on. But we can make choices.
 
-**The mother:**
-Like us, with our two boys. One who rushes, the other who observes. We passed on our strength to them, no doubt. But we may also have transmitted to them, unwittingly, a little of all that, underneath.
+**The Father :**
+Yes, you’re right. The weight of the past never stops by itself. It keeps travelling downwards if nobody stops it along the way.
 
-**The father:**
-So you might as well call them both. Your cousin and your cousin.
+**The Mother :**
+Like us, with our two boys. One charges ahead, the other watches. We’ve passed on our strengths to them, no doubt. But perhaps, without meaning to, we’ve passed on a little of all this underneath it too.
 
-**The mother:**
-Both?
+**The Father :**
+Then let’s call them both. Your cousin and your cousin.
 
-**The father:**
-Yes. If we only call back your cousin, we continue to do the sorting that you regretted earlier, but in the other direction. We would be stuck judging. Anyone who knows how to control their wounds is deluding themselves.
+**The Mother :**
+Both of them?
 
-**The mother:**
-From generation to generation, the same mechanism. Each time with the best will in the world, and no one to stop him dead in his tracks.
+**The Father :**
+Yes. If we only call your male cousin, we carry on making the same distinction you regretted earlier, only in the other direction. We’d stay stuck in judgement. Anyone who thinks they have mastered their wounds is fooling themselves.
 
-**The father:**
-What if it was us, with our love, who found the strength to improve this past. What do you think? Are we capable of it?
+**The Mother :**
+From generation to generation, the same mechanism. Every time with the very best intentions, and nobody to stop it in its tracks.
 
-**The mother:**
-With you, yes, I can do it. It's decided, I'll call them. We invite them. Both. A real meal.
+**The Father :**
+What if it were us, with our love, who found the strength to make something better of that past? What do you think? Do you think we can?
 
-**The father:**
-It's going to be strange, you know. Thirty years of silence, and then suddenly a table.
+**The Mother :**
+With you, yes, I can. That’s decided, then. I’ll call them. We’ll invite them. Both of them. A proper meal.
 
-**The mother:**
-Maybe we won't say any of that at the meal. Maybe we'll just talk about the weather and their kids, and that'll be fine too.
+**The Father :**
+It’s going to be strange, you know. Thirty years of silence, and then suddenly a table.
 
-**The father:**
-Or maybe we'll talk about it. Not to reopen the wound, but so that it stops there, with the four of us, rather than continuing to go down to their children and ours without anyone ever naming anything.
+**The Mother :**
+Perhaps we won’t say anything about any of this at the meal. Perhaps we’ll just talk about the weather, and their children, and that will be quite all right too.
 
-**The mother:**
-Do you think you can really stop something like this with one meal?
+**The Father :**
+Or perhaps we will talk about it. Not to reopen the wound, but so that it stops there, with the four of us, instead of carrying on down into their children and ours without anyone ever putting a name to it.
 
-**The father:**
-No. Certainly not in one. But we can start. Your mother carried this all her life without ever clearly telling anyone. You just told me this evening, for the first time in thirty years. This is already a huge step. The meal would be another.
+**The Mother :**
+Do you really think you can stop something like this over one meal?
 
-**The mother:**
-And our boys, do you think they should be there too?
+**The Father :**
+No. Certainly not in one. But we can begin. Your mother carried this all her life without ever clearly saying it to anyone. You’ve just told me about it tonight, for the first time in thirty years. That’s already an enormous step. The meal would be another.
 
-**The father:**
-Not this time, I think. This time, it's up to the four of us to face each other. We'll tell them later, if there's anything to tell.
+**The Mother :**
+And our boys? Do you think they should be there too?
 
-**The mother:**
-And what do I tell them, as a pretext, after thirty years of silence?
+**The Father :**
+Not this time, I don’t think. This time, the four of us need to look each other in the eye. We’ll tell them afterwards, if there’s anything to tell.
 
-**The father:**
-No pretext! We just tell them that we want to see them again. It's enough, in fact, as a reason to reopen a door. We never need a better excuse than that, between people who once loved each other.
+**The Mother :**
+And what do I tell them, as an excuse, after thirty years of silence?
 
-**The mother:**
-You know, we've been living with this story separately for thirty years, without ever really telling it to each other. And this evening, in ten minutes, you made me see what I never wanted to see: that I closed a door on an entire branch of the family, out of love for my mother, and that it cost you something, too, all this time, without you telling me.
+**The Father :**
+No excuse! We simply tell them we’d like to see them again. That’s enough, really, as a reason to open a door again. Between people who once loved one another, you never need a better excuse than that.
 
-**The father:**
-And you made me understand what I had never really understood: that it wasn't harshness in you that day. It was love, just ill-honed, caught in a hurry.
+**The Mother :**
+You know, we’ve lived with this story for thirty years, each on our own, without ever really telling it to one another. And tonight, in ten minutes, you’ve made me see what I never wanted to look at: that I closed a door on an entire branch of the family, out of love for my mother, and that it cost you something too, all this time, without you ever telling me.
 
-**The mother:**
-We could have never told each other, you know. Continue each with its version, without ever placing them side by side.
+**The Father :**
+And you’ve made me understand what I’d never really grasped: that it wasn’t hardness in you that day. It was love — just badly honed, caught up in the urgency of the moment.
 
-**The father:**
-We did it this evening. And I think that's why we're still here, both of us, after so many years, renovating a house and reopening doors that we thought were closed for good. Because we still know how to say things to each other, even the most hidden ones.
+**The Mother :**
+We might never have told each other, you know. We could have carried on with our own versions, without ever setting them side by side.
 
-**The mother:**
-You are a precious man, you know.
+**The Father :**
+We did tonight. And I think that’s why we’re still here, the two of us, after all these years, repairing a house and reopening doors we thought had been closed for good. Because we still know how to tell each other things, even the things buried deepest.
 
-**The father:**
-You too are precious. And tonight, I love you a little more than yesterday, if that were possible.
+**The Mother :**
+You’re a precious man, you know.
 
-**The mother:**
+**The Father :**
+And you’re precious too. And tonight, I love you even a little more than yesterday, if that’s possible.
+
+**The Mother :**
 I love you.
 
-**The father:**
+**The Father :**
 I love you.
 
-*(They stay for a moment, as night falls, without saying anything, the hand of one placed on that of the other, on the table not yet cleared.)*
-
----
+*(They remain there for a while, in the falling darkness, saying nothing more, one hand resting on the other’s, on the table that still has not been cleared.)*

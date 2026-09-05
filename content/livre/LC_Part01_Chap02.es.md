@@ -16,7 +16,7 @@ Me he convertido en una mujer fuerte, papá. La que decide, la que organiza, la 
 ¿Me estás culpando?
 
 **Yo:**
-No, papá. No hay quejas. Durante mucho tiempo sí, me pesó. Pero hoy lo veo de otra manera. Sé muy bien que no era tiranía, en tu cabeza, cuando ordenabas así. La vida era dura en aquella época, había que decidir rápidamente, organizarse, mantener la línea sin tolerar demasiados desafíos, de lo contrario todo se desmoronaría. La época trágica de los Mathurin. Tu forma de mandar era tu forma de protegernos a mí y a mamá. Hoy sólo veo amor, que no tenía otro lenguaje para expresarse. Tú me hiciste. Me enseñaste, sin una palabra, lo que era el poder, la estructura, la voluntad. Lo usé. Todavía lo uso.
+No, papá. No hay quejas. Durante mucho tiempo sí, me pesó. Pero hoy lo veo de otra manera. Sé muy bien que no era tiranía, en tu cabeza, cuando ordenabas así. La vida era dura en aquella época, había que decidir rápidamente, organizarse, mantener la línea sin tolerar demasiados desafíos, de lo contrario todo se desmoronaría. La época trágica de los Matarrubia. Tu forma de mandar era tu forma de protegernos a mí y a mamá. Hoy sólo veo amor, que no tenía otro lenguaje para expresarse. Tú me hiciste. Me enseñaste, sin una palabra, lo que era el poder, la estructura, la voluntad. Lo usé. Todavía lo uso.
 
 **Papá:**
 ¿Y tenías a tu madre en el bolsillo? 

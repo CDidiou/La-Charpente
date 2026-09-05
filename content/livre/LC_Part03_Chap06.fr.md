@@ -92,7 +92,7 @@ Merci, frère.
 **Tazar :**
 Bon. Les signatures, alors.
 
-*(La porte s’ouvre. La mère entre sans frapper. Elle porte un classeur épais sous le bras, le même qu’elle utilisait autrefois pour ses dossiers d’école. Elle le pose sur la table, à côté de celui de l’aîné, et s’assoit. Elle n’enleve pas son manteau.)*
+*(La porte s’ouvre. La mère entre sans frapper. Elle porte un classeur épais sous le bras, le même qu’elle utilisait autrefois pour ses dossiers d’école. Elle le pose sur la table, à côté de celui de l’aîné, et s’assoit. Elle n’enlève pas son manteau.)*
 
 **La mère :**
 Bonjour.

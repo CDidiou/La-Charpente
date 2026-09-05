@@ -1,117 +1,117 @@
 ---
-title: "(Interferencias) Nombres"
-subtitle: "lo que firmamos"
+title: "*(Interferencias)* Los Nombres"
+subtitle: "Lo Que Firmamos"
 date: 2026-08-17
 version: 1.0
 description: "Descubrimiento de los dos nombres."
 weight: 227
 ---
-La oficina de admisiones huele a desinfectante y a café de máquina. Una mujer con una blusa gris, detrás de una pantalla demasiado pequeña, escribe sin levantar la vista.
+La oficina de admisiones huele a desinfectante y a café de máquina. Una mujer con bata gris, detrás de una pantalla demasiado pequeña, teclea sin levantar la vista.
 
-**El empleado:**
+**La empleada :**
 Nombre del paciente.
 
-**El hijo mayor:**
-Habitación 1761. Ya está archivada. Sólo vinimos por el poder.
+**El Hijo Mayor :**
+Habitación 1761. Ya está en el expediente. Solo venimos por el poder notarial.
 
-**El empleado:** *(sin bajarse)*
-Apellido, nombre, parentesco. Para cada uno de los dos firmantes.
+**La empleada :** *(sin inmutarse)*
+Apellidos, nombre, parentesco. Para cada uno de los dos firmantes.
 
-*(Un silencio. El mayor mira a su hermano. El menor mira la pantalla.)*
+*(Un silencio. El hijo mayor mira a su hermano. El hijo menor mira la pantalla.)*
 
-**El empleado:** *(aún escribiendo)*
-Tú primero.
+**La empleada :** *(sin dejar de teclear)*
+Usted primero.
 
-*(El mayor duda una fracción de segundo de más, como si la palabra le fuera a costar algo.)*
+*(El hijo mayor vacila una fracción de segundo de más, como si aquella palabra fuera a costarle algo.)*
 
-**El hijo mayor:**
+**El Hijo Mayor :**
 Baltasar.
 
-*(El más pequeño vuelve la cabeza hacia él, casi a su pesar. Veinte años desde que escuchó ese nombre, salvo en boca de un cura o de un médico. Un nombre de la guardería, de la noche de un bautizo, un nombre que guardamos con papeles importantes y que nunca sacamos a relucir.)*
+*(El hijo menor gira la cabeza hacia él, casi a pesar suyo. Hacía veinte años que no oía ese nombre, salvo en boca de un sacerdote o de un médico. Un nombre de guardería, de noche de bautizo, un nombre que se guarda junto con los papeles importantes y que nunca se vuelve a sacar.)*
 
-**El empleado:**
+**La empleada :**
 Y el segundo firmante.
 
-**El hijo menor:** *(después de un rato)*
-Jean-José.
+**El Hijo Menor :** *(tras una pausa)*
+José-Luis.
 
-*(La empleada teclea sin levantar la cabeza, indiferente al hecho de que estas dos sílabas acaban de reabrirse. Afuera, en el pasillo, pasa una camilla crujiendo.)*
+*(La empleada sigue tecleando, indiferente a que esas dos sílabas acaben de abrir algo de nuevo. Fuera, en el pasillo, pasa una camilla chirriando.)*
 
 ---
 
-Salen con los papeles doblados en cuatro en el bolsillo del mayor. El ascensor desciende en silencio. Es el cadete quien habla primero, una vez afuera, en el estacionamiento casi vacío, bajo un cielo bajo.
+Salen con los papeles doblados en cuatro dentro del bolsillo del hijo mayor. El ascensor baja en silencio. Es el hijo menor quien habla primero, una vez fuera, en el aparcamiento casi vacío, bajo un cielo bajo.
 
-**El hijo menor:**
-Se siente raro.
+**El Hijo Menor :**
+Es raro.
 
-**El hijo mayor:**
-¿Qué entonces?
+**El Hijo Mayor :**
+¿El qué?
 
-**El hijo menor:**
-Escucharte decir tu nombre en voz alta. Creo que nunca lo dije. *(Pausa.)* Para mí, tú eres Tazar, eso es todo. Tazar que nunca hace nada al azar.
+**El Hijo Menor :**
+Oírte decir tu nombre en voz alta. Creo que yo nunca lo he dicho. *(Una pausa.)* Para mí, eres Taz. Y siempre lo serás. El que se lanza de cabeza.
 
-**El hijo mayor:** *(una sonrisa torcida)*
-Jean-José. En serio, tu nombre. Two J. Para mí, eres y siempre serás 2J. El rey del doble I.
+**El Hijo Mayor :** *(con una sonrisa torcida)*
+José-Luis. En serio, tu nombre. Dos J. Para mí, eres y siempre serás J-L. El rey de las dos letras.
 
-**El hijo menor:**
-Muy divertido.
+**El Hijo Menor :**
+Qué gracioso.
 
-**El hijo mayor:**
-Sólo me río a medias.
+**El Hijo Mayor :**
+Solo bromeo a medias.
 
-*(Caminan por un momento sin decir nada, entre los autos, hacia el del mayor.)*
+*(Caminan un rato sin añadir nada, entre los coches, hacia el del hijo mayor.)*
 
-**El hijo menor:**
-¿Sabes por qué tus padres te pusieron ese nombre, Tazar?
+**El Hijo Menor :**
+¿Sabes por qué nuestros padres te pusieron ese nombre, Taz?
 
-**El hijo mayor:**
-Quién sabe. Belsasar fue un rey de Babilonia en la Biblia. Un tipo que organiza un gran banquete, todo oro, toda celebración, y esa misma noche, una mano escribe en su pared que lo pesaron y lo encontraron demasiado liviano. Pierde su reino antes de la mañana.
+**El Hijo Mayor :**
+Quién sabe. Baltasar era un rey de Babilonia, en la Biblia. Un tipo que organiza un banquete enorme, todo de oro, todo celebración, y esa misma noche una mano escribe en su pared que ha sido pesado y hallado demasiado ligero. Pierde su reino antes del amanecer.
 
-**El hijo menor:**
-¡No sabía que estabas tan atento al catecismo!
+**El Hijo Menor :**
+¡No sabía que fueras tan atento en catequesis!
 
-**El hijo mayor:** *(risa seca)*
-Al cura de la escuela le gustó mucho esa historia. Él ya debe saber algo sobre mí, vamos.
+**El Hijo Mayor :** *(una risa seca)*
+Al cura de la escuela le gustaba mucho esa historia. Supongo que ya debía saber algo de mí.
 
-*(Se detiene frente al auto, con la mano en la manija, pero no la abre de inmediato.)*
+*(Se detiene delante del coche, con la mano en la manilla, pero no abre la puerta enseguida.)*
 
-**El hijo mayor:**
-Siempre he odiado este nombre. En la escuela nunca lo di. “Balthazar” parece un disfraz de guardería. “Tazar” me sienta muy bien. Sólo lo mantiene sólido.
+**El Hijo Mayor :**
+Siempre he odiado ese nombre. En el colegio nunca lo usaba. “Baltasar” parece un disfraz de rey mago. “Taz” me va mucho mejor. Se queda con lo esencial.
 
-**El hijo menor:**
-Para mí es todo lo contrario. “2J”, siempre me gustó que me llamaran así. No hace falta nada. Es un código, no un nombre. Nadie te pregunta sobre un código.
+**El Hijo Menor :**
+A mí me pasa al revés. Siempre me ha gustado que me llamaran J-L. No exige nada. Es un código, no un nombre. A nadie se le ocurre hacer preguntas sobre un código.
 
-*(Se mira las manos por un momento, como suele hacer desde el accidente.)*
+*(Mira sus manos un instante, como suele hacer desde el accidente.)*
 
-**El hijo mayor:**
-Jean-Joseph, en serio... si lo digo en voz alta, siento que es el comienzo de una larga oración. Siento que viene el sermón. Ya me molesta.
+**El Hijo Mayor :**
+José-Luis, en serio... menudo nombre. Nunca me ha gustado. Es demasiado elaborado.
 
-*(El mayor lo mira casi sorprendido al escucharlo decir algo así sin rodeos.)*
+*(El hijo mayor lo mira, casi sorprendido de oírse decir algo así tan directamente.)*
 
-**El hijo menor:**
-Tengo algo solemne que decirte. Escribí un libro sobre todos nosotros. Y ahora, esta semana, podría venderlo para pagar parte del hospital.
+**El Hijo Menor :**
+Tengo algo solemne que decirte. He escrito un libro sobre todos nosotros. Y esta semana quizá lo venda para pagar una parte del hospital.
 
-*(Un silencio. El mayor finalmente abre la puerta, pero no entra.)*
+*(Un silencio. El hijo mayor abre por fin la puerta del coche, pero no entra.)*
 
-**El hijo mayor:**
+**El Hijo Mayor :**
 ¿Cuándo pensabas decírmelo?
 
-**El hijo menor:**
-No lo sé. Supongo que esperaba no tener que decirlo. Simplemente hazlo y que nunca se vea.
+**El Hijo Menor :**
+No lo sé. Creo que esperaba no tener que hacerlo. Simplemente hacerlo y conseguir que nadie lo viera.
 
-**El hijo mayor:** *(después de un tiempo, más bajo que antes)*
-Hazlo, si es necesario.
+**El Hijo Mayor :** *(después de un momento, más bajo que antes)*
+Hazlo, si tienes que hacerlo.
 
-**El hijo menor:**
+**El Hijo Menor :**
 ¿Estás seguro?
 
-**El hijo mayor:**
-No. Pero un rey de Babilonia al menos tiene el mérito de saber cuándo entregar su oro en lugar de perderlo todo de golpe. Entonces, si vender tu libro ayuda a pagar la habitación de papá, esta vez no seré yo quien lo bloquee.
+**El Hijo Mayor :**
+No. Pero un rey de Babilonia, al menos, tiene la sensatez de saber cuándo entregar su oro antes que perderlo todo de golpe. Así que, si vender tu libro ayuda a pagar la habitación de papá, esta vez no voy a ser yo quien te lo impida.
 
-*(Se sube al auto. El cadete se queda afuera un momento, con la mano en el techo, antes de dar la vuelta y subir por el lado del pasajero. El motor arranca.)*
+*(Entra en el coche. El hijo menor se queda un instante fuera, con la mano sobre el techo, antes de rodearlo y sentarse en el asiento del acompañante. Arranca el motor.)*
 
-**2D:**
-¡Todos siempre nos llamaban Tazar y 2J! Francamente, cuando lo piensas, ¡todavía suena como un payaso de circo!
+**J-L :**
+¡Todo el mundo nos ha llamado siempre Taz y J-L! ¡Sinceramente, cuando lo piensas, parecemos payasos de circo!
 
-**Tazar:**
-Siempre lo hemos sido. Simplemente no teníamos los nombres en los disfraces.
+**Taz :**
+Siempre lo hemos sido. Solo nos faltaban los nombres en los disfraces.

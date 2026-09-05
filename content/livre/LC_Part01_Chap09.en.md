@@ -1,151 +1,145 @@
 ---
-title: "(Propagation) My staircase"
-subtitle: "Hold"
+title: "*(Propagation)* My Staircase"
+subtitle: "Making Things Hold"
 date: 2026-08-17
 version: 1.0
 description: "During a family aperitif, the father reveals the fragility of the bonds that he himself tried to preserve, and everyone understands that their complementarity – energy, outlook and the ability to consolidate – is what allows the family to hold together and pass on."
 weight: 212
 ---
-*(A few months later. The 2 brothers arrive at the father and mother's house. As they enter, the smell of warm olives and toast is already in the air. The father has set the table outside, under the arbor, with more things than necessary, as always. Plans placed on the corner of the table, half covered by a napkin.)*
+*(A few months later. The two brothers arrive at their parents’ house. As they come in, the smell of warm olives and toasted bread is already hanging in the air. Their father has laid the table outside, beneath the arbour, with more food than necessary, as always. Plans are spread across one corner of the table, half-covered by a tea towel.)*
 
-**The father:**
-Here you are. I took out the rosé, the rillettes, and made some toast, in case it had been a long day. And I reviewed the plans for the house. You have to start with the frame, not with the stairs!
+**The Father :**
+There you are. I’ve brought out the rosé, the rillettes, and made some toast, in case the day’s been a long one. And I’ve gone over the plans for the house again. We need to start with the roof frame, not the staircase!
 
-**The mother:**
-Look at the children! Your father redid everything on his drawing board.
+**The Mother :**
+Look at this, boys! Your father’s redrawn the whole thing on his drawing board.
 
-**The father:**
-Drawing, making plans, it's not work for me.
+**The Father :**
+Drawing, making plans — that’s not work to me.
 
-**The eldest son:** *(taking a look at the plans)*
-You changed the location of the stairs.
+**The Eldest Son :** *(glancing at the plans)*
+You’ve moved the staircase.
 
-**The father:**
-I prefer it to face the kitchen rather than the entrance.
+**The Father :**
+I’d rather have it opening onto the kitchen than the entrance hall.
 
-***The youngest son:**
-The eye of those in the profession.
+**The Youngest Son :**
+The eye of a man who knows his trade.
 
-*(They sit down. The father serves, fills the glasses, pushes the dish towards each person.)*
+*(They sit down. The Father serves, fills their glasses, pushes the dish towards each of them.)*
 
-**The mother:**
-So what news do you bring us? How are my son action and my son vision?
+**The Mother :**
+So, what news have you brought us? How are my man of action and my man of vision?
 
-**The eldest son:**
-You've been making fun of us, Mom, since we attributed qualities to ourselves, behind your back.
+**The Eldest Son :**
+You’re teasing us, Mum, ever since we gave ourselves those qualities, thanks to you.
 
-**The mother:**
-Hand no, let's see! I'm teasing you. You made a beautiful statement to me that day. And I love remembering it and re-evoking your words!
+**The Mother :**
+Of course not! I’m only teasing. You made a lovely declaration that day. And I like remembering it — and bringing your words up again!
 
-**The father:**
-Yes, they gave you a nice gift. But me, in all this... They forgot me on the side of the road!
+**The Father :**
+Yes, they gave you a lovely present. But what about me, then…? They’ve left me by the roadside!
 
-***The youngest son:**
-Ah! You want a gift too, here! As you sit, I'm ready for a big speech. 
+**The Youngest Son :**
+Ah! You want a present too, do you? Well, here you are! Since you’re sitting down, I’m ready for a proper speech.
 
-**The father:** *he hands him a glass of rosé*
-That doesn't surprise me. Here, have a drink and start your announcement. I'm listening, but don't be too long, we're all thirsty!
+**The Father :** *(holding out a glass of rosé)*
+That doesn’t surprise me. Here, have a drink and make your announcement. I’m listening, but don’t take too long — we’re all thirsty!
 
-***The youngest son:**
-So I will be brief. Dad, you never run after anything. You are always already there, preparing, anticipating, holding the threads. Mom is sparking. You make it hold.
+**The Youngest Son :**
+I’ll keep it brief, then. Dad, you never chase after anything. You’re always already there, getting things ready, thinking ahead, keeping the threads together. Mum makes sparks. You make things hold.
 
-**The father:**
-That's good, the speech is over. Cheers, cheers! I thank you, but know that I don't care at all, I do things.
+**The Father :**
+Right, speech over. Cheers, then! To you all! Thank you, but let me tell you something: I don’t hold anything together. I just get on with things.
 
-**The eldest son:**
-Okay, you do. But it’s kind of the same thing, right?
+**The Eldest Son :**
+All right, you get on with things. But isn’t that much the same thing?
 
-**The father:**
-Not really. Look at this house. Without someone who screws, who drills, who consolidates, it cannot repair itself, even with all the energy in the world.
+**The Father :**
+Not really. Look at this house. Without someone screwing, drilling, reinforcing, it doesn’t restore itself, no matter how much energy you throw at it.
 
-**The mother:**
-He's not wrong.
+**The Mother :**
+He’s got a point.
 
-**The father:**
-Well, by the way, since we're talking about everything. I was thinking about something all afternoon.
+**The Father :**
+Actually, since we’re talking about everything… there’s something I’ve been thinking about all afternoon.
 
-**The mother:**
-To what?
+**The Mother :**
+What?
 
-**The father:**
-To the great grandmother.
+**The Father :**
+Great-Grandmother.
 
-**The mother:** *(a silence)*
+**The Mother :** *(a silence)*
 My grandmother?
 
-**The father:**
-Yes. She's been gone for over thirty years now.
+**The Father :**
+Yes. It’s more than thirty years now since she died.
 
-***The youngest son:**
-I remember all those summers so well.
+**The Youngest Son :**
+I remember those summers so well.
 
-**The father:**
-That's it. And a whole branch of cousins, with her. After his burial, ties with the cousins ​​became strained. It was his connection to your mother, yes. But it is also my bonds that have frayed, by force of circumstances. It wasn't intended, mind you, no one ever decided anything.
+**The Father :**
+That’s it. And that whole branch of cousins who came with her. After her funeral, things became strained with the cousins. They were her links to your mother, yes. But they were my links too, and they frayed as a matter of course. It wasn’t deliberate, mind you. Nobody ever decided anything.
 
-**The mother:**
-I didn't know it weighed on you that much.
+**The Mother :**
+I didn’t realise it had weighed on you that much.
 
-**The father:**
-It's just that I saw, in that moment, something that I never knew how to tell you. You, when the thread that connected you to this world disappeared, you knew how to detach yourself from it. For me, it's more complicated, without there being any specific purpose to it, just because these links with cousins ​​are important to me.
+**The Father :**
+It’s just that I saw something then that I never quite knew how to tell you. When the thread connecting you to that world disappeared, you knew how to let go of it. For me, it’s more complicated. Not because there’s any particular use in it, but simply because those ties with the cousins matter to me.
 
-**The mother:**
-You tell me that with a little bitterness, don't you?
+**The Mother :**
+You’re saying that with a touch of bitterness, aren’t you?
 
-**The father:**
-Not against you specifically. But I wanted it to be said, one day, in front of the boys, without making a drama out of it. You can have all the energy and all the vision in the world, all three of you, engineers, psychologists, entrepreneurs, whatever you want. That's not enough. You also need someone to stay in the room after the door has closed, so that things continue to exist, quietly, quietly.
+**The Father :**
+Not towards you, exactly. But I wanted it said, one day, in front of the boys, without turning it into a drama. The three of you can have all the energy and all the vision in the world — engineers, psychologists, entrepreneurs, whatever you like. It isn’t enough. You also need someone who stays in the room after the door has closed, so that things go on existing, quietly, without a sound.
 
-*(A silence. The father turns his glass between his fingers.)*
+*(A silence. The Father turns his glass between his fingers.)*
 
-***The youngest son:**
-A knot, in fact, is never made of a single thread. You always need at least two, which intersect, each of which resists the other a little. It is this crossing that holds, not a single thread, however solid it may be.
+**The Youngest Son :**
+A knot, really, is never made of a single thread. You always need at least two, crossing one another, each resisting the other a little. It’s that crossing that holds, not a single thread, however strong it may be.
 
-**The eldest son:**
-And you two, with your very different ways of maintaining a link, one who builds, the other who consolidates, that made for rather solid networks, right? Look at the result. The four of us are sitting there on a Sunday, with rosé and framing plans on the table.
+**The Eldest Son :**
+And the two of you, with such different ways of holding a connection — one weaving, the other reinforcing — you’ve built some pretty solid networks, haven’t you? Look at the result. The four of us are sitting here on a Sunday, with rosé and roof-frame plans on the table.
 
-***The youngest son:**
-We are a bit of living proof that it held up, whatever happened to the cousins.
-Your love and generosity have woven a beautiful structure that serves as an unconditional foundation.**The father:** *(a smile that returns, still a little shaky)*
-That's a neat way to end the subject, boys.
+**The Youngest Son :**
+We’re living proof that it held, whatever happened with the cousins. Your love and generosity have woven a magnificent structure that gives us an unconditional foundation.
 
-**The eldest son:**
-We learned from the best school.
+**The Father :** *(a smile returning, still slightly crooked)*
+That’s a clever way of closing the subject, boys.
 
-**The mother:**
-Still. I hear what you just said, and I don't want it to end too quickly just because we're happy here tonight. I owe you something about this, about my family history, my cousins.
+**The Eldest Son :**
+We learnt from the best school.
 
-**The father:**
-You don't owe me anything, you know.
+**The Mother :**
+Even so. I hear what you’ve just said, and I don’t want it to be shut away too quickly simply because we’re happy here tonight. I owe you something there — about the story of my family, my cousins.
 
-**The mother:**
-Maybe not a debt. But a real answer, yes. This bond that you carried alone, this talent that you have to make people feel good with you, it is important to me. I am comfortable with you, at peace. Happy. I love you.
+**The Father :**
+You don’t owe me anything, you know.
 
-**The father:**
-I love you too.
-The house is holding together thanks to you. You have the energy. And a beautiful sensitivity. I'm good with you.
+**The Mother :**
+Perhaps not a debt. But a proper answer, yes. The connection you carried on your own, that gift you have for making people feel at ease with you — it matters to me. I’m at peace with you. Happy. I love you.
 
-***The youngest son:**
-The house, the house, I will say the houses! Because there is a past present future link that physically passes through the houses.
-I think of your childhood home, Dad.
+**The Father :**
+I love you too. The house stands because of you. You have the energy. And a fine sensitivity. I’m happy with you.
 
-**The father:**
-Exactly. Everyone talks about the project, the idea, the symbol. I already have the plans. And I'm going to call a craftsman.
-Yes, a craftsman. Because I gave. I'm not getting back into work with your mother. That's enough. We will go through craftsmen.
-And the bill is for you, little ones. You will get the rent, you manage!
+**The Youngest Son :**
+The house, the house — I’d say houses! Because there’s a link between past, present and future that runs physically through houses. I’m thinking of your childhood home, Dad.
 
-**The eldest son:**
-Well said, dad, let's go! I'm ready!
+**The Father :**
+Exactly. Everyone talks about the project, the idea, the symbol. I’ve already got the plans. And I’m going to call in a tradesman. Yes, a tradesman. Because I’ve given enough. I’m not starting another round of building work with your mother. Enough is enough. We’ll use tradesmen. And you lot can pay the bill. You’ll have the rental income — you can sort yourselves out!
 
-***The youngest son:**
-Yes. We are moving forward. We have a framework to begin. We start with the roof, because the story began with the frame! 
+**The Eldest Son :**
+Well said, Dad. Let’s get moving! I’m ready.
 
-**The mother:**
-Shall we drink glasses, then? A parenthesis closes. This means that a parenthesis is opening!
+**The Youngest Son :**
+Yes. Let’s move forward. We’ve got a roof frame to start. We start with the roof, because the story began with the roof frame!
 
-**The father:**
-To my house! Which will finally stand up, with a new staircase, which leads where it should.
-I want the three of you to help me make this a beautiful home. That's what she is to me. I'm counting on you to see it. This is my testimony, today and tomorrow.
+**The Mother :**
+Shall we raise a glass, then? One parenthesis closes. Which means another one opens!
 
-**All:**
+**The Father :**
+To my house! Which will finally stand firm, with a new staircase leading where it ought to. I want all three of you to help me make it a beautiful house. That’s what it is to me. I’m counting on you to see it. This is my testimony, today and tomorrow.
+
+**All :**
 To our house!
-
----

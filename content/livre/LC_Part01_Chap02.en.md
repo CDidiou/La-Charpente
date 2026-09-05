@@ -1,62 +1,69 @@
 ---
-title: "(Spread) Mom tells"
+title: "(Propagation) Mum Tells Her Story"
 subtitle: "Stand up"
 date: 2026-08-17
 version: 1.0
 description: "In an imaginary dialogue with her father, the mother recounts how she transformed the authority inherited from him into a force that allowed her to build a balanced couple and to transmit to her two sons, each in their own way, a synthesis of action and analysis."
 weight: 205
 ---
-**Dad:**
-You who speak well, explain our family to me. Start with you. How did you grow up, ultimately?
+**Dad :**
+You’re the one who speaks well. Explain our family to me. Start with yourself. How did you grow up, in the end?
 
-**Me:**
-I've become a strong woman, Dad. The one who decides, who organizes, who has never been afraid to take her place in a room. I have never tolerated being stepped on, being made to decide for me, being erased. I think it was you who taught me that, without really meaning to. Watching you command, seeing you occupy all the space, I understood very early that there were only two ways to exist: to bend, or to stand up. I chose to stand my ground.
+**Me :**
+I became a strong-minded woman, Dad. The sort who decides, organises, who has never been afraid to claim her place in a room. I’ve never been able to stand being walked over, having decisions made for me, being erased. I think you taught me that, without really meaning to. Watching you give orders, seeing you take up all the space, I understood very early that there were only two ways of existing: bend, or stand your ground. I chose to stand my ground.
 
-**Dad:**
-Are you blaming me?
+**Dad :**
+Do you hold that against me?
 
-**Me:**
-No, dad. No complaints. For a long time, yes, it weighed on me. But today I look at it differently. I know very well that it wasn't tyranny, in your head, when you commanded like that. Life was hard at the time, you had to decide quickly, organize, hold the line without tolerating too much challenge, otherwise everything would fall apart. The tragic time of the Mathurins. Your way of commanding was your way of protecting me and Mom. Today I only see love, which had no other language to express itself. You made me. You taught me, without a word, what power, structure, will were. I used it. I still use it.
+**Me :**
+No, Dad. I don’t blame you. For a long time, yes, it weighed on me. But I see it differently now. I know that, in your mind, it wasn’t tyranny when you commanded everyone like that. Life was hard in those days. You had to decide quickly, organise everything, keep your hands on the tiller without tolerating too much opposition, otherwise everything would fall apart. The tragic years of the Mathurins. The way you commanded was your way of protecting Mum and me.
 
-**Dad:**
-And did you have your mother in your pocket? 
+Now I see only love, a love that had no other language in which to speak. You forged me. Without saying a word, you taught me about power, structure and will. I used those things. I still do.
 
-**Me:**
-I think I wore it for a long time without knowing it, Dad. She's been answering you all her life, she took it, and counterattacked. And I, little girl, watched her do it, and something in me decided that like her I would never let myself be crushed. By becoming strong, by learning to command myself, I think I wanted to avenge her, a little. Show him, and show you, that a woman could not only stand up without bending, but take orders, with tact.
+**Dad :**
+And your mother? Did you have her in your pocket?
 
-**Dad:**
-And how was your husband? He is talented and accommodating! You were lucky!
+**Me :**
+I think I carried her with me for a long time without knowing it, Dad. She gave you as good as she got all her life. She took it, then hit back. And I watched her as a little girl, and something inside me decided that I would never let anyone crush me the way she had been crushed. By becoming strong, by learning to command in my own right, I think I wanted, just a little, to avenge her. To show her — and to show you — that a woman could not only stand upright without bending, but take the helm herself, with tact.
 
-**Me:**
-Yes, you are right. I got married, and I didn't marry a man like you. I married a gentle, warm man, who always seeks harmony, who prefers to soothe rather than impose. I think I wanted to prove something to you, Dad: that we could reign without crushing, that we could be strong and loved by a good man, who never seeks to dominate me.
+**Dad :**
+And your husband? What was he like? He’s gifted and accommodating! You were lucky!
 
-**Dad:**
-It's not common, a strong woman and a gentle man! I always believed that it wouldn't continue like this and that he was going to put you in the right order. That's what I would have done!
+**Me :**
+Yes, you’re right. I married, and I didn’t marry a man like you. I married a gentle, warm-hearted man, someone always looking for harmony, who would rather soothe than impose. I think I wanted to prove something to you, **Dad :** that you could rule without crushing anyone, that you could be strong and loved by a good man who never sought to dominate you.
 
-**Me:**
-We found a nice balance. With my armor, I sometimes took up all the space, like you did. And he, with his roundness, sometimes effaced himself so as not to cause waves, exactly as his own mother demanded of his father. We found ourselves, without wanting to, each replaying an old family story, mine and his, facing each other. He has a magnificent joie de vivre, a sense of harmony and conviviality. I held the controls for our household, but with him. Everyone respected each other, we occupied the territory together, in harmony!
+**Dad :**
+That’s an unusual combination, a strong-minded woman and a gentle man! I always thought it wouldn’t last, and that eventually he’d put things back in the proper order. That’s what I would have done!
 
-**Dad:**
-Tell me about the two little ones. They quickly went far away, that wasn't what should have been done!
+**Me :**
+We found a lovely balance. With my armour on, I sometimes took up all the space, just as you did. And he, with his easy-going nature, sometimes made himself smaller to avoid causing ripples, exactly as his own mother had expected his father to do. Without meaning to, we found ourselves replaying two old family stories, mine and his, facing one another. He has a wonderful zest for life, a gift for harmony and togetherness.
 
-**Me:**
-The eldest is a lot like you: a commander's temperament, someone who takes his place naturally, who is never afraid to move forward, to decide, to build on a large scale - tech, finance, worlds that move quickly and where you always have to be one step ahead. As I watched him grow up, I often thought of you. The other is very different: more discreet, more interior, a mind which observes everything from above before acting, which has always preferred to understand the world rather than conquer it. He took a lot from his father, this way of withdrawing so as not to enter into power struggles.
+I took the reins of our household, but with him. We respected one another; we made room for each other, and we held our ground together, in harmony.
 
-**Dad:**
-Do you regret becoming this leading woman, with character like mine?
+**Dad :**
+Tell me about the two boys. They went off so quickly, far away. That wasn’t what they should have done!
 
-**Me:**
-No, dad. I believe that without this strength that I took from you, I would never have been able to build what I have built: my life, my relationship, my sons. And I'm happy about one thing: we can be strong without crushing anyone. I analyzed a lot to understand, and I think I succeeded. My husband stayed by my side, not because he bowed to me, but because we ended up respecting each other, each with their own territory.
-I made a synthesis of action and analysis: it was my two sons that I finally created!
+**Me :**
+The elder looks very much like you: a commander by temperament, someone who naturally takes his place, who has never been afraid to move forward, decide, build on a grand scale — technology, finance, worlds that move fast and where you always have to be one step ahead. Watching him grow up, I often thought of you.
 
-**Dad:**
-And what will become of the great-grandchildren? Are you going to let them go too?**Me:**
-I don't know yet, Dad. The grandchildren are too young for us to guess what they will wear from us. But I sometimes say to myself that after so much seriousness, so much rigor, so many families building tidy empires, one day someone will have to emerge lighter, more festive, someone who will come and remind everyone that we also have the right to laugh loudly and not to control anything. Maybe this will be one of them. I hope I'll be there to see it.
+The other is very different: quieter, more inward-looking, a mind that watches everything from above before acting, who has always preferred to understand the world rather than conquer it. He took a great deal from his father, that tendency to step back rather than enter into a struggle for power.
 
-**Dad:**
-You did a beautiful job, my daughter.
+**Dad :**
+Do you regret becoming this strong-minded woman, with a character like mine?
 
-**Me:**
-I did what I could, Dad, with what you passed on to me with Mom. And I believe, today, that it was worth it.
+**Me :**
+No, Dad. I think that without the strength I took from you, I would never have been able to build what I have built: my life, my marriage, my sons. And I’m happy about one thing: you can be strong without crushing anyone. I’ve spent a great deal of time analysing in order to understand, and I think I got there. My husband stayed by my side not because he bowed before me, but because we eventually learned to respect one another, each with our own territory.
 
----
+I brought action and analysis together. That is what I ultimately created in my two sons.
+
+**Dad :**
+And what will the great-grandchildren become? Are you going to let them go too?
+
+**Me :**
+I don’t know yet, Dad. The grandchildren are too young for us to know what they’ll carry from us. But sometimes I think that after so much seriousness, so much discipline, so many families building their neat little empires, sooner or later someone lighter will have to appear. Someone more festive, someone who reminds everyone that we’re also allowed to laugh loudly and let go of control. Perhaps it will be one of them. I hope I’ll be there to see it.
+
+**Dad :**
+You’ve done beautiful work, my girl.
+
+**Me :**
+I did what I could, Dad, with what you passed on to me, and what Mum passed on too. And I think, today, that it was worth it.

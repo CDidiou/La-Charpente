@@ -113,7 +113,7 @@ Merci. Je veux vous remercier. Et je veux vous dire un truc. Oui, c'est vrai, j'
 Oui c'est bon, c'est bon, ne te fatigue pas ! On a déjà beaucoup parcouru ta pensée tortueuse, alors on n'a pas besoin d'une deuxième couche. Garde ton énergie, tu vas avoir de la lecture toi aussi !
 
 **Le père :**
-Mince, j'avais pris le pli moi de toutes ces répliques sententieuses. J'aime bien finalement ces grands discours un peu pompeux. C'est pas si couillon des fois. Bon, tu connais ton frère, il l'a dit, alors on passe au griffonnage. Concentrons-nous, il faut s'appliquer !
+Mince, j'avais pris le pli moi de toutes ces répliques sentencieuses. J'aime bien finalement ces grands discours un peu pompeux. C'est pas si couillon des fois. Bon, tu connais ton frère, il l'a dit, alors on passe au griffonnage. Concentrons-nous, il faut s'appliquer !
 
 *Un silence.*
 

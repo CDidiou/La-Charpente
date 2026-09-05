@@ -1,117 +1,117 @@
 ---
-title: "(Interferences) First names"
-subtitle: "What we sign"
+title: "*(Interferences)* Names"
+subtitle: "What We Sign"
 date: 2026-08-17
 version: 1.0
 description: "Discovery of the two first names."
 weight: 227
 ---
-The admissions office smells of disinfectant and machine coffee. A woman in a gray blouse, behind a too-small screen, types without looking up.
+The admissions desk smells of disinfectant and machine coffee. A woman in a grey coat, behind a screen that is far too small, types without looking up.
 
-**The employee:**
-Patient name.
+**Clerk :**
+Patient's name.
 
-**The eldest son:**
-Room 1761. It's already on file. We just came for the power of attorney.
+**The Eldest Son :**
+Room 1761. He's already in the file. We're just here for the power of attorney.
 
-**The employee:** *(without dismounting)*
+**Clerk :** *(without missing a beat)*
 Last name, first name, relationship. For each of the two signatories.
 
-*(A silence. The eldest looks at his brother. The youngest looks at the screen.)*
+*(A silence. The Eldest Son looks at his brother. The Youngest Son looks at the screen.)*
 
-**The employee:** *(still typing)*
+**Clerk :** *(still typing)*
 You first.
 
-*(The eldest hesitates a fraction of a second too long — as if the word was going to cost him something.)*
+*(The Eldest Son hesitates for a fraction of a second too long — as though the word is going to cost him something.)*
 
-**The eldest son:**
+**The Eldest Son :**
 Balthazar.
 
-*(The youngest turns his head towards him, almost in spite of himself. Twenty years since he heard that first name, except in the mouth of a priest or a doctor. A first name from the nursery, from the night of a baptism, a first name that we put away with important papers and that we never bring out.)*
+*(The Youngest Son turns his head towards him, almost despite himself. Twenty years since he last heard that name, except from the mouth of a priest or a doctor. A nursery name, a baptism-night name, a name you file away with the important papers and never take out again.)*
 
-**The employee:**
+**Clerk :**
 And the second signatory.
 
-**The youngest son:** *(after a while)*
-Jean-Joseph.
+**The Youngest Son :** *(after a pause)*
+Charles-Philip.
 
-*(The employee types without raising her head, indifferent to the fact that these two syllables have just reopened. Outside, in the corridor, a stretcher creaks past.)*
+*(The clerk types without looking up, indifferent to the fact that those two syllables have just reopened something. Outside, in the corridor, a stretcher goes past with a squeak of wheels.)*
 
 ---
 
-They come out with the papers folded into four in the eldest's pocket. The elevator descends in silence. It's the cadet who speaks first, once outside, in the almost empty parking lot, under a low sky.
+They leave with the papers folded into quarters in the Eldest Son's pocket. The lift descends in silence. It is the Youngest Son who speaks first, once they are outside, in the almost-empty car park beneath a low sky.
 
-**The youngest son:**
-It feels weird.
+**The Youngest Son :**
+Feels strange.
 
-**The eldest son:**
-What then.
+**The Eldest Son :**
+What does?
 
-**The youngest son:**
-Hearing you say your name out loud. I don't think I ever said it. *(Pause.)* For me, you're Tazar, that's all. Tazar who never does anything at random.
+**The Youngest Son :**
+Hearing you say your name out loud. I don't think I've ever said it. *(A pause.)* To me, you're Buzz. That's all. Buzz. The one who always charges ahead.
 
-**The eldest son:** *(a lopsided smile)*
-Jean-Joseph. Seriously, your first name. Two J. For me, you are and always will be 2J. The king of double I.
+**The Eldest Son :** *(a crooked smile)*
+Charles-Philip. Seriously, that's your name? Two names. To me, you're C-F, now and always. The king of the two-letter code.
 
-**The youngest son:**
+**The Youngest Son :**
 Very funny.
 
-**The eldest son:**
-I'm only half laughing.
+**The Eldest Son :**
+I'm only half joking.
 
-*(They walk for a moment without saying anything, between the cars, towards the eldest's.)*
+*(They walk for a while without saying anything, between the cars, towards the Eldest Son's.)*
 
-**The youngest son:**
-Do you know why your parents gave you that first name, Tazar?
+**The Youngest Son :**
+Do you know why the parents gave you that name, Buzz?
 
-**The eldest son:**
-Who knows. Belshazzar was a king of Babylon in the Bible. A guy who organizes a huge banquet, all gold, all celebration — and that very night, a hand writes on his wall that he was weighed and found too light. He loses his kingdom before morning.
+**The Eldest Son :**
+Who knows. Balthazar was a king of Babylon, in the Bible. A guy who throws this enormous banquet, everything gold, everything celebration — and that very same night, a hand writes on his wall that he has been weighed and found wanting. He loses his kingdom before morning.
 
-**The youngest son:**
-I didn't know you were so attentive to catechism!
+**The Youngest Son :**
+I didn't know you paid that much attention in Sunday school.
 
-**The eldest son:** *(a dry laugh)*
-The school priest really liked that story. He must already know something about me, come on.
+**The Eldest Son :** *(a dry laugh)*
+The school priest liked that story. He must have already known something about me, I guess.
 
-*(He stops in front of the car, his hand on the handle, but does not open it right away.)*
+*(He stops in front of the car, his hand on the handle, but doesn't open it straight away.)*
 
-**The eldest son:**
-I've always hated this name. At school I never gave it. “Balthazar” looks like a nursery costume. “Tazar” suits me very well. It only keeps it solid.
+**The Eldest Son :**
+I've always hated that name. At school I never used it. “Balthazar” sounds like a nativity costume. “Buzz” works for me. It keeps only what's solid.
 
-**The youngest son:**
-For me it's the opposite. “2J”, I always liked being called that. It doesn't take anything. It's a code, not a name. No one asks you about a code.
+**The Youngest Son :**
+I'm the opposite. I've always liked being called C-F. It doesn't ask anything of you. It's a code, not a name. Nobody asks questions about a code.
 
-*(He looks at his hands for a moment, as he often does since the accident.)*
+*(He looks at his hands for a moment, as he often has since the accident.)*
 
-**The eldest son:**
-Jean-Joseph, seriously... if I say it out loud, I feel like it's the beginning of a long prayer. I feel the sermon coming. It already annoys me.
+**The Eldest Son :**
+Charles-Philip, seriously... that’s a hell of a name. I’ve never liked it. It’s too elaborate.
 
-*(The eldest looks at him, almost surprised to hear him say something like that bluntly.)*
+*(The Eldest Son looks at him, almost surprised to hear him say something like that so directly.)*
 
-**The youngest son:**
-I have something solemn to tell you. I wrote a book about all of us. And now, this week, I might sell it to pay part of the hospital.
+**The Youngest Son :**
+I've got something solemn to tell you. I wrote a book about all of us. And this week, I might sell it to pay part of the hospital bill.
 
-*(A silence. The eldest finally opens the door, but does not get in.)*
+*(A silence. The Eldest Son finally opens the car door, but doesn't get in.)*
 
-**The eldest son:**
-When were you planning to tell me?
+**The Eldest Son :**
+When were you going to tell me?
 
-**The youngest son:**
-I don't know. I guess I was hoping I wouldn't have to say it. Just do it, and let it never be seen.
+**The Youngest Son :**
+I don't know. I think I was hoping I wouldn't have to. Just do it, and somehow make sure nobody ever saw it.
 
-**The eldest son:** *(after a time, lower than before)*
+**The Eldest Son :** *(after a pause, quieter than before)*
 Do it, if you have to.
 
-**The youngest son:**
-Are you sure?
+**The Youngest Son :**
+You're sure?
 
-**The eldest son:**
-No. But a king of Babylon at least has the merit of knowing when to give up his gold rather than losing everything at once. So if selling your book helps pay for dad's room, I'm not going to be the one blocking this time.
+**The Eldest Son :**
+No. But a king of Babylon at least has the good sense to know when to give up his gold rather than lose everything at once. So if selling your book helps pay for Dad's room, I'm not going to be the one who blocks it this time.
 
-*(He gets into the car. The cadet stays outside for a moment, his hand on the roof, before going around and getting in on the passenger side. The engine starts.)*
+*(He gets into the car. The Youngest Son stays outside for a moment, his hand on the roof, then walks around and gets in on the passenger side. The engine starts.)*
 
-**2D:**
-Everyone always called us Tazar and 2J! Frankly, when you think about it, it still sounds like a circus clown!
+**C-F :**
+Everyone's always called us Buzz and C-F! Seriously, when you think about it, we sound like circus clowns!
 
-**Tazar:**
-We always have been. We just didn't have the names on the costumes.
+**Buzz :**
+We always were. We just never had the names on the costumes.

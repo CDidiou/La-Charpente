@@ -1,168 +1,164 @@
 ---
-title: "(Propagation) The pillbox"
-subtitle: "Les mêmes outils"
+title: "*(Propagation)* The Pill Box"
+subtitle: "The Same Tools"
 date: 2026-08-17
 version: 1.0
 description: "While preparing her mother's pillbox, the mother discovers that behind her own tendency to analyze everything was hidden another form of transmission: laughter and the side step that her mother had taught her without ever naming them."
 weight: 210
 ---
-*(An ordinary afternoon. The mother came to prepare the pill box for the week, in the room of her own mother's retirement home. Seven small boxes, seven days, two taken per day.)*
+*(An ordinary afternoon. The Mother has come to prepare the week’s pill box in her own mother’s room at the care home. Seven little compartments, seven days, two doses a day.)*
 
-**The grandmother:**
-You know that if you keep coming every day like this, the others will end up believing that I have a private nurse.
+**The Grandmother :**
+You know, if you keep coming every day like this, the others are going to start thinking I’ve got a private nurse.
 
-**The mother:**
-Tell them yes. It'll get people talking in the hallways.
+**The Mother :**
+Tell them you have. It’ll give them something to gossip about in the corridors.
 
-**The grandmother:**
-They will never believe me. Because a private nurse doesn't yell at her patient because she forgot her evening pill three times this week.
+**The Grandmother :**
+They’ll never believe you. A private nurse doesn’t tell her patient off because she’s forgotten her evening pill three times this week.
 
-**The mother:**
-I'm not yelling at you! I note, with great tenderness, that you are an organizational calamity.
+**The Mother :**
+I’m not telling you off! I’m merely observing, with great tenderness, that you’re an organisational calamity.
 
-**The grandmother:**
-An organizational calamity. I raised you and the organization arrived. You have to believe that disorder builds character.
+**The Grandmother :**
+An organisational calamity. I raised you, and organisation arrived afterwards. I suppose disorder builds character.
 
-**The mother:**
-You always return everything as a compliment to you, it's fascinating.
+**The Mother :**
+You always manage to turn everything into a compliment to yourself. It’s fascinating.
 
-**The grandmother:**
-It's my talent. I've had it since before you were born.
+**The Grandmother :**
+It’s my talent. I’ve had it since before you were born.
 
-*(The mother lines up the pills, without looking up.)*
+*(The Mother lines up the tablets without looking up.)*
 
-**The mother:**
-You know I could tell you, right now, exactly where that talent comes from. I understood this by studying small children who do not adapt. I understood things.
+**The Mother :**
+You know, I could tell you exactly where that talent comes from. I understood it when I was studying little children who couldn’t adapt. I understood things.
 
-**The grandmother:**
-Spare me your presentation, come on! I've been through it, that's enough for me.
+**The Grandmother :**
+Spare me the lecture, will you? I lived through it. That’s quite enough for me.
 
-**The mother:**
-That's the problem. You experienced it, and you just decided to laugh about it, while I decided to understand it. We didn't take the same emergency exit.
+**The Mother :**
+That’s precisely the problem. You lived through it and simply decided to laugh about it, whereas I decided to understand it. We didn’t take the same escape route.
 
-**The grandmother:**
+**The Grandmother :**
 Mine takes less time.
 
-**The mother:**
-Yours also leaves more stuff behind the closed door.
+**The Mother :**
+Yours also leaves more things behind the closed door.
 
-*(A silence. The grandmother watches her daughter line up the pills, with this almost aggressive precision that she has always had in her gestures.)*
+*(A silence. The Grandmother watches her daughter line up the tablets with that almost aggressive precision she has always had in her movements.)*
 
-**The grandmother:**
-You know, at your age, I had already decided that if I didn't laugh at everything, I was going to end up in the well. Your grandfather, my father I mean, you should never show him that you were suffering. I think it pleased him, it proved that we were right. To turn him around, I learned to smile before he had time to see anything else. My teeth have never been clenched!
+**The Grandmother :**
+You know, at your age, I’d already decided that if I didn’t laugh at everything, I’d end up in the well. Your grandfather — my father, I mean — you could never let him see that you were suffering. I think he enjoyed it. It proved that we were in the right. So I learned to smile before he had time to see anything else. I never clenched my teeth!
 
-**The mother:**
-You never told me like that.
+**The Mother :**
+You never told me that before. Not like that.
 
-**The grandmother:**
-I never say anything like that. That's why it works.
+**The Grandmother :**
+I never tell anything like that. That’s why it works.
 
-**The mother:**
-And then with Dad, was it the same?
+**The Mother :**
+And with Dad, afterwards, was it the same?
 
-**The grandmother:**
-Same with your father. He was yelling. I took a step aside, and while he was wondering what to say, the storm had already passed.
+**The Grandmother :**
+With your father, yes. He shouted. I stepped sideways, and while he was standing there, all bewildered, trying to think of an answer, the storm had already passed.
 
-**The mother:**
-I have never taken a side step. I rushed into it, into the storm.
+**The Mother :**
+I never stepped sideways. I charged straight into it, into the storm.
 
-**The grandmother:**
-I know. I've watched you do it all your life, with that mixture of admiration and nervous fatigue that we have for people who face everything.
-If you had observed nature better, you would have understood that this is not the way to do it.
+**The Grandmother :**
+I know. I’ve watched you do it all your life, with that mixture of admiration and nervous exhaustion you feel for people who take everything head-on. If you’d paid more attention to nature, you’d have understood that’s not how it’s done.
 
-**The mother:**
-Maybe, but you never taught me your stuff. The side step, the smile.
+**The Mother :**
+Perhaps. But you never taught me your trick. The step sideways, the smile.
 
-**The grandmother:**
-I couldn't. I didn't know I could tell you that. You just had to look the right way! The lightness is visible, and it’s pretty too. I see her often, and I like it when I recognize her. When I was little, I saw you rush headlong into everything. So, I said to myself, this one, she has a weapon, if she uses it, it will work out well for her.
+**The Grandmother :**
+I couldn’t. I didn’t know I could tell you. You only had to look properly! Lightness shows, and it’s pretty, too. I see it often, and I like it when I recognise it. When you were little, I watched you charge headlong at everything. So I thought, this one has a weapon. She’d better use it. It’ll serve her well.
 
-**The mother:**
-I found books, theory, the psychology of others to understand mine.
+**The Mother :**
+I found books, theory, other people’s psychology, to understand my own.
 
-**The grandmother:**
-And I found laughter. I didn't have to search as long as you did. Well, we never had the same tools, you and me. But we arrived at the same place, each with our tools.
+**The Grandmother :**
+And I found laughter. I didn’t have to search as long as you did. Anyway, you and I never had the same tools. But we ended up in the same place, each with our own tools.
 
-**The mother:**
-That is to say?
+**The Mother :**
+Meaning?
 
-**The grandmother:**
-Still standing. Both. With a lot of stuff behind us.
+**The Grandmother :**
+Still standing. Both of us. With one hell of a lot behind us.
 
-*(The mother finishes the pill box, closes the last box with a little click.)*
+*(The Mother finishes filling the pill box and closes the last compartment with a little click.)*
 
-**The grandmother:**
-Here, speaking of things behind us. My sister's children, one day you will have to call them back.
+**The Grandmother :**
+Speaking of things behind us. Your aunt’s children — one day, you’ll have to get back in touch with them.
 
-**The mother:**
-We'll talk about it again.
+**The Mother :**
+We’ll talk about it another time.
 
-**The grandmother:**
-We won't talk about it again. I told you, it's over.
+**The Grandmother :**
+No, we won’t. I told you. It’s finished.
 
-**The mother:**
-But you never told me that!
+**The Mother :**
+But you’d never told me that!
 
-**The grandmother:**
-It's not my role to insist. I slip the sentence to you, and I smile while you pretend not to hear it.
+**The Grandmother :**
+It’s not my job to insist. I slip the sentence in, and I smile while you pretend not to hear it.
 
-**The mother:**
+**The Mother :**
 You slip in a lot of sentences.
 
-**The grandmother:**
-It's my way of taking care of you, while you take care of me. Do you think I don't notice the energy you've put, for ten years, into supporting me and your father with our characters? We said it to ourselves, well, with our eyes.
+**The Grandmother :**
+It’s my way of looking after you, while you look after me. You think I don’t notice the energy you’ve spent, these past ten years, coming here and putting up with me and your father, with all our ways? We said it, you know. With our eyes.
 
-**The mother:**
-I didn't know. Anyway, I don't count my energy.
+**The Mother :**
+I didn’t know. Anyway, I don’t count the energy I spend.
 
-**The grandmother:**
-I know. That's why I'm counting it in your place.**The mother:**
-...Thank you, mom.
+**The Grandmother :**
+I know. That’s why I count it for you.
 
-**The grandmother:**
-Don't thank me, I don't like it. It's me who says thank you. Instead, put away my pills and give me a finger of Muscat, we don't have to be serious until the end of the afternoon.
+**The Mother :**
+…Thank you, Mum.
 
-**The mother:**
-Always the side step.
+**The Grandmother :**
+Don’t thank me, I don’t like it. I’m the one saying thank you. Put my pills away instead, and pour me a finger of muscat. We don’t have to be serious for the whole afternoon.
 
-**The grandmother:**
-Always. That's what's left in the end, you know. Seriousness exhausts everyone. Laughter makes room to hold on a little longer.
+**The Mother :**
+Always the step sideways.
 
-**The mother:**
-It took me years to understand what you just told me in five minutes, with a glass of muscat in your hand.
+**The Grandmother :**
+Always. That’s what’s left at the end, you know. Seriousness wears everyone out. Laughter makes room to keep going a little longer.
 
-**The grandmother:**
-*(laughing)*
-Did you think you saw the good Lord in books? You went far to look for what was right in front of you, at the table, always. You just had to watch.
+**The Mother :**
+It’s taken me years to understand what you’ve just told me in five minutes, with a glass of muscat in your hand.
 
-**The mother:**
-You saw everything, my way of going for it, my toughness, everything that took me forty years to dissect.
+**The Grandmother :** *(laughing)*
+You thought you’d find God in books? You went looking a long way away for what was sitting right in front of you, at the table, all along. You only had to look.
 
-**The grandmother:**
-Pardi! A mother always sees. I just never wanted to say it with your words, your big sentences. I prefer a joke and a side step to a presentation.
+**The Mother :**
+You saw everything — the way I charged ahead, my hardness, everything I’ve spent forty years taking apart.
 
-**The mother:**
-...
+**The Grandmother :**
+Of course! A mother always sees. I just never wanted to say it in your words, with your grand speeches. I’d rather have a joke and a step sideways than a lecture.
 
-**The grandmother:**
-Ah, this time, you didn't find a great sentence!
+**The Mother :**
+…
 
-*(The mother has nothing to answer. She closes the pillbox a second time, without it being necessary, just to have something to do.)*
+**The Grandmother :**
+Ah! This time you didn’t have a grand speech ready!
 
-**The grandmother:**
-You're suddenly pale.
+*(The Mother can find nothing to say. She closes the pill box a second time, for no reason, simply to have something to do with her hands.)*
 
-**The mother:**
-I think you just slapped me, Mom. Gently, but a real slap.
+**The Grandmother :**
+You’ve gone all pale, suddenly.
 
-**The grandmother:**
-That’s my role, too. Take yourself a finger of Muscat too, and stop making that face, you look like a little girl caught at fault.
+**The Mother :**
+I think you’ve just slapped me, Mum. Gently, but properly slapped me.
 
-**The mother:**
-*(laughing, despite herself, still a little shaken)*
-That's a bit of who I am, here, now.
+**The Grandmother :**
+That’s my job, too. Pour yourself a finger of muscat, and stop pulling that face. You look like a little girl caught doing something wrong.
 
-**The grandmother:**
-So much the better. It suits you, for once, not to have the answers to everything.
-With your father, we liked seeing you like that, the way you are, it suits us! We are proud of you.
+**The Mother :** *(laughing despite herself, still a little shaken)*
+That’s rather what I am, right now.
 
----
+**The Grandmother :**
+Good. It suits you, for once, not to have an answer for everything. Your father and I liked seeing you like this, just as you are. We’re happy with that. We’re proud of you.
